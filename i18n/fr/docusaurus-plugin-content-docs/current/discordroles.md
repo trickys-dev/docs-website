@@ -1,82 +1,82 @@
 ---
 sidebar_position: 1
-description: Discord Roles Information.
+description: Information des Rôles Discord.
 ---
 
-# Discord Roles
+# Rôles Discord
 
-We have all sorts of roles on our discord server, below you can view the main roles or see if you can get yourself a veteran role, whatever you fancy.
+Nous avons toutes sortes de rôles sur notre serveur discord, ci-dessous vous pouvez voir les rôles principaux ou voir si vous pouvez obtenir un rôle de vétéran, tout ce que vous voulez.
 
-## Main Roles
+## Rôles Principaux
 
 <table class="table nowrap table-dark table-sm">
 <thead>
 <tr>
-<th scope="col">Role</th>
+<th scope="col">Rôle</th>
 <th scope="col">Description</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <th scope="row"><span style={{color: "#ff0000"}}>@Admin</span></th>
-<td>Administrators</td>
+<td>Administrateurs</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#fcf202"}}>@Executive Moderator</span></th>
-<td>Executive Server & Discord mods</td>
+<td>Modérateur Exécutif de Serveur et Discord</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#4ee718"}}>@Moderator</span></th>
-<td>Server & Discord mods</td>
+<td>Modérateur de Serveur et Discord</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#2bac3c"}}>@Staff</span></th>
-<td>You can ping this role if you need a staff member</td>
+<td>Vous pouvez pinger ce rôle si vous avez besoin d'un membre du personnel</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#1e9b94"}}>@Developer</span></th>
-<td>Server developers help with the development of the servers</td>
+<td>Les développeurs de serveurs aident au développement des serveurs</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#1aac93"}}>@Server Builder</span></th>
-<td>Given to users who build environment mods for the server</td>
+<td>Donné aux utilisateurs qui construisent des mods d'environnement pour le serveur</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#c5a138"}}>@Event Team</span></th>
-<td>Given to users that are part of the events team</td>
+<td>Donné aux utilisateurs qui font partie de l'équipe événementielle</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#ff8e01"}}>@Partner</span></th>
-<td>Given to our partners</td>
+<td>Donné à nos partenaires</td>
 </tr>
 
 <tr>
 <th scope="row"><span style={{color: "#7289da"}}>@Verified</span></th>
-<td>Given when you connect your discord account to the website</td>
+<td>Donné lorsque vous connectez votre compte Discord au site Web</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#7ac2e9"}}>@Boat License</span></th>
-<td>This role allows users to spawn & use boats</td>
+<td>Ce rôle permet aux utilisateurs de faire apparaître et d'utiliser des bateaux</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#99aab5"}}>@Player</span></th>
-<td>This role is given to all players</td>
+<td>Ce rôle est donné à tous les joueurs</td>
 </tr>
 </tbody>
 </table>
 
 ## Self Roles
 
-You can give yourself these roles:
+Vous pouvez vous donner ces rôles :
 
-- Game Roles
-- Workshop Creator Roles
-- Veteran Roles
-- Supporter Roles
+- Rôles de Jeu
+- Rôles de Créateur Workshop
+- Rôles de Vétéran
+- Rôles de Supporter
 
-### Game Roles
+### Rôles de Jeu
 
-Game roles that you can give yourself so that you can see all the channels you want to see in discord.
+Rôles de jeu que vous pouvez vous attribuer afin de pouvoir voir toutes les chaînes que vous souhaitez voir dans Discord.
 
 To get roles look in the top left of discord and you will see a channel called `Channels & Roles`.
 
@@ -92,42 +92,42 @@ To get a creator role you need to submit a steam workshop URL, your application 
 <table class="table nowrap table-dark table-sm">
 <thead>
 <tr>
-<th scope="col">Role</th>
+<th scope="col">Rôle</th>
 <th scope="col">Description</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <th scope="row"><span style={{color: "#da5353"}}>@35K Creator</span></th>
-<td>Users who have 35,000+ subscribers on a workshop creation</td>
+<td>Utilisateurs ayant plus de 35 000 abonnés à la création d'un workshop</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#da5353"}}>@30K Creator</span></th>
-<td>Users who have 30,000+ subscribers on a workshop creation</td>
+<td>Utilisateurs ayant plus de 30 000 abonnés à la création d'un workshop</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#da5353"}}>@25K Creator</span></th>
-<td>Users who have 25,000+ subscribers on a workshop creation</td>
+<td>Utilisateurs ayant plus de 25 000 abonnés à la création d'un workshop</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#da5353"}}>@20K Creator</span></th>
-<td>Users who have 20,000+ subscribers on a workshop creation</td>
+<td>Utilisateurs ayant plus de 20 000 abonnés à la création d'un workshop</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#f35f5f"}}>@15K Creator</span></th>
-<td>Users who have 15,000+ subscribers on a workshop creation</td>
+<td>Utilisateurs ayant plus de 15 000 abonnés à la création d'un workshop</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#f57575"}}>@10K Creator</span></th>
-<td>Users who have 10,000+ subscribers on a workshop creation</td>
+<td>Utilisateurs ayant plus de 10 000 abonnés à la création d'un workshop</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#ff9696"}}>@5K Creator</span></th>
-<td>Users who have 5,000+ subscribers on a workshop creation</td>
+<td>Utilisateurs ayant plus de 5 000 abonnés à la création d'un workshop</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#d49797"}}>@1K Creator</span></th>
-<td>Users who have 1,000+ subscribers on a workshop creation</td>
+<td>Utilisateurs ayant plus de 1 000 abonnés à la création d'un workshop</td>
 </tr>
 </tbody>
 </table>
@@ -143,22 +143,22 @@ The process to get a veteran role is fully automatic.
 <table class="table nowrap table-dark table-sm">
 <thead>
 <tr>
-<th scope="col">Role</th>
+<th scope="col">Rôle</th>
 <th scope="col">Description</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <th scope="row"><span style={{color: "#c27c0e"}}>@3 Year Veteran</span></th>
-<td>Been in discord for 3 years</td>
+<td>Sur Discord depuis 3 ans</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#c27c0e"}}>@2 Year Veteran</span></th>
-<td>Been in discord for 2 years</td>
+<td>Sur Discord depuis 2 ans</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#c27c0e"}}>@1 Year Veteran</span></th>
-<td>Been in discord for 1 year</td>
+<td>Sur Discord depuis 1 an</td>
 </tr>
 </tbody>
 </table>
@@ -177,7 +177,7 @@ Looking to become a supporter? [Click Here](/docs/supporters)
 <table class="table nowrap table-dark table-sm">
 <thead>
 <tr>
-<th scope="col">Role</th>
+<th scope="col">Rôle</th>
 <th scope="col">Description</th>
 </tr>
 </thead>
