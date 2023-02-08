@@ -1,6 +1,6 @@
 {
   "version.label": {
-    "message": "Next",
+    "message": "Weiter",
     "description": "The label for version current"
   },
   "sidebar.defaultSidebar.category.Stormworks": {
@@ -8,7 +8,7 @@
     "description": "The label for category Stormworks in sidebar defaultSidebar"
   },
   "sidebar.defaultSidebar.category.Stormworks.link.generated-index.description": {
-    "message": "Stormworks Server Docs",
+    "message": "Stormworks Server Dokumentation",
     "description": "The generated-index page description for category Stormworks in sidebar defaultSidebar"
   },
   "sidebar.defaultSidebar.category.HRP": {
@@ -16,7 +16,7 @@
     "description": "The label for category HRP in sidebar defaultSidebar"
   },
   "sidebar.defaultSidebar.category.HRP.link.generated-index.description": {
-    "message": "Stormworks HRP Docs",
+    "message": "Stormworks HRP Dokumente",
     "description": "The generated-index page description for category HRP in sidebar defaultSidebar"
   },
   "sidebar.defaultSidebar.category.API": {
@@ -24,7 +24,7 @@
     "description": "The label for category API in sidebar defaultSidebar"
   },
   "sidebar.defaultSidebar.category.API.link.generated-index.description": {
-    "message": "Docs on Tricky's Server API, Tricky's API.",
+    "message": "Dokumente über Tricky's Server API, Tricky's API.",
     "description": "The generated-index page description for category API in sidebar defaultSidebar"
   },
   "sidebar.defaultSidebar.category.Discord Bots": {
@@ -32,7 +32,7 @@
     "description": "The label for category Discord Bots in sidebar defaultSidebar"
   },
   "sidebar.defaultSidebar.category.Discord Bots.link.generated-index.description": {
-    "message": "Our Discord Bots",
+    "message": "Unsere Discord Bots",
     "description": "The generated-index page description for category Discord Bots in sidebar defaultSidebar"
   }
 }
