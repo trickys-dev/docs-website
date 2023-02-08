@@ -87,108 +87,107 @@ For å få disse rollene se i øverste venstre hjørne i Discord å du kommer ti
 
 Disse rollene blir gitt til brukere som har en viss mengde abonnerte på et av kjøretøyene sine i Workshopen.
 
-To get a creator role you need to submit a steam workshop URL, your application will be processed automatically, and you will receive your role instantly if you fit into any of the roles below.
+For å en Skaper rolle må du sende URL,en til workshop gjenstanden din så vil søknaden din automatisk behandlet og du vil få rollen med engang vist den passer in med en av de under.
 
 <table class="table nowrap table-dark table-sm">
 <thead>
 <tr>
-<th scope="col">Role</th>
-<th scope="col">Description</th>
+<th scope="col">Rolle</th>
+<th scope="col">Beskrivelse</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <th scope="row"><span style={{color: "#da5353"}}>@35K Creator</span></th>
-<td>Users who have 35,000+ subscribers on a workshop creation</td>
+<td>Brukere som har 35,000+ abonnerte på en Workshop gjenstand</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#da5353"}}>@30K Creator</span></th>
-<td>Users who have 30,000+ subscribers on a workshop creation</td>
+<td>Brukere som har 30,000+ abonnerte på en Workshop gjenstand</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#da5353"}}>@25K Creator</span></th>
-<td>Users who have 25,000+ subscribers on a workshop creation</td>
+<td>Brukere som har 25,000+ abonnerte på en Workshop gjenstand</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#da5353"}}>@20K Creator</span></th>
-<td>Users who have 20,000+ subscribers on a workshop creation</td>
+<td>Brukere som har 20,000+ abonnerte på en Workshop gjenstand</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#f35f5f"}}>@15K Creator</span></th>
-<td>Users who have 15,000+ subscribers on a workshop creation</td>
+<td>Brukere som har 15,000+ abonnerte på en Workshop gjenstand</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#f57575"}}>@10K Creator</span></th>
-<td>Users who have 10,000+ subscribers on a workshop creation</td>
+<td>Brukere som har 10,000+ abonnerte på en Workshop gjenstand</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#ff9696"}}>@5K Creator</span></th>
-<td>Users who have 5,000+ subscribers on a workshop creation</td>
+<td>Brukere som har 5,000+ abonnerte på en Workshop gjenstand</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#d49797"}}>@1K Creator</span></th>
-<td>Users who have 1,000+ subscribers on a workshop creation</td>
+<td>Brukere som har 1,000+ abonnerte på en Workshop gjenstand</td>
 </tr>
 </tbody>
 </table>
 
-:::note Want A Creator Role
-[Click Here](https://trickys.gg/applications/new) to get a creator role.
+Vil du ha en Skaper rolle?  
+[ Skaff deg rollen her](https://trickys.gg/applications/new).
 :::
 
-### Veteran Roles
+### Veteran roller
 
-The process to get a veteran role is fully automatic.
+Søknaden for å skaffe seg denne rollen er helt automatisk.
 
 <table class="table nowrap table-dark table-sm">
 <thead>
 <tr>
-<th scope="col">Role</th>
-<th scope="col">Description</th>
+<th scope="col">Rolle</th>
+<th scope="col">Beskrivelse</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<th scope="row"><span style={{color: "#c27c0e"}}>@3 Year Veteran</span></th>
-<td>Been in discord for 3 years</td>
+<th scope="row"><span style={{color: "#c27c0e"}}>@3 års veteran</span></th>
+<td>Vært i discorden i 3 år</td>
 </tr>
 <tr>
-<th scope="row"><span style={{color: "#c27c0e"}}>@2 Year Veteran</span></th>
-<td>Been in discord for 2 years</td>
+<th scope="row"><span style={{color: "#c27c0e"}}>@2 års veteran</span></th>
+<td>Vært i discorden i 2 år</td>
 </tr>
 <tr>
-<th scope="row"><span style={{color: "#c27c0e"}}>@1 Year Veteran</span></th>
-<td>Been in discord for 1 year</td>
+<th scope="row"><span style={{color: "#c27c0e"}}>@1 års veteran</span></th>
+<td>Vært i discorden i 1 år</td>
 </tr>
 </tbody>
 </table>
 
-:::tip
-Do the <a class="code-text">/getveteran</a> command in [Discord](discord://discord.com/channels/710922135580835950/723322585563267073).
+Vil du ha skaper rollen? Gjør <a class="code-text">/getveteran</a> komandoen i [Discord](discord://discord.com/channels/710922135580835950/723322585563267073).
 :::
 
 
-### Supporter Roles
+### Støtte roller
 
-These supporter roles are fully automatically.
+Dette er Støtte rollene.
 
-Looking to become a supporter? [Click Here](/docs/supporters)
+Vil du bli en støtter? [Trykk her](/docs/supporters)
 
 <table class="table nowrap table-dark table-sm">
 <thead>
 <tr>
-<th scope="col">Role</th>
-<th scope="col">Description</th>
+<th scope="col">Rolle</th>
+<th scope="col">Beskrivelse</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <th scope="row"><span style={{color: "#05d6ff"}}>@Diamond Supporter</span></th>
-<td>Diamond Patreon Supporter</td>
+<td>Diamant Patreon støtter</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#e9c716"}}>@Gold Supporter</span></th>
-<td>Gold Patreon Supporter</td>
+<td>Guld Patreon støtter</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#c0c0c0"}}>@Silver Supporter</span></th>
