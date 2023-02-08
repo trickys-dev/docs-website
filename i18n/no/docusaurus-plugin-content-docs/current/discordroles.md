@@ -1,91 +1,91 @@
 ---
 sidebar_position: 1
-description: Discord Roles Information.
+description: Discord Roller Informasjon.
 ---
 
-# Discord Roles
+# Discord roller
 
-We have all sorts of roles on our discord server, below you can view the main roles or see if you can get yourself a veteran role, whatever you fancy.
+Vi har alle slags typer av roller i Discord serveren vår, Under can du se våres Hoved-Roller eller se om du kan skaffe deg selv en veteran rolle, hva en du kunne tenke deg.
 
-## Main Roles
+## Hoved-Roller
 
 <table class="table nowrap table-dark table-sm">
 <thead>
 <tr>
-<th scope="col">Role</th>
-<th scope="col">Description</th>
+<th scope="col">Roller</th>
+<th scope="col">Beskrivelse</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <th scope="row"><span style={{color: "#ff0000"}}>@Admin</span></th>
-<td>Administrators</td>
+<td>Administratorer</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#fcf202"}}>@Executive Moderator</span></th>
-<td>Executive Server & Discord mods</td>
+<td>Executive Server & Discord moderator</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#4ee718"}}>@Moderator</span></th>
-<td>Server & Discord mods</td>
+<td>Server & Discord moderator</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#2bac3c"}}>@Staff</span></th>
-<td>You can ping this role if you need a staff member</td>
+<td>Du kan pinge denne rollen hvis du trenger hjelp av moderatorene</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#1e9b94"}}>@Developer</span></th>
-<td>Server developers help with the development of the servers</td>
+<td>Serverutviklere som hjelper med å utvikle serveren</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#1aac93"}}>@Server Builder</span></th>
-<td>Given to users who build environment mods for the server</td>
+<td>Blir gitt til folk som bygger Miljømodifikasjoner til serveren</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#c5a138"}}>@Event Team</span></th>
-<td>Given to users that are part of the events team</td>
+<td>Blir gitt til brukere som er en del av Event-Teamet</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#ff8e01"}}>@Partner</span></th>
-<td>Given to our partners</td>
+<td>Blir gitt til våre partnere</td>
 </tr>
 
 <tr>
 <th scope="row"><span style={{color: "#7289da"}}>@Verified</span></th>
-<td>Given when you connect your discord account to the website</td>
+<td>Blir gitt til deg når du kobler Discord brukeren din til nettsiden vår</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#7ac2e9"}}>@Boat License</span></th>
-<td>This role allows users to spawn & use boats</td>
+<td>Denne rollen gir deg tillatelse å spawne & bruke båter</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#99aab5"}}>@Player</span></th>
-<td>This role is given to all players</td>
+<td>Denne rollen blir gitt til alle spillerene</td>
 </tr>
 </tbody>
 </table>
 
-## Self Roles
+## Egne roller
 
-You can give yourself these roles:
+Du kan gi deg selv disse rollene:
 
-- Game Roles
-- Workshop Creator Roles
-- Veteran Roles
-- Supporter Roles
+- Spill roller
+- Workshop Skaper roller
+- Veteran roller
+- Støtte roller
 
-### Game Roles
+### Spill roller
 
-Game roles that you can give yourself so that you can see all the channels you want to see in discord.
+Spill roller du kan gi deg selv, sån att du kan se alle kanalene du vil i Discord.
 
-To get roles look in the top left of discord and you will see a channel called `Channels & Roles`.
+For å få disse rollene se i øverste venstre hjørne i Discord å du kommer til å se en kanal kalt  `Channels & Roles`.
 
 <img src="/img/discord/discordgameroles.png" />
 
 
-### Creator Roles
+### Skaper-roller
 
-These roles are for players who have the amount required of subscribers on one stormworks workshop vehicle.
+Disse rollene blir gitt til brukere som har en viss mengde abonnerte på et av kjøretøyene sine i Workshopen.
 
 To get a creator role you need to submit a steam workshop URL, your application will be processed automatically, and you will receive your role instantly if you fit into any of the roles below.
 
