@@ -1,0 +1,18 @@
+{
+  "title": {
+    "message": "Trickys.gg Documenten",
+    "description": "The title in the navbar"
+  },
+  "item.label.Docs": {
+    "message": "Documenten",
+    "description": "Navbar item with label Docs"
+  },
+  "item.label.HRP Gov": {
+    "message": "HRP Regering",
+    "description": "Navbar item with label HRP Gov"
+  },
+  "item.label.Main Site": {
+    "message": "Hoofd Site",
+    "description": "Navbar item with label Main Site"
+  }
+}
