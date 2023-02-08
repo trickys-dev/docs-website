@@ -65,7 +65,7 @@ Nous avons toutes sortes de rôles sur notre serveur discord, ci-dessous vous po
 </tbody>
 </table>
 
-## Self Roles
+## Rôles Personnels
 
 Vous pouvez vous donner ces rôles :
 
@@ -78,16 +78,16 @@ Vous pouvez vous donner ces rôles :
 
 Rôles de jeu que vous pouvez vous attribuer afin de pouvoir voir toutes les chaînes que vous souhaitez voir dans Discord.
 
-To get roles look in the top left of discord and you will see a channel called `Channels & Roles`.
+Pour obtenir des rôles, regardez en haut à gauche de Discord et vous verrez un canal appelé `Channels & Roles`.
 
 <img src="/img/discord/discordgameroles.png" />
 
 
-### Creator Roles
+### Rôles de Créateur
 
-These roles are for players who have the amount required of subscribers on one stormworks workshop vehicle.
+Ces rôles sont pour les joueurs qui ont le nombre requis d'abonnés sur un véhicule du workshop de stormworks.
 
-To get a creator role you need to submit a steam workshop URL, your application will be processed automatically, and you will receive your role instantly if you fit into any of the roles below.
+Pour avoir un rôle créateur, vous devez soumettre un lien du workshop steam, votre candidature sera traitée automatiquement et vous recevrez votre rôle instantanément si vous correspondez à un des rôles ci-dessous.
 
 <table class="table nowrap table-dark table-sm">
 <thead>
@@ -99,46 +99,46 @@ To get a creator role you need to submit a steam workshop URL, your application 
 <tbody>
 <tr>
 <th scope="row"><span style={{color: "#da5353"}}>@35K Creator</span></th>
-<td>Utilisateurs ayant plus de 35 000 abonnés à la création d'un workshop</td>
+<td>Utilisateurs ayant plus de 35 000 abonnés sur une création du workshop</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#da5353"}}>@30K Creator</span></th>
-<td>Utilisateurs ayant plus de 30 000 abonnés à la création d'un workshop</td>
+<td>Utilisateurs ayant plus de 30 000 abonnés sur une création du workshop</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#da5353"}}>@25K Creator</span></th>
-<td>Utilisateurs ayant plus de 25 000 abonnés à la création d'un workshop</td>
+<td>Utilisateurs ayant plus de 25 000 abonnés sur une création du workshop</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#da5353"}}>@20K Creator</span></th>
-<td>Utilisateurs ayant plus de 20 000 abonnés à la création d'un workshop</td>
+<td>Utilisateurs ayant plus de 20 000 abonnés sur une création du workshop</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#f35f5f"}}>@15K Creator</span></th>
-<td>Utilisateurs ayant plus de 15 000 abonnés à la création d'un workshop</td>
+<td>Utilisateurs ayant plus de 15 000 abonnés sur une création du workshop</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#f57575"}}>@10K Creator</span></th>
-<td>Utilisateurs ayant plus de 10 000 abonnés à la création d'un workshop</td>
+<td>Utilisateurs ayant plus de 10 000 abonnés sur une création du workshop</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#ff9696"}}>@5K Creator</span></th>
-<td>Utilisateurs ayant plus de 5 000 abonnés à la création d'un workshop</td>
+<td>Utilisateurs ayant plus de 5 000 abonnés sur une création du workshop</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#d49797"}}>@1K Creator</span></th>
-<td>Utilisateurs ayant plus de 1 000 abonnés à la création d'un workshop</td>
+<td>Utilisateurs ayant plus de 1 000 abonnés sur une création du workshop</td>
 </tr>
 </tbody>
 </table>
 
-:::note Want A Creator Role
-[Click Here](https://trickys.gg/applications/new) to get a creator role.
+:::note Vous voulez un rôle de créateur
+[Cliquez ici](https://trickys.gg/applications/new) pour obtenir un rôle de créateur.
 :::
 
-### Veteran Roles
+### Rôles de Vétéran
 
-The process to get a veteran role is fully automatic.
+La procédure pour avoir un rôle vétéran est entièrement automatique.
 
 <table class="table nowrap table-dark table-sm">
 <thead>
@@ -163,16 +163,16 @@ The process to get a veteran role is fully automatic.
 </tbody>
 </table>
 
-:::tip
-Do the <a class="code-text">/getveteran</a> command in [Discord](discord://discord.com/channels/710922135580835950/723322585563267073).
+:::Astuce
+Faites la commande <a class="code-text">/getveteran</a> dans [Discord](discord://discord.com/channels/710922135580835950/723322585563267073).
 :::
 
 
-### Supporter Roles
+### Rôles de Supporter
 
-These supporter roles are fully automatically.
+Ces rôles supporter sont entièrement automatiques.
 
-Looking to become a supporter? [Click Here](/docs/supporters)
+Vous cherchez à devenir un supporter ? [Cliquez ici](/docs/supporters)
 
 <table class="table nowrap table-dark table-sm">
 <thead>
@@ -184,23 +184,23 @@ Looking to become a supporter? [Click Here](/docs/supporters)
 <tbody>
 <tr>
 <th scope="row"><span style={{color: "#05d6ff"}}>@Diamond Supporter</span></th>
-<td>Diamond Patreon Supporter</td>
+<td>Supporter Patreon en Diamant</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#e9c716"}}>@Gold Supporter</span></th>
-<td>Gold Patreon Supporter</td>
+<td>Supporter Patreon en Or</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#c0c0c0"}}>@Silver Supporter</span></th>
-<td>Silver Patreon Supporter</td>
+<td>Supporter Patreon en Argent</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#cd7f32"}}>@Bronze Supporter</span></th>
-<td>Bronze Patreon Supporter</td>
+<td>Supporter Patreon en Bronze</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#ff73fa"}}>@Server Booster</span></th>
-<td>Given when you boost the server</td>
+<td>Donné lorsque vous boostez le serveur</td>
 </tr>
 </tbody>
 </table>
