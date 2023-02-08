@@ -1,18 +1,18 @@
 {
   "title": {
-    "message": "Trickys.gg Docs",
+    "message": "Documentation Trickys.gg",
     "description": "The title in the navbar"
   },
   "item.label.Docs": {
-    "message": "Docs",
+    "message": "Documentation",
     "description": "Navbar item with label Docs"
   },
   "item.label.HRP Gov": {
-    "message": "HRP Gov",
+    "message": "Gouvernement HRP",
     "description": "Navbar item with label HRP Gov"
   },
   "item.label.Main Site": {
-    "message": "Main Site",
+    "message": "Site principal",
     "description": "Navbar item with label Main Site"
   }
 }
