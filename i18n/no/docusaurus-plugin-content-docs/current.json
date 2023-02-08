@@ -32,7 +32,7 @@
     "description": "The label for category Discord Bots in sidebar defaultSidebar"
   },
   "sidebar.defaultSidebar.category.Discord Bots.link.generated-index.description": {
-    "message": "Our Discord Bots",
+    "message": "Våre Discord Botter",
     "description": "The generated-index page description for category Discord Bots in sidebar defaultSidebar"
   }
 }
