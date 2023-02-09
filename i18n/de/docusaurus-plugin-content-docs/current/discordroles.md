@@ -1,133 +1,133 @@
 ---
 sidebar_position: 1
-description: Discord Roles Information.
+description: Discord Rollen-Information.
 ---
 
-# Discord Roles
+# Discord Rollen
 
-We have all sorts of roles on our discord server, below you can view the main roles or see if you can get yourself a veteran role, whatever you fancy.
+Wir haben alle möglichen Rollen auf unserem Discord Server, unten können Sie die Hauptrollen sehen oder nachschauen, ob Sie eine Veteranenrolle bekommen können, was immer Sie möchten.
 
-## Main Roles
+## Hauptrollen
 
 <table class="table nowrap table-dark table-sm">
 <thead>
 <tr>
-<th scope="col">Role</th>
-<th scope="col">Description</th>
+<th scope="col">Rolle</th>
+<th scope="col">Beschreibung</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <th scope="row"><span style={{color: "#ff0000"}}>@Admin</span></th>
-<td>Administrators</td>
+<td>Administratoren</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#fcf202"}}>@Executive Moderator</span></th>
-<td>Executive Server & Discord mods</td>
+<td>Leitende Server- und Discordmoderatoren</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#4ee718"}}>@Moderator</span></th>
-<td>Server & Discord mods</td>
+<td>Server- und Discordmoderatoren</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#2bac3c"}}>@Staff</span></th>
-<td>You can ping this role if you need a staff member</td>
+<td>Sie können diese Rolle erwähnen, wenn Sie einen Mitarbeiter benötigen</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#1e9b94"}}>@Developer</span></th>
-<td>Server developers help with the development of the servers</td>
+<td>Serverentwickler helfen bei der Entwicklung der Server</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#1aac93"}}>@Server Builder</span></th>
-<td>Given to users who build environment mods for the server</td>
+<td>Vergeben für Benutzer, die Umgebungsmods für den Server bauen</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#c5a138"}}>@Event Team</span></th>
-<td>Given to users that are part of the events team</td>
+<td>Vergeben an Nutzer, die Mitglieder des Event-Teams sind</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#ff8e01"}}>@Partner</span></th>
-<td>Given to our partners</td>
+<td>Vergeben an unsere Partner</td>
 </tr>
 
 <tr>
 <th scope="row"><span style={{color: "#7289da"}}>@Verified</span></th>
-<td>Given when you connect your discord account to the website</td>
+<td>Sie erhalten diese Rolle, wenn Sie ihren Discord Account mit der Webseite verknüpfen</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#7ac2e9"}}>@Boat License</span></th>
-<td>This role allows users to spawn & use boats</td>
+<td>Diese Rolle erlaubt es Benutzern Boote zu spawnen und zu benutzen</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#99aab5"}}>@Player</span></th>
-<td>This role is given to all players</td>
+<td>Diese Rolle wird an alle Spieler vergeben</td>
 </tr>
 </tbody>
 </table>
 
-## Self Roles
+## Eigene Rollen
 
-You can give yourself these roles:
+Sie können sich selbst folgende Rollen geben:
 
-- Game Roles
-- Workshop Creator Roles
-- Veteran Roles
-- Supporter Roles
+- Spiel-Rollen
+- Workshop Autorenrollen
+- Veteranenrollen
+- Unterstützerrollen
 
-### Game Roles
+### Spiel-Rollen
 
-Game roles that you can give yourself so that you can see all the channels you want to see in discord.
+Spiel-Rollen, die Sie sich geben können, um alle gewünschten Kanäle auf Discord zu sehen.
 
-To get roles look in the top left of discord and you will see a channel called `Channels & Roles`.
+Um Rollen zu erhalten, schauen Sie oben links auf Discord und Sie werden einen Kanal namens `Kanäle& Rollen` finden.
 
 <img src="/img/discord/discordgameroles.png" />
 
 
-### Creator Roles
+### Autorenrollen
 
-These roles are for players who have the amount required of subscribers on one stormworks workshop vehicle.
+Diese Rollen sind für Spieler, die die erforderliche Abonnentenanzahl für eine Stormworks Workshopeinsendung erreicht haben.
 
-To get a creator role you need to submit a steam workshop URL, your application will be processed automatically, and you will receive your role instantly if you fit into any of the roles below.
+Um eine Autorenrolle zu erhalten, müssen Sie eine Steam-Workshop URL einsenden, Ihre Einsendung wird automatisch bearbeitet und Sie erhalten sofort die passende Rolle, wenn Sie die Mindestanforderungen erfüllen.
 
 <table class="table nowrap table-dark table-sm">
 <thead>
 <tr>
-<th scope="col">Role</th>
-<th scope="col">Description</th>
+<th scope="col">Rolle</th>
+<th scope="col">Beschreibung</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <th scope="row"><span style={{color: "#da5353"}}>@35K Creator</span></th>
-<td>Users who have 35,000+ subscribers on a workshop creation</td>
+<td>Nutzer mit 35.000+ Abonnenten auf einer Workshop-Einsendung</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#da5353"}}>@30K Creator</span></th>
-<td>Users who have 30,000+ subscribers on a workshop creation</td>
+<td>Nutzer mit 30.000+ Abonnenten auf einer Workshop-Einsendung</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#da5353"}}>@25K Creator</span></th>
-<td>Users who have 25,000+ subscribers on a workshop creation</td>
+<td>Nutzer mit 25.000+ Abonnenten auf einer Workshop-Einsendung</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#da5353"}}>@20K Creator</span></th>
-<td>Users who have 20,000+ subscribers on a workshop creation</td>
+<td>Nutzer mit 20.000+ Abonnenten auf einer Workshop-Einsendung</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#f35f5f"}}>@15K Creator</span></th>
-<td>Users who have 15,000+ subscribers on a workshop creation</td>
+<td>Nutzer mit 15.000+ Abonnenten auf einer Workshop-Einsendung</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#f57575"}}>@10K Creator</span></th>
-<td>Users who have 10,000+ subscribers on a workshop creation</td>
+<td>Nutzer mit 10.000+ Abonnenten auf einer Workshop-Einsendung</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#ff9696"}}>@5K Creator</span></th>
-<td>Users who have 5,000+ subscribers on a workshop creation</td>
+<td>Nutzer mit 5.000+ Abonnenten auf einer Workshop-Einsendung</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#d49797"}}>@1K Creator</span></th>
-<td>Users who have 1,000+ subscribers on a workshop creation</td>
+<td>Nutzer mit 1.000+ Abonnenten auf einer Workshop-Einsendung</td>
 </tr>
 </tbody>
 </table>
