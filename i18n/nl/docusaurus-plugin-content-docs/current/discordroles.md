@@ -19,91 +19,91 @@ We hebben allerlei rollen op onze discord server. Hieronder kunt u de hoofdrolle
 <tbody>
 <tr>
 <th scope="row"><span style={{color: "#ff0000"}}>@Admin</span></th>
-<td>Administrators</td>
+<td>Beheerders</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#fcf202"}}>@Executive Moderator</span></th>
-<td>Executive Server & Discord mods</td>
+<td>Executive Server & Discord moderators</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#4ee718"}}>@Moderator</span></th>
-<td>Server & Discord mods</td>
+<td>Server & Discord moderators</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#2bac3c"}}>@Staff</span></th>
-<td>You can ping this role if you need a staff member</td>
+<td>U kunt deze rol pingen als u een staflid nodig heeft</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#1e9b94"}}>@Developer</span></th>
-<td>Server developers help with the development of the servers</td>
+<td>Server ontwikkelaars helpen bij de ontwikkeling van de servers</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#1aac93"}}>@Server Builder</span></th>
-<td>Given to users who build environment mods for the server</td>
+<td>Gegeven aan gebruikers die environment mods voor de server bouwen</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#c5a138"}}>@Event Team</span></th>
-<td>Given to users that are part of the events team</td>
+<td>Gegeven aan gebruikers die deel uitmaken van het evenementen team</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#ff8e01"}}>@Partner</span></th>
-<td>Given to our partners</td>
+<td>Gegeven aan onze partners</td>
 </tr>
 
 <tr>
 <th scope="row"><span style={{color: "#7289da"}}>@Verified</span></th>
-<td>Given when you connect your discord account to the website</td>
+<td>Gegeven wanneer je je discord account verbindt met de website</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#7ac2e9"}}>@Boat License</span></th>
-<td>This role allows users to spawn & use boats</td>
+<td>Deze rol staat gebruikers toe om boten te spawnen en te gebruiken</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#99aab5"}}>@Player</span></th>
-<td>This role is given to all players</td>
+<td>Deze rol wordt gegeven aan alle spelers</td>
 </tr>
 </tbody>
 </table>
 
-## Self Roles
+## Zelf Rollen
 
-You can give yourself these roles:
+U kunt uzelf deze rollen geven:
 
-- Game Roles
-- Workshop Creator Roles
-- Veteran Roles
-- Supporter Roles
+- Spel Rollen
+- Workshop Maker Roles
+- Veteraan rollen
+- Supporter Rollen
 
-### Game Roles
+### Spel Rollen
 
-Game roles that you can give yourself so that you can see all the channels you want to see in discord.
+Spelrollen die je jezelf kunt geven, zodat je alle kanalen kunt zien die je wilt zien in discord.
 
-To get roles look in the top left of discord and you will see a channel called `Channels & Roles`.
+Om rollen te krijgen kijk links boven van discord en zie je een kanaal met de naam `Kanalen & Rollen`.
 
 <img src="/img/discord/discordgameroles.png" />
 
 
-### Creator Roles
+### Maker rollen
 
-These roles are for players who have the amount required of subscribers on one stormworks workshop vehicle.
+Deze rollen zijn voor spelers die het vereiste aantal abonnees voor één van hun workshop creaties hebben.
 
-To get a creator role you need to submit a steam workshop URL, your application will be processed automatically, and you will receive your role instantly if you fit into any of the roles below.
+Om een auteursrol te krijgen moet u een URL voor de steam workshop indienen, uw applicatie wordt automatisch verwerkt, en u zult uw rol direct ontvangen als u in een van de onderstaande rollen past.
 
 <table class="table nowrap table-dark table-sm">
 <thead>
 <tr>
-<th scope="col">Role</th>
-<th scope="col">Description</th>
+<th scope="col">Rol</th>
+<th scope="col">Beschrijving</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <th scope="row"><span style={{color: "#da5353"}}>@35K Creator</span></th>
-<td>Users who have 35,000+ subscribers on a workshop creation</td>
+<td>Gebruikers met 35.000+ abonnees op een workshop creatie</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#da5353"}}>@30K Creator</span></th>
-<td>Users who have 30,000+ subscribers on a workshop creation</td>
+<td>Gebruikers met 30.000+ abonnees op een workshop creatie</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#da5353"}}>@25K Creator</span></th>
