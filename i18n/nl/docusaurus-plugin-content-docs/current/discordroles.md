@@ -1,19 +1,19 @@
 ---
 sidebar_position: 1
-description: Discord Roles Information.
+description: Discord Rollen Informatie.
 ---
 
-# Discord Roles
+# Discord Rollen
 
-We have all sorts of roles on our discord server, below you can view the main roles or see if you can get yourself a veteran role, whatever you fancy.
+We hebben allerlei rollen op onze discord server. Hieronder kunt u de hoofdrollen bekijken, of kijken of u een veteraan rol kunt ontvangen.
 
-## Main Roles
+## Hoofd Rollen
 
 <table class="table nowrap table-dark table-sm">
 <thead>
 <tr>
-<th scope="col">Role</th>
-<th scope="col">Description</th>
+<th scope="col">Rol</th>
+<th scope="col">Beschrijving</th>
 </tr>
 </thead>
 <tbody>
