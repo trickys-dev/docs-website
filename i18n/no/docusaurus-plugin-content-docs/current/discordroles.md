@@ -5,7 +5,7 @@ description: Discord Roller Informasjon.
 
 # Discord roller
 
-Vi har alle slags typer av roller i Discord serveren vår, Under can du se våres Hoved-Roller eller se om du kan skaffe deg selv en veteran rolle, hva en du kunne tenke deg.
+Vi har alle slags typer av roller i Discord serveren vår, Under kan du se våres Hoved-Roller eller se om du kan skaffe deg selv en veteran rolle, hva en du kunne tenke deg.
 
 ## Hoved-Roller
 
@@ -163,7 +163,7 @@ Søknaden for å skaffe seg denne rollen er helt automatisk.
 </tbody>
 </table>
 
-Vil du ha skaper rollen? Gjør <a class="code-text">/getveteran</a> komandoen i [Discord](discord://discord.com/channels/710922135580835950/723322585563267073).
+Vil du ha veteran rollen? Gjør <a class="code-text">/getveteran</a> komandoen i [Discord](discord://discord.com/channels/710922135580835950/723322585563267073).
 :::
 
 
