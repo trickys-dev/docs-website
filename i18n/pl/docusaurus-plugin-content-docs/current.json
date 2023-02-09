@@ -28,11 +28,11 @@
     "description": "The generated-index page description for category API in sidebar defaultSidebar"
   },
   "sidebar.defaultSidebar.category.Discord Bots": {
-    "message": "Boty Na Discordzie",
+    "message": "Boty Discorda",
     "description": "The label for category Discord Bots in sidebar defaultSidebar"
   },
   "sidebar.defaultSidebar.category.Discord Bots.link.generated-index.description": {
-    "message": "Nasze Boty Na Discordzie",
+    "message": "Nasze Boty Discorda",
     "description": "The generated-index page description for category Discord Bots in sidebar defaultSidebar"
   }
 }
