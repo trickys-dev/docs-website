@@ -132,75 +132,75 @@ Um eine Autorenrolle zu erhalten, müssen Sie eine Steam-Workshop URL einsenden,
 </tbody>
 </table>
 
-:::note Want A Creator Role
-[Click Here](https://trickys.gg/applications/new) to get a creator role.
+:::note Wollen Sie eine Autorenrolle
+[klicken Sie hier](https://trickys.gg/applications/new), um eine Autorenrolle zu bekommen.
 :::
 
-### Veteran Roles
+### Veteranenrollen
 
-The process to get a veteran role is fully automatic.
+Der Prozess, um eine Veteranenrolle zu erhalten, ist vollautomatisch.
 
 <table class="table nowrap table-dark table-sm">
 <thead>
 <tr>
-<th scope="col">Role</th>
-<th scope="col">Description</th>
+<th scope="col">Rolle</th>
+<th scope="col">Beschreibung</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <th scope="row"><span style={{color: "#c27c0e"}}>@3 Year Veteran</span></th>
-<td>Been in discord for 3 years</td>
+<td>Discord-Servermitglied für 3 Jahre</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#c27c0e"}}>@2 Year Veteran</span></th>
-<td>Been in discord for 2 years</td>
+<td>Discord-Servermitglied für 2 Jahre</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#c27c0e"}}>@1 Year Veteran</span></th>
-<td>Been in discord for 1 year</td>
+<td>Discord-Servermitglied für 1 Jahr</td>
 </tr>
 </tbody>
 </table>
 
 :::tip
-Do the <a class="code-text">/getveteran</a> command in [Discord](discord://discord.com/channels/710922135580835950/723322585563267073).
+Führen Sie den <a class="code-text">/getveteran</a> Befehl in [Discord](discord://discord.com/channels/710922135580835950/723322585563267073) aus.
 :::
 
 
-### Supporter Roles
+### Unterstützerrollen
 
-These supporter roles are fully automatically.
+Diese Unterstützerrollen sind vollautomatisch.
 
-Looking to become a supporter? [Click Here](/docs/supporters)
+Möchten Sie ein Unterstützer werden? [Hier klicken](/docs/supporters)
 
 <table class="table nowrap table-dark table-sm">
 <thead>
 <tr>
-<th scope="col">Role</th>
-<th scope="col">Description</th>
+<th scope="col">Rolle</th>
+<th scope="col">Beschreibung</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <th scope="row"><span style={{color: "#05d6ff"}}>@Diamond Supporter</span></th>
-<td>Diamond Patreon Supporter</td>
+<td>Diamant Patreon-Unterstützer</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#e9c716"}}>@Gold Supporter</span></th>
-<td>Gold Patreon Supporter</td>
+<td>Gold Patreon-Unterstützer</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#c0c0c0"}}>@Silver Supporter</span></th>
-<td>Silver Patreon Supporter</td>
+<td>Silber Patreon-Unterstützer</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#cd7f32"}}>@Bronze Supporter</span></th>
-<td>Bronze Patreon Supporter</td>
+<td>Bronze Patreon-Unterstützer</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#ff73fa"}}>@Server Booster</span></th>
-<td>Given when you boost the server</td>
+<td>Erhalten Sie, wenn Sie den Server boosten</td>
 </tr>
 </tbody>
 </table>
