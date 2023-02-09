@@ -1,0 +1,18 @@
+{
+  "title": {
+    "message": "Documentación Trickys.gg",
+    "description": "The title in the navbar"
+  },
+  "item.label.Docs": {
+    "message": "Documentación",
+    "description": "Navbar item with label Docs"
+  },
+  "item.label.HRP Gov": {
+    "message": "Gobierno de HRP",
+    "description": "Navbar item with label HRP Gov"
+  },
+  "item.label.Main Site": {
+    "message": "Sitio principal",
+    "description": "Navbar item with label Main Site"
+  }
+}
