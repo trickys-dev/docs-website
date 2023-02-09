@@ -191,15 +191,15 @@ Vil du bli en støtter? [Trykk her](/docs/supporters)
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#c0c0c0"}}>@Silver Supporter</span></th>
-<td>Silver Patreon Supporter</td>
+<td>Sølv Patreon støtter</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#cd7f32"}}>@Bronze Supporter</span></th>
-<td>Bronze Patreon Supporter</td>
+<td>Bronse Patreon Støtter</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#ff73fa"}}>@Server Booster</span></th>
-<td>Given when you boost the server</td>
+<td>Gitt når du Booster serveren</td>
 </tr>
 </tbody>
 </table>
