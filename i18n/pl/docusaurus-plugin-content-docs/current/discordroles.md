@@ -1,82 +1,82 @@
 ---
 sidebar_position: 1
-description: Discord Roles Information.
+description: Informacje o Rolach Discorda.
 ---
 
-# Discord Roles
+# Role Discorda
 
-We have all sorts of roles on our discord server, below you can view the main roles or see if you can get yourself a veteran role, whatever you fancy.
+Na naszym serwerze Discord mamy role wszelkiego rodzaju, poniżej możesz zobaczyć główne role lub sprawdzić, czy jesteś w stanie uzyskać role weterana, cokolwiek wpadnie ci w oko.
 
-## Main Roles
+## Główne Role
 
 <table class="table nowrap table-dark table-sm">
 <thead>
 <tr>
-<th scope="col">Role</th>
-<th scope="col">Description</th>
+<th scope="col">Rola</th>
+<th scope="col">Opis</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <th scope="row"><span style={{color: "#ff0000"}}>@Admin</span></th>
-<td>Administrators</td>
+<td>Administratorzy</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#fcf202"}}>@Executive Moderator</span></th>
-<td>Executive Server & Discord mods</td>
+<td>Moderatorzy wykonawczy i Discordowi</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#4ee718"}}>@Moderator</span></th>
-<td>Server & Discord mods</td>
+<td>Moderatorzy Serwerowi i Discordowi</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#2bac3c"}}>@Staff</span></th>
-<td>You can ping this role if you need a staff member</td>
+<td>Możesz fingować tę rolę, jeżeli potrzebujesz moderatora</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#1e9b94"}}>@Developer</span></th>
-<td>Server developers help with the development of the servers</td>
+<td>Deweloperzy serwerowi, którzy pomagają w rozwoju serwerów</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#1aac93"}}>@Server Builder</span></th>
-<td>Given to users who build environment mods for the server</td>
+<td>Przyznawany osobom, które budują mody do serwera</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#c5a138"}}>@Event Team</span></th>
-<td>Given to users that are part of the events team</td>
+<td>Przyznawany osobom, które biorą udział w wydarzeniach</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#ff8e01"}}>@Partner</span></th>
-<td>Given to our partners</td>
+<td>Przyznawana naszym partnerom</td>
 </tr>
 
 <tr>
 <th scope="row"><span style={{color: "#7289da"}}>@Verified</span></th>
-<td>Given when you connect your discord account to the website</td>
+<td>Przyznawana, gdy podłączysz swoje konto Discord do naszej strony</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#7ac2e9"}}>@Boat License</span></th>
-<td>This role allows users to spawn & use boats</td>
+<td>Ta rola pozwala użytkownikom tworzyć i używać łodzi</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#99aab5"}}>@Player</span></th>
-<td>This role is given to all players</td>
+<td>Ta rola jest przyznana wszystkim graczom</td>
 </tr>
 </tbody>
 </table>
 
-## Self Roles
+## Własne Role
 
-You can give yourself these roles:
+Możesz dać sobie te role:
 
-- Game Roles
-- Workshop Creator Roles
-- Veteran Roles
-- Supporter Roles
+- Role Gier
+- Rola Creatora na Workshopie
+- Role Weterana
+- Role Supportera
 
-### Game Roles
+### Role Gier
 
-Game roles that you can give yourself so that you can see all the channels you want to see in discord.
+Role gier, które możesz dać sobie tak, abyś mógł zobaczyć wszystkie kanały, które chcesz zobaczyć w Discord.
 
 To get roles look in the top left of discord and you will see a channel called `Channels & Roles`.
 
