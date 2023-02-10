@@ -12,7 +12,7 @@ We have all sorts of roles on our discord server, below you can view the main ro
 <table class="table nowrap table-dark table-sm">
 <thead>
 <tr>
-<th scope="col">Role</th>
+<th scope="col">ロール</th>
 <th scope="col">Description</th>
 </tr>
 </thead>
@@ -92,7 +92,7 @@ To get a creator role you need to submit a steam workshop URL, your application 
 <table class="table nowrap table-dark table-sm">
 <thead>
 <tr>
-<th scope="col">Role</th>
+<th scope="col">ロール</th>
 <th scope="col">Description</th>
 </tr>
 </thead>
@@ -143,7 +143,7 @@ The process to get a veteran role is fully automatic.
 <table class="table nowrap table-dark table-sm">
 <thead>
 <tr>
-<th scope="col">Role</th>
+<th scope="col">ロール</th>
 <th scope="col">Description</th>
 </tr>
 </thead>
@@ -177,7 +177,7 @@ Looking to become a supporter? [Click Here](/docs/supporters)
 <table class="table nowrap table-dark table-sm">
 <thead>
 <tr>
-<th scope="col">Role</th>
+<th scope="col">ロール</th>
 <th scope="col">Description</th>
 </tr>
 </thead>
