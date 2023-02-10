@@ -3,7 +3,7 @@
     "message": "Zobacz Dokumentacje"
   },
   "theme.ErrorPageContent.title": {
-    "message": "This page crashed.",
+    "message": "Ta strona uległa awarii.",
     "description": "The title of the fallback page when the page crashed"
   },
   "theme.ErrorPageContent.tryAgain": {
