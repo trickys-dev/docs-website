@@ -31,11 +31,11 @@ Na naszym serwerze Discord mamy role wszelkiego rodzaju, poniżej możesz zobacz
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#2bac3c"}}>@Staff</span></th>
-<td>Możesz fingować tę rolę, jeżeli potrzebujesz moderatora</td>
+<td>Możesz oznaczyć tę rolę, jeżeli potrzebujesz moderatora</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#1e9b94"}}>@Developer</span></th>
-<td>Deweloperzy serwerowi, którzy pomagają w rozwoju serwerów</td>
+<td>Deweloperzy, którzy pomagają w rozwoju serwerów</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#1aac93"}}>@Server Builder</span></th>
@@ -70,137 +70,137 @@ Na naszym serwerze Discord mamy role wszelkiego rodzaju, poniżej możesz zobacz
 Możesz dać sobie te role:
 
 - Role Gier
-- Rola Creatora na Workshopie
+- Rola twórcy na Steam Workshop
 - Role Weterana
-- Role Supportera
+- Role Patronów
 
 ### Role Gier
 
 Role gier, które możesz dać sobie tak, abyś mógł zobaczyć wszystkie kanały, które chcesz zobaczyć w Discord.
 
-To get roles look in the top left of discord and you will see a channel called `Channels & Roles`.
+Aby dostać role, spójrz w górny lewy róg discorda a zobaczysz kanał o nazwie `Kanały i role`.
 
 <img src="/img/discord/discordgameroles.png" />
 
 
-### Creator Roles
+### Role twórców
 
-These roles are for players who have the amount required of subscribers on one stormworks workshop vehicle.
+Te role są dla osób, którzy posiadają wymaganą ilość subskrypcji na przedmiotach Workshopowych.
 
-To get a creator role you need to submit a steam workshop URL, your application will be processed automatically, and you will receive your role instantly if you fit into any of the roles below.
+Aby uzyskać rolę twórcy, musisz przesłać adres URL warsztatu Steam, Twój wniosek zostanie przetworzony automatycznie, i natychmiast otrzymasz swoją rolę, jeżeli pasujesz do którejkolwiek z poniższych ról.
 
 <table class="table nowrap table-dark table-sm">
 <thead>
 <tr>
-<th scope="col">Role</th>
-<th scope="col">Description</th>
+<th scope="col">Rola</th>
+<th scope="col">Opis</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <th scope="row"><span style={{color: "#da5353"}}>@35K Creator</span></th>
-<td>Users who have 35,000+ subscribers on a workshop creation</td>
+<td>Użytkownicy, którzy maja 35,000+ subskrypcji na przedmiocie warsztatowym</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#da5353"}}>@30K Creator</span></th>
-<td>Users who have 30,000+ subscribers on a workshop creation</td>
+<td>Użytkownicy, którzy maja 30,000+ subskrypcji na przedmiocie warsztatowym</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#da5353"}}>@25K Creator</span></th>
-<td>Users who have 25,000+ subscribers on a workshop creation</td>
+<td>Użytkownicy, którzy maja 25,000+ subskrypcji na przedmiocie warsztatowym</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#da5353"}}>@20K Creator</span></th>
-<td>Users who have 20,000+ subscribers on a workshop creation</td>
+<td>Użytkownicy, którzy maja 20,000+ subskrypcji na przedmiocie warsztatowym</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#f35f5f"}}>@15K Creator</span></th>
-<td>Users who have 15,000+ subscribers on a workshop creation</td>
+<td>Użytkownicy, którzy maja 15,000+ subskrypcji na przedmiocie warsztatowym</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#f57575"}}>@10K Creator</span></th>
-<td>Users who have 10,000+ subscribers on a workshop creation</td>
+<td>Użytkownicy, którzy maja 10,000+ subskrypcji na przedmiocie warsztatowym</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#ff9696"}}>@5K Creator</span></th>
-<td>Users who have 5,000+ subscribers on a workshop creation</td>
+<td>Użytkownicy, którzy maja 5,000+ subskrypcji na przedmiocie warsztatowym</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#d49797"}}>@1K Creator</span></th>
-<td>Users who have 1,000+ subscribers on a workshop creation</td>
+<td>Użytkownicy, którzy maja 1,000+ subskrypcji na przedmiocie warsztatowym</td>
 </tr>
 </tbody>
 </table>
 
-:::note Want A Creator Role
-[Click Here](https://trickys.gg/applications/new) to get a creator role.
+:::note Chcesz rolę twórcy
+[Kliknij tutaj](https://trickys.gg/applications/new) aby ją uzyskać.
 :::
 
-### Veteran Roles
+### Role Weteranów
 
-The process to get a veteran role is fully automatic.
+Proces zdobycia tej roli jest w pełni automatyczny.
 
 <table class="table nowrap table-dark table-sm">
 <thead>
 <tr>
-<th scope="col">Role</th>
-<th scope="col">Description</th>
+<th scope="col">Rola</th>
+<th scope="col">Opis</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <th scope="row"><span style={{color: "#c27c0e"}}>@3 Year Veteran</span></th>
-<td>Been in discord for 3 years</td>
+<td>Osoba była serwerze Discord przez 3 lata</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#c27c0e"}}>@2 Year Veteran</span></th>
-<td>Been in discord for 2 years</td>
+<td>Osoba była serwerze Discord przez 2 lata</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#c27c0e"}}>@1 Year Veteran</span></th>
-<td>Been in discord for 1 year</td>
+<td>Osoba była serwerze Discord przez 1 rok</td>
 </tr>
 </tbody>
 </table>
 
 :::tip
-Do the <a class="code-text">/getveteran</a> command in [Discord](discord://discord.com/channels/710922135580835950/723322585563267073).
+Napisz komendę <a class="code-text">/getveteran</a> w [Discord](discord://discord.com/channels/710922135580835950/723322585563267073).
 :::
 
 
-### Supporter Roles
+### Role Patronów
 
-These supporter roles are fully automatically.
+Te role są przyznawane w pełni automatycznie.
 
-Looking to become a supporter? [Click Here](/docs/supporters)
+Chcesz zostać patronem? [Kliknij Tutaj](/docs/supporters)
 
 <table class="table nowrap table-dark table-sm">
 <thead>
 <tr>
-<th scope="col">Role</th>
-<th scope="col">Description</th>
+<th scope="col">Rola</th>
+<th scope="col">Opis</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <th scope="row"><span style={{color: "#05d6ff"}}>@Diamond Supporter</span></th>
-<td>Diamond Patreon Supporter</td>
+<td>Diamentowy Patron</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#e9c716"}}>@Gold Supporter</span></th>
-<td>Gold Patreon Supporter</td>
+<td>Złoty Patron</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#c0c0c0"}}>@Silver Supporter</span></th>
-<td>Silver Patreon Supporter</td>
+<td>Srebrny Patron</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#cd7f32"}}>@Bronze Supporter</span></th>
-<td>Bronze Patreon Supporter</td>
+<td>Brązowy Patron</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#ff73fa"}}>@Server Booster</span></th>
-<td>Given when you boost the server</td>
+<td>Przyznawane, gdy podniesiesz poziom serwera discord</td>
 </tr>
 </tbody>
 </table>
