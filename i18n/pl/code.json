@@ -7,7 +7,7 @@
     "description": "The title of the fallback page when the page crashed"
   },
   "theme.ErrorPageContent.tryAgain": {
-    "message": "Spróbuj jeszcze raz",
+    "message": "Spróbuj ponownie",
     "description": "The label of the button to try again when the page crashed"
   },
   "theme.NotFound.title": {
@@ -15,7 +15,7 @@
     "description": "The title of the 404 page"
   },
   "theme.NotFound.p1": {
-    "message": "Nie mogliśmy znaleźć tego, czego szukasz.",
+    "message": "Nie udało się nam znaleźć tego, czego szukasz.",
     "description": "The first paragraph of the 404 page"
   },
   "theme.NotFound.p2": {
