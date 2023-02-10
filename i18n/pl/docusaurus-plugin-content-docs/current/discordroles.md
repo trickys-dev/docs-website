@@ -23,7 +23,7 @@ Na naszym serwerze Discord mamy role wszelkiego rodzaju, poniżej możesz zobacz
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#fcf202"}}>@Executive Moderator</span></th>
-<td>Moderatorzy wykonawczy i Discordowi</td>
+<td>Wykonawczy moderatorzy Serwerów i Discorda</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#4ee718"}}>@Moderator</span></th>
