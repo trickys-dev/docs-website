@@ -19,7 +19,7 @@ description: Информация о ролях Discord.
 <tbody>
 <tr>
 <th scope="row"><span style={{color: "#ff0000"}}>@Admin</span></th>
-<td>Administrators</td>
+<td>Администраторы</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#fcf202"}}>@Executive Moderator</span></th>
@@ -27,7 +27,7 @@ description: Информация о ролях Discord.
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#4ee718"}}>@Moderator</span></th>
-<td>Server & Discord mods</td>
+<td>Моды сервера и Discord</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#2bac3c"}}>@Staff</span></th>
@@ -47,7 +47,7 @@ description: Информация о ролях Discord.
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#ff8e01"}}>@Partner</span></th>
-<td>Given to our partners</td>
+<td>Дано нашим партнерам</td>
 </tr>
 
 <tr>
