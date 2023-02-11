@@ -107,100 +107,100 @@ Om een auteursrol te krijgen moet u een URL voor de steam workshop indienen, uw 
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#da5353"}}>@25K Creator</span></th>
-<td>Users who have 25,000+ subscribers on a workshop creation</td>
+<td>Gebruikers met 25.000+ abonnees op een workshop creatie</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#da5353"}}>@20K Creator</span></th>
-<td>Users who have 20,000+ subscribers on a workshop creation</td>
+<td>Gebruikers met 20.000+ abonnees op een workshop creatie</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#f35f5f"}}>@15K Creator</span></th>
-<td>Users who have 15,000+ subscribers on a workshop creation</td>
+<td>Gebruikers met 15.000+ abonnees op een workshop creatie</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#f57575"}}>@10K Creator</span></th>
-<td>Users who have 10,000+ subscribers on a workshop creation</td>
+<td>Gebruikers met 10.000+ abonnees op een workshop creatie</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#ff9696"}}>@5K Creator</span></th>
-<td>Users who have 5,000+ subscribers on a workshop creation</td>
+<td>Gebruikers met 5.000+ abonnees op een workshop creatie</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#d49797"}}>@1K Creator</span></th>
-<td>Users who have 1,000+ subscribers on a workshop creation</td>
+<td>Gebruikers met 1.000+ abonnees op een workshop creatie</td>
 </tr>
 </tbody>
 </table>
 
-:::note Want A Creator Role
-[Click Here](https://trickys.gg/applications/new) to get a creator role.
+:::note Wilt u een maker rol?
+[Klik hier](https://trickys.gg/applications/new) om een maker rol te krijgen.
 :::
 
-### Veteran Roles
+### Veteraan rollen
 
-The process to get a veteran role is fully automatic.
+Het proces om een veteraan rol te krijgen is volledig automatisch.
 
 <table class="table nowrap table-dark table-sm">
 <thead>
 <tr>
-<th scope="col">Role</th>
-<th scope="col">Description</th>
+<th scope="col">Rol</th>
+<th scope="col">Beschrijving</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <th scope="row"><span style={{color: "#c27c0e"}}>@3 Year Veteran</span></th>
-<td>Been in discord for 3 years</td>
+<td>In de discord gebleven voor 3 jaar</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#c27c0e"}}>@2 Year Veteran</span></th>
-<td>Been in discord for 2 years</td>
+<td>In de discord gebleven voor 2 jaar</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#c27c0e"}}>@1 Year Veteran</span></th>
-<td>Been in discord for 1 year</td>
+<td>In de discord gebleven voor 1 jaar</td>
 </tr>
 </tbody>
 </table>
 
-:::tip
-Do the <a class="code-text">/getveteran</a> command in [Discord](discord://discord.com/channels/710922135580835950/723322585563267073).
+::tip  
+Doe het <a class="code-text">/getveteran</a> commando in [Discord](discord://discord.com/channels/710922135580835950/723322585563267073).
 :::
 
 
-### Supporter Roles
+### Supporter Rollen
 
-These supporter roles are fully automatically.
+Deze supporter rollen zijn volledig automatisch.
 
-Looking to become a supporter? [Click Here](/docs/supporters)
+Wil je een supporter worden? [Klik hier](/docs/supporters)
 
 <table class="table nowrap table-dark table-sm">
 <thead>
 <tr>
-<th scope="col">Role</th>
-<th scope="col">Description</th>
+<th scope="col">Rol</th>
+<th scope="col">Beschrijving</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <th scope="row"><span style={{color: "#05d6ff"}}>@Diamond Supporter</span></th>
-<td>Diamond Patreon Supporter</td>
+<td>Diamanten Patreon Supporter</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#e9c716"}}>@Gold Supporter</span></th>
-<td>Gold Patreon Supporter</td>
+<td>Gouden Patreon Supporter</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#c0c0c0"}}>@Silver Supporter</span></th>
-<td>Silver Patreon Supporter</td>
+<td>Zilveren Patreon Supporter</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#cd7f32"}}>@Bronze Supporter</span></th>
-<td>Bronze Patreon Supporter</td>
+<td>Bronzen Patreon Supporter</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#ff73fa"}}>@Server Booster</span></th>
-<td>Given when you boost the server</td>
+<td>Gegeven wanneer je de server een boost geeft</td>
 </tr>
 </tbody>
 </table>
