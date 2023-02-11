@@ -167,11 +167,11 @@ Vil du ha veteran rollen? Gjør <a class="code-text">/getveteran</a> komandoen i
 :::
 
 
-### Støtte roller
+### Supporter roller
 
-Dette er Støtte rollene.
+Dette er Supporter rollene.
 
-Vil du bli en støtter? [Trykk her](/docs/supporters)
+Vil du bli en Supporter? [Trykk her](/docs/supporters)
 
 <table class="table nowrap table-dark table-sm">
 <thead>
@@ -183,23 +183,23 @@ Vil du bli en støtter? [Trykk her](/docs/supporters)
 <tbody>
 <tr>
 <th scope="row"><span style={{color: "#05d6ff"}}>@Diamond Supporter</span></th>
-<td>Diamant Patreon støtter</td>
+<td>Diamant Patreon Supporter</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#e9c716"}}>@Gold Supporter</span></th>
-<td>Guld Patreon støtter</td>
+<td>Gull Patreon Supporter</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#c0c0c0"}}>@Silver Supporter</span></th>
-<td>Sølv Patreon støtter</td>
+<td>Sølv Patreon Supporter</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#cd7f32"}}>@Bronze Supporter</span></th>
-<td>Bronse Patreon Støtter</td>
+<td>Bronse Patreon Supporter</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#ff73fa"}}>@Server Booster</span></th>
-<td>Gitt når du Booster serveren</td>
+<td>Denne rollen får du når du booster serveren</td>
 </tr>
 </tbody>
 </table>
