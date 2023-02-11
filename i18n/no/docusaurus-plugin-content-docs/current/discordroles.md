@@ -35,15 +35,15 @@ Vi har alle slags typer av roller i Discord serveren vår, Under kan du se våre
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#1e9b94"}}>@Developer</span></th>
-<td>Serverutviklere som hjelper med å utvikle serveren</td>
+<td>Blir gitt til Serverutviklere som hjelper med å utvikle serveren</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#1aac93"}}>@Server Builder</span></th>
-<td>Blir gitt til folk som bygger Miljømodifikasjoner til serveren</td>
+<td>Blir gitt til folk som bygger miljø-modifikasjoner til serveren</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#c5a138"}}>@Event Team</span></th>
-<td>Blir gitt til brukere som er en del av Event-Teamet</td>
+<td>Blir gitt til brukere som er en del av Samfunns-arrangement planleggings avdelingen</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#ff8e01"}}>@Partner</span></th>
@@ -60,7 +60,7 @@ Vi har alle slags typer av roller i Discord serveren vår, Under kan du se våre
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#99aab5"}}>@Player</span></th>
-<td>Denne rollen blir gitt til alle spillerene</td>
+<td>Denne rollen blir gitt til alle spillerene i serveren</td>
 </tr>
 </tbody>
 </table>
@@ -69,10 +69,10 @@ Vi har alle slags typer av roller i Discord serveren vår, Under kan du se våre
 
 Du kan gi deg selv disse rollene:
 
-- Spill roller
-- Workshop Skaper roller
-- Veteran roller
-- Støtte roller
+- Spill Roller
+- Workshop Skaper Roller
+- Veteran Roller
+- Supporter Roller
 
 ### Spill roller
 
