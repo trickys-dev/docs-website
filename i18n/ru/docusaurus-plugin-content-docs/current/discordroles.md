@@ -1,19 +1,19 @@
 ---
 sidebar_position: 1
-description: Discord Roles Information.
+description: Информация о ролях Discord.
 ---
 
-# Discord Roles
+# Роли Discord
 
-We have all sorts of roles on our discord server, below you can view the main roles or see if you can get yourself a veteran role, whatever you fancy.
+У нас много разных ролей на discord, здесь вы увидите основные роли, и увидите если вы можете получить роль veteran или другие роли.
 
-## Main Roles
+## Основные Роли
 
 <table class="table nowrap table-dark table-sm">
 <thead>
 <tr>
-<th scope="col">Role</th>
-<th scope="col">Description</th>
+<th scope="col">Роль</th>
+<th scope="col">Описание</th>
 </tr>
 </thead>
 <tbody>
