@@ -2,19 +2,19 @@
 sidebar_position: 3
 ---
 
-# Supporters
+# Supportere
 
-- This guide explains what you get for being a Patreon member.
-- By becoming a patreon you are supporting the community.
+- Guide for hva mann får av å bli et Patreon-Medlem.
+- Ved å bli en Patreon-Supporter støtter du samfunnet.
 
-## Patreon Tiers
+## Patreon Nivåer
 
-| Tier              | Discord Roles                                        |
+| Nivå              | Discord roller                                       |
 | ----------------- | ---------------------------------------------------- |
-| Bronze Supporter  | <span class="b-supporter">@Bronze Supporter</span>   |
-| Silver Supporter  | <span class="s-supporter">@Silver Supporter</span>   |
-| Gold Supporter    | <span class="g-supporter">@Gold Supporter</span>     |
-| Diamond Supporter | <span class="d-supporter"> @Diamond Supporter</span> |
+| Bronse Supporter  | <span class="b-supporter">@Bronze Supporter</span>   |
+| Sølv Supporter    | <span class="s-supporter">@Silver Supporter</span>   |
+| Gull Supporter    | <span class="g-supporter">@Gold Supporter</span>     |
+| Diamant Supporter | <span class="d-supporter"> @Diamond Supporter</span> |
 
 ## What Our Patreon Funds Are Used For?
 
