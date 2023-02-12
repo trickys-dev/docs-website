@@ -64,9 +64,9 @@ const config = {
       jp: {
         label: 'Japanese',
         direction: 'ltr',
-        htmlLang: 'jp',
+        htmlLang: 'ja',
         calendar: 'gregorian',
-        path: 'jp',
+        path: 'ja',
       },
       no: {
         label: 'Norwegian (Norsk Bokmål)',
