@@ -2,15 +2,15 @@
 sidebar_position: 4
 ---
 
-# АутоАвторизация
-АутоАвторизация (автоматическая авторизация)
+# АвтоАвторизация
+АвтоАвторизация (автоматическая авторизация)
 
-## Что АутоАвторизация?
+## Что АвтоАвторизация?
 
-The "AutoAuth", or Automatic Authorization system authorizes you on all our servers automatically without any admins or staff needing to be on the server at the same time as you.
+Система автоавторизации автоматически даёт авторизацию на всех серверов без нужды модов или администраторов на сервере.
 
 
-## How Does AutoAuth Work?
+## Как работает АвтоАвторизация?
 
 Once you join the website you will be authorized on all of our stormworks servers automatically.
 
