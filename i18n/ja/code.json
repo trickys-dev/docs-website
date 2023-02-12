@@ -1,276 +1,276 @@
 {
   "View Docs": {
-    "message": "Zobacz Dokumentacje"
+    "message": "View Docs"
   },
   "theme.ErrorPageContent.title": {
-    "message": "Strona uległa awarii.",
+    "message": "This page crashed.",
     "description": "The title of the fallback page when the page crashed"
   },
   "theme.ErrorPageContent.tryAgain": {
-    "message": "Spróbuj ponownie",
+    "message": "Try again",
     "description": "The label of the button to try again when the page crashed"
   },
   "theme.NotFound.title": {
-    "message": "Nie Znaleziono Strony",
+    "message": "Page Not Found",
     "description": "The title of the 404 page"
   },
   "theme.NotFound.p1": {
-    "message": "Nie udało się nam znaleźć tego, czego szukasz.",
+    "message": "We could not find what you were looking for.",
     "description": "The first paragraph of the 404 page"
   },
   "theme.NotFound.p2": {
-    "message": "Skontaktuj się z właścicielem strony, która podała Ci oryginalny adres URL i poinformuj, że ich link jest uszkodzony.",
+    "message": "Please contact the owner of the site that linked you to the original URL and let them know their link is broken.",
     "description": "The 2nd paragraph of the 404 page"
   },
   "theme.admonition.note": {
-    "message": "uwaga",
+    "message": "note",
     "description": "The default label used for the Note admonition (:::note)"
   },
   "theme.admonition.tip": {
-    "message": "wskazówka",
+    "message": "tip",
     "description": "The default label used for the Tip admonition (:::tip)"
   },
   "theme.admonition.danger": {
-    "message": "niebezpieczeństwo",
+    "message": "danger",
     "description": "The default label used for the Danger admonition (:::danger)"
   },
   "theme.admonition.info": {
-    "message": "informacja",
+    "message": "info",
     "description": "The default label used for the Info admonition (:::info)"
   },
   "theme.admonition.caution": {
-    "message": "uwaga",
+    "message": "caution",
     "description": "The default label used for the Caution admonition (:::caution)"
   },
   "theme.blog.archive.title": {
-    "message": "Archiwizuj",
+    "message": "Archive",
     "description": "The page & hero title of the blog archive page"
   },
   "theme.blog.archive.description": {
-    "message": "Archiwizuj",
+    "message": "Archive",
     "description": "The page & hero description of the blog archive page"
   },
   "theme.BackToTopButton.buttonAriaLabel": {
-    "message": "Przewiń do góry",
+    "message": "Scroll back to top",
     "description": "The ARIA label for the back to top button"
   },
   "theme.blog.paginator.navAriaLabel": {
-    "message": "Nawigacja strony z blogami",
+    "message": "Blog list page navigation",
     "description": "The ARIA label for the blog pagination"
   },
   "theme.blog.paginator.newerEntries": {
-    "message": "Nowsze Podmioty",
+    "message": "Newer Entries",
     "description": "The label used to navigate to the newer blog posts page (previous page)"
   },
   "theme.blog.paginator.olderEntries": {
-    "message": "Nowsze Podmioty",
+    "message": "Older Entries",
     "description": "The label used to navigate to the older blog posts page (next page)"
   },
   "theme.blog.post.paginator.navAriaLabel": {
-    "message": "Nawigacja strony postów blogów",
+    "message": "Blog post page navigation",
     "description": "The ARIA label for the blog posts pagination"
   },
   "theme.blog.post.paginator.newerPost": {
-    "message": "Nowsze Posty",
+    "message": "Newer Post",
     "description": "The blog post button label to navigate to the newer/previous post"
   },
   "theme.blog.post.paginator.olderPost": {
-    "message": "Starsze Posty",
+    "message": "Older Post",
     "description": "The blog post button label to navigate to the older/next post"
   },
   "theme.blog.post.plurals": {
-    "message": "Jeden post|{count} postów",
+    "message": "One post|{count} posts",
     "description": "Pluralized label for \"{count} posts\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
   },
   "theme.blog.tagTitle": {
-    "message": "{nPosts} z \"{tagName}\"",
+    "message": "{nPosts} tagged with \"{tagName}\"",
     "description": "The title of the page for a blog tag"
   },
   "theme.tags.tagsPageLink": {
-    "message": "Wyświetl wszystkie tagi",
+    "message": "View All Tags",
     "description": "The label of the link targeting the tag list page"
   },
   "theme.colorToggle.ariaLabel": {
-    "message": "Przełącz pomiędzy trybem ciemnym i jasnym (aktualny tryb {mode})",
+    "message": "Switch between dark and light mode (currently {mode})",
     "description": "The ARIA label for the navbar color mode toggle"
   },
   "theme.colorToggle.ariaLabel.mode.dark": {
-    "message": "tryb ciemny",
+    "message": "dark mode",
     "description": "The name for the dark color mode"
   },
   "theme.colorToggle.ariaLabel.mode.light": {
-    "message": "tryb jasny",
+    "message": "light mode",
     "description": "The name for the light color mode"
   },
   "theme.docs.breadcrumbs.navAriaLabel": {
-    "message": "Nawigacja okruszkowa",
+    "message": "Breadcrumbs",
     "description": "The ARIA label for the breadcrumbs"
   },
   "theme.docs.DocCard.categoryDescription": {
-    "message": "{count} Przedmioty",
+    "message": "{count} items",
     "description": "The default description for a category card in the generated index about how many items this category includes"
   },
   "theme.docs.paginator.navAriaLabel": {
-    "message": "Nawigacja po stronie z dokumentami Docs",
+    "message": "Docs pages navigation",
     "description": "The ARIA label for the docs pagination"
   },
   "theme.docs.paginator.previous": {
-    "message": "Poprzednia",
+    "message": "Previous",
     "description": "The label used to navigate to the previous doc"
   },
   "theme.docs.paginator.next": {
-    "message": "Następny",
+    "message": "Next",
     "description": "The label used to navigate to the next doc"
   },
   "theme.docs.tagDocListPageTitle.nDocsTagged": {
-    "message": "Jedna dokumentacja otagowana|{count} otagowanych dokumentacji",
+    "message": "One doc tagged|{count} docs tagged",
     "description": "Pluralized label for \"{count} docs tagged\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
   },
   "theme.docs.tagDocListPageTitle": {
-    "message": "{nDocsTagged} z \"{tagName}\"",
+    "message": "{nDocsTagged} with \"{tagName}\"",
     "description": "The title of the page for a docs tag"
   },
   "theme.docs.versionBadge.label": {
-    "message": "Wersja: {versionLabel}"
+    "message": "Version: {versionLabel}"
   },
   "theme.docs.versions.unreleasedVersionLabel": {
-    "message": "Niewydana dokumentacja {siteTitle} {versionLabel} wersja.",
+    "message": "This is unreleased documentation for {siteTitle} {versionLabel} version.",
     "description": "The label used to tell the user that he's browsing an unreleased doc version"
   },
   "theme.docs.versions.unmaintainedVersionLabel": {
-    "message": "Dokumentacja dla {siteTitle} {versionLabel}, która już nie istnieje.",
+    "message": "This is documentation for {siteTitle} {versionLabel}, which is no longer actively maintained.",
     "description": "The label used to tell the user that he's browsing an unmaintained doc version"
   },
   "theme.docs.versions.latestVersionSuggestionLabel": {
-    "message": "Aby uzyskać aktualną dokumentację, sprawdź {latestVersionLink} ({versionLabel}).",
+    "message": "For up-to-date documentation, see the {latestVersionLink} ({versionLabel}).",
     "description": "The label used to tell the user to check the latest version"
   },
   "theme.docs.versions.latestVersionLinkLabel": {
-    "message": "ostatnia wersja",
+    "message": "latest version",
     "description": "The label used for the latest version suggestion link label"
   },
   "theme.common.editThisPage": {
-    "message": "Edytuj stronę",
+    "message": "Edit this page",
     "description": "The link label to edit the current page"
   },
   "theme.lastUpdated.atDate": {
-    "message": " dnia {date}",
+    "message": " on {date}",
     "description": "The words used to describe on which date a page has been last updated"
   },
   "theme.lastUpdated.byUser": {
-    "message": " autorstwa {user}",
+    "message": " by {user}",
     "description": "The words used to describe by who the page has been last updated"
   },
   "theme.lastUpdated.lastUpdatedAtBy": {
-    "message": "Ostatnia aktualizacja {atDate}{byUser}",
+    "message": "Last updated{atDate}{byUser}",
     "description": "The sentence used to display when a page has been last updated, and by who"
   },
   "theme.common.headingLinkTitle": {
-    "message": "Bezpośredni link do {heading}",
+    "message": "Direct link to {heading}",
     "description": "Title for link to heading"
   },
   "theme.navbar.mobileVersionsDropdown.label": {
-    "message": "Wersje",
+    "message": "Versions",
     "description": "The label for the navbar versions dropdown on mobile view"
   },
   "theme.tags.tagsListLabel": {
-    "message": "Tagi:",
+    "message": "Tags:",
     "description": "The label alongside a tag list"
   },
   "theme.AnnouncementBar.closeButtonAriaLabel": {
-    "message": "Zamknij",
+    "message": "Close",
     "description": "The ARIA label for close button of announcement bar"
   },
   "theme.blog.sidebar.navAriaLabel": {
-    "message": "Nawigacja ostatnio dodanych postów",
+    "message": "Blog recent posts navigation",
     "description": "The ARIA label for recent posts in the blog sidebar"
   },
   "theme.CodeBlock.copied": {
-    "message": "Skopiowano",
+    "message": "Copied",
     "description": "The copied button label on code blocks"
   },
   "theme.CodeBlock.copyButtonAriaLabel": {
-    "message": "Kopiuj kod do schowka",
+    "message": "Copy code to clipboard",
     "description": "The ARIA label for copy code blocks button"
   },
   "theme.CodeBlock.copy": {
-    "message": "Kopiuj",
+    "message": "Copy",
     "description": "The copy button label on code blocks"
   },
   "theme.CodeBlock.wordWrapToggle": {
-    "message": "Przełącz zwijanie słów",
+    "message": "Toggle word wrap",
     "description": "The title attribute for toggle word wrapping button of code block lines"
   },
   "theme.DocSidebarItem.toggleCollapsedCategoryAriaLabel": {
-    "message": "Przełącz zwijany pasek boczny kategorii '{label}'",
+    "message": "Toggle the collapsible sidebar category '{label}'",
     "description": "The ARIA label to toggle the collapsible sidebar category"
   },
   "theme.NavBar.navAriaLabel": {
-    "message": "Główna",
+    "message": "Main",
     "description": "The ARIA label for the main navigation"
   },
   "theme.navbar.mobileLanguageDropdown.label": {
-    "message": "Języki",
+    "message": "Languages",
     "description": "The label for the mobile language switcher dropdown"
   },
   "theme.TOCCollapsible.toggleButtonLabel": {
-    "message": "Na tej stronie",
+    "message": "On this page",
     "description": "The label used by the button on the collapsible TOC component"
   },
   "theme.blog.post.readMore": {
-    "message": "Przeczytaj Więcej",
+    "message": "Read More",
     "description": "The label used in blog post item excerpts to link to full blog posts"
   },
   "theme.blog.post.readMoreLabel": {
-    "message": "Przeczytaj więcej o {title}",
+    "message": "Read more about {title}",
     "description": "The ARIA label for the link to full blog posts from excerpts"
   },
   "theme.blog.post.readingTime.plurals": {
-    "message": "Czytałeś przez minutę|Czytałeś przez {readingTime} minut",
+    "message": "One min read|{readingTime} min read",
     "description": "Pluralized label for \"{readingTime} min read\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
   },
   "theme.docs.breadcrumbs.home": {
-    "message": "Strona startowa",
+    "message": "Home page",
     "description": "The ARIA label for the home page in the breadcrumbs"
   },
   "theme.docs.sidebar.collapseButtonTitle": {
-    "message": "Zwiń panel boczny",
+    "message": "Collapse sidebar",
     "description": "The title attribute for collapse button of doc sidebar"
   },
   "theme.docs.sidebar.collapseButtonAriaLabel": {
-    "message": "Zwiń panel boczny",
+    "message": "Collapse sidebar",
     "description": "The title attribute for collapse button of doc sidebar"
   },
   "theme.docs.sidebar.navAriaLabel": {
-    "message": "Panel dokumentacji",
+    "message": "Docs sidebar",
     "description": "The ARIA label for the sidebar navigation"
   },
   "theme.docs.sidebar.closeSidebarButtonAriaLabel": {
-    "message": "Zamknij panel nawigacji",
+    "message": "Close navigation bar",
     "description": "The ARIA label for close button of mobile sidebar"
   },
   "theme.navbar.mobileSidebarSecondaryMenu.backButtonLabel": {
-    "message": "← Wróć do menu głównego",
+    "message": "← Back to main menu",
     "description": "The label of the back button to return to main menu, inside the mobile navbar sidebar secondary menu (notably used to display the docs sidebar)"
   },
   "theme.docs.sidebar.toggleSidebarButtonAriaLabel": {
-    "message": "Przełącz panel nawigacji",
+    "message": "Toggle navigation bar",
     "description": "The ARIA label for hamburger menu button of mobile navigation"
   },
   "theme.docs.sidebar.expandButtonTitle": {
-    "message": "Rozwiń panel boczny",
+    "message": "Expand sidebar",
     "description": "The ARIA label and title attribute for expand button of doc sidebar"
   },
   "theme.docs.sidebar.expandButtonAriaLabel": {
-    "message": "Rozwiń panel boczny",
+    "message": "Expand sidebar",
     "description": "The ARIA label and title attribute for expand button of doc sidebar"
   },
   "theme.common.skipToMainContent": {
-    "message": "Pomiń do głównej zawartości",
+    "message": "Skip to main content",
     "description": "The skip to content label used for accessibility, allowing to rapidly navigate to main content with keyboard tab/enter navigation"
   },
   "theme.tags.tagsPageTitle": {
-    "message": "Tagi",
+    "message": "Tags",
     "description": "The title of the tag list page"
   }
 }
