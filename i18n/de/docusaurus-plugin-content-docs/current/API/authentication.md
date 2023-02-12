@@ -2,25 +2,25 @@
 sidebar_position: 1
 ---
 
-# Authentication
+# Authentifizierung
 
-All API routes require authentication in a form of an API key. You can obtain one API key by applying here.
+Alle API-Routen erfordern eine Authentifizierung in Form eines API-Schlüssels. Sie können einen API-Schlüssel erhalten, indem Sie sich hier bewerben.
 
-If you already have some keys, you can view them on your account page.
+Wenn Sie bereits über Schlüssel verfügen, können Sie diese auf Ihrer Kontoseite ansehen.
 
-To authenticate your request, you can provide your key with:
+Um Ihre Anfrage zu authentifizieren, können Sie Ihren Schlüssel angeben mit:
 
 
-- an <span class="code-text">apikey</span> GET parameter, or
-- an <span class="code-text">X-API-KEY</span> HTTP header
+- einem <span class="code-text">apikey</span> GET Parameter, oder
+- einem <span class="code-text">X-API-KEY</span> HTTP Header
 
-## Request Ping Example
+## Beispiel für Ping anfordern
 
 <pre>
 /api/v1/ping?apikey=<span class="code-text">YOUR_API_KEY</span>
 </pre>
 
-If everything works and you have provided a valid key, you should get:
+Wenn alles funktioniert und Sie einen gültigen Schlüssel angegeben haben, sollten Sie erhalten:
 
 ```json
 {
