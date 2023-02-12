@@ -2,11 +2,11 @@
 sidebar_position: 2
 ---
 
-# ScamWatch Bot
+# ScamWatch Bott
 
-This page explains how to use and setup the ScamWatch Bot.
+Denne siden forklarer hvordan du kan bruke og sette opp ScamWatch Bott.
 
-## What Can The Bot Do
+## Hva kan Botten gjøre
 
 In brief the bot can do the following;
 - Detects scam links from our 31,000+ database and removes them from chat.
