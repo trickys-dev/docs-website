@@ -132,9 +132,9 @@ For å en Skaper rolle må du sende URL,en til workshop gjenstanden din så vil 
 </tbody>
 </table>
 
-:::note Want A Creator Role
+:::note Vil du ha en Skaper rolle?
 
-[Click Here](https://trickys.gg/applications/new) to get a creator role.
+[ Trykk her. ](https://trickys.gg/applications/new) For å få rollen.
 
 :::
 
@@ -167,7 +167,7 @@ Søknaden for å skaffe seg denne rollen er helt automatisk.
 
 :::tip
 
-Do the <a class="code-text">/getveteran</a> command in [Discord](discord://discord.com/channels/710922135580835950/723322585563267073).
+Gjør <a class="code-text">/getveteran</a> Komandoen i [ Discord](discord://discord.com/channels/710922135580835950/723322585563267073).
 
 :::
 
