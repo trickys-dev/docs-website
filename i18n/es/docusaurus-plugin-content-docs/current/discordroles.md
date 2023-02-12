@@ -132,8 +132,10 @@ Para obtener un rol de creador necesitas enviar una URL de la Workshop de Steam,
 </tbody>
 </table>
 
-:::note ¿Quieres un rol de Creador?
-[Haga clic aquí](https://trickys.gg/applications/new) para obtener un rol de creador.
+:::note Want A Creator Role
+
+[Click Here](https://trickys.gg/applications/new) to get a creator role.
+
 :::
 
 ### Roles de Veterano
@@ -164,7 +166,9 @@ El proceso para conseguir un rol veterano es totalmente automático.
 </table>
 
 :::tip
-Ejecuta el comando <a class="code-text">/getveteran</a> en [Discord](discord://discord.com/channels/710922135580835950/723322585563267073).
+
+Do the <a class="code-text">/getveteran</a> command in [Discord](discord://discord.com/channels/710922135580835950/723322585563267073).
+
 :::
 
 
