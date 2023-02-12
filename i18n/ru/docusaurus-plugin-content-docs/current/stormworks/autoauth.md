@@ -2,10 +2,10 @@
 sidebar_position: 4
 ---
 
-# AutoAuth
-AutoAuth (Automatic Authorization)
+# АутоАвторизация
+АутоАвторизация (автоматическая авторизация)
 
-## What is AutoAuth?
+## Что АутоАвторизация?
 
 The "AutoAuth", or Automatic Authorization system authorizes you on all our servers automatically without any admins or staff needing to be on the server at the same time as you.
 
