@@ -163,7 +163,7 @@ Het proces om een veteraan rol te krijgen is volledig automatisch.
 </tbody>
 </table>
 
-::tip  
+:::tip
 Doe het <a class="code-text">/getveteran</a> commando in [Discord](discord://discord.com/channels/710922135580835950/723322585563267073).
 :::
 

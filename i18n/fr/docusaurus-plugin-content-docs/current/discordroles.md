@@ -163,7 +163,7 @@ La procédure pour avoir un rôle vétéran est entièrement automatique.
 </tbody>
 </table>
 
-:::Astuce
+:::tip
 Faites la commande <a class="code-text">/getveteran</a> dans [Discord](discord://discord.com/channels/710922135580835950/723322585563267073).
 :::
 
