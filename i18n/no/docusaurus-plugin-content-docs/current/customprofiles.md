@@ -2,9 +2,9 @@
 sidebar_position: 4
 ---
 
-# Custom Profiles
+# Egne Profiler
 
-Customise personal & faction profiles
+Tilpass dine personlige & Fraction profiler
 
 :::note Faction Profiles
 [Click Here](/docs/stormworks/HRP/factions#faction-profiles) if you are looking for [Faction Profiles](/docs/stormworks/HRP/factions#faction-profiles)
