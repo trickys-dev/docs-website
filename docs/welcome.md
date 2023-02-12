@@ -6,8 +6,5 @@ sidebar_position: 0
 
 Let's discover **some docs..**.
 
-[Translate]This is english[/Translate]
-
-
 ## Getting Started
 

@@ -30,7 +30,7 @@ const config = {
   // to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
-    locales: ['en', 'de', 'fr', 'nl', 'no'],
+    locales: ['en', 'nl', 'fr','de', 'jp', 'no', 'pl', 'es', 'ru'],
     path: 'i18n',
     localeConfigs: {
       en: {
@@ -40,12 +40,12 @@ const config = {
         calendar: 'gregory',
         path: 'en',
       },
-      de: {
-        label: 'German',
+      nl: {
+        label: 'Dutch',
         direction: 'ltr',
-        htmlLang: 'de',
+        htmlLang: 'nl',
         calendar: 'gregory',
-        path: 'de',
+        path: 'nl',
       },
       fr: {
         label: 'French',
@@ -54,19 +54,47 @@ const config = {
         calendar: 'gregory',
         path: 'fr',
       },
-      nl: {
-        label: 'Dutch',
+      de: {
+        label: 'German',
         direction: 'ltr',
-        htmlLang: 'nl',
+        htmlLang: 'de',
         calendar: 'gregory',
-        path: 'nl',
+        path: 'de',
+      },
+      jp: {
+        label: 'Japanese',
+        direction: 'ltr',
+        htmlLang: 'jp',
+        calendar: 'gregorian',
+        path: 'jp',
       },
       no: {
-        label: 'Norwegian',
+        label: 'Norwegian (Norsk Bokmål)',
         direction: 'ltr',
         htmlLang: 'no',
         calendar: 'gregory',
         path: 'no',
+      },
+      pl: {
+        label: 'Polish',
+        direction: 'ltr',
+        htmlLang: 'pl',
+        calendar: 'gregory',
+        path: 'pl',
+      },
+      ru: {
+        label: 'Russian',
+        direction: 'ltr',
+        htmlLang: 'ru',
+        calendar: 'gregory',
+        path: 'ru',
+      },
+      es: {
+        label: 'Spanish',
+        direction: 'ltr',
+        htmlLang: 'es',
+        calendar: 'gregory',
+        path: 'es',
       },
   },
 },
