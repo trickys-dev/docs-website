@@ -43,33 +43,25 @@ description: Stormworks In-Game Commands.
 
 ## Vehicle Manager Commands
 
-| Command                                                                   | Description                                          | Example                                                                                                                                            |
-| ------------------------------------------------------------------------- | ---------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ?v help                                                                   | Shows you sub-commands                               | ?v help                                                                                                                                            |
-| ?v info                                                                   | View your vehicle info                               | ?v info                                                                                                                                            |
-| ?v list                                                                   | List all vehicles you spawned                        | ?v list                                                                                                                                            |
-| ?v {vid} help                                                             | View sub-commands for ?v {id}                        | ?v 1 help                                                                                                                                          |
-| ?v {vid} info                                                             | View info about vehicle                              | ?v 1 info                                                                                                                                          |
-| ?v {vid} despawn                                                          | Despawn vehicle                                      | ?v 1 despawn                                                                                                                                       |
-| ?v {vid} owner {id}                                                       | Transfer ownership of vehicle                        | ?v 1 owner 1                                                                                                                                       |
-| ?v {vid} tp                                                               | Teleport to a seat in the vehicle                    | ?v 1 tp                                                                                                                                            |
-| ?v {vid} kick {id}                                                        | Kick a user from a vehicle                           | ?v 1 kick 1                                                                                                                                        |
-| ?v {vid} kickall                                                          | Kick all users from vehicle                          | ?v 1 kickall                                                                                                                                       |
-| ?v {vid} repair                                                           | Repair vehicle                                       | ?v 1 repair                                                                                                                                        |
-| ?v {vid} accessmode {mode}                                                | Change who can sit in a seat                         | ?v 1 accessmode all<br/>?v 1 accessmode whitelist<br/>?v 1 accessmode blacklist<br/>?v 1 accessmode none                         |
-| ?v {vid} whitelist/blacklist add {id}                                     | Add someone to whitelist/blacklist                   | ?v 1 whitelist add 1 <br/>?v 1 blacklist add 1                                                                                               |
-| ?v {vid} whitelist/blacklist remove {id}                                  | Remove someone from whitelist/blacklist              | ?v 1 whitelist remove 1<br/>?v 1 blacklist remove 1                                                                                          |
-| ?v {vid} whitelist/blacklist list                                         | Shows current whitelist/blacklist                    | ?v 1 whitelist list<br/>?v 1 blacklist list                                                                                                  |
-| ?v {vid} whitelist/blacklist clear                                        | Clear whitelist/blacklist                            | ?v 1 whitelist clear<br/>?v 1 blacklist clear                                                                                                |
-| ?v {vid} sync                                                             | Sync settings with default settings                  | &nbsp;?v 1 sync                                                                                                                                    |
-| Any vehicle you spawn will come with your default settings on all servers |                                                      |                                                                                                                                                    |
-| ?v default help                                                           | View sub-commands for ?v default                     | ?v default help                                                                                                                                    |
-| ?v default info                                                           | View current default settings                        | ?v default info                                                                                                                                    |
-| ?v default accessmode                                                     | Set default accessmode                               | ?v default accessmode all<br/>?v default accessmode whitelist<br/>?v default accessmode blacklist<br/>?v default accessmode none |
-| ?v default whitelist/blacklist add {id}                                   | Add someone to your default whitelist/blacklist      | ?v default whitelist add 1 <br/>?v default blacklist add 1                                                                                   |
-| ?v default whitelist/blacklist remove {id}                                | Remove someone from your default whitelist/blacklist | ?v default whitelist remove 1<br/>?v default blacklist remove 1                                                                              |
-| ?v default whitelist/blacklist list                                       | Shows current default whitelist/blacklist            | ?v default whitelist list<br/>?v default blacklist list                                                                                      |
-| ?v default whitelist/blacklist clear                                      | Clear default whitelist/blacklist                    | ?v default whitelist clear<br/>?v default blacklist clear                                                                                    |
+| Command                                                               | Description                                  | Example               |
+| --------------------------------------------------------------------- | -------------------------------------------- | --------------------- |
+| ?v help                                                               | Shows you sub-commands                       | ?v help               |
+| ?v info                                                               | View your vehicle info                       | ?v info               |
+| ?v list                                                               | List all vehicles you spawned                | ?v list               |
+| ?v {vid} help                                                         | View sub-commands for ?v {id}                | ?v 1 help             |
+| ?v {vid} info                                                         | View info about vehicle                      | ?v 1 info             |
+| ?v {vid} despawn                                                      | Despawn vehicle                              | ?v 1 despawn          |
+| ?v {vid} owner {id}                                                   | Transfer ownership of vehicle                | ?v 1 owner 2          |
+| ?v {vid} tp                                                           | Teleport to a seat in the vehicle            | ?v 1 tp               |
+| ?v {vid} kick {id}                                                    | Kick a user from a vehicle                   | ?v 1 kick 1           |
+| ?v {vid} kickall                                                      | Kick all users from vehicle                  | ?v 1 kickall          |
+| ?v {vid} repair                                                       | Repair a vehicle (<a href="/docs/supporters#what-perks-are-there">Silver+</a>) | ?v 1 repair           |
+| Access control command. Change who can interaction with your vehicles |                                              |                       |
+| ?v accessmode (all/whitelist/blacklist/none)                          | Change who can interaction with your vehicle | ?v accessmode all     |
+| ?v whitelist/blacklist add {id}                                       | Add someone to your whitelist/blacklist      | ?v whitelist add 1    |
+| ?v whitelist/blacklist remove {id}                                    | Remove someone from your whitelist/blacklist | ?v whitelist remove 1 |
+| ?v whitelist/blacklist list                                           | Shows your current whitelist/blacklist       | ?v whitelist list     |
+| ?v whitelist/blacklist clear                                          | Clears whitelist/blacklist                   | ?v whitelist clear    |
 
 
 
