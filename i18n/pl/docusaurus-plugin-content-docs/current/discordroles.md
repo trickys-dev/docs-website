@@ -132,8 +132,10 @@ Aby uzyskać rolę twórcy, musisz przesłać adres URL warsztatu Steam, Twój w
 </tbody>
 </table>
 
-:::note Chcesz rolę twórcy
-[Kliknij tutaj](https://trickys.gg/applications/new) aby ją uzyskać.
+:::note Want A Creator Role
+
+[Click Here](https://trickys.gg/applications/new) to get a creator role.
+
 :::
 
 ### Role Weteranów
@@ -164,7 +166,9 @@ Proces zdobycia tej roli jest w pełni automatyczny.
 </table>
 
 :::tip
-Napisz komendę <a class="code-text">/getveteran</a> w [Discord](discord://discord.com/channels/710922135580835950/723322585563267073).
+
+Do the <a class="code-text">/getveteran</a> command in [Discord](discord://discord.com/channels/710922135580835950/723322585563267073).
+
 :::
 
 
