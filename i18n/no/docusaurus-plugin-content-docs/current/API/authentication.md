@@ -2,25 +2,25 @@
 sidebar_position: 1
 ---
 
-# Authentication
+# Autentisering
 
-All API routes require authentication in a form of an API key. You can obtain one API key by applying here.
+Alle API rutene krever autentesering i en form av en API nøkkel. Du kan få en API nøkkel ved å søke her.
 
-If you already have some keys, you can view them on your account page.
+Hvis du allerede har noen nøkler kan du se dem på profilen din.
 
-To authenticate your request, you can provide your key with:
+For å godkjenne forespørselen din kan du angi nøkkelen din med:
 
 
-- an <span class="code-text">apikey</span> GET parameter, or
-- an <span class="code-text">X-API-KEY</span> HTTP header
+- En <span class="code-text">apikey</span> GET parameter, Eller
+- En <span class="code-text">X-API-KEY</span> HTTP-Topp
 
-## Request Ping Example
+## Ping Forespørsell Exempel
 
 <pre>
 /api/v1/ping?apikey=<span class="code-text">YOUR_API_KEY</span>
 </pre>
 
-If everything works and you have provided a valid key, you should get:
+Hvist alt funker & du har angit nøkkelen din, bør du få:
 
 ```json
 {
