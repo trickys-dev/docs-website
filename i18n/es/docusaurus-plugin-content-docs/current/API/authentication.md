@@ -2,9 +2,9 @@
 sidebar_position: 1
 ---
 
-# Authentication
+# Autentificación
 
-All API routes require authentication in a form of an API key. You can obtain one API key by applying here.
+Todas las rutas API requieren autentificación en forma de una clave API. Puedes obtener una clave del API solicitándola aquí.
 
 If you already have some keys, you can view them on your account page.
 
