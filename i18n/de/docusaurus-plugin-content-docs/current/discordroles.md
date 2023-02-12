@@ -132,8 +132,10 @@ Um eine Autorenrolle zu erhalten, müssen Sie eine Steam-Workshop URL einsenden,
 </tbody>
 </table>
 
-:::note Wollen Sie eine Autorenrolle
-[klicken Sie hier](https://trickys.gg/applications/new), um eine Autorenrolle zu bekommen.
+:::note Want A Creator Role
+
+[Click Here](https://trickys.gg/applications/new) to get a creator role.
+
 :::
 
 ### Veteranenrollen
@@ -164,7 +166,9 @@ Der Prozess, um eine Veteranenrolle zu erhalten, ist vollautomatisch.
 </table>
 
 :::tip
-Führen Sie den <a class="code-text">/getveteran</a> Befehl in [Discord](discord://discord.com/channels/710922135580835950/723322585563267073) aus.
+
+Do the <a class="code-text">/getveteran</a> command in [Discord](discord://discord.com/channels/710922135580835950/723322585563267073).
+
 :::
 
 
