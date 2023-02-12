@@ -133,7 +133,9 @@ To get a creator role you need to submit a steam workshop URL, your application 
 </table>
 
 :::note Want A Creator Role
+
 [Click Here](https://trickys.gg/applications/new) to get a creator role.
+
 :::
 
 ### Veteran Roles
@@ -164,7 +166,9 @@ The process to get a veteran role is fully automatic.
 </table>
 
 :::tip
+
 Do the <a class="code-text">/getveteran</a> command in [Discord](discord://discord.com/channels/710922135580835950/723322585563267073).
+
 :::
 
 
