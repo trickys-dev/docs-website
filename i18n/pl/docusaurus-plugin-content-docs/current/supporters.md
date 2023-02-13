@@ -2,35 +2,35 @@
 sidebar_position: 3
 ---
 
-# Supporters
+# Patroni
 
-- This guide explains what you get for being a Patreon member.
-- By becoming a patreon you are supporting the community.
+- Ten poradnik wyjaśni Ci, co dostaniesz jako nasz Patron.
+- Bycie Patronem wspiera naszą społeczność.
 
-## Patreon Tiers
+## Rangi Patronów
 
-| Tier              | Discord Roles                                        |
+| Ranga             | Rola na Discordzie                                   |
 | ----------------- | ---------------------------------------------------- |
-| Bronze Supporter  | <span class="b-supporter">@Bronze Supporter</span>   |
-| Silver Supporter  | <span class="s-supporter">@Silver Supporter</span>   |
-| Gold Supporter    | <span class="g-supporter">@Gold Supporter</span>     |
-| Diamond Supporter | <span class="d-supporter"> @Diamond Supporter</span> |
+| Brązowy Patron    | <span class="b-supporter">@Bronze Supporter</span>   |
+| Srebrny Patron    | <span class="s-supporter">@Silver Supporter</span>   |
+| Złoty Patron      | <span class="g-supporter">@Gold Supporter</span>     |
+| Diamentowy Patron | <span class="d-supporter"> @Diamond Supporter</span> |
 
-## What Our Patreon Funds Are Used For?
+## Do Czego Są Używane Datki Naszych Patronów?
 
-Our Patreon will be used to fund
-- Server upkeep
-- Future hardware upgrades
-- Development costs
-- Discord bots
-- Website costs
+Nasz Patreon będzie używany do płacenia za
+- Utrzymanie serwera
+- Ulepszanie sprzętu
+- Koszty rozwoju
+- Boty Discorda
+- Koszty strony internetowej
 
-## What Perks Are There?
+## Jakie są bonusy?
 
 <table>
 <thead>
     <tr>
-        <th scope="col">Perks</th>
+        <th scope="col">Bonusy</th>
         <th scope="col"><span class="n-supporter">@Nitro</span></th>
         <th scope="col"><span class="b-supporter">@Bronze</span></th>
         <th scope="col"><span class="s-supporter">@Silver</span></th>
@@ -41,18 +41,10 @@ Our Patreon will be used to fund
 <tbody>
 
 <tr>
-    <th colspan="6" class="tricky-color">Website & Discord Perks</th>
+    <th colspan="6" class="tricky-color">Bonusy na Discordzie i Stronie Internetowej</th>
 </tr>
 <tr>
-    <th scope="row">Coloured Name On Website</th>
-    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
-    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
-    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
-    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
-    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
-</tr>
-<tr>
-    <th scope="row">Discord Role</th>
+    <th scope="row">Kolorowa Nazwa na Stronie</th>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
@@ -60,7 +52,15 @@ Our Patreon will be used to fund
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
 </tr>
 <tr>
-    <th scope="row">Username On <a href="https://trickys.gg/awards">Awards Page</a></th>
+    <th scope="row">Rola na Discordzie</th>
+    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
+    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
+    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
+    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
+    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
+</tr>
+<tr>
+    <th scope="row">Nazwa na <a href="https://trickys.gg/awards">Stronie Nagród</a></th>
     <td></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
@@ -68,7 +68,7 @@ Our Patreon will be used to fund
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
 </tr>
 <tr>
-    <th scope="row">Exclusive Patreon Discord Channel</th>
+    <th scope="row">Ekskluzywny kanał dla Patronów na Discordzie</th>
     <td></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
@@ -76,7 +76,7 @@ Our Patreon will be used to fund
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
 </tr>
 <tr>
-    <th scope="row">Full <a href="/docs/category/api">API</a> Access</th>
+    <th scope="row">Dostęp do <a href="/docs/category/api">API</a></th>
     <td></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
@@ -84,7 +84,7 @@ Our Patreon will be used to fund
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
 </tr>
 <tr>
-    <th scope="row">Username + avatar on <a href="/">homepage</a></th>
+    <th scope="row">Nazwa + awatar na <a href="/">stronie startowej</a></th>
     <td></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
@@ -92,7 +92,7 @@ Our Patreon will be used to fund
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
 </tr>
 <tr>
-    <th scope="row">Custom Profile URL</th>
+    <th scope="row">Niestandardowy link URL do Profilu</th>
     <td></td>
     <td class="text-center"><i class="fas fa-fw fa-pause-circle text-danger"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-pause-circle text-danger"></i></td>
@@ -100,7 +100,7 @@ Our Patreon will be used to fund
     <td class="text-center"><i class="fas fa-fw fa-pause-circle text-danger"></i></td>
 </tr>
 <tr>
-    <th scope="row">Profile Gallery</th>
+    <th scope="row">Galeria Profilu</th>
     <td></td>
     <td class="text-center"><i class="fas fa-fw fa-pause-circle text-danger"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-pause-circle text-danger"></i></td>
