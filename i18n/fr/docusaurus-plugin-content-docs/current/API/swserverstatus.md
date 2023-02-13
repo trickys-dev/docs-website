@@ -4,27 +4,27 @@ sidebar_position: 3
 
 # /swserverstatus
 
-<Highlight color="#25c2a0">GET Request</Highlight>
+<Highlight color="#25c2a0">Requête GET</Highlight>
 
 
-## Get Stormworks server status
+## Obtenir le statut du serveur Stormworks
 
 
 export const Highlight = ({children, color}) => ( <span style={{ backgroundColor: color, borderRadius: '20px', color: '#fff', padding: '10px', fontSize: }}>
     {children}
   </span> );
 
-You can use the <span class="code-text">status</span> property to get a <span class="code-text">Offline</span>/<span class="code-text">Online</span>  response.
+Vous pouvez utiliser la propriété <span class="code-text">status</span> pour obtenir une réponse <span class="code-text">Offline</span>/<span class="code-text">Online</span>.
 
-### Parameters
+### Paramètres
 
-| Parameter name |         Required          | Description                                                 |
-| -------------- |:-------------------------:| ----------------------------------------------------------- |
-| server         | <i class="fas fa-fw fa-check-circle text-success"></i> | CODENAME of the server that you want to get the status for. |
+| Nom du paramètre |        Obligatoire        | Description                                                    |
+| ---------------- |:-------------------------:| -------------------------------------------------------------- |
+| serveur          | <i class="fas fa-fw fa-check-circle text-success"></i> | CODENAME du serveur pour lequel vous voulez obtenir le statut. |
 
-## Examples
+## Exemples
 
-### Online Example
+### Exemple En Ligne
 
 ```json
 {
@@ -57,7 +57,7 @@ You can use the <span class="code-text">status</span> property to get a <span cl
 }
 ```
 
-### Offline Example
+### Exemple Hors Ligne
 
 ```json
 {
