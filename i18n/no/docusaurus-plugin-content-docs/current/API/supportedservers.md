@@ -21,4 +21,4 @@ Eksempel API bruk: <span class="code-text">tricky<number></span>
 | Halo SW Server  | halo1        | 1             |
 
 ## Legge til en server
-To add a server, contact us via our ticket system on the discord server!
+For å legge til en server, kontakt oss via vårt saks-system på Discord serveren!
