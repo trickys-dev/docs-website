@@ -8,36 +8,36 @@ Denne siden forklarer hvordan du kan bruke og sette opp ScamWatch Bott.
 
 ## Hva kan Botten gjøre
 
-In brief the bot can do the following;
-- Detects scam links from our 31,000+ database and removes them from chat.
-- Logs removed links in a channel for staff to view and/or take action on the user (remove timeout, kick, ban buttons).
-- Auto Timeout feature, which can be set in config. (if a user posts a scam link the bot will time that user out for x amount of days)
+Forkortet kan botten gjøre følgende;
+- Oppdager svindel linker fra databasen vår med 31.000+ linker og fjerner dem fra chatten.
+- Logger fjernet lenker i en kanal for å vise og/eller iverksette handling på brukeren (fjerne tidsavbrudd, utkastelse, utestengelses knappene).
+- Auto tidsavbrudd-funksjon, som kan settes i konfigurering. (hvis en bruker sender en svindellenke vil boten utestenge brukeren fra chatten i x antall dager)
 
-## Quick Setup
+## Raskt oppsett
 
-1. <a href="">Invite</a> the bot to your server.
-2. use the <span class="code-text">/quicksetup</span> command in a admin channel that the bot can also see.
+1. <a href="">Invite</a> boten til serveren din.
+2. bruk kommandoen <span class="code-text">/quicksetup</span> i en admin kanal som botten også kan se.
 
 <div class="flex-vcenter mb-1">
     <img src="/img/scamwatchbot/botqswelcome.png" width="300px" />
   <p class="m-0">
-  <span class="statusbot-title">Welcome</span> - Welcome to the quick setup guide.
+  <span class="statusbot-title">Velkommen</span> - Velkommen til hurtiginnstillingsveiledningen.
   </p>
  </div>
  <div class="flex-vcenter mb-1">
     <img src="/img/scamwatchbot/botqsselectchannel.png" width="300px" />
   <p class="m-0">
-  <span class="statusbot-title">Step 1.</span> - Select which buttons you want to see under the embeds.<br/>
-  <span class="statusbot-title">new</span> - type <span class="code-text">new</span> and the bot will create a channel called <span class="discord-text">#scam-log</span>.<br/>
-  <span class="statusbot-title"># Symbol</span> - type <span class="discord-text">#channelname</span> if you already have a channel.
+  <span class="statusbot-title">Steg 1.</span> - Velg hva knapper du vil se under de innebygde delene.<br/>
+  <span class="statusbot-title">new</span> - type <span class="code-text">new</span> og botten lager en kanal kalt <span class="discord-text">#scam-log</span>.<br/>
+  <span class="statusbot-title"># Symbol</span> - type <span class="discord-text">#channelname</span> hvis du allerede har en kanal.
   </p>
  </div>
 <div class="flex-vcenter mb-1">
     <img src="/img/scamwatchbot/botqsselectbuttons.png" width="300px" />
   <p class="m-0">
-  <span class="statusbot-title">Step 2.</span> - Select which buttons you want to see under the embeds.<br/>
-  <span class="statusbot-title">None Button</span> - Clicking the None button will not show any buttons under the embed.<br/>
-  <span class="statusbot-title">Select Buttons</span> - Click on the buttons dropdown and you will see a list pop up select the ones you want to show under the embeds.
+  <span class="statusbot-title">Steg 2.</span> - Velg hvilke knapper du vil se under de innebygde funksjonene.<br/>
+  <span class="statusbot-title">Ingen knapp</span> - Om du trykker på 'Ingen' knappen vil vi ikke vise noen knapper under det innebygde<br/>
+  <span class="statusbot-title">Velg knapper</span> - Klikk på knappen nedtrekksmenyen, og du vil se en listeoppsprett og velge hvilke som du vil vise under innbyggingene.
   </p>
  </div>
 
