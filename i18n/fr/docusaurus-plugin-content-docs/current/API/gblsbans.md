@@ -4,22 +4,22 @@ sidebar_position: 7
 
 # /gblsbans
 
-<Highlight color="#25c2a0">GET Request</Highlight>
+<Highlight color="#25c2a0">Requête GET</Highlight>
 
 export const Highlight = ({children, color}) => ( <span style={{ backgroundColor: color, borderRadius: '20px', color: '#fff', padding: '10px', fontSize: }}>
     {children}
   </span> );
 
 
-## Get Global Ban List System Data
-(only server owners can access the Global Ban List System) Please note that <span class="code-text">timecreated</span> might be null if profile is private.
+## Obtenir les Données Système de la Liste de Bannissement Globale
+(seuls les propriétaires de serveurs peuvent accéder au système global de liste de bannissement) Veuillez noter que <span class="code-text">timecreated</span> peut être null si le profil est privé.
 
 
-### Parameters
-None
+### Paramètres
+Aucun
 
-## Examples
-### Success Example
+## Exemples
+### Exemple de Succès
 ```json
 {
   "success": true,
