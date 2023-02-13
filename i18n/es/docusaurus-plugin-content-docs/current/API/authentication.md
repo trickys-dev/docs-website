@@ -6,21 +6,21 @@ sidebar_position: 1
 
 Todas las rutas API requieren autentificación en forma de una clave API. Puedes obtener una clave del API solicitándola aquí.
 
-If you already have some keys, you can view them on your account page.
+Si ya tienes algunas claves, puedes verlas en la página de tu cuenta.
 
-To authenticate your request, you can provide your key with:
+Para autenticar tu solicitud, puede proporcionar su clave con:
 
 
-- an <span class="code-text">apikey</span> GET parameter, or
-- an <span class="code-text">X-API-KEY</span> HTTP header
+- un parámetro GET de <span class="code-text">apikey</span>, o
+- un encabezado HTTP <span class="code-text">X-API-KEY</span>
 
-## Request Ping Example
+## Ejemplo de solicitud Ping
 
 <pre>
 /api/v1/ping?apikey=<span class="code-text">YOUR_API_KEY</span>
 </pre>
 
-If everything works and you have provided a valid key, you should get:
+Si todo funciona y ha proporcionado una clave válida, debería obtener:
 
 ```json
 {
