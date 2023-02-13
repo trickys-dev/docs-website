@@ -2,34 +2,34 @@
 sidebar_position: 2
 ---
 
-# ScamWatch Bot
+# Bot ScamWatch
 
-This page explains how to use and setup the ScamWatch Bot.
+Cette page explique comment utiliser et configurer le Bot ScamWatch.
 
-## What Can The Bot Do
+## Que Peut Faire le Bot
 
-In brief the bot can do the following;
-- Detects scam links from our 31,000+ database and removes them from chat.
-- Logs removed links in a channel for staff to view and/or take action on the user (remove timeout, kick, ban buttons).
-- Auto Timeout feature, which can be set in config. (if a user posts a scam link the bot will time that user out for x amount of days)
+En bref, le bot peut faire ce qui suit ;
+- Détecte les liens d'escroquerie de notre base de données de plus de 31 000 et les supprime du chat.
+- Enregistre les liens supprimés dans un canal pour que le personnel puisse voir et/ou prendre des mesures sur l'utilisateur (boutons pour retirer le délai, expulser, bannir).
+- Délai d'expiration automatique, qui peut être défini dans la configuration. (si un utilisateur publie un lien d'escroquerie le bot mettra ce dernier hors service pour x nombre de jours)
 
-## Quick Setup
+## Configuration Rapide
 
-1. <a href="">Invite</a> the bot to your server.
-2. use the <span class="code-text">/quicksetup</span> command in a admin channel that the bot can also see.
+1. <a href="">Invitez</a> le bot sur votre serveur.
+2. Utilisez la commande <span class="code-text">/quicksetup</span> dans un canal d'administration que le bot peut également voir.
 
 <div class="flex-vcenter mb-1">
     <img src="/img/scamwatchbot/botqswelcome.png" width="300px" />
   <p class="m-0">
-  <span class="statusbot-title">Welcome</span> - Welcome to the quick setup guide.
+  <span class="statusbot-title">Welcome</span> - Bienvenue dans le guide de configuration rapide.
   </p>
  </div>
  <div class="flex-vcenter mb-1">
     <img src="/img/scamwatchbot/botqsselectchannel.png" width="300px" />
   <p class="m-0">
-  <span class="statusbot-title">Step 1.</span> - Select which buttons you want to see under the embeds.<br/>
-  <span class="statusbot-title">new</span> - type <span class="code-text">new</span> and the bot will create a channel called <span class="discord-text">#scam-log</span>.<br/>
-  <span class="statusbot-title"># Symbol</span> - type <span class="discord-text">#channelname</span> if you already have a channel.
+  <span class="statusbot-title">Étape 1.</span> - Sélectionnez les boutons que vous voulez voir sous les embeds<br/>
+  <span class="statusbot-title">new</span> - tapez <span class="code-text">new</span> et le bot va créer un canal appelé <span class="discord-text">#scam-log</span>.<br/>
+  <span class="statusbot-title"># Symbole</span> - tapez <span class="discord-text">#channelname</span> si vous avez déjà un canal.
   </p>
  </div>
 <div class="flex-vcenter mb-1">
