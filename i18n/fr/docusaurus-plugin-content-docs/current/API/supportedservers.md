@@ -2,12 +2,12 @@
 sidebar_position: 2
 ---
 
-# Supported Servers
+# Serveurs Supportés
 
-## Servers
-API Example Usage: <span class="code-text">tricky<number></span>
+## Serveurs
+Exemple d'Utilisation de l'API : <span class="code-text">tricky<number></span>
 
-| Server Name     | API Code Name | Server Number |
+| Nom du Serveur  | API Code Name | Server Number |
 | --------------- | ------------- | ------------- |
 | Tricky's Server | tricky        | 1-7           |
 | Sector Control  | abu           | 1-3           |
