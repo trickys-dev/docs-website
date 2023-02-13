@@ -15,8 +15,8 @@ Forkortet kan botten gjøre følgende;
 
 ## Raskt oppsett
 
-1. <a href="">Invite</a> boten til serveren din.
-2. bruk kommandoen <span class="code-text">/quicksetup</span> i en admin kanal som botten også kan se.
+1. <a href="">Inviter</a> botten til serveren din.
+2. Bruk kommandoen <span class="code-text">/quicksetup</span> i en admin kanal som botten også kan se.
 
 <div class="flex-vcenter mb-1">
     <img src="/img/scamwatchbot/botqswelcome.png" width="300px" />
@@ -28,67 +28,67 @@ Forkortet kan botten gjøre følgende;
     <img src="/img/scamwatchbot/botqsselectchannel.png" width="300px" />
   <p class="m-0">
   <span class="statusbot-title">Steg 1.</span> - Velg hva knapper du vil se under de innebygde delene.<br/>
-  <span class="statusbot-title">Ny</span> - type <span class="code-text">new</span> og botten lager en kanal kalt <span class="discord-text">#scam-log</span>.<br/>
+  <span class="statusbot-title">Ny</span> - Skriv <span class="code-text">new</span> og botten lager en kanal kalt <span class="discord-text">#scam-log</span>.<br/>
   <span class="statusbot-title">Symbol</span> - type <span class="discord-text">#channelname</span> hvis du allerede har en kanal.
   </p>
  </div>
 <div class="flex-vcenter mb-1">
     <img src="/img/scamwatchbot/botqsselectbuttons.png" width="300px" />
   <p class="m-0">
-  <span class="statusbot-title">Steg 2.</span> - Velg hvilke knapper du vil se under de innebygde funksjonene.<br/>
-  <span class="statusbot-title">Ingen knapp</span> - Om du trykker på 'Ingen' knappen vil vi ikke vise noen knapper under det innebygde<br/>
-  <span class="statusbot-title">Velg knapper</span> - Klikk på knappen nedtrekksmenyen, og du vil se en listeoppsprett og velge hvilke som du vil vise under innbyggingene.
+  <span class="statusbot-title">Steg 2.</span> - Velg hvilke knapper du vil se under den innebygde funksjonen.<br/>
+  <span class="statusbot-title">Ingen knapp</span> - Om du trykker på 'Ingen' knappen vil vi ikke vise noen knapper under den innebygde funksjonen.<br/>
+  <span class="statusbot-title">Velg knapper</span> - Klikk på nedtrekksmenyen med tittel 'buttons', og du vil se en listeoppsprett. Velg deretter hvilke knapper du vil vise under den innebygde funksjonen.
   </p>
  </div>
 
 :::note
-Hvis du valgte 'Ingen' i Steg 2, Kan du hoppe over Steg 2.1
+Hvis du valgte "None" i Steg 2, Kan du hoppe over Steg 2.1
 <div class="flex-vcenter mb-1">
     <img src="/img/scamwatchbot/botqsbuttons.png" width="300px" />
   <p class="m-0">
-  <span class="statusbot-title">Steg 2.1</span> - velgen rolle som er påkrevd for å bruke knappene.<br/>
-<span class="statusbot-title">Ingen</span> - hvis du skriver <span class="code-text">Ingen</span>  allesom har tilgang til log kanalene kan bruke knappene.<br/>
-<span class="statusbot-title">Roller</span> - når du legger til en rolle bare @ rollen, Eksempel @Moderator.
+  <span class="statusbot-title">Steg 2.1</span> - Velg en rolle som er påkrevd for å bruke knappene.<br/>
+<span class="statusbot-title">Ingen</span> - Hvis du skriver <span class="code-text">none</span>  alle som har tilgang til log kanalene kan bruke knappene.<br/>
+<span class="statusbot-title">Roller</span> - For å legge til en rolle, treng du bare å nevne (@) rollen. F.eks: @Moderator.
   </p>
  </div>
 :::
 <div class="flex-vcenter mb-1">
     <img src="/img/scamwatchbot/botqspingrole.png" width="300px" />
   <p class="m-0">
-  <span class="statusbot-title">Step 3</span> -  Pick a role that will be pinged when a scam link is detected.<br/>
-  <span class="statusbot-title">None</span> -  If you type <span class="code-text">none</span> there wont be a ping role.<br/>
-  <span class="statusbot-title">Roles</span> - When adding a role just @ the role, example @Moderator.
+  <span class="statusbot-title">Steg 3</span> -  Velg en rolle som du vil skal bli varslet når en scam link er oppdaget.<br/>
+  <span class="statusbot-title">None</span> -  Om du skriver <span class="code-text">none</span> så vil der ikke være en rolle som blir varslet.<br/>
+  <span class="statusbot-title">Roller</span> - For å legge til en rolle, treng du bare å nevne (@) rollen. F.eks: @Moderator.
   </p>
  </div>
  <div class="flex-vcenter mb-1">
     <img src="/img/scamwatchbot/botqscomplete.png" width="300px" />
   <p class="m-0">
-  <span class="statusbot-title">Complete </span> -  Setup Complete.
+  <span class="statusbot-title">Fullført </span> - Oppsettet er fullført.
   </p>
  </div>
 
-:::tip Required
-Please make sure the bot has a role that is higher then your members on your server!
+:::tip Nødvendig
+Venligst pass på at botten har en rolle som er høyere enn server medlemmene!
 :::
 
-## Configuring The Bot
+## Konfigurering av botten
 
-:::caution Default Permissions
-These commands by default will only be accessible by users with the administrator permission.
+::caution Standard-tillatelser  
+Disse kommandoene vil som standard bare være tilgjengelig for brukere med administratorrettigheter.
 :::
 
 <div class="flex-vcenter mb-1">
     <img src="/img/scamwatchbot/configlogchannel.png" width="300px" />
   <p class="m-0">
-  <span class="statusbot-title">Channel</span> - The channel which the bot will use for logs.<br/>
-  To set the channel: <span class="code-text">/config logchannel</span> <span class="discord-text">#channel</span>
+  <span class="statusbot-title">Kanal</span> - Kanalen som botten skal bruke for logger.<br/>
+  For å sette kanalen: <span class="code-text">/config logchannel</span> <span class="discord-text">#channel</span>
   </p>
  </div>
  <div class="flex-vcenter mb-1">
     <img src="/img/scamwatchbot/configstaffrole.png" width="300px" />
   <p class="m-0">
-  <span class="statusbot-title">Staff Role</span> - Set the staff role that you want to be pinged if the detects a scam link.<br/>
-  To set the role: <span class="code-text">/config staffrole</span> <span class="discord-text">@role</span>
+  <span class="statusbot-title">Stabs Rolle</span> - Velg en stabs-rolle som du vil skal bli varslet når en scam link er oppdaget.<br/>
+  For å sette rollen: <span class="code-text">/config personalrolle</span> <span class="discord-text">@role</span>
 
   </p>
  </div>
