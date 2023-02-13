@@ -4,24 +4,24 @@ sidebar_position: 4
 
 # /swserverstatus/resetuptime
 
-<Highlight color="#F39C12">POST Request</Highlight>
+<Highlight color="#F39C12">POST forespørsel</Highlight>
 
 
-## Reset Stormworks Server Uptime
+## Tilbakestill Stormworks server oppetid
 
 
 export const Highlight = ({children, color}) => ( <span style={{ backgroundColor: color, borderRadius: '20px', color: '#fff', padding: '10px', fontSize: }}>
     {children}
   </span> );
 
-### Parameters
+### Parametere
 
-| Parameter name |         Required          | Description                                                   |
-| -------------- |:-------------------------:| ------------------------------------------------------------- |
-| server         | <i class="fas fa-fw fa-check-circle text-success"></i> | CODENAME of the server that you want to reset the uptime for. |
+| Parameter navn |          kreves           | Beskrivelse                                               |
+| -------------- |:-------------------------:| --------------------------------------------------------- |
+| server         | <i class="fas fa-fw fa-check-circle text-success"></i> | KODENAVN fra serveren du vil tilbakestille oppetiden for. |
 
-## Examples
-### Success Example
+## Eksempler
+### Vellykket eksempel
 ```json
 {
   "success": true,
