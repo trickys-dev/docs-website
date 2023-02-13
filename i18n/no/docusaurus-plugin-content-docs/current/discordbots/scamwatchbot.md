@@ -28,8 +28,8 @@ Forkortet kan botten gjøre følgende;
     <img src="/img/scamwatchbot/botqsselectchannel.png" width="300px" />
   <p class="m-0">
   <span class="statusbot-title">Steg 1.</span> - Velg hva knapper du vil se under de innebygde delene.<br/>
-  <span class="statusbot-title">new</span> - type <span class="code-text">new</span> og botten lager en kanal kalt <span class="discord-text">#scam-log</span>.<br/>
-  <span class="statusbot-title"># Symbol</span> - type <span class="discord-text">#channelname</span> hvis du allerede har en kanal.
+  <span class="statusbot-title">Ny</span> - type <span class="code-text">new</span> og botten lager en kanal kalt <span class="discord-text">#scam-log</span>.<br/>
+  <span class="statusbot-title">Symbol</span> - type <span class="discord-text">#channelname</span> hvis du allerede har en kanal.
   </p>
  </div>
 <div class="flex-vcenter mb-1">
@@ -46,9 +46,9 @@ Hvis du valgte 'Ingen' i Steg 2, Kan du hoppe over Steg 2.1
 <div class="flex-vcenter mb-1">
     <img src="/img/scamwatchbot/botqsbuttons.png" width="300px" />
   <p class="m-0">
-  <span class="statusbot-title">Step 2.1</span> - Pick a role that is requried to use the buttons.<br/>
-  <span class="statusbot-title">None</span> - If you type <span class="code-text">none</span> everyone that has access to the log channel can use the buttons.<br/>
-  <span class="statusbot-title">Roles</span> - When adding a role just @ the role, example @Moderator.
+  <span class="statusbot-title">Steg 2.1</span> - velgen rolle som er påkrevd for å bruke knappene.<br/>
+<span class="statusbot-title">Ingen</span> - hvis du skriver <span class="code-text">Ingen</span>  allesom har tilgang til log kanalene kan bruke knappene.<br/>
+<span class="statusbot-title">Roller</span> - når du legger til en rolle bare @ rollen, Eksempel @Moderator.
   </p>
  </div>
 :::
