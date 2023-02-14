@@ -169,6 +169,6 @@ To są uprawnienia bota:
 - Banowanie użytkowników - Konieczne jest zablokowanie członków, gdy klikniesz przycisk (Przeczytaj konfigurację bota).
 - Moderacja użytkowników - Wymaga wysyłania wiadomości na serwerze.
 - Zarządzaj wiadomościami - Potrzebne do wysłania i usunięcia własnej wiadomości z określonego kanału.
-- Manage Channels - Needed to create a new channel for logs(only on setup).
-- Read Message History - Needed to read message history.
-- View Channel - Needed to view(see) channels.
+- Zarządzaj kanałami - Potrzebne do utworzenia nowego kanału dla dziennika (tylko podczas konfiguracji).
+- Przeczytaj historię wiadomości - Wymaga odczytu historii wiadomości.
+- Przeglądanie Kanałów - Wymagane do wyświetlenia(widzenia) kanałów.
