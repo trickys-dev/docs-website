@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Uwierzytelnianie
 
-All API routes require authentication in a form of an API key. Możesz uzyskać jeden klucz API, aplikując tutaj.
+Wszystkie routingi API wymagają uwierzytelnienia w formie klucza API. Możesz uzyskać jeden klucz API, aplikując tutaj.
 
 Jeśli masz już jakieś klucze, możesz je zobaczyć na stronie swojego konta.
 
