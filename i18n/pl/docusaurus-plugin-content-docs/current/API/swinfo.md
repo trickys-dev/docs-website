@@ -4,20 +4,20 @@ sidebar_position: 6
 
 # /swinfo
 
-<Highlight color="#25c2a0">GET Request</Highlight>
+<Highlight color="#25c2a0">Żądanie GET</Highlight>
 
 
-## Get Stormwork's Global Player Count
+## Zdobądź globalną liczbę graczy Stormworks
 
 export const Highlight = ({children, color}) => ( <span style={{ backgroundColor: color, borderRadius: '20px', color: '#fff', padding: '10px', fontSize: }}>
     {children}
   </span> );
 
-### Parameters
-None
+### Parametry
+Brak
 
-## Examples
-### Success Example
+## Przykłady
+### Przykład sukcesu
 ```json
 {
   "success": true,
