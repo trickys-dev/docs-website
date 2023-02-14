@@ -1,38 +1,38 @@
 ---
 sidebar_position: 3
-description: Stormworks In-Game Commands.
+description: Polecenia Stormworks w grze.
 ---
 
 
-# Game Commands
+# Polecenia Gry
 
-| Command           | Short  | Description                                          | &nbsp;Example |
-| ----------------- | ------ | ---------------------------------------------------- | ------------- |
-| ?help [command]   | &nbsp; | Show all commands or get more detail about a command | ?help auth    |
-| ?auth             | &nbsp; | Checks your auth status                              | ?auth         |
-| ?staff            | &nbsp; | Show online staff                                    | ?staff        |
-| ?pos              | &nbsp; | Shows current position                               | ?pos          |
-| ?die              | &nbsp; | Have a guess                                         | ?die          |
-| ?dm {id} {msg}    | &nbsp; | Direct message another user                          | ?dm 1 hi      |
-| ?reply {msg}      | ?r     | Reply to a DM                                        | ?reply hi     |
-| ?user             | ?u     | Gives you your own user information                  | ?user         |
-| ?clean            | ?c     | Removes all vehicles spawned by you                  | ?clean        |
-| ?despawn {vid}    | ?d     | Despawns a single vehicle                            | ?despawn 1    |
-| ?give {id}        | &nbsp; | Give an item                                         | ?give 1       |
-| ?outfit {id}      | &nbsp; | Set a outfit                                         | ?outfit 1     |
-| ?travel {id}      | &nbsp; | Travel to destination                                | ?travel 1     |
-| ?home {name}      | &nbsp; | Goto a home                                          | ?home mp      |
-| ?homes            | &nbsp; | Lists homes                                          | ?homes        |
-| ?sethome {name}   | &nbsp; | Set a home                                           | ?sethome mp   |
-| ?delhome {name}   | &nbsp; | Delete a home                                        | ?delhome mp   |
-| ?topup or ?refill | &nbsp; | Refill a topup compatibles vehicle in a topup zone.  | ?topup        |
+| Polecenie         | Skrót  | Opis                                                                            | &nbsp;Przykład |
+| ----------------- | ------ | ------------------------------------------------------------------------------- | -------------- |
+| ?help [command]   | &nbsp; | Pokaż wszystkie polecenia lub uzyskaj więcej szczegółów na temat polecenia      | ?help auth     |
+| ?auth             | &nbsp; | Sprawdza status autoryzacji                                                     | ?auth          |
+| ?staff            | &nbsp; | Pokazuje dostępny personel                                                      | ?staff         |
+| ?pos              | &nbsp; | Pokazuje aktualną pozycję                                                       | ?pos           |
+| ?die              | &nbsp; | Have a guess                                                                    | ?die           |
+| ?dm {id} {msg}    | &nbsp; | Bezpośrednia wiadomość do innego użytkownika                                    | ?dm 1 hi       |
+| ?reply {msg}      | ?r     | Odpowiedz na bezpośrednią wiadomość                                             | ?reply hi      |
+| ?user             | ?u     | Podaje informacje o użytkowniku                                                 | ?user          |
+| ?clean            | ?c     | Usuwa wszystkie pojazdy stworzone przez Ciebie                                  | ?clean         |
+| ?despawn {vid}    | ?d     | Odrzuca pojedynczy pojazd                                                       | ?despawn 1     |
+| ?give {id}        | &nbsp; | Dodaj przedmiot                                                                 | ?give 1        |
+| ?outfit {id}      | &nbsp; | Ustaw strój                                                                     | ?outfit 1      |
+| ?travel {id}      | &nbsp; | Podróż do celu                                                                  | ?travel 1      |
+| ?home {name}      | &nbsp; | Teleportacja do domu                                                            | ?home mp       |
+| ?homes            | &nbsp; | Lista domów                                                                     | ?homes         |
+| ?sethome {name}   | &nbsp; | Ustaw dom                                                                       | ?sethome mp    |
+| ?delhome {name}   | &nbsp; | Usuń dom                                                                        | ?delhome mp    |
+| ?topup or ?refill | &nbsp; | Uzupełnij kompatybilne surowce lub paliwo w pojeździe w strefie uzupełniającej. | ?topup         |
 
-## HRP Cargo Commands
+## Polecenia Ładunkowe HRP
 
- | Command          | Description                                            | Example    |
+ | Polecenie        | Opis                                                   | Przykład   |
  | ---------------- | ------------------------------------------------------ | ---------- |
- | ?help            | Shows you commands                                     | ?help      |
- | ?claim           | Spawns a container if one does not exist               | ?claim     |
+ | ?help            | Pokazuje polecenia                                     | ?help      |
+ | ?claim           | Tworzy kontener, jeśli nie istnieje                    | ?claim     |
  | ?claimto {dstID} | Claim from a terminal that goes to a specify location. | ?claimto 1 |
  | ?claim [ID]      | Claims a container                                     | ?claim 1   |
  | ?unclaim {ID}    | Unclaims a container                                   | ?unclaim 1 |
@@ -41,9 +41,9 @@ description: Stormworks In-Game Commands.
  | ?myclaims        | Show you your claimed cargo                            | ?myclaims  |
 
 
-## Vehicle Manager Commands
+## Polecenia Menedżera Pojazdów
 
-| Command                                                               | Description                                  | Example               |
+| Polecenie                                                             | Opis                                         | Przykład              |
 | --------------------------------------------------------------------- | -------------------------------------------- | --------------------- |
 | ?v help                                                               | Shows you sub-commands                       | ?v help               |
 | ?v info                                                               | View your vehicle info                       | ?v info               |
