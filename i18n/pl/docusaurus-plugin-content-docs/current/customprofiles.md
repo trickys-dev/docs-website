@@ -2,61 +2,61 @@
 sidebar_position: 4
 ---
 
-# Custom Profiles
+# Profile Niestandardowe
 
-Customise personal & faction profiles
+Dostosuj profile osobiste i frakcji
 
-:::note Faction Profiles
-[Click Here](/docs/stormworks/HRP/factions#faction-profiles) if you are looking for [Faction Profiles](/docs/stormworks/HRP/factions#faction-profiles)
+::note Profile Frakcji  
+[Kliknij Tutaj](/docs/stormworks/HRP/factions#faction-profiles) jeśli szukasz [Profili Frakcji](/docs/stormworks/HRP/factions#faction-profiles)
 :::
 
 
-## Personal Profiles
+## Profile Osobiste
 
-Peronal profiles are referring to public profiles which all members have.
+Profile osobiste odnoszą się do profili publicznych, które mają wszyscy członkowie.
 
-- Avatar to display.
-- Bio. **You are limited to 200 characters in bios & descriptions.**
-- Avatar outline colour.
+- Awatar do wyświetlenia.
+- Opis. **Masz limit do 200 znaków w opisach.**
+- Kolor konturu awatara.
 
-### Avatar To Display
+### Awatar do wyświetlenia
 
 <div class="flex-vcenter mb-1">
     <img src="/img/customprofiles/profileavatardisplay.png"/>
     <p>
-    You can choose which avatar you want to show on your profile, they are:<br/>
-- Steam Avatar. (Default)<br/>
-- Discord Avatar.
+    Możesz wybrać, który awatar chcesz pokazać na swoim profilu, to:<br/>
+- Awatar Steam. (Domyślny)<br/>
+- Awatar Discord.
     </p>
  </div>
 
-The selected avatar will also show in a Discord embed when you post your profile URL, more about this below.
+Wybrany awatar pokaże się również w osadzonej wiadomości Discord podczas publikowania adresu URL swojego profilu, więcej na ten temat poniżej.
 
-### Avatar Outline Colour
+### Kolor konturu awatara
 
   <div class="flex-vcenter mb-1">
     <img src="/img/customprofiles/editavatarcolour.png"/>
     <p>
-    You can choose the outline colour that is around your avatar.
-    The selected colour will also show in a Discord embed when you post your profile URL, example below.
+    Możesz wybrać kolor konturu, który znajduje się wokół Twojego awatara.
+    Wybrany kolor pokaże się również w osadzonej wiadomości Discord podczas publikowania adresu URL Twojego profilu, przykład poniżej.
     </p>
  </div>
 
-## Example
+## Przykład
 
-Below we have have exmaple of what the outcome would look like if you customised everything.
+Poniżej znajduje się przykład tego, jak wyglądałby rezultat, gdybyś zmodyfikował wszystko.
 
-### Custom Profile Example<div class="flex-vcenter mb-1">
+### Przykład profilu niestandardowego<div class="flex-vcenter mb-1">
     <img src="/img/customprofiles/profilecolorwebsite.png"/>
     <p>
-    <b>Avatar Outline Colour</b><br/>
-    Viewing profile with selected colour on website.
+    <b>Kolor konturu awatara</b><br/>
+    Przeglądanie profilu z wybranym kolorem na stronie internetowej.
     </p>
   </div>
     <div class="flex-vcenter mb-1">
     <img src="/img/customprofiles/profilediscordemebed.png"/>
     <p>
-    <b>Sharing Profile Link</b><br/>
-    Sharing a link on discord will show a embed of your profile including the custom colour & the avatar that you set.
+    <b>Udostępnianie linku profilu</b><br/>
+    Udostępnienie linku na Discord pokaże osadzenie Twojego profilu, w tym niestandardowy kolor i awatar, który ustawiłeś.
     </p>
   </div>
