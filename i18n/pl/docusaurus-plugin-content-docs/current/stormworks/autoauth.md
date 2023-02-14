@@ -3,33 +3,33 @@ sidebar_position: 4
 ---
 
 # AutoAuth
-AutoAuth (Automatic Authorization)
+AutoAuth (Automatyczna Autoryzacja)
 
-## What is AutoAuth?
+## Co to jest AutoAuth?
 
-The "AutoAuth", or Automatic Authorization system authorizes you on all our servers automatically without any admins or staff needing to be on the server at the same time as you.
+"AutoAuth" lub Automatyczna Autoryzacja to system, który autoryzuje cię na wszystkich naszych serwerach bez konieczności obecności adminów lub personelu na serwerze w tym samym czasie co ty.
 
 
-## How Does AutoAuth Work?
+## Jak działa AutoAuth?
 
-Once you join the website you will be authorized on all of our stormworks servers automatically.
+Po dołączeniu do strony będziesz automatycznie autoryzowany na wszystkich naszych serwerach Stormworks.
 
-When you join the server, the system will check the following things from our website:
+Po dołączeniu do serwera system będzie sprawdzał następujące rzeczy z naszej strony internetowej:
 
-- Checks if you are perm banned or temp banned from the server you are joining.
-- Checks if you have an account on the website.(Steam & Discord linked)
-- Checks if you are authorized on the server you joined, if not then your be AutoAuthed.
-- Checks if you are authorized and have a vaild boat license. This is only needed if you have a boat license.
+- Sprawdza, czy jesteś trwale zbanowany lub tymczasowo zbanowany z serwera, do którego dołączysz.
+- Sprawdza, czy masz konto na stronie internetowej. (Steam i Discord jest połączony)
+- Sprawdza, czy jesteś autoryzowany na serwerze, do którego dołączyłeś, jeśli nie, zostaniesz Automatycznie Autoryzowany.
+- Sprawdza, czy jesteś autoryzowany i posiadasz licencję na łodzie. Jest to wymagane tylko wtedy, gdy posiadasz licencję na łodzie.
 
-## I have Auth But can't Spawn Boats?
+## Mam autoryzację, ale nie mogę tworzyć łodzi?
 
-You need a boat license for the AutoAuth System to authorize you to spawn boats.
+Potrzebujesz licencji na łodzie dla systemu AutoAuth, aby autoryzować tworzenie łodzi.
 
-Already have a license? Check if its valid.
+Masz już licencję? Sprawdź, czy jest poprawna.
 
-## Do I Have Auth?
+## Czy mam Autoryzacje?
 
-One way of checking if you have auth is just to join one of our Stormworks severs and you will get one of the following pop-ups.
+Jednym ze sposobów na sprawdzenie, czy masz autoryzację jest dołączenie do jednego z naszych Stormworks i otrzymasz jedno z następujących okienek.
 
 <!-- css for flex -->
   <div class="flex-vcenter">
@@ -38,7 +38,7 @@ One way of checking if you have auth is just to join one of our Stormworks sever
     </div>
 <p>
 
-This message will show if you are successfully authorized in-game when joining.
+Ta wiadomość pojawi się, jeśli jesteś pomyślnie autoryzowany w grze podczas dołączania.
 
 </p>
   </div>
@@ -50,7 +50,7 @@ This message will show if you are successfully authorized in-game when joining.
     </div>
 <p>
 
-This message will show if you are not authorized in-game when joining.
+Ta wiadomość pojawi się, jeśli nie jesteś autoryzowany w grze podczas dołączania.
 
 </p>
   </div>
