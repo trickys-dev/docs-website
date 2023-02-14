@@ -4,23 +4,23 @@ sidebar_position: 5
 
 # /swserverstatus/ping
 
-<Highlight color="#25c2a0">GET Request</Highlight>
+<Highlight color="#25c2a0">Żądanie GET</Highlight>
 
 
-## Get the ping of a server from multiple countries
+## Uzyskaj ping serwera z wielu krajów
 
 export const Highlight = ({children, color}) => ( <span style={{ backgroundColor: color, borderRadius: '20px', color: '#fff', padding: '10px', fontSize: }}>
     {children}
   </span> );
 
-### Parameters
+### Parametry
 
-| Parameter name |         Required          | Description                                  |
-| -------------- |:-------------------------:| -------------------------------------------- |
-| server         | <i class="fas fa-fw fa-check-circle text-success"></i> | CODENAME of the server that you want to ping |
+| Nazwa parametru |         Wymagane          | Opis                                    |
+| --------------- |:-------------------------:| --------------------------------------- |
+| server          | <i class="fas fa-fw fa-check-circle text-success"></i> | CODENAME serwera, który chcesz pingować |
 
-## Examples
-### Dubai (UAE) Example
+## Przykłady
+### Przykład Dubaju (UAE)
 ```json
 {
   "success": true,
