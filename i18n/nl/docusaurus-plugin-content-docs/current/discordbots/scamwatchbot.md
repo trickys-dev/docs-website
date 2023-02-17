@@ -148,7 +148,7 @@ These commands by default will only be accessible by users with the administrato
   <p class="m-0">
   <span class="statusbot-title">User Side</span> - This will show in the channel where a scam link is posted. (the embed will remove after 30 seconds).
   </p>
- </div>
+</div>
    <div class="flex-vcenter mb-1">
     <img src="/img/scamwatchbot/botlinkdetectedlog.png" width="300px" />
   <p class="m-0">
@@ -160,7 +160,7 @@ These commands by default will only be accessible by users with the administrato
 5. If you have enabled to Kick button this is where it will show.<br/>
 6. If you have enabled to Ban button this is where it will show.<br/>
   </p>
- </div>
+</div>
    <div class="flex-vcenter mb-1">
     <img src="/img/scamwatchbot/botlinkdetectedaction.png" width="300px" />
   <p class="m-0">
