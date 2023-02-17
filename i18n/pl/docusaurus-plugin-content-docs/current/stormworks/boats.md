@@ -1,13 +1,13 @@
 ---
 sidebar_position: 0
-description: Boat License Information.
+description: Informacje o licencji łodzi.
 ---
 
-# Boats
+# Łodzie
 
-1. To use boats & amphibious vehicles on water on servers 1, 2 & 3 you need a boat license.
-2. Minimum 24 hours must have passed if you want to apply for a boat licence from when you joined the website.
-3. Your boat must not exceed `40 metres` in length -> `160 Blocks`, to reduce lag.
+1. Aby korzystać z łodzi i pojazdów pływających na wodzie na serwerach 1, 2 i 3 potrzebujesz licencji na łódź.
+2. Co najmniej 24 godziny muszą upłynąć, jeśli chcesz ubiegać się o licencję na łódź, od kiedy dołączyłeś do strony internetowej.
+3. Twoja łódź nie może przekraczać `40 metrów` długości -> `160 bloków`, aby zredukować lag.
 4. You need a boat licence to use an amphibious vehicle on water.
 5. You cannot use workshop vehicles which you didn’t make.
 6. Float-planes and float-helicopters can take-off and land on water, but not move anywhere except to take-off again, unless they have a boat license.
