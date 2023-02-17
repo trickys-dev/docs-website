@@ -18,7 +18,7 @@ Po dołączeniu do serwera system będzie sprawdzał następujące rzeczy z nasz
 
 - Sprawdza, czy jesteś trwale zbanowany lub tymczasowo zbanowany z serwera, do którego dołączysz.
 - Sprawdza, czy masz konto na stronie internetowej. (Steam i Discord jest połączony)
-- Checks if you are authorized on the server you joined, if not then you will be AutoAuthed.
+- Sprawdza, czy jesteś autoryzowany na serwerze, do którego dołączyłeś, jeśli nie, zostaniesz Automatycznie Autoryzowany.
 - Sprawdza, czy jesteś autoryzowany i posiadasz licencję na łodzie. Jest to wymagane tylko wtedy, gdy posiadasz licencję na łodzie.
 
 ## Mam autoryzację, ale nie mogę tworzyć łodzi?
@@ -29,7 +29,7 @@ Masz już licencję? Sprawdź, czy jest poprawna.
 
 ## Czy mam Autoryzacje?
 
-One way of checking if you have auth is just to join one of our Stormworks servers and you will get one of the following pop-ups.
+Jednym ze sposobów na sprawdzenie, czy masz autoryzację jest dołączenie do jednego z naszych Stormworks i otrzymasz jedno z następujących okienek.
 
 <!-- css for flex -->
   <div class="flex-vcenter">
