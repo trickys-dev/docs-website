@@ -4,10 +4,15 @@ sidebar_position: 3
 
 # /swserverstatus
 
-<span class="request-bubble request-get">GET Request</span>
+<Highlight color="#25c2a0">GET Request</Highlight>
 
 
 ## Obtenir le statut du serveur Stormworks
+
+
+export const Highlight = ({children, color}) => ( <span style={{ backgroundColor: color, borderRadius: '20px', color: '#fff', padding: '10px', fontSize: }}>
+    {children}
+  </span> );
 
 Vous pouvez utiliser la propriété <span class="code-text">status</span> pour obtenir une réponse <span class="code-text">Offline</span>/<span class="code-text">Online</span>.
 
