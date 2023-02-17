@@ -4,11 +4,7 @@ sidebar_position: 7
 
 # /gblsbans
 
-<Highlight color="#25c2a0">GET Request</Highlight>
-
-export const Highlight = ({children, color}) => ( <span style={{ backgroundColor: color, borderRadius: '20px', color: '#fff', padding: '10px', fontSize: }}>
-    {children}
-  </span> );
+<span class="request-bubble request-get">GET Request</span>
 
 
 ## Få globale utestengelsesliste systemdata
