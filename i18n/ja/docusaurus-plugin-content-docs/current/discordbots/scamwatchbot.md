@@ -41,7 +41,6 @@ In brief the bot can do the following;
   </p>
  </div>
 
-:::note
 If you selected "None" in step 2, you can skip step 2.1
 <div class="flex-vcenter mb-1">
     <img src="/img/scamwatchbot/botqsbuttons.png" width="300px" />
@@ -67,13 +66,11 @@ If you selected "None" in step 2, you can skip step 2.1
   </p>
  </div>
 
-:::tip Required
 Please make sure the bot has a role that is higher then your members on your server!
 :::
 
 ## Configuring The Bot
 
-:::caution Default Permissions
 These commands by default will only be accessible by users with the administrator permission.
 :::
 
