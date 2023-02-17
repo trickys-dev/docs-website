@@ -9,7 +9,9 @@ sidebar_position: 1
 We are still working on creating an application that automatically creates your faction, until then you can create a ticket on discord.
 
 :::note Current Factions
+
 You can view all the current factions by [Clicking Here](https://trickys.gg/factions)
+
 :::
 
 ## Faction Profiles
@@ -92,7 +94,9 @@ The owner role of each faction cannot edit there own role order or permissions.
 
 Below we have a exmaple of what the outcome would look like if you customised everything.
 
-### Custom Faction Example<div class="flex-vcenter mb-1">
+### Custom Faction Example
+
+<div class="flex-vcenter mb-1">
     <img src="/img/customprofiles/factions/factionexamplediscord.png"/>
    <p>
     <b>Sharing Faction Link</b><br/>

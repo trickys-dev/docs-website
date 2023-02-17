@@ -97,3 +97,16 @@ html {
   color: #ff73fa;
 }
 
+.request-bubble {
+  border-radius: 20px;
+  color: #fff;
+  padding: 10px;
+  font-size: 20px;
+}
+.request-get {
+  background-color: #25c2a0;
+}
+.request-post {
+  background-color: #f39c12;
+}
+

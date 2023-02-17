@@ -10,9 +10,18 @@ sidebar_position: 4
 ## Reset Stormworks Server Uptime
 
 
-export const Highlight = ({children, color}) => ( <span style={{ backgroundColor: color, borderRadius: '20px', color: '#fff', padding: '10px', fontSize: }}>
+export const Highlight = ({children, color}) => (
+  <span
+    style={{
+      backgroundColor: color,
+      borderRadius: '20px',
+      color: '#fff',
+      padding: '10px',
+      fontSize: '20px',
+    }}>
     {children}
-  </span> );
+  </span>
+);
 
 ### Parameters
 

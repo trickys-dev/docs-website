@@ -6,9 +6,18 @@ sidebar_position: 7
 
 <Highlight color="#25c2a0">Requête GET</Highlight>
 
-export const Highlight = ({children, color}) => ( <span style={{ backgroundColor: color, borderRadius: '20px', color: '#fff', padding: '10px', fontSize: }}>
+export const Highlight = ({children, color}) => (
+  <span
+    style={{
+      backgroundColor: color,
+      borderRadius: '20px',
+      color: '#fff',
+      padding: '10px',
+      fontSize: '20px',
+    }}>
     {children}
-  </span> );
+  </span>
+);
 
 
 ## Obtenir les Données Système de la Liste de Bannissement Globale

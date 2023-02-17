@@ -9,9 +9,18 @@ sidebar_position: 5
 
 ## Obtenir le ping d'un serveur depuis plusieurs pays
 
-export const Highlight = ({children, color}) => ( <span style={{ backgroundColor: color, borderRadius: '20px', color: '#fff', padding: '10px', fontSize: }}>
+export const Highlight = ({children, color}) => (
+  <span
+    style={{
+      backgroundColor: color,
+      borderRadius: '20px',
+      color: '#fff',
+      padding: '10px',
+      fontSize: '20px',
+    }}>
     {children}
-  </span> );
+  </span>
+);
 
 ### Paramètres
 
