@@ -4,22 +4,22 @@ sidebar_position: 3
 
 # /swserverstatus
 
-<span class="request-bubble request-get">GET Request</span>
+<span class="request-bubble request-get">Solicitud GET</span>
 
 
-## Get Stormworks server status
+## Obtener el estado del servidor de Stormworks
 
-You can use the <span class="code-text">status</span> property to get a <span class="code-text">Offline</span>/<span class="code-text">Online</span>  response.
+Puedes usar la propiedad <span class="code-text">status</span> para obtener una respuesta <span class="code-text">sin conexión</span>/<span class="code-text">en línea</span>.
 
-### Parameters
+### Parámetros
 
-| Parameter name |         Required          | Description                                                 |
-| -------------- |:-------------------------:| ----------------------------------------------------------- |
-| server         | <i class="fas fa-fw fa-check-circle text-success"></i> | CODENAME of the server that you want to get the status for. |
+| Nombre del parámetro |         Requerido         | Descripción                                              |
+| -------------------- |:-------------------------:| -------------------------------------------------------- |
+| server               | <i class="fas fa-fw fa-check-circle text-success"></i> | NOMBRE del servidor para el que desea obtener el estado. |
 
-## Examples
+## Ejemplos
 
-### Online Example
+### Ejemplo en línea
 
 ```json
 {
@@ -52,7 +52,7 @@ You can use the <span class="code-text">status</span> property to get a <span cl
 }
 ```
 
-### Offline Example
+### Ejemplo sin conexión
 
 ```json
 {
