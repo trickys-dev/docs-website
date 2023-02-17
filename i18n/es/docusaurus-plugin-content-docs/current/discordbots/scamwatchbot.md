@@ -4,13 +4,13 @@ sidebar_position: 2
 
 # ScamWatch Bot
 
-This page explains how to use and setup the ScamWatch Bot.
+Esta página explica cómo utilizar y configurar el ScamWatch Bot.
 
-## What Can The Bot Do
+## Que puede hacer el bot
 
-In brief the bot can do the following;
-- Detects scam links from our 31,000+ database and removes them from chat.
-- Logs removed links in a channel for staff to view and/or take action on the user (remove timeout, kick, ban buttons).
+De manera resumida, el bot puede hacer lo siguiente;
+- Detecta enlaces de estafa de nuestra base de datos con más de 31.000+ enlaces maliciosos y los elimina del chat.
+- Registros eliminados en un canal para que el personal pueda ver y/o tomar medidas sobre el usuario (eliminar el tiempo de espera, kick, ban).
 - Auto Timeout feature, which can be set in config. (if a user posts a scam link the bot will time that user out for x amount of days)
 
 ## Quick Setup
