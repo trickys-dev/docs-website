@@ -4,11 +4,14 @@ sidebar_position: 6
 
 # /swinfo
 
-<span class="request-bubble request-get">GET Request</span>
+<Highlight color="#25c2a0">GET Request</Highlight>
 
 
 ## Obtenir le Nombre Global de Joueurs sur Stormworks
 
+export const Highlight = ({children, color}) => ( <span style={{ backgroundColor: color, borderRadius: '20px', color: '#fff', padding: '10px', fontSize: }}>
+    {children}
+  </span> );
 
 ### Paramètres
 Aucun

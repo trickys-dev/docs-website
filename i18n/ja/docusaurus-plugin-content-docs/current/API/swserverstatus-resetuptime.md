@@ -4,10 +4,15 @@ sidebar_position: 4
 
 # /swserverstatus/resetuptime
 
-<span class="request-bubble request-post">GET Request</span>
+<Highlight color="#F39C12">POST Request</Highlight>
 
 
 ## Reset Stormworks Server Uptime
+
+
+export const Highlight = ({children, color}) => ( <span style={{ backgroundColor: color, borderRadius: '20px', color: '#fff', padding: '10px', fontSize: }}>
+    {children}
+  </span> );
 
 ### Parameters
 
