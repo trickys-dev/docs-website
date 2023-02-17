@@ -42,7 +42,9 @@ In brief the bot can do the following;
  </div>
 
 :::note
+
 If you selected "None" in step 2, you can skip step 2.1
+
 <div class="flex-vcenter mb-1">
     <img src="/img/scamwatchbot/botqsbuttons.png" width="300px" />
   <p class="m-0">
@@ -51,7 +53,9 @@ If you selected "None" in step 2, you can skip step 2.1
   <span class="statusbot-title">Roles</span> - When adding a role just @ the role, example @Moderator.
   </p>
  </div>
+
 :::
+
 <div class="flex-vcenter mb-1">
     <img src="/img/scamwatchbot/botqspingrole.png" width="300px" />
   <p class="m-0">
@@ -68,13 +72,17 @@ If you selected "None" in step 2, you can skip step 2.1
  </div>
 
 :::tip Required
+
 Please make sure the bot has a role that is higher then your members on your server!
+
 :::
 
 ## Configuring The Bot
 
 :::caution Default Permissions
+
 These commands by default will only be accessible by users with the administrator permission.
+
 :::
 
 <div class="flex-vcenter mb-1">
@@ -132,7 +140,10 @@ These commands by default will only be accessible by users with the administrato
   </p>
  </div>
 
-## Examples<div class="flex-vcenter mb-1">
+## Examples
+
+
+<div class="flex-vcenter mb-1">
     <img src="/img/scamwatchbot/botlinkdetected.png" width="300px" />
   <p class="m-0">
   <span class="statusbot-title">User Side</span> - This will show in the channel where a scam link is posted. (the embed will remove after 30 seconds).
