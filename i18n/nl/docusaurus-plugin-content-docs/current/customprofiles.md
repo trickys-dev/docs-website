@@ -6,9 +6,7 @@ sidebar_position: 4
 
 Customise personal & faction profiles
 
-:::note Faction Profiles
 [Click Here](/docs/stormworks/HRP/factions#faction-profiles) if you are looking for [Faction Profiles](/docs/stormworks/HRP/factions#faction-profiles)
-:::
 
 
 ## Personal Profiles
