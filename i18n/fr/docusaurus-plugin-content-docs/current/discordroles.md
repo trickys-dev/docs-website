@@ -132,9 +132,9 @@ Pour avoir un rôle créateur, vous devez soumettre un lien du workshop steam, v
 </tbody>
 </table>
 
-:::note Want A Creator Role
+:::note Vous souhaitez un rôle de créateur
 
-[Click Here](https://trickys.gg/applications/new) to get a creator role.
+[Cliquez ici](https://trickys.gg/applications/new) pour obtenir un rôle de créateur.
 
 :::
 
@@ -167,7 +167,7 @@ La procédure pour avoir un rôle vétéran est entièrement automatique.
 
 :::tip
 
-Do the <a class="code-text">/getveteran</a> command in [Discord](discord://discord.com/channels/710922135580835950/723322585563267073).
+Faites la commande <a class="code-text">/getveteran</a> dans [Discord](discord://discord.com/channels/710922135580835950/723322585563267073).
 
 :::
 
