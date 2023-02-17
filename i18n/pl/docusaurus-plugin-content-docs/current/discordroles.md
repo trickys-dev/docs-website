@@ -165,7 +165,7 @@ Proces zdobycia tej roli jest w pełni automatyczny.
 </tbody>
 </table>
 
-:::wskazówka
+:::tip
 
 Wpisz komendę <a class="code-text">/getveteran</a> na [Discordzie](discord://discord.com/channels/710922135580835950/723322585563267073).
 
