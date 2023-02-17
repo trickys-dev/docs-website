@@ -35,20 +35,20 @@ En bref, le bot peut faire ce qui suit ;
 <div class="flex-vcenter mb-1">
     <img src="/img/scamwatchbot/botqsselectbuttons.png" width="300px" />
   <p class="m-0">
-  <span class="statusbot-title">Step 2.</span> - Select which buttons you want to see under the embeds.<br/>
-  <span class="statusbot-title">None Button</span> - Clicking the None button will not show any buttons under the embed.<br/>
-  <span class="statusbot-title">Select Buttons</span> - Click on the buttons dropdown and you will see a list pop up select the ones you want to show under the embeds.
+  <span class="statusbot-title">Étape 2.</span> - Sélectionnez les boutons que vous voulez voir sous les embeds.<br/>
+  <span class="statusbot-title">None Button</span> - Si vous appuyez sur le bouton "None" il n'y aura pas de bouton sous les embeds.<br/>
+  <span class="statusbot-title">Select Buttons</span> - Appuyer sur le menu des boutons va vous montrer une liste, choisit les boutons que vous voulez voir sous les embeds.
   </p>
  </div>
 
 :::note
-If you selected "None" in step 2, you can skip step 2.1
+Si vous avez choisi "None" dans l'étape 2, vous pouvez sauter l'étape 2.1
 <div class="flex-vcenter mb-1">
     <img src="/img/scamwatchbot/botqsbuttons.png" width="300px" />
   <p class="m-0">
-  <span class="statusbot-title">Step 2.1</span> - Pick a role that is requried to use the buttons.<br/>
-  <span class="statusbot-title">None</span> - If you type <span class="code-text">none</span> everyone that has access to the log channel can use the buttons.<br/>
-  <span class="statusbot-title">Roles</span> - When adding a role just @ the role, example @Moderator.
+  <span class="statusbot-title">Étape 2.1</span> - Choisissez un rôle qui sera nécessaire pour utiliser les boutons.<br/>
+  <span class="statusbot-title">None</span> - Si vous appuyez sur <span class="code-text">none</span> tous qui ont accès au canal journal peuvent utiliser les boutons.<br/>
+  <span class="statusbot-title">Roles</span> - Quand vous ajoutez un rôle juste @ le rôle, example @Moderator.
   </p>
  </div>
 :::
