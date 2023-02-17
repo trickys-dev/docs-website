@@ -9,8 +9,6 @@ sidebar_position: 1
 We are still working on creating an application that automatically creates your faction, until then you can create a ticket on discord.
 
 :::note Current Factions
-You can view all the current factions by [Clicking Here](https://trickys.gg/factions)
-:::
 
 ## Faction Profiles
 
