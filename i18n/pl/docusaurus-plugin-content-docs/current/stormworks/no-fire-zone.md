@@ -2,15 +2,14 @@
 sidebar_position: 1
 ---
 
-# No Firing Zone
+# Strefa Rozbrojenia
 
-Do not do the following:
-- Fire your Weapons.
-- Fire at players or vehicles.
-- Fire Into the zone.
-- Fire at other players or vehicles while they are in the zone.
+Nie wykonuj następujących czynności:
+- Używać/Strzelać ze swojej broni.
+- Ostrzeliwać graczy lub pojazdy poza strefą.
+- Strzelać wgłąb strefy z zewnątrz.
+- Ostrzeliwać graczy lub pojazdy, gdy znajdują się w strefie spoza niej.
 
-:::info Firing In NFZ
 Firing inside or into the zone will get you temporary banned.
 :::  
 
