@@ -10,9 +10,9 @@ Strefa uzupełniająca może uzupełnić następujące elementy:
 - Uzupełnić Węgiel.
 - Uzupełnić zbiorniki na wodę.
 
-:::info In The Zone
+:::info W Strefie
 
-Once you are in the Top-Up Zone use one of the following commands to refill: ?refill or ?topup
+Kiedy znajdziesz się w strefie uzupełniającej, możesz użyć następujących poleceń: ?refill lub ?topup
 
 :::
 
@@ -23,14 +23,14 @@ Once you are in the Top-Up Zone use one of the following commands to refill: ?re
     </div>
 <p>
 
-Top-Up Zones are yellow circles.
+Strefy Uzupełniające to żółte okręgi.
 
 </p>
   </div>
 
-## Steam Workshop Badge
+## Odznaka Warsztatu Steam
 
-Show your workshop creation is compatible with the auto top-up zone by added a badge to your workshop description on steam. Just click on the "Copy Badge BBcode" button & paste into your description.
+Pokaż, że twoja kreacja jest kompatybilna ze strefą automatycznego uzupełniania, poprzez dodanie odznaki do opisu na warsztacie steam. Po prostu kliknij przycisk "Kopiuj odznakę BBcode" i wklej do opisu.
 
 
 
