@@ -92,17 +92,19 @@ The owner role of each faction cannot edit there own role order or permissions.
 
 Below we have a exmaple of what the outcome would look like if you customised everything.
 
-### Custom Faction Example<div class="flex-vcenter mb-1">
+### Custom Faction Example
+
+<div class="flex-vcenter mb-1">
     <img src="/img/customprofiles/factions/factionexamplediscord.png"/>
    <p>
     <b>Sharing Faction Link</b><br/>
     Sharing a link on discord will show a embed of your faction including the custom colour & the avatar that you set.
     </p>
- </div>
+</div>
    <div class="flex-vcenter mb-1">
     <img src="/img/customprofiles/factions/factionexampleavatar.png"/>
    <p>
      <b>Avatar Outline Colour</b><br/>
     Viewing profile with selected colour on website.
     </p>
- </div>
+</div>
