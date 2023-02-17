@@ -62,7 +62,7 @@ sidebar_position: 0
 ## Wymiary
 
 Kontenery ISO:
-- Hight: 11 Blocks - 2.75 meters.
+- Height: 11 Blocks - 2.75 meters.
 - Szerokość: 11 bloków – 2,74 metra.
 - Długość: 29 bloków – 7,25 metrów.
 - Waga: 4 tony.
