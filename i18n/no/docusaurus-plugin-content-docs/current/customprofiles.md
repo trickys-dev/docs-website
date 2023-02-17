@@ -7,8 +7,6 @@ sidebar_position: 4
 Tilpass dine personlige & Fraction profiler
 
 :::note Faction Profiles
-[Click Here](/docs/stormworks/HRP/factions#faction-profiles) if you are looking for [Faction Profiles](/docs/stormworks/HRP/factions#faction-profiles)
-:::
 
 
 ## Personal Profiles
