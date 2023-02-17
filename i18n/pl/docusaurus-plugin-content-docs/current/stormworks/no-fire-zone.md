@@ -10,9 +10,9 @@ Nie wykonuj następujących czynności:
 - Strzelać wgłąb strefy z zewnątrz.
 - Ostrzeliwać graczy lub pojazdy, gdy znajdują się w strefie spoza niej.
 
-:::info Firing In NFZ
+:::info Strzelanie w Strefie
 
-Firing inside or into the zone will get you temporary banned.
+Strzelanie w środku lub w głąb strefy spowoduje, że zostaniesz tymczasowo zbanowany.
 
 :::  
 
