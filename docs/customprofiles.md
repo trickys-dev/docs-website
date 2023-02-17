@@ -13,7 +13,7 @@ Customise personal & faction profiles
 
 ## Personal Profiles
 
-Peronal profiles are referring to public profiles which all members have.
+Personal profiles are referring to public profiles which all members have.
 
 - Avatar to display.
 - Bio. **You are limited to 200 characters in bios & descriptions.**
