@@ -11,8 +11,10 @@ The Top-up Zone can top-up the following:
 - Refill water tanks.
 
 :::info In The Zone
+
 Once you are in the Top-Up Zone use one of the following commands to refill:
 ?refill or ?topup
+
 :::
 
 <!-- css for flex -->
