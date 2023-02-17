@@ -272,5 +272,26 @@
   "theme.tags.tagsPageTitle": {
     "message": "Tags",
     "description": "The title of the tag list page"
+  },
+  "Trickys Docs": {
+    "message": "Trickys Docs"
+  },
+  "Docs For Everyone": {
+    "message": "Docs For Everyone"
+  },
+  "Game Docs": {
+    "message": "Game Docs"
+  },
+  "Find documentation on some of the games we host to help you out": {
+    "message": "Find documentation on some of the games we host to help you out"
+  },
+  "Wolf says hi": {
+    "message": "Wolf says hi"
+  },
+  "Say hello back to wolf": {
+    "message": "Say hello back to wolf"
+  },
+  "API Docs": {
+    "message": "API Docs"
   }
 }

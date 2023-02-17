@@ -56,12 +56,15 @@ sidebar_position: 0
 
 1. You must be in a faction, you can either join one or create a new one.
 2. Find an oil point on the map. (This will give 30cr once captured)
+
 <img src="/img/hrp/cargooil/HRPOilField.png"/>
 
 3. Go to oil point and wait for capture.
+
 <img src="/img/hrp/cargooil/HRPOilPointcapture1.png"/>
 
 4. Once captured you will get money, the point will be uncaptured, and will be on cooldown for 30mins so wait or find another point.
+
 <img src="/img/hrp/cargooil/HRPOilPointcapture2.png"/>
 
 ## Sizes
