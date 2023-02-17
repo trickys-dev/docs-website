@@ -42,16 +42,20 @@ Krótko mówiąc, bot może zrobić następujące działania;
  </div>
 
 :::note
-Jeśli wybrałeś "None" w kroku 2, możesz pominąć krok 2.1
+
+If you selected "None" in step 2, you can skip step 2.1
+
 <div class="flex-vcenter mb-1">
     <img src="/img/scamwatchbot/botqsbuttons.png" width="300px" />
   <p class="m-0">
   <span class="statusbot-title">Krok 2.1</span> - Wybierz rolę, która jest upoważniona do użycia przycisków.<br/>
-  <span class="statusbot-title">None</span> - Jeśli nie wpiszesz <span class="code-text">none</span> wszyscy, którzy mają dostęp do kanału dziennika, mogą użyć przycisków.<br/>
+  <span class="statusbot-title">None</span> - Jeśli wpiszesz <span class="code-text">none</span> wszyscy, którzy mają dostęp do kanału dziennika, mogą użyć przycisków.<br/>
   <span class="statusbot-title">Roles</span> - Podczas dodawania roli tylko @ roli, na przykład @Moderator.
   </p>
  </div>
+
 :::
+
 <div class="flex-vcenter mb-1">
     <img src="/img/scamwatchbot/botqspingrole.png" width="300px" />
   <p class="m-0">
@@ -67,14 +71,18 @@ Jeśli wybrałeś "None" w kroku 2, możesz pominąć krok 2.1
   </p>
  </div>
 
-:::tip Wymagane
-Upewnij się, że bot ma rolę wyższą niż twoi członkowie na Twoim serwerze!
+:::tip Required
+
+Please make sure the bot has a role that is higher then your members on your server!
+
 :::
 
 ## Konfigurowanie bota
 
-::caution Domyślne uprawnienia  
-Te polecenia będą domyślnie dostępne tylko dla użytkowników z uprawnieniami administratora.
+:::caution Default Permissions
+
+These commands by default will only be accessible by users with the administrator permission.
+
 :::
 
 <div class="flex-vcenter mb-1">
@@ -132,12 +140,15 @@ Te polecenia będą domyślnie dostępne tylko dla użytkowników z uprawnieniam
   </p>
  </div>
 
-## Przykłady<div class="flex-vcenter mb-1">
+## Przykłady
+
+
+<div class="flex-vcenter mb-1">
     <img src="/img/scamwatchbot/botlinkdetected.png" width="300px" />
   <p class="m-0">
   <span class="statusbot-title">Strona użytkownika</span> - Pojawi się to na kanale, w którym został zamieszczony link do oszustwa. (osadzenie usunie się po 30 sekundach).
   </p>
- </div>
+</div>
    <div class="flex-vcenter mb-1">
     <img src="/img/scamwatchbot/botlinkdetectedlog.png" width="300px" />
   <p class="m-0">
@@ -149,7 +160,7 @@ Te polecenia będą domyślnie dostępne tylko dla użytkowników z uprawnieniam
 5. Jeśli włączyłeś przycisk "Wyrzuć", to jest miejsce, w którym się pojawi.<br/>
 6. Jeśli włączyłeś przycisk "Ban", to jest miejsce, w którym się pojawi.<br/>
   </p>
- </div>
+</div>
    <div class="flex-vcenter mb-1">
     <img src="/img/scamwatchbot/botlinkdetectedaction.png" width="300px" />
   <p class="m-0">
