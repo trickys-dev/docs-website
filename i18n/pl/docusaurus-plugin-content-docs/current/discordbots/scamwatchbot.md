@@ -41,6 +41,8 @@ Krótko mówiąc, bot może zrobić następujące działania;
   </p>
  </div>
 
+:::note
+
 If you selected "None" in step 2, you can skip step 2.1
 <div class="flex-vcenter mb-1">
     <img src="/img/scamwatchbot/botqsbuttons.png" width="300px" />
@@ -50,6 +52,7 @@ If you selected "None" in step 2, you can skip step 2.1
   <span class="statusbot-title">Roles</span> - Podczas dodawania roli tylko @ roli, na przykład @Moderator.
   </p>
  </div>
+
 :::
 <div class="flex-vcenter mb-1">
     <img src="/img/scamwatchbot/botqspingrole.png" width="300px" />
@@ -66,12 +69,18 @@ If you selected "None" in step 2, you can skip step 2.1
   </p>
  </div>
 
+:::tip Required
+
 Please make sure the bot has a role that is higher then your members on your server!
+
 :::
 
 ## Konfigurowanie bota
 
+:::caution Default Permissions
+
 These commands by default will only be accessible by users with the administrator permission.
+
 :::
 
 <div class="flex-vcenter mb-1">
@@ -129,7 +138,9 @@ These commands by default will only be accessible by users with the administrato
   </p>
  </div>
 
-## Przykłady<div class="flex-vcenter mb-1">
+## Przykłady
+
+<div class="flex-vcenter mb-1">
     <img src="/img/scamwatchbot/botlinkdetected.png" width="300px" />
   <p class="m-0">
   <span class="statusbot-title">Strona użytkownika</span> - Pojawi się to na kanale, w którym został zamieszczony link do oszustwa. (osadzenie usunie się po 30 sekundach).
@@ -155,7 +166,7 @@ These commands by default will only be accessible by users with the administrato
 2. Pokazuje to członka personelu, który podjął akcję.<br/>
 3. Gdy akcja zostanie podjęta, nie możesz podjąć innej akcji, przyciski zostaną wyłączone.<br/>
   </p>
- </div>
+</div>
 
 ## Uprawnienia bota
 To są uprawnienia bota:
