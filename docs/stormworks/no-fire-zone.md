@@ -11,9 +11,7 @@ Do not do the following:
 - Fire at other players or vehicles while they are in the zone.
 
 :::info Firing In NFZ
-
 Firing inside or into the zone will get you temporary banned.
-
 :::
 
   <div class="flex-vcenter mb-1">
