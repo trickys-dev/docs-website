@@ -47,7 +47,7 @@ Jeśli wybrałeś "None" w kroku 2, możesz pominąć krok 2.1
     <img src="/img/scamwatchbot/botqsbuttons.png" width="300px" />
   <p class="m-0">
   <span class="statusbot-title">Krok 2.1</span> - Wybierz rolę, która jest upoważniona do użycia przycisków.<br/>
-  <span class="statusbot-title">None</span> - Jeśli nie wpiszesz <span class="code-text"></span> wszyscy, którzy mają dostęp do kanału dziennika, mogą użyć przycisków.<br/>
+  <span class="statusbot-title">None</span> - Jeśli nie wpiszesz <span class="code-text">none</span> wszyscy, którzy mają dostęp do kanału dziennika, mogą użyć przycisków.<br/>
   <span class="statusbot-title">Roles</span> - Podczas dodawania roli tylko @ roli, na przykład @Moderator.
   </p>
  </div>
@@ -67,7 +67,7 @@ Jeśli wybrałeś "None" w kroku 2, możesz pominąć krok 2.1
   </p>
  </div>
 
-::tip Wymagane  
+:::tip Wymagane
 Upewnij się, że bot ma rolę wyższą niż twoi członkowie na Twoim serwerze!
 :::
 
