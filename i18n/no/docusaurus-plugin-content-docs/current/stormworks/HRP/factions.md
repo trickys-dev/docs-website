@@ -10,6 +10,10 @@ We are still working on creating an application that automatically creates your 
 
 :::note Current Factions
 
+You can view all the current factions by [Clicking Here](https://trickys.gg/factions)
+
+:::
+
 ## Faction Profiles
 
 - Avatar image.
@@ -55,7 +59,7 @@ You are able to use BBCode in your factions bio, heres whats allowed:
 
 ### Faction Avatar Colour
 
-  <div class="flex-vcenter mb-1">
+<div class="flex-vcenter mb-1">
     <img src="/img/customprofiles/factions/factionavatarcolour.png"/>
     <p>
     You can choose the outline colour that is around your faction avatar.
@@ -79,11 +83,15 @@ To manage roles head to the `Roles` tab on a faction your own.
 <img src="/img/hrp/factions/factionsroleviewpage.png" />
 
 :::tip
+
 Regardless of permissions roles cannot edit there own role or roles above them.
+
 :::
 
 :::note
+
 The owner role of each faction cannot edit there own role order or permissions.
+
 :::
 
 ## Example
