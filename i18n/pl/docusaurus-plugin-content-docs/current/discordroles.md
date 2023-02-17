@@ -132,7 +132,7 @@ Aby uzyskać rolę twórcy, musisz przesłać adres URL warsztatu Steam, Twój w
 </tbody>
 </table>
 
-:::uwaga Chcesz Role Twórcy
+:::note Chcesz Role Twórcy
 
 [Kliknij tutaj](https://trickys.gg/applications/new) , aby uzyskać rolę twórcy.
 
