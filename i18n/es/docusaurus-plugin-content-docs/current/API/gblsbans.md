@@ -4,18 +4,18 @@ sidebar_position: 7
 
 # /gblsbans
 
-<span class="request-bubble request-get">GET Request</span>
+<span class="request-bubble request-get">Solicitud GET</span>
 
 
-## Get Global Ban List System Data
+## Obtener Datos del Sistema de Lista de Baneos Global
 (only server owners can access the Global Ban List System) Please note that <span class="code-text">timecreated</span> might be null if profile is private.
 
 
-### Parameters
-None
+### Parámetros
+Ninguno
 
-## Examples
-### Success Example
+## Ejemplos
+### Ejemplo de Éxito
 ```json
 {
   "success": true,
