@@ -17,9 +17,8 @@ description: Boat License Information.
 10. You must stop for staff if requested!
 
 
-:::tip
 You only need to have nav lights on during the night and/or low visibility.
-:::  
+:::    
 :::caution
 You cannot use flashing blue or red lights as these are used by staff.
 :::
@@ -30,7 +29,6 @@ You cannot use flashing blue or red lights as these are used by staff.
 2. Head over to [applications](https://trickys.gg/applications/new) and select Boat License.
 3. You cannot apply for your 1st ever license with a sea-plane, you need to apply with a boat. Once you have a [Boat ID](/docs/stormworks/boats#boat-license-placement) you can place that onto your sea-plane.
 
-:::tip Tip
 When you provide a screenshot of the boat in the application, showing the length of the boat within the screenshot speeds up the process.
 :::
 
