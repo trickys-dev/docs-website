@@ -5,38 +5,40 @@ description: Informacje o licencji łodzi.
 
 # Łodzie
 
-1. Aby korzystać z łodzi i pojazdów pływających na wodzie na serwerach 1, 2 i 3 potrzebujesz licencji na łódź.
+1. Aby korzystać z łodzi i pojazdów ziemnowodnych na wodzie na serwerach 1, 2 i 3 potrzebujesz licencji na łódź.
 2. Co najmniej 24 godziny muszą upłynąć, jeśli chcesz ubiegać się o licencję na łódź, od kiedy dołączyłeś do strony internetowej.
 3. Twoja łódź nie może przekraczać `40 metrów` długości -> `160 bloków`, aby zredukować lag.
-4. You need a boat licence to use an amphibious vehicle on water.
-5. You cannot use workshop vehicles which you didn’t make.
-6. Float-planes and float-helicopters can take-off and land on water, but not move anywhere except to take-off again, unless they have a boat license.
-7. Nav lights are required for boats, seaplanes when on water, amphibious vehicles when on water, unless you are docked(example to dock or land)(view screenshots below for further details on light placements)
-8. Submersibles need nav lights when moving above water.
-9. You cannot use spotlights or indicators as nav lights.
-10. You must stop for staff if requested!
+4. Potrzebujesz licencji na łódź, aby używać na wodzie pojazdu ziemnowodnego.
+5. Nie możesz używać pojazdów warsztatowych, których nie zrobiłeś.
+6. Samoloty i śmigłowce pływające mogą startować i lądować na wodzie, ale nie przemieszczać się nigdzie poza ponownym startem, chyba że posiadają licencję na łódź.
+7. Światła nawigacyjne są wymagane w przypadku łodzi, statków pływających na wodzie, pojazdów ziemnowodnych znajdujących się na wodzie, chyba że jesteś zacumowany (na przykład cumowanie lub lądowania)(zobacz zrzuty ekranu poniżej, aby uzyskać więcej informacji na temat położenia świateł)
+8. Pojazdy podwodne podczas poruszania się nad wodą podwodną wymagają świateł nawigacyjnych.
+9. Nie możesz używać reflektorów lub wskaźników jako świateł nawigacyjnych.
+10. Musisz zatrzymać się dla personelu, jeżeli zostałeś o to poproszony!
 
 
-You only need to have nav lights on during the night and/or low visibility.
-:::    
+:::tip
+Musisz tylko włączyć światła nawigacyjne podczas nocy i/lub przy niskiej widoczności.
+:::  
 :::caution
-You cannot use flashing blue or red lights as these are used by staff.
+Nie możesz używać migających niebieskich lub czerwonych świateł, ponieważ są one używane przez personel.
 :::
 
-## Applying For a Boat License
+## Składanie Wniosku o Licencję na Łódź
 
-1. Make sure your boat meets the requirments.
-2. Head over to [applications](https://trickys.gg/applications/new) and select Boat License.
-3. You cannot apply for your 1st ever license with a sea-plane, you need to apply with a boat. Once you have a [Boat ID](/docs/stormworks/boats#boat-license-placement) you can place that onto your sea-plane.
+1. Upewnij się, że łódź spełnia wymagania.
+2. Przejdź do [zgłoszeń](https://trickys.gg/applications/new) i wybierz Licencję Łodzi.
+3. Twoja pierwsza licencja nie może być samolotem pływającym, musisz najpierw złożyć wniosek łodzią. Gdy masz [ID łodzi](/docs/stormworks/boats#boat-license-placement) możesz umieścić to na swoim samolocie pływającym.
 
-When you provide a screenshot of the boat in the application, showing the length of the boat within the screenshot speeds up the process.
+::tip Wskazówka  
+Gdy podasz zrzut ekranu łodzi we wniosku, pokazywanie długości łodzi w zrzucie ekranu przyspiesza proces.
 :::
 
-## Adding Boats To Current License
+## Dodawanie Łodzi do Bieżącej Licencji
 
-You need to add all the boats you want to use on the server to your license.
+Musisz dodać wszystkie łodzie, których chcesz użyć na serwerze do swojej licencji.
 
-1. Head over to your [account](https://trickys.gg/account) and view licensed vehicles.
+1. Przejdź do swojego [konta](https://trickys.gg/account) i zobacz licencjonowane pojazdy.
 2. If you have no vehicles you will see the image below, just click `+ New vehicle`.
 
 <img src="/img/boats/boatsaddingtocurrentlicense.png" width="600px" />
