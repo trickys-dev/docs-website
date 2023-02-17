@@ -12,7 +12,7 @@ export const Highlight = ({children, color}) => ( <span style={{ backgroundColor
 
 
 ## Uzyskaj dane Globalnego Systemu Listy Banów
-(tylko właściciele serwerów mogą uzyskać dostęp do Globalnego Systemu Listy Banów) Pamiętaj, że <span class="code-text">timecreated</span> może być pusty, jeśli profil jest prywatny.
+(tylko właściciele serwerów mogą uzyskać dostęp do Globalnego Systemu Listy Banów) Pamiętaj, że <span class="code-text">timecreated</span> może być null, jeśli profil jest prywatny.
 
 
 ### Parametry
