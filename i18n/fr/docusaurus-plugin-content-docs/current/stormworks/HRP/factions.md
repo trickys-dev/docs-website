@@ -8,9 +8,7 @@ sidebar_position: 1
 
 We are still working on creating an application that automatically creates your faction, until then you can create a ticket on discord.
 
-:::note Current Factions
 You can view all the current factions by [Clicking Here](https://trickys.gg/factions)
-:::
 
 ## Faction Profiles
 
@@ -80,11 +78,9 @@ To manage roles head to the `Roles` tab on a faction your own.
 
 <img src="/img/hrp/factions/factionsroleviewpage.png" />
 
-:::tip
 Regardless of permissions roles cannot edit there own role or roles above them.
 :::
 
-:::note
 The owner role of each faction cannot edit there own role order or permissions.
 :::
 
