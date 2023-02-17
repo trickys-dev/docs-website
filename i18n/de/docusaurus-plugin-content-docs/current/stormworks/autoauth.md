@@ -18,7 +18,7 @@ When you join the server, the system will check the following things from our we
 
 - Checks if you are perm banned or temp banned from the server you are joining.
 - Checks if you have an account on the website.(Steam & Discord linked)
-- Checks if you are authorized on the server you joined, if not then your be AutoAuthed.
+- Checks if you are authorized on the server you joined, if not then you will be AutoAuthed.
 - Checks if you are authorized and have a vaild boat license. This is only needed if you have a boat license.
 
 ## I have Auth But can't Spawn Boats?
@@ -29,7 +29,7 @@ Already have a license? Check if its valid.
 
 ## Do I Have Auth?
 
-One way of checking if you have auth is just to join one of our Stormworks severs and you will get one of the following pop-ups.
+One way of checking if you have auth is just to join one of our Stormworks servers and you will get one of the following pop-ups.
 
 <!-- css for flex -->
   <div class="flex-vcenter">
