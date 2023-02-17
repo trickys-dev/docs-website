@@ -87,8 +87,7 @@ These commands by default will only be accessible by users with the administrato
  <div class="flex-vcenter mb-1">
     <img src="/img/scamwatchbot/configstaffrole.png" width="300px" />
   <p class="m-0">
-  <span class="statusbot-title">Stabs Rolle</span> - Velg en stabs-rolle som du vil skal bli varslet når en scam link er oppdaget.<br/>
-  For å sette rollen: <span class="code-text">/config personalrolle</span> <span class="discord-text">@role</span>
+  <span class="statusbot-title">Fullført </span> - Oppsettet er fullført.
 
   </p>
  </div>
