@@ -8,8 +8,10 @@ sidebar_position: 1
 
 Nadal pracujemy nad stworzeniem aplikacji, która automatycznie tworzy frakcję, aż do tego czasu możesz utworzyć zgłoszenie na serwerze Discord.
 
-:::note Aktualne Frakcje
-Możesz zobaczyć wszystkie aktualnie istniejące frakcje [Klikając Tutaj](https://trickys.gg/factions)
+:::note Current Factions
+
+You can view all the current factions by [Clicking Here](https://trickys.gg/factions)
+
 :::
 
 ## Profile Frakcji
@@ -57,7 +59,7 @@ Możesz korzystać z BBCode w opisie swojej frakcji, oto co jest dozwolone:
 
 ### Kolor Konturu Awatara Frakcji
 
-  <div class="flex-vcenter mb-1">
+<div class="flex-vcenter mb-1">
     <img src="/img/customprofiles/factions/factionavatarcolour.png"/>
     <p>
     Możesz wybrać kolor konturu, który znajduje się wokół awatara twojej frakcji.
@@ -81,11 +83,15 @@ Aby zarządzać rolami w twojej frakcji, kliknij zakładkę `Roles`.
 <img src="/img/hrp/factions/factionsroleviewpage.png" />
 
 :::tip
-Bez względu na uprawnienia, role nie mogą edytować własnej roli ani ról nad nimi.
+
+Regardless of permissions roles cannot edit there own role or roles above them.
+
 :::
 
 :::note
-Rola właściciela każdej frakcji nie może edytować tam własnych kolejności ról lub uprawnień.
+
+The owner role of each faction cannot edit there own role order or permissions.
+
 :::
 
 ## Przykład
