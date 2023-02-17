@@ -4,10 +4,23 @@ sidebar_position: 5
 
 # /swserverstatus/ping
 
-<span class="request-bubble request-get">GET Request</span>
+<Highlight color="#25c2a0">GET Request</Highlight>
 
 
 ## Get the ping of a server from multiple countries
+
+export const Highlight = ({children, color}) => (
+  <span
+    style={{
+      backgroundColor: color,
+      borderRadius: '20px',
+      color: '#fff',
+      padding: '10px',
+      fontSize: '20px',
+    }}>
+    {children}
+  </span>
+);
 
 ### Parameters
 

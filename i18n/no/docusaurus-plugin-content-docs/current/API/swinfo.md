@@ -4,14 +4,11 @@ sidebar_position: 6
 
 # /swinfo
 
-<Highlight color="#25c2a0">GET forespørsel</Highlight>
+<span class="request-bubble request-get">GET Request</span>
 
 
 ## Få Stormwork's Globale Spillerantall
 
-export const Highlight = ({children, color}) => ( <span style={{ backgroundColor: color, borderRadius: '20px', color: '#fff', padding: '10px', fontSize: }}>
-    {children}
-  </span> );
 
 ### Parametere
 Ingen

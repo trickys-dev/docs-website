@@ -7,9 +7,7 @@ sidebar_position: 4
 Customise personal & faction profiles
 
 :::note Faction Profiles
-
 [Click Here](/docs/stormworks/HRP/factions#faction-profiles) if you are looking for [Faction Profiles](/docs/stormworks/HRP/factions#faction-profiles)
-
 :::
 
 
@@ -48,9 +46,7 @@ The selected avatar will also show in a Discord embed when you post your profile
 
 Below we have have exmaple of what the outcome would look like if you customised everything.
 
-### Custom Profile Example
-
-<div class="flex-vcenter mb-1">
+### Custom Profile Example<div class="flex-vcenter mb-1">
     <img src="/img/customprofiles/profilecolorwebsite.png"/>
     <p>
     <b>Avatar Outline Colour</b><br/>
