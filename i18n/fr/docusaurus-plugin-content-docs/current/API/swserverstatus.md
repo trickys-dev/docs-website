@@ -20,7 +20,7 @@ Vous pouvez utiliser la propriété <span class="code-text">status</span> pour o
 
 | Nom du paramètre |        Obligatoire        | Description                                                    |
 | ---------------- |:-------------------------:| -------------------------------------------------------------- |
-| serveur          | <i class="fas fa-fw fa-check-circle text-success"></i> | CODENAME du serveur pour lequel vous voulez obtenir le statut. |
+| server           | <i class="fas fa-fw fa-check-circle text-success"></i> | CODENAME du serveur pour lequel vous voulez obtenir le statut. |
 
 ## Exemples
 
