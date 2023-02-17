@@ -12,7 +12,7 @@ description: Polecenia Stormworks w grze.
 | ?auth             | &nbsp; | Sprawdza status autoryzacji                                                     | ?auth          |
 | ?staff            | &nbsp; | Pokazuje dostępny personel                                                      | ?staff         |
 | ?pos              | &nbsp; | Pokazuje aktualną pozycję                                                       | ?pos           |
-| ?die              | &nbsp; | Have a guess                                                                    | ?die           |
+| ?die              | &nbsp; | Odgadnij                                                                        | ?die           |
 | ?dm {id} {msg}    | &nbsp; | Bezpośrednia wiadomość do innego użytkownika                                    | ?dm 1 hi       |
 | ?reply {msg}      | ?r     | Odpowiedz na bezpośrednią wiadomość                                             | ?reply hi      |
 | ?user             | ?u     | Podaje informacje o użytkowniku                                                 | ?user          |
@@ -29,39 +29,39 @@ description: Polecenia Stormworks w grze.
 
 ## Polecenia Ładunkowe HRP
 
- | Polecenie        | Opis                                                   | Przykład   |
- | ---------------- | ------------------------------------------------------ | ---------- |
- | ?help            | Pokazuje polecenia                                     | ?help      |
- | ?claim           | Tworzy kontener, jeśli nie istnieje                    | ?claim     |
- | ?claimto {dstID} | Claim from a terminal that goes to a specify location. | ?claimto 1 |
- | ?claim [ID]      | Claims a container                                     | ?claim 1   |
- | ?unclaim {ID}    | Unclaims a container                                   | ?unclaim 1 |
- | ?listdst         | Shows all crate destinations from currect terminal     | ?listdst   |
- | ?deliver {ID}    | Use this when at a delivery area to turn in your cargo | ?deliver 1 |
- | ?myclaims        | Show you your claimed cargo                            | ?myclaims  |
+ | Polecenie        | Opis                                                                    | Przykład   |
+ | ---------------- | ----------------------------------------------------------------------- | ---------- |
+ | ?help            | Pokazuje polecenia                                                      | ?help      |
+ | ?claim           | Tworzy kontener, jeśli nie istnieje                                     | ?claim     |
+ | ?claimto {dstID} | Złóż wniosek z terminalu, który udaje się do określonej lokalizacji.    | ?claimto 1 |
+ | ?claim [ID]      | Deklaruje kontener jako twój                                            | ?claim 1   |
+ | ?unclaim {ID}    | Usuwa deklaracje z kontenera                                            | ?unclaim 1 |
+ | ?listdst         | Pokazuje wszystkie miejsca docelowe kontenera z obecnego terminalu      | ?listdst   |
+ | ?deliver {ID}    | Użyj tego, gdy znajdujesz się w miejscu dostawy, aby dostarczyć ładunek | ?deliver 1 |
+ | ?myclaims        | Pokazuje ci twój zadeklarowany ładunek                                  | ?myclaims  |
 
 
 ## Polecenia Menedżera Pojazdów
 
-| Polecenie                                                             | Opis                                         | Przykład              |
-| --------------------------------------------------------------------- | -------------------------------------------- | --------------------- |
-| ?v help                                                               | Shows you sub-commands                       | ?v help               |
-| ?v info                                                               | View your vehicle info                       | ?v info               |
-| ?v list                                                               | List all vehicles you spawned                | ?v list               |
-| ?v {vid} help                                                         | View sub-commands for ?v {id}                | ?v 1 help             |
-| ?v {vid} info                                                         | View info about vehicle                      | ?v 1 info             |
-| ?v {vid} despawn                                                      | Despawn vehicle                              | ?v 1 despawn          |
-| ?v {vid} owner {id}                                                   | Transfer ownership of vehicle                | ?v 1 owner 2          |
-| ?v {vid} tp                                                           | Teleport to a seat in the vehicle            | ?v 1 tp               |
-| ?v {vid} kick {id}                                                    | Kick a user from a vehicle                   | ?v 1 kick 1           |
-| ?v {vid} kickall                                                      | Kick all users from vehicle                  | ?v 1 kickall          |
-| ?v {vid} repair                                                       | Repair a vehicle (<a href="/docs/supporters#what-perks-are-there">Silver+</a>) | ?v 1 repair           |
-| Access control command. Change who can interaction with your vehicles |                                              |                       |
-| ?v accessmode (all/whitelist/blacklist/none)                          | Change who can interaction with your vehicle | ?v accessmode all     |
-| ?v whitelist/blacklist add {id}                                       | Add someone to your whitelist/blacklist      | ?v whitelist add 1    |
-| ?v whitelist/blacklist remove {id}                                    | Remove someone from your whitelist/blacklist | ?v whitelist remove 1 |
-| ?v whitelist/blacklist list                                           | Shows your current whitelist/blacklist       | ?v whitelist list     |
-| ?v whitelist/blacklist clear                                          | Clears whitelist/blacklist                   | ?v whitelist clear    |
+| Polecenie                                                                           | Opis                                                  | Przykład              |
+| ----------------------------------------------------------------------------------- | ----------------------------------------------------- | --------------------- |
+| ?v help                                                                             | Pokazuje pod-polecenia                                | ?v help               |
+| ?v info                                                                             | Zobacz informacje o swoim pojeździe                   | ?v info               |
+| ?v list                                                                             | Lista wszystkich pojazdów, które ty stworzyłeś        | ?v list               |
+| ?v {vid} help                                                                       | Zobacz pod-polecenia dla ?v {id}                      | ?v 1 help             |
+| ?v {vid} info                                                                       | Zobacz informacje o pojeździe                         | ?v 1 info             |
+| ?v {vid} despawn                                                                    | Usuń pojazd                                           | ?v 1 despawn          |
+| ?v {vid} owner {id}                                                                 | Zmień właściciela pojazdu                             | ?v 1 owner 2          |
+| ?v {vid} tp                                                                         | Teleportacja do siedzenia w pojeździe                 | ?v 1 tp               |
+| ?v {vid} kick {id}                                                                  | Wyrzuć użytkownika z pojazdu                          | ?v 1 kick 1           |
+| ?v {vid} kickall                                                                    | Wyrzuć wszystkich użytkowników z pojazdu              | ?v 1 kickall          |
+| ?v {vid} repair                                                                     | Napraw pojazd (<a href="/docs/supporters#what-perks-are-there">Silver+</a>)             | ?v 1 repair           |
+| Polecenie kontroli dostępu. Zmień kto może wchodzić w interakcje z twoimi pojazdami |                                                       |                       |
+| ?v accessmode (all/whitelist/blacklist/none)                                        | Zmień kto może wchodzić w interakcje z twoim pojazdem | ?v accessmode all     |
+| ?v whitelist/blacklist add {id}                                                     | Dodaj kogoś do białej/czarnej listy                   | ?v whitelist add 1    |
+| ?v whitelist/blacklist remove {id}                                                  | Usuń kogoś z białej/czarnej listy                     | ?v whitelist remove 1 |
+| ?v whitelist/blacklist list                                                         | Pokazuje twoją aktualną białą/czarną listę            | ?v whitelist list     |
+| ?v whitelist/blacklist clear                                                        | Usuwa białą/czarną listę                              | ?v whitelist clear    |
 
 
 

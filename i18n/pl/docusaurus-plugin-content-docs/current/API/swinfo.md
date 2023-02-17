@@ -4,7 +4,7 @@ sidebar_position: 6
 
 # /swinfo
 
-<span class="request-bubble request-get">GET Request</span>
+<span class="request-bubble request-get">Żądanie GET</span>
 
 
 ## Zdobądź globalną liczbę graczy Stormworks

@@ -18,10 +18,14 @@ description: Boat License Information.
 
 
 :::tip
+
 You only need to have nav lights on during the night and/or low visibility.
+
 :::  
 :::caution
+
 You cannot use flashing blue or red lights as these are used by staff.
+
 :::
 
 ## Applying For a Boat License
@@ -31,7 +35,9 @@ You cannot use flashing blue or red lights as these are used by staff.
 3. You cannot apply for your 1st ever license with a sea-plane, you need to apply with a boat. Once you have a [Boat ID](/docs/stormworks/boats#boat-license-placement) you can place that onto your sea-plane.
 
 :::tip Tip
+
 When you provide a screenshot of the boat in the application, showing the length of the boat within the screenshot speeds up the process.
+
 :::
 
 ## Adding Boats To Current License
