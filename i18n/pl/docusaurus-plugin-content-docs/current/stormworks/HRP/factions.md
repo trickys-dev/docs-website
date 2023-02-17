@@ -2,109 +2,109 @@
 sidebar_position: 1
 ---
 
-# Factions
+# Frakcje
 
-## Create A Faction
+## Tworzenie Frakcji
 
-We are still working on creating an application that automatically creates your faction, until then you can create a ticket on discord.
+Nadal pracujemy nad stworzeniem aplikacji, która automatycznie tworzy frakcję, aż do tego czasu możesz utworzyć zgłoszenie na serwerze Discord.
 
-:::note Current Factions
-You can view all the current factions by [Clicking Here](https://trickys.gg/factions)
+:::note Aktualne Frakcje
+Możesz zobaczyć wszystkie aktualnie istniejące frakcje [Klikając Tutaj](https://trickys.gg/factions)
 :::
 
-## Faction Profiles
+## Profile Frakcji
 
-- Avatar image.
-- Cover image.
-- Bio/description.
-- Faction avatar outline colour.
+- Awatar profilowy.
+- Obraz okładki.
+- Bio/opis.
+- Kolor konturu awatara.
 
-### Faction Avatar
+### Awatar Frakcji
 
   <div class="flex-vcenter mb-1">
     <img src="/img/customprofiles/factions/factionavatar.png"/>
     <p>
-    Upload a avatar for your faction.
-    The avatar image will also show in a Discord embed when you post your faction URL, example below.
+    Prześlij awatar dla swojej frakcji.
+    Wybrany awatar pokaże się również w osadzonej wiadomości Discord podczas publikowania adresu URL twojej frakcji, więcej na ten temat poniżej.
     </p>
  </div>
 
-### Faction Cover Image
+### Obraz Okładki Frakcji
 
   <div class="flex-vcenter mb-1">
     <img src="/img/customprofiles/factions/factioncover.png"/>
     <p>
-    Upload a cover for your faction.
-    The selected cover will show on the faction website profile page, example below.
+    Prześlij obraz dla okładki swojej frakcji.
+    Wybrana okładka pojawi się na stronie profilu frakcji, przykład poniżej.
     </p>
  </div>
 
-### Faction Bio
+### Opis Frakcji
 
   <div class="flex-vcenter mb-1">
     <img src="/img/customprofiles/factions/factionbio.png"/>
     <p>
-    Write a bio for your faction, this will be seen on the faction website profile page.
+    Napisz opis dla swojej frakcji, będzie on widoczny na stronie profilu frakcji.
     </p>
  </div>
 
-You are able to use BBCode in your factions bio, heres whats allowed:
+Możesz korzystać z BBCode w opisie swojej frakcji, oto co jest dozwolone:
 
-- [b] - <code>[b]Hello World[/b]</code> - <b>Bold</b>
-- [i] - <code>[i]Hello World[/i]</code> - <i>Italic</i>
-- [s] - <code>[s]Hello World[/s]</code> - <s>Struck Through</s>
-- [u] - <code>[u]Hello World[/u]</code> - <u>Underlined</u>
+- [b] - <code>[b]Hello World[/b]</code> - <b>Pogróbienie</b>
+- [i] - <code>[i]Hello World[/i]</code> - <i>Pochylenie</i>
+- [s] - <code>[s]Hello World[/s]</code> - <s>Przekreślenie</s>
+- [u] - <code>[u]Hello World[/u]</code> - <u>Podkreślenie</u>
 
-### Faction Avatar Colour
+### Kolor Konturu Awatara Frakcji
 
   <div class="flex-vcenter mb-1">
     <img src="/img/customprofiles/factions/factionavatarcolour.png"/>
     <p>
-    You can choose the outline colour that is around your faction avatar.
-    The selected colour will also show in a Discord embed when you post your profile URL, example below.
+    Możesz wybrać kolor konturu, który znajduje się wokół awatara twojej frakcji.
+    Wybrany kolor pokaże się również w osadzonej wiadomości Discord podczas publikowania adresu URL twojej frakcji, przykład poniżej.
     </p>
  </div>
 
-## Role Management
+## Zarządzanie Rolami
 
-To manage roles head to the `Roles` tab on a faction your own.
+Aby zarządzać rolami w twojej frakcji, kliknij zakładkę `Roles`.
 
 <img src="/img/hrp/factions/factionrolestab.png" />
 
-  One you click on roles you will be able to do the following:
-- Create a new role
-- Reorder the roles
-- Edit the role permissions
-- Rename roles
-- Delete roles
+  Klikając na zakładkę z rolami, będziesz mógł wykonać następujące czynności:
+- Utworzenie nowej roli
+- Zmiana kolejności ról
+- Edytowanie uprawnień ról
+- Zmiana nazwy ról
+- Usuwanie ról
 
 <img src="/img/hrp/factions/factionsroleviewpage.png" />
 
 :::tip
-Regardless of permissions roles cannot edit there own role or roles above them.
+Bez względu na uprawnienia, role nie mogą edytować własnej roli ani ról nad nimi.
 :::
 
 :::note
-The owner role of each faction cannot edit there own role order or permissions.
+Rola właściciela każdej frakcji nie może edytować tam własnych kolejności ról lub uprawnień.
 :::
 
-## Example
+## Przykład
 
-Below we have a exmaple of what the outcome would look like if you customised everything.
+Poniżej znajduje się przykład tego, jak wyglądałby rezultat, gdybyś zmodyfikował wszystko.
 
-### Custom Faction Example
+### Przykład niestandardowego profilu frakcji
 
 <div class="flex-vcenter mb-1">
     <img src="/img/customprofiles/factions/factionexamplediscord.png"/>
    <p>
-    <b>Sharing Faction Link</b><br/>
-    Sharing a link on discord will show a embed of your faction including the custom colour & the avatar that you set.
+    <b>Udostępnianie linku frakcji</b><br/>
+    Udostępnienie linku na Discord pokaże osadzenie twojej frakcji, w tym niestandardowy kolor i awatar, który ustawiłeś.
     </p>
 </div>
    <div class="flex-vcenter mb-1">
     <img src="/img/customprofiles/factions/factionexampleavatar.png"/>
    <p>
-     <b>Avatar Outline Colour</b><br/>
-    Viewing profile with selected colour on website.
+     <b>Kolor konturu awatara</b><br/>
+    Przeglądanie profilu z wybranym kolorem na stronie internetowej.
     </p>
 </div>
