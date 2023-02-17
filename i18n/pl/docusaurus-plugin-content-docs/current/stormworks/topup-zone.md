@@ -2,16 +2,18 @@
 sidebar_position: 2
 ---
 
-# Top-Up Zone
+# Strefa Uzupełniająca
 
-The Top-up Zone can top-up the following:
-- Refill Diesel & Jet Fuel tanks.
-- Charge Batteries.
-- Refill Coal.
-- Refill water tanks.
+Strefa uzupełniająca może uzupełnić następujące elementy:
+- Uzupełnić zbiorniki z dieslem i paliwem odrzutowym.
+- Naładować Baterie.
+- Uzupełnić Węgiel.
+- Uzupełnić zbiorniki na wodę.
 
 :::info In The Zone
+
 Once you are in the Top-Up Zone use one of the following commands to refill: ?refill or ?topup
+
 :::
 
 <!-- css for flex -->
