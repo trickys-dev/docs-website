@@ -17,7 +17,7 @@ export const Highlight = ({children, color}) => ( <span style={{ backgroundColor
 
 | Nom du paramètre |        Obligatoire        | Description                              |
 | ---------------- |:-------------------------:| ---------------------------------------- |
-| serveur          | <i class="fas fa-fw fa-check-circle text-success"></i> | CODENAME du serveur que vous voulez ping |
+| server           | <i class="fas fa-fw fa-check-circle text-success"></i> | CODENAME du serveur que vous voulez ping |
 
 ## Exemples
 ### Exemple de Dubaï (UAE)
