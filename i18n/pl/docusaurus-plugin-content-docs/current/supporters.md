@@ -108,7 +108,7 @@ Nasz Patreon będzie używany do płacenia za
     <td class="text-center"><i class="fas fa-fw fa-pause-circle text-danger"></i></td>
 </tr>
 <tr>
-    <th scope="row">Priority <a href="https://support.trickys.gg">Support Tickets</a></th>
+    <th scope="row">Priorytetowe <a href="https://support.trickys.gg">Zgłoszenia Wsparcia</a></th>
     <td></td>
     <td></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
@@ -116,7 +116,7 @@ Nasz Patreon będzie używany do płacenia za
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
 </tr>
 <tr>
-    <th scope="row">Priority <a href="https://trickys.gg/applications">Applications</a></th>
+    <th scope="row">Priorytetowe <a href="https://trickys.gg/applications">Zgłoszenia</a></th>
     <td></td>
     <td></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
@@ -124,7 +124,7 @@ Nasz Patreon będzie używany do płacenia za
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
 </tr>
 <tr>
-    <th scope="row">Early Access To Areas (Discord+Website)</th>
+    <th scope="row">Wczesny dostęp do obszarów (Discord+Strona Internetowa)</th>
     <td></td>
     <td></td>
     <td></td>
@@ -132,10 +132,10 @@ Nasz Patreon będzie używany do płacenia za
     <td class="text-center"><i class="fas fa-fw fa-pause-circle text-warning"></i></td>
 </tr>
 <tr>
-    <th colspan="6" class="tricky-color">Stormworks Perks</th>
+    <th colspan="6" class="tricky-color">Korzyści w Stormworks</th>
 </tr>
 <tr>
-    <th scope="row"><a href="" data-toggle="modal" data-target="#exampleModal">Custom Map Label + Custom Icon</a></th>
+    <th scope="row"><a href="" data-toggle="modal" data-target="#exampleModal">Własna etykieta mapy + Własna ikona</a></th>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
@@ -143,7 +143,7 @@ Nasz Patreon będzie używany do płacenia za
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
 </tr>
 <tr>
-    <th scope="row"><a href="/docs/stormworks/boats#custom-license-id">Custom Boat ID</a></th>
+    <th scope="row"><a href="/docs/stormworks/boats#custom-license-id">Niestandardowy identyfikator łodzi</a></th>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
@@ -152,7 +152,7 @@ Nasz Patreon będzie używany do płacenia za
 </tr>
 
 <tr>
-    <th scope="row">Access To Travel Commands</th>
+    <th scope="row">Dostęp do poleceń podróży</th>
     <td></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
@@ -160,7 +160,7 @@ Nasz Patreon będzie używany do płacenia za
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
 </tr>
 <tr>
-    <th scope="row">Vehicle repair <a href="/docs/stormworks/commands#vehicle-manager-commands">command</a></th>
+    <th scope="row">Polecenie naprawy pojazdu <a href="/docs/stormworks/commands#vehicle-manager-commands"></a></th>
     <td></td>
     <td></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
@@ -168,7 +168,7 @@ Nasz Patreon będzie używany do płacenia za
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
 </tr>
 <tr>
-    <th scope="row">Custom Environment Mod On Server</th>
+    <th scope="row">Niestandardowa modyfikacja środowiska na serwerze</th>
     <td></td>
     <td></td>
     <td></td>
@@ -176,7 +176,7 @@ Nasz Patreon będzie używany do płacenia za
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
 </tr>
 <tr>
-    <th scope="row"><a href="/docs/stormworks/commands">Home</a> limit</th>
+    <th scope="row"><a href="/docs/stormworks/commands">Limit Domów</a></th>
     <td class="text-center"><i class="fa-fw text-success">2</i></td>
     <td class="text-center"><i class="fa-fw text-success">3</i></td>
     <td class="text-center"><i class="fa-fw text-success">4</i></td>
@@ -184,7 +184,7 @@ Nasz Patreon będzie używany do płacenia za
     <td class="text-center"><i class="fa-fw text-success">10</i></td>
 </tr>
 <tr>
-    <th scope="row"><a href="/docs/stormworks/commands">Vehicle</a> limit (HRP3: 3)</th>
+    <th scope="row">Limit <a href="/docs/stormworks/commands">pojazdów</a> (HRP3: 3)</th>
     <td class="text-center"><i class="fa-fw text-success">2</i></td>
     <td class="text-center"><i class="fa-fw text-success">3</i></td>
     <td class="text-center"><i class="fa-fw text-success">3</i></td>
@@ -192,10 +192,10 @@ Nasz Patreon będzie używany do płacenia za
     <td class="text-center"><i class="fa-fw text-success">5</i></td>
 </tr>
 <tr>
-    <th colspan="6" class="tricky-color">Minecraft Perks</th>
+    <th colspan="6" class="tricky-color">Korzyści w Minecraft</th>
 </tr>
 <tr>
-    <th scope="row">Coloured Name On Minecraft + Tag</th>
+    <th scope="row">Kolorowa nazwa w Minecraft + Tag</th>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
@@ -203,7 +203,7 @@ Nasz Patreon będzie używany do płacenia za
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
 </tr>
 <tr>
-    <th scope="row">Home Points (default: 3)</th>
+    <th scope="row">Punkty Domowe (domyślnie: 3)</th>
     <td class="text-center"><i class="fa-fw text-success">4</i></td>
     <td class="text-center"><i class="fa-fw text-success">5</i></td>
     <td class="text-center"><i class="fa-fw text-success">6</i></td>
@@ -211,7 +211,7 @@ Nasz Patreon będzie używany do płacenia za
     <td class="text-center"><i class="fa-fw text-success">10</i></td>
 </tr>
 <tr>
-    <th scope="row">Back-pack Size (default: 1 row)</th>
+    <th scope="row">Rozmiar Plecaka (domyślnie: 1 wiersz)</th>
     <td class="text-center"><i class="fa-fw text-success">2</i></td>
     <td class="text-center"><i class="fa-fw text-success">3</i></td>
     <td class="text-center"><i class="fa-fw text-success">4</i></td>
@@ -219,7 +219,7 @@ Nasz Patreon będzie używany do płacenia za
     <td class="text-center"><i class="fa-fw text-success">6</i></td>
 </tr>
 <tr>
-    <th scope="row">Back-pack Keep On Death (default: No)</th>
+    <th scope="row">Zatrzymanie plecaka po śmierci (domyślnie: Nie)</th>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
@@ -227,7 +227,7 @@ Nasz Patreon będzie używany do płacenia za
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
 </tr>
 <tr>
-    <th scope="row">Mobile Ender Chest</th>
+    <th scope="row">Mobilna Skrzynia Kresu</th>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
@@ -235,7 +235,7 @@ Nasz Patreon będzie używany do płacenia za
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
 </tr>
 <tr>
-    <th scope="row">No Teleport Cooldown (default: 5s)</th>
+    <th scope="row">Brak czasu odnowienia teleportacji (domyślnie: 5s)</th>
     <td></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
@@ -243,7 +243,7 @@ Nasz Patreon będzie używany do płacenia za
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
 </tr>
 <tr>
-    <th scope="row">Chunks Per Land (default: 30)</th>
+    <th scope="row">Chunki na Teren (domyślnie: 30)</th>
     <td class="text-center"><i class="fa-fw text-success">35</i></td>
     <td class="text-center"><i class="fa-fw text-success">40</i></td>
     <td class="text-center"><i class="fa-fw text-success">45</i></td>
@@ -251,7 +251,7 @@ Nasz Patreon będzie używany do płacenia za
     <td class="text-center"><i class="fa-fw text-success">60</i></td>
 </tr>
 <tr>
-    <th scope="row">Fly Within Own Land</th>
+    <th scope="row">Latanie w obrębie własnego terenu</th>
     <td></td>
     <td></td>
     <td></td>
@@ -261,6 +261,6 @@ Nasz Patreon będzie używany do płacenia za
 </tbody>
 </table>
 
-## My Current Tier
+## Mój aktualny Poziom
 
-You can find what tier you currently have by going to your [account](https://trickys.gg/account) page.
+Możesz znaleźć poziom, który obecnie posiadasz, przechodząc na stronę [konta](https://trickys.gg/account).
