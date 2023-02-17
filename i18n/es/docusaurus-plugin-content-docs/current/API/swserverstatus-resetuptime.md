@@ -7,16 +7,16 @@ sidebar_position: 4
 <span class="request-bubble request-post">POST Request</span>
 
 
-## Reset Stormworks Server Uptime
+## Restablecer el tiempo de actualización del servidor Stormworks
 
-### Parameters
+### Parámetros
 
-| Parameter name |         Required          | Description                                                   |
-| -------------- |:-------------------------:| ------------------------------------------------------------- |
-| server         | <i class="fas fa-fw fa-check-circle text-success"></i> | CODENAME of the server that you want to reset the uptime for. |
+| Nombre del parámetro |         Requerido         | Descripción                                                              |
+| -------------------- |:-------------------------:| ------------------------------------------------------------------------ |
+| server               | <i class="fas fa-fw fa-check-circle text-success"></i> | NOMBRE DEL servidor al que desea restablecer el tiempo de actualización. |
 
-## Examples
-### Success Example
+## Ejemplos
+### Ejemplo de Éxito
 ```json
 {
   "success": true,
