@@ -42,7 +42,9 @@ Forkortet kan botten gjøre følgende;
  </div>
 
 :::note
-Hvis du valgte "None" i Steg 2, Kan du hoppe over Steg 2.1
+
+If you selected "None" in step 2, you can skip step 2.1
+
 <div class="flex-vcenter mb-1">
     <img src="/img/scamwatchbot/botqsbuttons.png" width="300px" />
   <p class="m-0">
@@ -51,7 +53,9 @@ Hvis du valgte "None" i Steg 2, Kan du hoppe over Steg 2.1
 <span class="statusbot-title">Roller</span> - For å legge til en rolle, treng du bare å nevne (@) rollen. F.eks: @Moderator.
   </p>
  </div>
+
 :::
+
 <div class="flex-vcenter mb-1">
     <img src="/img/scamwatchbot/botqspingrole.png" width="300px" />
   <p class="m-0">
@@ -67,14 +71,18 @@ Hvis du valgte "None" i Steg 2, Kan du hoppe over Steg 2.1
   </p>
  </div>
 
-:::tip Nødvendig
-Venligst pass på at botten har en rolle som er høyere enn server medlemmene!
+:::tip Required
+
+Please make sure the bot has a role that is higher then your members on your server!
+
 :::
 
 ## Konfigurering av botten
 
-::caution Standard-tillatelser  
-Disse kommandoene vil som standard bare være tilgjengelig for brukere med administratorrettigheter.
+:::caution Default Permissions
+
+These commands by default will only be accessible by users with the administrator permission.
+
 :::
 
 <div class="flex-vcenter mb-1">
@@ -132,12 +140,15 @@ Disse kommandoene vil som standard bare være tilgjengelig for brukere med admin
   </p>
  </div>
 
-## Examples<div class="flex-vcenter mb-1">
+## Examples
+
+
+<div class="flex-vcenter mb-1">
     <img src="/img/scamwatchbot/botlinkdetected.png" width="300px" />
   <p class="m-0">
   <span class="statusbot-title">User Side</span> - This will show in the channel where a scam link is posted. (the embed will remove after 30 seconds).
   </p>
- </div>
+</div>
    <div class="flex-vcenter mb-1">
     <img src="/img/scamwatchbot/botlinkdetectedlog.png" width="300px" />
   <p class="m-0">
@@ -149,7 +160,7 @@ Disse kommandoene vil som standard bare være tilgjengelig for brukere med admin
 5. If you have enabled to Kick button this is where it will show.<br/>
 6. If you have enabled to Ban button this is where it will show.<br/>
   </p>
- </div>
+</div>
    <div class="flex-vcenter mb-1">
     <img src="/img/scamwatchbot/botlinkdetectedaction.png" width="300px" />
   <p class="m-0">
