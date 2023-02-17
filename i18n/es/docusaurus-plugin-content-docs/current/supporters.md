@@ -2,35 +2,35 @@
 sidebar_position: 3
 ---
 
-# Supporters
+# Colaboradores
 
-- This guide explains what you get for being a Patreon member.
-- By becoming a patreon you are supporting the community.
+- Esta guía explica lo que obtienes por ser un miembro de Patreon.
+- Al apoyarnos en Patreon, usted está apoyando a la comunidad.
 
-## Patreon Tiers
+## Nivel de Patreon
 
-| Tier              | Discord Roles                                        |
-| ----------------- | ---------------------------------------------------- |
-| Bronze Supporter  | <span class="b-supporter">@Bronze Supporter</span>   |
-| Silver Supporter  | <span class="s-supporter">@Silver Supporter</span>   |
-| Gold Supporter    | <span class="g-supporter">@Gold Supporter</span>     |
-| Diamond Supporter | <span class="d-supporter"> @Diamond Supporter</span> |
+| Nivel    | Roles de Discord                                     |
+| -------- | ---------------------------------------------------- |
+| Bronce   | <span class="b-supporter">@Bronze Supporter</span>   |
+| Plata    | <span class="s-supporter">@Silver Supporter</span>   |
+| Oro      | <span class="g-supporter">@Gold Supporter</span>     |
+| Diamante | <span class="d-supporter"> @Diamond Supporter</span> |
 
-## What Our Patreon Funds Are Used For?
+## ¿Para qué se utilizan nuestros fondos de Patreon?
 
-Our Patreon will be used to fund
-- Server upkeep
-- Future hardware upgrades
-- Development costs
-- Discord bots
-- Website costs
+Nuestro Patreon se utilizará para financiar
+- Mantenimiento del servidor
+- Mejoras en hardware
+- Costes de desarrollo
+- Bots de Discord
+- Costes de la página web
 
-## What Perks Are There?
+## ¿Qué ventajas hay?
 
 <table>
 <thead>
     <tr>
-        <th scope="col">Perks</th>
+        <th scope="col">Ventajas</th>
         <th scope="col"><span class="n-supporter">@Nitro</span></th>
         <th scope="col"><span class="b-supporter">@Bronze</span></th>
         <th scope="col"><span class="s-supporter">@Silver</span></th>

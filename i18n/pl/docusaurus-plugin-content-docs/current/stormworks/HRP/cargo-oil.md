@@ -2,9 +2,9 @@
 sidebar_position: 0
 ---
 
-# Cargo & Oil
+# Towar i Ropa
 
-## Definitions
+## Definicje
 
 <!-- css for flex -->
   <div class="flex-vcenter">
@@ -13,7 +13,7 @@ sidebar_position: 0
     </div>
 <p>
 
-- Land/Sea Cargo: This is defined as ISO Container.
+- Ładunek lądowy/morski: Jest on zdefiniowany jako kontener ISO.
 
 </p>
   </div>
@@ -25,50 +25,50 @@ sidebar_position: 0
     </div>
 <p>
 
-- Air Cargo: This is defined as an AirISO Container.
+- Ładunek lotniczy: Jest zdefiniowany jako kontener AirISO.
 
 </p>
   </div>
 
-## Cargo
+## Ładunek
 
-1. First you must choose to do land/sea cargo or air. (For this guide we will choose land/sea)
+1. Najpierw należy wybrać ładunek lądowy/morski lub lotniczy. (W przypadku tego poradnika wybierzemy lądowy/morski)
 
-:::note A couple of notes
+:::note Kilka notatek
 
-- Locations you can deliver are different between land/sea or air. For example, O’Neil (Air) can deliver to the Arctic, but North Harbor (Land/Sea) can not.
-- You can NOT take any land/sea cargo into the air, this is against HRP rules and will result in a fine on the spot. (Unless you are loading it within 1km of terminal)
-- As it currently stands you are allowed to take air cargo by land/sea it is not recommended as it is very inconvenient.
-- You are only allowed 2 of any type of cargo by HRP laws.
+- Lokalizacje, do których możesz dostarczać, różnią się między lądem/morzem lub powietrzem. Na przykład O’Neil (Powietrze) może dostarczyć do Arktyki, ale nie może do North Harbor (Ląd/Morze).
+- NIE wolno transportować żadnego ładunku lądowego/morskiego powietrzne, jest to sprzeczne z zasadami HRP i będzie skutkowało nałożeniem kary na miejscu. (Chyba że używasz pojazdu powietrznego do załadowania w odległości maksymalnie 1 km od terminalu)
+- Obecnie możesz transportować ładunki lotnicze drogą lądową/morską, ale to nie jest rekomendowane, ponieważ jest to bardzo niedogodne.
+- Prawo HRP zezwala transport tylko na 2 typów z dowolnego rodzaju ładunku na raz.
 
 :::
 
-2. Figure out where you want to go using the `?listdst command` (deliver locations dependent on your location)
-3. Use the `?claimto [Number]` command to claim cargo to that destination. <img src="/img/hrp/cargooil/HRPClaimTo.png" />
+2. Wyznacz gdzie chcesz zawieść ładunek za pomocą polecenia `?listdst` (dostarcza lokalizacje zależne od twojej lokalizacji)
+3. Użyj polecenia `?claimto [Number]`, aby otrzymać ładunek do tego celu. <img src="/img/hrp/cargooil/HRPClaimTo.png" />
 
-4. Go to the delivery location, for this guide we are going to Spycakes.
-5. Once you get there look at the cargo for the id then run `?deliver [cargo id]`. <img src="/img/hrp/cargooil/HRPDeliver.png" width="750px" />
+4. Udaj się do miejsca dostawy, na potrzeby tego poradnika użyjemy Spycakes.
+5. Kiedy tam dotrzesz, popatrz na ładunek, aby znaleźć ID i użyj polecenia `?deliver [ID]`. <img src="/img/hrp/cargooil/HRPDeliver.png" width="750px" />
 
 
-## Oil
+## Ropa
 
-1. You must be in a faction, you can either join one or create a new one.
-2. Find an oil point on the map. (This will give 30cr once captured) <img src="/img/hrp/cargooil/HRPOilField.png" />
+1. Musisz być we frakcji, możesz dołączyć do niej lub utworzyć nową.
+2. Znajdź punkt ropy naftowej na mapie. (To daje 30cr po przechwyceniu) <img src="/img/hrp/cargooil/HRPOilField.png" />
 
-3. Go to oil point and wait for capture. <img src="/img/hrp/cargooil/HRPOilPointcapture1.png" />
+3. Udaj się do punktu ropy naftowej i poczekaj na przechwycenie. <img src="/img/hrp/cargooil/HRPOilPointcapture1.png" />
 
-4. Once captured you will get money, the point will be uncaptured, and will be on cooldown for 30mins so wait or find another point. <img src="/img/hrp/cargooil/HRPOilPointcapture2.png" />
+4. Po przechwyceniu otrzymasz pieniądze, punkt zostanie porzucony i będzie niedostępny do przechwycenia przez 30 minut, więc poczekaj lub znajdź inny punkt. <img src="/img/hrp/cargooil/HRPOilPointcapture2.png" />
 
-## Sizes
+## Wymiary
 
-ISO Containers:
-- Hight: 11 Blocks - 2.75 meters.
-- Width: 11 Blocks - 2.74 meters.
-- Length: 29 Blocks - 7.25 meters.
-- Weight: 4 Metric Tonnes.
+Kontenery ISO:
+- Height: 11 Blocks - 2.75 meters.
+- Szerokość: 11 bloków – 2,74 metra.
+- Długość: 29 bloków – 7,25 metrów.
+- Waga: 4 tony.
 
 AirISO:
-- Hight: 8 Blocks - 2 meters.
-- Width: 9 Blocks - 2.25 meters.
-- Length: 9 Blocks - 2.25 meters.
-- Weight: 318 Kg.
+- Wysokość: 8 bloków - 2 metry.
+- Szerokość: 9 bloków – 2,74 metra.
+- Długość: 9 bloków – 7,25 metrów.
+- Waga: 318 kg.

@@ -34,7 +34,7 @@ sidebar_position: 0
 
 1. First you must choose to do land/sea cargo or air. (For this guide we will choose land/sea)
 
-:::note A couple of notes
+:::note A couple of notes:
 
 - Locations you can deliver are different between land/sea or air. For example, O’Neil (Air) can deliver to the Arctic, but North Harbor (Land/Sea) can not.
 - You can NOT take any land/sea cargo into the air, this is against HRP rules and will result in a fine on the spot. (Unless you are loading it within 1km of terminal)
@@ -62,7 +62,7 @@ sidebar_position: 0
 ## Sizes
 
 ISO Containers:
-- Hight: 11 Blocks - 2.75 meters.
+- Height: 11 Blocks - 2.75 meters.
 - Width: 11 Blocks - 2.74 meters.
 - Length: 29 Blocks - 7.25 meters.
 - Weight: 4 Metric Tonnes.

@@ -7,7 +7,9 @@ sidebar_position: 4
 Dostosuj profile osobiste i frakcji
 
 :::note Faction Profiles
+
 [Click Here](/docs/stormworks/HRP/factions#faction-profiles) if you are looking for [Faction Profiles](/docs/stormworks/HRP/factions#faction-profiles)
+
 :::
 
 
@@ -34,19 +36,21 @@ Wybrany awatar pokaże się również w osadzonej wiadomości Discord podczas pu
 
 ### Kolor konturu awatara
 
-  <div class="flex-vcenter mb-1">
-    <img src="/img/customprofiles/editavatarcolour.png"/>
-    <p>
-    Możesz wybrać kolor konturu, który znajduje się wokół Twojego awatara.
-    Wybrany kolor pokaże się również w osadzonej wiadomości Discord podczas publikowania adresu URL Twojego profilu, przykład poniżej.
-    </p>
- </div>
+<div class="flex-vcenter mb-1">
+  <img src="/img/customprofiles/editavatarcolour.png"/>
+  <p>
+  Możesz wybrać kolor konturu, który znajduje się wokół Twojego awatara.
+  Wybrany kolor pokaże się również w osadzonej wiadomości Discord podczas publikowania adresu URL Twojego profilu, przykład poniżej.
+  </p>
+</div>
 
 ## Przykład
 
 Poniżej znajduje się przykład tego, jak wyglądałby rezultat, gdybyś zmodyfikował wszystko.
 
-### Przykład profilu niestandardowego<div class="flex-vcenter mb-1">
+### Przykład profilu niestandardowego
+
+<div class="flex-vcenter mb-1">
     <img src="/img/customprofiles/profilecolorwebsite.png"/>
     <p>
     <b>Kolor konturu awatara</b><br/>
