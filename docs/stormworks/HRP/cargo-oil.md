@@ -67,7 +67,7 @@ sidebar_position: 0
 ## Sizes
 
 ISO Containers:
-- Hight: 11 Blocks - 2.75 meters.
+- Height: 11 Blocks - 2.75 meters.
 - Width: 11 Blocks - 2.74 meters.
 - Length: 29 Blocks - 7.25 meters.
 - Weight: 4 Metric Tonnes.
