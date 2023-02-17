@@ -82,7 +82,7 @@ Rodzaje informacji są zarządzanie przez polecenie <span class="code-text">/con
 | 1   | players         | Shows the online player count.             |
 | 2   | version         | Shows the server version.                  |
 | 3   | TPS             | Shows the servers TPS.                     |
-| 4   | DLC             | Shows If Weapons or Arid DLC.  |
+| 4   | DLC             | Shows If Weapons or Arid DLC.              |
 | 5   | uptime          | Shows the uptime of the server.            |
 | 6   | operatingSystem | Shows the servers operating system.        |
 | 7   | hasPassword     | Shows if the server is password protected. |
