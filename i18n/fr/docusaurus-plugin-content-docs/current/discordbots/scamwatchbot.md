@@ -43,7 +43,7 @@ En bref, le bot peut faire ce qui suit ;
 
 :::note
 
-If you selected "None" in step 2, you can skip step 2.1
+Si vous aviez choisi "None" dans l'étape 2, vous pouviez sauter l'étape 2.1
 <div class="flex-vcenter mb-1">
     <img src="/img/scamwatchbot/botqsbuttons.png" width="300px" />
   <p class="m-0">
