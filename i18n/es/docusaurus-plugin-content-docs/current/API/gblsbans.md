@@ -7,7 +7,7 @@ sidebar_position: 7
 <span class="request-bubble request-get">Solicitud GET</span>
 
 
-## Obtener Datos del Sistema de Lista de Baneos Global
+## Obtener Datos del Sistema de Lista de Ban Global
 (only server owners can access the Global Ban List System) Please note that <span class="code-text">timecreated</span> might be null if profile is private.
 
 
