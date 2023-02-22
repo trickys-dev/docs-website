@@ -13,15 +13,15 @@ description: Comandos de Stormworks.
 | ?staff            | &nbsp; | Muestra los miembros del staff conectados al servidor            | ?staff        |
 | ?pos              | &nbsp; | Muestra la posición actual                                       | ?pos          |
 | ?die              | &nbsp; | Respawnea                                                        | ?die          |
-| ?dm {id} {msg}    | &nbsp; | Envía un mensaje privado a otro usuario                          | ?dm 1 hi      |
-| ?reply {msg}      | ?r     | Responde al último mensaje privado                               | ?reply hi     |
+| ?dm {id} {msg}    | &nbsp; | Enviar mensaje a otro usuario                                    | ?dm 1 hi      |
+| ?reply {msg}      | ?r     | Responder a último mensaje privado                               | ?reply hi     |
 | ?user             | ?u     | Muestra la información de usuario                                | ?user         |
 | ?clean            | ?c     | Elimina todos los vehículos que has spawneado                    | ?clean        |
 | ?despawn {vid}    | ?d     | Elimina el vehículo {identificador de vehículo}                  | ?despawn 1    |
 | ?give {id}        | &nbsp; | Da el objeto {id}                                                | ?give 1       |
 | ?outfit {id}      | &nbsp; | Da la vestimenta {id}                                            | ?outfit 1     |
 | ?travel {id}      | &nbsp; | Viaja al destino                                                 | ?travel 1     |
-| ?home {name}      | &nbsp; | Ir a un punto de reaparición                                     | ?home mp      |
+| ?home {name}      | &nbsp; | Ir a casa                                                        | ?home mp      |
 | ?homes            | &nbsp; | Lista los puntos de reaparición asignados                        | ?homes        |
 | ?sethome {name}   | &nbsp; | Establece un punto de reaparición                                | ?sethome mp   |
 | ?delhome {name}   | &nbsp; | Elimina un punto de reaparición                                  | ?delhome mp   |
