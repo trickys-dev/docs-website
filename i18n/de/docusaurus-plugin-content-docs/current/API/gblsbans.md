@@ -15,7 +15,7 @@ sidebar_position: 7
 Keine
 
 ## Beispiele
-### Erfolgsbeispiel
+### Beispiel erfolgreich
 ```json
 {
   "success": true,
