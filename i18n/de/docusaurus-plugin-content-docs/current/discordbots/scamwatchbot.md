@@ -4,40 +4,40 @@ sidebar_position: 2
 
 # ScamWatch Bot
 
-This page explains how to use and setup the ScamWatch Bot.
+Diese Seite erklärt, wie Sie den ScamWatch Bot verwenden und einrichten.
 
-## What Can The Bot Do
+## Was der Bot machen kann
 
-In brief the bot can do the following;
-- Detects scam links from our 31,000+ database and removes them from chat.
-- Logs removed links in a channel for staff to view and/or take action on the user (remove timeout, kick, ban buttons).
-- Auto Timeout feature, which can be set in config. (if a user posts a scam link the bot will time that user out for x amount of days)
+Kurz gesagt, kann der Bot folgendes machen;
+- Erkennt Betrugslinks aus unserer 31.000+ Datenbank und entfernt sie aus dem Chat.
+- Protokolliert entfernte Links in einem Kanal, damit Mitarbeiter sie sehen können und/oder Maßnahmen gegen den Nutzer ergreifen können (Knöpfe für: Timeout entfernen, Kicken, Bannen).
+- Auto Timeout Funktion, die in der Konfiguration eingestellt werden kann. (Wenn ein Benutzer einen Betrugslink veröffentlicht, wird der Bot den Benutzer für x Anzahl von Tagen ins Timeout schicken)
 
-## Quick Setup
+## Schnelleinrichtung
 
-1. <a href="">Invite</a> the bot to your server.
-2. use the <span class="code-text">/quicksetup</span> command in a admin channel that the bot can also see.
+1. <a href="">lade den Bot zu deinem Server ein</a>.
+2. verwenden Sie den <span class="code-text">/quicksetup</span> Befehl in einem Adminkanal, den der Bot auch sehen kann.
 
 <div class="flex-vcenter mb-1">
     <img src="/img/scamwatchbot/botqswelcome.png" width="300px" />
   <p class="m-0">
-  <span class="statusbot-title">Welcome</span> - Welcome to the quick setup guide.
+  <span class="statusbot-title">Willkommen</span> - Willkommen in der Schnelleinrichtungsanleitung.
   </p>
  </div>
  <div class="flex-vcenter mb-1">
     <img src="/img/scamwatchbot/botqsselectchannel.png" width="300px" />
   <p class="m-0">
-  <span class="statusbot-title">Step 1.</span> - Select which buttons you want to see under the embeds.<br/>
-  <span class="statusbot-title">new</span> - type <span class="code-text">new</span> and the bot will create a channel called <span class="discord-text">#scam-log</span>.<br/>
-  <span class="statusbot-title"># Symbol</span> - type <span class="discord-text">#channelname</span> if you already have a channel.
+  <span class="statusbot-title">Schritt 1.</span> - Wählen Sie die Schaltflächen, die Sie unter den Einbettungen sehen möchten.<br/>
+  <span class="statusbot-title">neu</span> - Typ <span class="code-text">neu</span> und der Bot wird einen Kanal namens <span class="discord-text">#scam-log</span>erstellen.<br/>
+  <span class="statusbot-title"># Symbol</span> - Tippen Sie <span class="discord-text">#kanalname</span>, wenn Sie bereits einen Kanal haben.
   </p>
  </div>
 <div class="flex-vcenter mb-1">
     <img src="/img/scamwatchbot/botqsselectbuttons.png" width="300px" />
   <p class="m-0">
-  <span class="statusbot-title">Step 2.</span> - Select which buttons you want to see under the embeds.<br/>
-  <span class="statusbot-title">None Button</span> - Clicking the None button will not show any buttons under the embed.<br/>
-  <span class="statusbot-title">Select Buttons</span> - Click on the buttons dropdown and you will see a list pop up select the ones you want to show under the embeds.
+  <span class="statusbot-title">Schritt 2.</span> - Wählen Sie die Schaltflächen, die Sie unter den Einbettungen sehen möchten.<br/>
+  <span class="statusbot-title">Keine Schaltfläche</span> - Wenn Sie auf die Schaltfläche Keine klicken, werden keine Schaltflächen unterhalb der Einbettung angezeigt.<br/>
+  <span class="statusbot-title">Schaltflächen auswählen</span> - Klicken Sie auf die Schaltflächen-Dropdown-Schaltfläche, und Sie werden eine Liste sehen, die Sie unter der Einbettungen anzeigen möchten.
   </p>
  </div>
 
