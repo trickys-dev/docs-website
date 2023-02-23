@@ -4,19 +4,19 @@ sidebar_position: 4
 
 # /swserverstatus/resetuptime
 
-<span class="request-bubble request-post">POST Request</span>
+<span class="request-bubble request-post">GET-Anfrage</span>
 
 
-## Reset Stormworks Server Uptime
+## Stormworks Server Uptime zurücksetzen
 
-### Parameters
+### Parameter
 
-| Parameter name |         Required          | Description                                                   |
-| -------------- |:-------------------------:| ------------------------------------------------------------- |
-| server         | <i class="fas fa-fw fa-check-circle text-success"></i> | CODENAME of the server that you want to reset the uptime for. |
+| Name des Parameters |       Erforderlich        | Beschreibung                                  |
+| ------------------- |:-------------------------:| --------------------------------------------- |
+| server              | <i class="fas fa-fw fa-check-circle text-success"></i> | CODENAME des Servers, den Sie pingen möchten. |
 
-## Examples
-### Success Example
+## Beispiele
+### Beispiel erfolgreich
 ```json
 {
   "success": true,
