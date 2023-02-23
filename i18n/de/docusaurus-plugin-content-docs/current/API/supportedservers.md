@@ -5,7 +5,7 @@ sidebar_position: 2
 # Unterstützte Server
 
 ## Server
-API Example Usage: <span class="code-text">tricky&lt;number&gt;</span>
+API-Beispiel-Verwendung: <span class="code-text">tricky&lt;number&gt;</span>
 
 | Servername      | API-Code-Name | Servernummer |
 | --------------- | ------------- | ------------ |
