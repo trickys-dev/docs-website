@@ -2,9 +2,9 @@
 sidebar_position: 0
 ---
 
-# Welcome
+# ようこそ
 
-Let's discover **some docs..**.
+**ドキュメント**を見てみましょう。
 
-## Getting Started
+## はじめに
 
