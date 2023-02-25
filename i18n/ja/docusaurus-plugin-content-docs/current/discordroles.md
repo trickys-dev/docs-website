@@ -204,7 +204,7 @@ Looking to become a supporter? [Click Here](/docs/supporters)
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#ff73fa"}}>@Server Booster</span></th>
-<td>Given when you boost the server</td>
+<td>サーバーをブーストすると与えられます</td>
 </tr>
 </tbody>
 </table>
