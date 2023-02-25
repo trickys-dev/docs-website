@@ -22,7 +22,7 @@ description: Informacje o licencji łodzi.
 Musisz tylko włączyć światła nawigacyjne podczas nocy i/lub przy niskiej widoczności.
 
 :::  
-:::uwaga
+:::caution
 
 Nie możesz używać migających niebieskich lub czerwonych świateł, ponieważ są one używane przez personel.
 
