@@ -30,7 +30,7 @@ sidebar_position: 0
 </p>
   </div>
 
-## Cargo
+## Vracht
 
 1. Eerst moet je ervoor kiezen om land/zee lading of lucht te doen. (Voor deze handleiding kiezen we land / zee)
 
@@ -53,11 +53,11 @@ sidebar_position: 0
 ## Olie
 
 1. Je moet in een groep zitten, je kan lid worden van een groep of een nieuwe maken.
-2. Vind een olie locatie op de kaart. (This will give 30cr once captured) <img src="/img/hrp/cargooil/HRPOilField.png" />
+2. Vind een olie locatie op de kaart. (Dit geeft 30cr indien geclaimd) <img src="/img/hrp/cargooil/HRPOilField.png" />
 
-3. Go to oil point and wait for capture. <img src="/img/hrp/cargooil/HRPOilPointcapture1.png" />
+3. Ga naar het oliepunt en wacht tot de locatie geclaimd is. <img src="/img/hrp/cargooil/HRPOilPointcapture1.png" />
 
-4. Once captured you will get money, the point will be uncaptured, and will be on cooldown for 30mins so wait or find another point. <img src="/img/hrp/cargooil/HRPOilPointcapture2.png" />
+4. Als het punt geclaimd is zal je geld krijgen, daarna komt het punt weer vrij maar zal het op afkoeltijd staan voor 30 minuten dus wacht of zoek een ander punt. <img src="/img/hrp/cargooil/HRPOilPointcapture2.png" />
 
 ## Container Afmetingen
 
@@ -68,7 +68,7 @@ ISO Containers:
 - Gewicht: 4 Ton.
 
 AirISO:
-- Hight: 8 Blocks - 2 meters.
-- Width: 9 Blocks - 2.25 meters.
-- Length: 9 Blocks - 2.25 meters.
-- Weight: 318 Kg.
+- Hoogte: 8 Blokken - 2 meter.
+- Breedte: 9 blokken - 2,25 meter.
+- Lengte: 9 blokken - 2,25 meter.
+- Gewicht: 318 kg.
