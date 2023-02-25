@@ -8,9 +8,9 @@ sidebar_position: 1
 
 Nadal pracujemy nad stworzeniem aplikacji, która automatycznie tworzy frakcję, aż do tego czasu możesz utworzyć zgłoszenie na serwerze Discord.
 
-:::note Current Factions
+:::note Aktualne Frakcje
 
-You can view all the current factions by [Clicking Here](https://trickys.gg/factions)
+Możesz zobaczyć wszystkie aktualnie istniejące frakcje [Klikając Tutaj](https://trickys.gg/factions)
 
 :::
 
@@ -84,13 +84,13 @@ Aby zarządzać rolami w twojej frakcji, kliknij zakładkę `Roles`.
 
 :::tip
 
-Regardless of permissions roles cannot edit there own role or roles above them.
+Bez względu na uprawnienia, role nie mogą edytować własnej roli ani ról nad nimi.
 
 :::
 
 :::note
 
-The owner role of each faction cannot edit there own role order or permissions.
+Rola właściciela każdej frakcji nie może edytować tam własnych kolejności ról lub uprawnień.
 
 :::
 

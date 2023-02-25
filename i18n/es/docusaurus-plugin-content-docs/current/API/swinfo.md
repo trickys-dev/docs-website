@@ -4,17 +4,17 @@ sidebar_position: 6
 
 # /swinfo
 
-<span class="request-bubble request-get">GET Request</span>
+<span class="request-bubble request-get">Solicitud GET</span>
 
 
-## Get Stormwork's Global Player Count
+## Obtén el número global de jugadores de Stormworks
 
 
-### Parameters
-None
+### Parámetros
+Ninguno
 
-## Examples
-### Success Example
+## Ejemplos
+### Ejemplo de Éxito
 ```json
 {
   "success": true,

@@ -43,7 +43,7 @@ En bref, le bot peut faire ce qui suit ;
 
 :::note
 
-If you selected "None" in step 2, you can skip step 2.1
+Si vous aviez choisi "None" dans l'étape 2, vous pouviez sauter l'étape 2.1
 <div class="flex-vcenter mb-1">
     <img src="/img/scamwatchbot/botqsbuttons.png" width="300px" />
   <p class="m-0">
@@ -57,21 +57,22 @@ If you selected "None" in step 2, you can skip step 2.1
 <div class="flex-vcenter mb-1">
     <img src="/img/scamwatchbot/botqspingrole.png" width="300px" />
   <p class="m-0">
-  <span class="statusbot-title">Step 3</span> -  Pick a role that will be pinged when a scam link is detected.<br/>
-  <span class="statusbot-title">None</span> -  If you type <span class="code-text">none</span> there wont be a ping role.<br/>
-  <span class="statusbot-title">Roles</span> - When adding a role just @ the role, example @Moderator.
+  <span class="statusbot-title">Étape 3</span> - Choisissez les rôles qui seront notifiés quand un lien d'arnaque est détecté.
+<br/>
+  <span class="statusbot-title">None</span> - Si vous appuyez sur le bouton <span class="code-text">none</span> il n'aura pas de rôle notifié des liens d'arnaque.<br/>
+  <span class="statusbot-title">Rôles</span> - Quand vous ajoutez un rôle juste @ le rôle, exemple @Moderator.
   </p>
  </div>
  <div class="flex-vcenter mb-1">
     <img src="/img/scamwatchbot/botqscomplete.png" width="300px" />
   <p class="m-0">
-  <span class="statusbot-title">Complete </span> -  Setup Complete.
+  <span class="statusbot-title">Complete </span> - Complète la configuration.
   </p>
  </div>
 
-:::tip Required
+:::tip Nécessaire
 
-Please make sure the bot has a role that is higher then your members on your server!
+Assurez-vous que le Bot a un rôle plus élevé que les autres membres de votre serveur!
 
 :::
 

@@ -4,52 +4,52 @@ sidebar_position: 2
 
 # ScamWatch Bot
 
-This page explains how to use and setup the ScamWatch Bot.
+Esta página explica cómo utilizar y configurar el ScamWatch Bot.
 
-## What Can The Bot Do
+## Que puede hacer el bot
 
-In brief the bot can do the following;
-- Detects scam links from our 31,000+ database and removes them from chat.
-- Logs removed links in a channel for staff to view and/or take action on the user (remove timeout, kick, ban buttons).
-- Auto Timeout feature, which can be set in config. (if a user posts a scam link the bot will time that user out for x amount of days)
+De manera resumida, el bot puede hacer lo siguiente;
+- Detecta enlaces de estafa de nuestra base de datos con más de 31.000+ enlaces maliciosos y los elimina del chat.
+- Registros eliminados en un canal para que el personal pueda ver y/o tomar medidas sobre el usuario (eliminar el tiempo de espera, kick, ban).
+- Función de tiempo de espera automático, que puede ser establecida en la configuración. (si un usuario publica un enlace de estafa el bot dejará a ese usuario fuera durante x cantidad de días)
 
-## Quick Setup
+## Configuración Rápida
 
-1. <a href="">Invite</a> the bot to your server.
-2. use the <span class="code-text">/quicksetup</span> command in a admin channel that the bot can also see.
+1. <a href="">Invita</a> al bot a tu servidor.
+2. usar el comando <span class="code-text">/quicksetup</span> en un canal de administración que el bot también puede ver.
 
 <div class="flex-vcenter mb-1">
     <img src="/img/scamwatchbot/botqswelcome.png" width="300px" />
   <p class="m-0">
-  <span class="statusbot-title">Welcome</span> - Welcome to the quick setup guide.
+  <span class="statusbot-title">Bienvenido</span> - Bienvenido a la guía de configuración rápida.
   </p>
  </div>
  <div class="flex-vcenter mb-1">
     <img src="/img/scamwatchbot/botqsselectchannel.png" width="300px" />
   <p class="m-0">
-  <span class="statusbot-title">Step 1.</span> - Select which buttons you want to see under the embeds.<br/>
-  <span class="statusbot-title">new</span> - type <span class="code-text">new</span> and the bot will create a channel called <span class="discord-text">#scam-log</span>.<br/>
-  <span class="statusbot-title"># Symbol</span> - type <span class="discord-text">#channelname</span> if you already have a channel.
+  <span class="statusbot-title">Paso 1.</span> - Seleccione los botones que desea ver debajo de las inserciones.<br/>
+  <span class="statusbot-title">new</span> - escribe <span class="code-text">new</span> y el bot creará un canal llamado <span class="discord-text">#scam-log</span>.<br/>
+  <span class="statusbot-title"># Símbolo</span> - escribe <span class="discord-text">#nombre de canal</span> si ya tienes un canal.
   </p>
  </div>
 <div class="flex-vcenter mb-1">
     <img src="/img/scamwatchbot/botqsselectbuttons.png" width="300px" />
   <p class="m-0">
-  <span class="statusbot-title">Step 2.</span> - Select which buttons you want to see under the embeds.<br/>
-  <span class="statusbot-title">None Button</span> - Clicking the None button will not show any buttons under the embed.<br/>
-  <span class="statusbot-title">Select Buttons</span> - Click on the buttons dropdown and you will see a list pop up select the ones you want to show under the embeds.
+  <span class="statusbot-title">Paso 2.</span> - Seleccione los botones que desea ver debajo de las inserciones.<br/>
+  <span class="statusbot-title">Botón ninguno</span> - Al hacer clic en el botón Ninguno no se mostrará ningún botón debajo del incrustado.<br/>
+  <span class="statusbot-title">Botones de selección</span> - Haga clic en el menú desplegable de botones y verá una lista emergente seleccionar los que desea mostrar debajo de las incrustaciones.
   </p>
  </div>
 
 :::note
 
-If you selected "None" in step 2, you can skip step 2.1
+Si seleccionó "Ninguno" en el paso 2, puede omitir el paso 2.1
 <div class="flex-vcenter mb-1">
     <img src="/img/scamwatchbot/botqsbuttons.png" width="300px" />
   <p class="m-0">
-  <span class="statusbot-title">Step 2.1</span> - Pick a role that is requried to use the buttons.<br/>
-  <span class="statusbot-title">None</span> - If you type <span class="code-text">none</span> everyone that has access to the log channel can use the buttons.<br/>
-  <span class="statusbot-title">Roles</span> - When adding a role just @ the role, example @Moderator.
+  <span class="statusbot-title">Paso 2.1</span> - Elige un rol que se requiera para usar los botones.<br/>
+  <span class="statusbot-title">Ninguno</span> - Si no escribes <span class="code-text">ninguno</span> que tenga acceso al canal de registro puede usar los botones.<br/>
+  <span class="statusbot-title">Rol</span> - Al añadir un rol sólo @ el rol, ejemplo @Moderator.
   </p>
  </div>
 
@@ -57,29 +57,29 @@ If you selected "None" in step 2, you can skip step 2.1
 <div class="flex-vcenter mb-1">
     <img src="/img/scamwatchbot/botqspingrole.png" width="300px" />
   <p class="m-0">
-  <span class="statusbot-title">Step 3</span> -  Pick a role that will be pinged when a scam link is detected.<br/>
-  <span class="statusbot-title">None</span> -  If you type <span class="code-text">none</span> there wont be a ping role.<br/>
-  <span class="statusbot-title">Roles</span> - When adding a role just @ the role, example @Moderator.
+  <span class="statusbot-title">Paso 3</span> - Elige un rol que será pingado cuando se detecte un enlace de estafa.<br/>
+  <span class="statusbot-title">Ninguno</span> - Si escribes <span class="code-text">ninguno</span> no habrá un rol de ping .<br/>
+  <span class="statusbot-title">Rol</span> - Al añadir un rol sólo @ el rol, ejemplo @Moderator.
   </p>
  </div>
  <div class="flex-vcenter mb-1">
     <img src="/img/scamwatchbot/botqscomplete.png" width="300px" />
   <p class="m-0">
-  <span class="statusbot-title">Complete </span> -  Setup Complete.
+  <span class="statusbot-title">Completa </span> - Configuración Completada.
   </p>
  </div>
 
-:::tip Required
+:::tip Requerido
 
-Please make sure the bot has a role that is higher then your members on your server!
+¡Por favor, asegúrate de que el bot tiene un rol más alto que tus miembros en tu servidor!
 
 :::
 
-## Configuring The Bot
+## Configurando el bot
 
-:::caution Default Permissions
+:::caution Permisos por Defecto
 
-These commands by default will only be accessible by users with the administrator permission.
+Estos comandos por defecto sólo serán accesibles por usuarios con el permiso de administrador.
 
 :::
 

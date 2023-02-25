@@ -2,31 +2,31 @@
 sidebar_position: 1
 ---
 
-# No Firing Zone
+# Zona de Alto el Fuego
 
-Do not do the following:
-- Fire your Weapons.
-- Fire at players or vehicles.
-- Fire Into the zone.
-- Fire at other players or vehicles while they are in the zone.
+No haga lo siguiente:
+- Disparar sus armas.
+- Disparar contra jugadores o vehículos.
+- Disparar hacía la zona.
+- Disparar contra otros jugadores o vehículos mientras estén en la zona.
 
-:::info Firing In NFZ
+:::info Disparar en NFZ
 
-Firing inside or into the zone will get you temporary banned.
+Disparar dentro o en la zona será resultado de un ban temporal.
 
 :::  
 
   <div class="flex-vcenter mb-1">
     <img src="/img/nfz/nfzmapzone.png" width="300px"/>
-    The green circle shows where the No Firing Zone is.
+    El círculo verde muestra dónde se encuentra la zona de alto el fuego.
   </div>
 
   <div class="flex-vcenter mb-1">
     <img src="/img/nfz/nfzmappopup.png" width="300px"/>
-    This message will show when you highlight the No Firing Zone marker on the map.
+    Este mensaje se mostrará cuando resaltes el marcador "No Firing Zone" en el mapa.
   </div>
 
   <div class="flex-vcenter">
     <img src="/img/nfz/nfzmsgpopup.png" width="300px"/>
-    This message will show in the top left hand corner and bottom right hand corner when you are inside the zone.
+    Este mensaje se mostrará en la esquina superior izquierda y la esquina inferior derecha cuando estés dentro de la zona.
   </div>

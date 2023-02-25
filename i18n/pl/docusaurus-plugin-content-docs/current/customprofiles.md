@@ -6,16 +6,16 @@ sidebar_position: 4
 
 Dostosuj profile osobiste i frakcji
 
-:::note Faction Profiles
+:::note Profile Frakcji
 
-[Click Here](/docs/stormworks/HRP/factions#faction-profiles) if you are looking for [Faction Profiles](/docs/stormworks/HRP/factions#faction-profiles)
+[Kliknij Tutaj](/docs/stormworks/HRP/factions#faction-profiles) jeżeli szukasz [Profili Frakcji](/docs/stormworks/HRP/factions#faction-profiles)
 
 :::
 
 
 ## Profile Osobiste
 
-Personal profiles are referring to public profiles which all members have.
+Profile osobiste odnoszą się do profili publicznych, które mają wszyscy członkowie.
 
 - Awatar do wyświetlenia.
 - Opis. **Masz limit do 200 znaków w opisach.**

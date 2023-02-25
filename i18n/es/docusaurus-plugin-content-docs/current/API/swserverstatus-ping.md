@@ -4,19 +4,19 @@ sidebar_position: 5
 
 # /swserverstatus/ping
 
-<span class="request-bubble request-get">GET Request</span>
+<span class="request-bubble request-get">Solicitud GET</span>
 
 
-## Get the ping of a server from multiple countries
+## Obtener el ping de un servidor de varios países
 
-### Parameters
+### Parámetros
 
-| Parameter name |         Required          | Description                                  |
-| -------------- |:-------------------------:| -------------------------------------------- |
-| server         | <i class="fas fa-fw fa-check-circle text-success"></i> | CODENAME of the server that you want to ping |
+| Nombre del parámetro |         Requerido         | Descripción                              |
+| -------------------- |:-------------------------:| ---------------------------------------- |
+| server               | <i class="fas fa-fw fa-check-circle text-success"></i> | NOMBRE del servidor que desea hacer ping |
 
-## Examples
-### Dubai (UAE) Example
+## Ejemplos
+### Ejemplo de Dubai (UAE)
 ```json
 {
   "success": true,

@@ -43,7 +43,7 @@ Forkortet kan botten gjøre følgende;
 
 :::note
 
-If you selected "None" in step 2, you can skip step 2.1
+Hvis du valgte "None" i trinn 2, kan du hoppe over trinn 2.1
 <div class="flex-vcenter mb-1">
     <img src="/img/scamwatchbot/botqsbuttons.png" width="300px" />
   <p class="m-0">
@@ -71,7 +71,7 @@ If you selected "None" in step 2, you can skip step 2.1
 
 :::tip Required
 
-Please make sure the bot has a role that is higher then your members on your server!
+Venligst pass på at botten har en rolle som er høyere enn server medlemmene!
 
 :::
 
@@ -79,7 +79,7 @@ Please make sure the bot has a role that is higher then your members on your ser
 
 :::caution Default Permissions
 
-These commands by default will only be accessible by users with the administrator permission.
+Disse kommandoene vil som standard bare være tilgjengelig for brukere med administratorrettigheter.
 
 :::
 
@@ -93,7 +93,8 @@ These commands by default will only be accessible by users with the administrato
  <div class="flex-vcenter mb-1">
     <img src="/img/scamwatchbot/configstaffrole.png" width="300px" />
   <p class="m-0">
-  <span class="statusbot-title">Fullført </span> - Oppsettet er fullført.
+  <span class="statusbot-title">Staff Role</span> - Set the staff role that you want to be pinged if the detects a scam link.<br/>
+  To set the role: <span class="code-text">/config staffrole</span> <span class="discord-text">@role</span>
 
   </p>
  </div>

@@ -5,7 +5,7 @@ sidebar_position: 2
 # Serveurs Supportés
 
 ## Serveurs
-API Example Usage: <span class="code-text">tricky`<number>`</span>
+API Example Usage: <span class="code-text">tricky&lt;number&gt;</span>
 
 | Nom du Serveur  | Nom du Code API | Numéro du Serveur |
 | --------------- | --------------- | ----------------- |

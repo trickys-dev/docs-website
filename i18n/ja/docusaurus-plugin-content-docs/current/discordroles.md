@@ -1,80 +1,80 @@
 ---
 sidebar_position: 1
-description: Discord Roles Information.
+description: Discordロール情報
 ---
 
-# Discord Roles
+# Discord ロール
 
 We have all sorts of roles on our discord server, below you can view the main roles or see if you can get yourself a veteran role, whatever you fancy.
 
-## Main Roles
+## メインロール
 
 <table class="table nowrap table-dark table-sm">
 <thead>
 <tr>
 <th scope="col">ロール</th>
-<th scope="col">Description</th>
+<th scope="col">説明</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <th scope="row"><span style={{color: "#ff0000"}}>@Admin</span></th>
-<td>Administrators</td>
+<td>管理者</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#fcf202"}}>@Executive Moderator</span></th>
-<td>Executive Server & Discord mods</td>
+<td>サーバー及びDiscordの高位モデレーター</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#4ee718"}}>@Moderator</span></th>
-<td>Server & Discord mods</td>
+<td>サーバー及びDiscordのモデレーター</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#2bac3c"}}>@Staff</span></th>
-<td>You can ping this role if you need a staff member</td>
+<td>スタッフメンバーが必要な場合にメンションできるロール</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#1e9b94"}}>@Developer</span></th>
-<td>Server developers help with the development of the servers</td>
+<td>サーバー構築を支援するサーバー開発者</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#1aac93"}}>@Server Builder</span></th>
-<td>Given to users who build environment mods for the server</td>
+<td>当サーバーの環境MODの製作者に与えられます</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#c5a138"}}>@Event Team</span></th>
-<td>Given to users that are part of the events team</td>
+<td>イベントチームに所属するユーザーに与えられます</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#ff8e01"}}>@Partner</span></th>
-<td>Given to our partners</td>
+<td>私たちのパートナーに与えられます</td>
 </tr>
 
 <tr>
 <th scope="row"><span style={{color: "#7289da"}}>@Verified</span></th>
-<td>Given when you connect your discord account to the website</td>
+<td>Discordアカウントをウェブサイトに接続すると与えられます</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#7ac2e9"}}>@Boat License</span></th>
-<td>This role allows users to spawn & use boats</td>
+<td>ボートのスポーンと使用が可能になるロール</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#99aab5"}}>@Player</span></th>
-<td>This role is given to all players</td>
+<td>すべてのプレイヤーに与えられるロール</td>
 </tr>
 </tbody>
 </table>
 
-## Self Roles
+## セルフロール
 
-You can give yourself these roles:
+これらの役割を自分に付与することができます
 
-- Game Roles
-- Workshop Creator Roles
-- Veteran Roles
-- Supporter Roles
+- ゲームロール
+- ワークショップクリエイターロール
+- ベテランロール
+- サポーターロール
 
-### Game Roles
+### ゲームロール
 
 Game roles that you can give yourself so that you can see all the channels you want to see in discord.
 
@@ -83,7 +83,7 @@ To get roles look in the top left of discord and you will see a channel called `
 <img src="/img/discord/discordgameroles.png" />
 
 
-### Creator Roles
+### クリエイターロール
 
 These roles are for players who have the amount required of subscribers on one stormworks workshop vehicle.
 
@@ -93,7 +93,7 @@ To get a creator role you need to submit a steam workshop URL, your application 
 <thead>
 <tr>
 <th scope="col">ロール</th>
-<th scope="col">Description</th>
+<th scope="col">説明</th>
 </tr>
 </thead>
 <tbody>
@@ -138,7 +138,7 @@ To get a creator role you need to submit a steam workshop URL, your application 
 
 :::
 
-### Veteran Roles
+### ベテランロール
 
 The process to get a veteran role is fully automatic.
 
@@ -146,7 +146,7 @@ The process to get a veteran role is fully automatic.
 <thead>
 <tr>
 <th scope="col">ロール</th>
-<th scope="col">Description</th>
+<th scope="col">説明</th>
 </tr>
 </thead>
 <tbody>
@@ -172,7 +172,7 @@ Do the <a class="code-text">/getveteran</a> command in [Discord](discord://disco
 :::
 
 
-### Supporter Roles
+### サポーターロール
 
 These supporter roles are fully automatically.
 
@@ -182,7 +182,7 @@ Looking to become a supporter? [Click Here](/docs/supporters)
 <thead>
 <tr>
 <th scope="col">ロール</th>
-<th scope="col">Description</th>
+<th scope="col">説明</th>
 </tr>
 </thead>
 <tbody>
