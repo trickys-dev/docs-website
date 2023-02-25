@@ -4,7 +4,7 @@
     "description": "The title in the navbar"
   },
   "item.label.Docs": {
-    "message": "Docs",
+    "message": "資料",
     "description": "Navbar item with label Docs"
   },
   "item.label.HRP Gov": {
@@ -12,7 +12,7 @@
     "description": "Navbar item with label HRP Gov"
   },
   "item.label.Main Site": {
-    "message": "Main Site",
+    "message": "メインサイト",
     "description": "Navbar item with label Main Site"
   }
 }
