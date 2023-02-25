@@ -2,115 +2,115 @@
 sidebar_position: 1
 ---
 
-# Factions
+# Facties
 
-## Create A Faction
+## Maak een Factie
 
-We are still working on creating an application that automatically creates your faction, until then you can create a ticket on discord.
+Wij zijn nog bezig met het maken van een applicatie die automatisch je factie aanmaakt, tot dan kun je een ticket op Discord aanmaken.
 
-:::note Current Factions
+:::note Huidige Facties
 
-You can view all the current factions by [Clicking Here](https://trickys.gg/factions)
+Je kunt alle huidige facties bekijken door [hier te klikken](https://trickys.gg/factions)
 
 :::
 
-## Faction Profiles
+## Factie Profielen
 
-- Avatar image.
-- Cover image.
-- Bio/description.
-- Faction avatar outline colour.
+- Avatar afbeelding.
+- Omslagfoto.
+- Bio/beschrijving.
+- Factie avatar outline kleur.
 
-### Faction Avatar
+### Factie avatar
 
   <div class="flex-vcenter mb-1">
     <img src="/img/customprofiles/factions/factionavatar.png"/>
     <p>
-    Upload a avatar for your faction.
-    The avatar image will also show in a Discord embed when you post your faction URL, example below.
+    Upload een avatar voor je factie.
+    De avatar-afbeelding zal ook worden weergegeven in een Discord embed wanneer je je factie-URL plaatst, voorbeeld hieronder.
     </p>
  </div>
 
-### Faction Cover Image
+### Factie Omslag Afbeelding
 
   <div class="flex-vcenter mb-1">
     <img src="/img/customprofiles/factions/factioncover.png"/>
     <p>
-    Upload a cover for your faction.
-    The selected cover will show on the faction website profile page, example below.
+    Upload een avatar voor je factie.
+    De geselecteerde omslag wordt weergegeven op de factiewebsite profielpagina, zoals hieronder.
     </p>
  </div>
 
-### Faction Bio
+### Factie Bio
 
   <div class="flex-vcenter mb-1">
     <img src="/img/customprofiles/factions/factionbio.png"/>
     <p>
-    Write a bio for your faction, this will be seen on the faction website profile page.
+    Schrijf een bio voor je factie, dit zal worden gezien op de factiewebsite profielpagina.
     </p>
  </div>
 
-You are able to use BBCode in your factions bio, heres whats allowed:
+Je kunt BBCode gebruiken in je facties bio, hier is wat is toegestaan:
 
-- [b] - <code>[b]Hello World[/b]</code> - <b>Bold</b>
-- [i] - <code>[i]Hello World[/i]</code> - <i>Italic</i>
-- [s] - <code>[s]Hello World[/s]</code> - <s>Struck Through</s>
-- [u] - <code>[u]Hello World[/u]</code> - <u>Underlined</u>
+- [b] - <code>[b]Hello world[/b]</code> - <b>Vetgedrukt</b>
+- [i] - <code>[i]Hello World[/i]</code> - <i>Cursief</i>
+- [s] - <code>[s]Hello World[/s]</code> - <s>Doorgestreept</s>
+- [u] - <code>[u]Hello World[/u]</code> - <u>Onderstreept</u>
 
-### Faction Avatar Colour
+### Factie Avatar Kleur
 
 <div class="flex-vcenter mb-1">
     <img src="/img/customprofiles/factions/factionavatarcolour.png"/>
     <p>
-    You can choose the outline colour that is around your faction avatar.
-    The selected colour will also show in a Discord embed when you post your profile URL, example below.
+    Je kunt de omtrek kleur kiezen rond je factie avatar.
+    De geselecteerde kleur wordt ook weergegeven in Discord wanneer je je profiel-URL plaatst, voorbeeld hieronder.
     </p>
  </div>
 
-## Role Management
+## Rollenbeheer
 
-To manage roles head to the `Roles` tab on a faction your own.
+Om rollen te beheren ga je naar het tabblad `rollen` op je eigen factie.
 
 <img src="/img/hrp/factions/factionrolestab.png" />
 
-  One you click on roles you will be able to do the following:
-- Create a new role
-- Reorder the roles
-- Edit the role permissions
-- Rename roles
-- Delete roles
+  Als je op rollen klikt, kun je hier uit kiezen:
+- Nieuwe rol aanmaken
+- Rollen opnieuw ordenen
+- Wijzig machtigingen
+- Rol hernoemen
+- Verwijder rollen
 
 <img src="/img/hrp/factions/factionsroleviewpage.png" />
 
 :::tip
 
-Regardless of permissions roles cannot edit there own role or roles above them.
+Ongeacht permissies kan de eigenaar geen eigen rol of rollen hierboven bewerken.
 
 :::
 
 :::note
 
-The owner role of each faction cannot edit there own role order or permissions.
+De eigenaar van elke factie kan geen eigen rol volgorde of permissies bewerken.
 
 :::
 
-## Example
+## Voorbeeld
 
-Below we have a exmaple of what the outcome would look like if you customised everything.
+Hieronder hebben we een voorbeeld van hoe de resultaten eruit zouden zien als je alles zou aanpassen.
 
-### Custom Faction Example
+### Aangepaste Factie voorbeeld
 
 <div class="flex-vcenter mb-1">
     <img src="/img/customprofiles/factions/factionexamplediscord.png"/>
    <p>
-    <b>Sharing Faction Link</b><br/>
-    Sharing a link on discord will show a embed of your faction including the custom colour & the avatar that you set.
+    <b>Deel Factie Link</b><br/>
+    Door het delen van een link op een discord wordt een embed van je groep weergegeven, inclusief de aangepaste kleur en avatar die je hebt ingesteld.
     </p>
 </div>
    <div class="flex-vcenter mb-1">
     <img src="/img/customprofiles/factions/factionexampleavatar.png"/>
    <p>
-     <b>Avatar Outline Colour</b><br/>
-    Viewing profile with selected colour on website.
+     <b>Avatar Outline Kleur</b><br/>
+    Profiel met geselecteerde kleur op website weergeven.
     </p>
 </div>
