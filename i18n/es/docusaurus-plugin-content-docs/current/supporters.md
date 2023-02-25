@@ -41,18 +41,10 @@ Nuestro Patreon se utilizará para financiar
 <tbody>
 
 <tr>
-    <th colspan="6" class="tricky-color">Website & Discord Perks</th>
+    <th colspan="6" class="tricky-color">Página web y ventajas de Discord</th>
 </tr>
 <tr>
-    <th scope="row">Coloured Name On Website</th>
-    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
-    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
-    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
-    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
-    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
-</tr>
-<tr>
-    <th scope="row">Discord Role</th>
+    <th scope="row">Nombre de color en la página web</th>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
@@ -60,7 +52,15 @@ Nuestro Patreon se utilizará para financiar
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
 </tr>
 <tr>
-    <th scope="row">Username On <a href="https://trickys.gg/awards">Awards Page</a></th>
+    <th scope="row">Rol de Discord</th>
+    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
+    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
+    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
+    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
+    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
+</tr>
+<tr>
+    <th scope="row">Nombre de usuario en <a href="https://trickys.gg/awards">Página de Premios</a></th>
     <td></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
