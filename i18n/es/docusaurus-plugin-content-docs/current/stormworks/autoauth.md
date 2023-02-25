@@ -17,7 +17,7 @@ Once you join the website you will be authorized on all of our stormworks server
 When you join the server, the system will check the following things from our website:
 
 - Checks if you are perm banned or temp banned from the server you are joining.
-- Checks if you have an account on the website. (Steam & Discord linked)
+- Checks if you have an account on the website.(Steam & Discord linked)
 - Checks if you are authorized on the server you joined, if not then you will be AutoAuthed.
 - Checks if you are authorized and have a vaild boat license. This is only needed if you have a boat license.
 
