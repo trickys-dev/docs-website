@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # SW Status Bot
 
-This page explains how to use and setup the Stormworks Status Bot.
+このページでは、Stormworks Status Botの使用方法とセットアップ方法について説明します。
 
 ## What Can The Bot Do
 
@@ -18,13 +18,13 @@ In brief the bot can do the following;
 - Sends a DM when a server is offline. (when enabled)
 - Sends a DM when a server is out-of-date. (when enabled)
 
-## Getting Started
+## はじめに
 1. To get started <a href="https://discord.com/oauth2/authorize?client_id=807750726205702176&scope=bot&permissions=388160">invite</a> the bot to your server.
 2. Create a <code class="discord-text">#server-status</code> channel or whatever you want to call the channel, this is where the bot will place the embed to show the server status.
 3. Use <span class="code-text">/config servers</span> command to set what servers you would like to display.
 4. Once you have created the channel, tell the bot to use the channel to show the status using:<br/><span class="code-text">/config channel <code>channel:&lt;span class="discord-text">#server-status&lt;/span></code></span>
 
-## Configuring The Bot
+## Botの設定
 
 <div class="flex-vcenter mb-1">
     <img src="/img/statusbot/swconfigchannel.png" width="300px" />
@@ -108,7 +108,7 @@ Info types are managed by the <span class="code-text">/config info</span> comman
   </p>
  </div>
 
-## Ping
+## 応答速度（Ping）
 
 <div class="flex-vcenter mb-1">
     <img src="/img/statusbot/swglobalping.png" width="300px" />
@@ -120,7 +120,7 @@ Info types are managed by the <span class="code-text">/config info</span> comman
 
    <img src="/img/statusbot/swglobalpinginfo.png" />
 
-## Bots Permissions
+## Botの権限
 These are the bot's permissions:
 
 - Read Messages - Needed to read messages in server.
