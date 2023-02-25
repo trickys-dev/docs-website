@@ -93,7 +93,8 @@ Disse kommandoene vil som standard bare være tilgjengelig for brukere med admin
  <div class="flex-vcenter mb-1">
     <img src="/img/scamwatchbot/configstaffrole.png" width="300px" />
   <p class="m-0">
-  <span class="statusbot-title">Fullført </span> - Oppsettet er fullført.
+  <span class="statusbot-title">Staff Role</span> - Set the staff role that you want to be pinged if the detects a scam link.<br/>
+  To set the role: <span class="code-text">/config staffrole</span> <span class="discord-text">@role</span>
 
   </p>
  </div>
