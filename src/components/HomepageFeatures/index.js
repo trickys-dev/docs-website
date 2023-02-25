@@ -19,7 +19,7 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <Translate>
-       Say hello back to wolf
+      Say hello back to wolf
       </Translate>
     ),
   },
@@ -28,7 +28,7 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <Translate>
-        Documentation for developers who are looking to use our <code>API</code>
+        Documentation for developers who are looking to use our API
       </Translate>
     ),
   },
