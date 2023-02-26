@@ -4,7 +4,7 @@ sidebar_position: 7
 
 # /gblsbans
 
-<span class="request-bubble request-get">GET Request</span>
+<span class="request-bubble request-get">Requête GET</span>
 
 
 ## Obtenir les Données Système de la Liste de Bannissement Globale
