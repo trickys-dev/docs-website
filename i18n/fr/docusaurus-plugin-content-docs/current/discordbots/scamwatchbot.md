@@ -76,11 +76,11 @@ Assurez-vous que le Bot a un rôle plus élevé que les autres membres de votre 
 
 :::
 
-## Configuring The Bot
+## Configuration du Bot
 
-:::caution Default Permissions
+:::caution Permissions par Défaut
 
-These commands by default will only be accessible by users with the administrator permission.
+Ces commandes par défaut ne seront accessibles que par les utilisateurs ayant la permission d'administrateur.
 
 :::
 
