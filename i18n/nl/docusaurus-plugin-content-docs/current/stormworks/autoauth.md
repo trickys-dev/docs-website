@@ -16,20 +16,20 @@ Zodra je lid bent van de website krijg je automatisch toegang tot al onze stormw
 
 Wanneer je de server joined, zal het systeem de volgende dingen aanvragen van onze website:
 
-- Checks if you are perm banned or temp banned from the server you are joining.
-- Checks if you have an account on the website.(Steam & Discord linked)
-- Checks if you are authorized on the server you joined, if not then you will be AutoAuthed.
-- Checks if you are authorized and have a vaild boat license. This is only needed if you have a boat license.
+- Controleert of je permanent verbannen bent of tijdelijk verbannen bent van de server waar je in probeert te komen.
+- Controleert of je een account hebt op de website.(Steam & Discord-linked)
+- Controleert of je geautoriseerd bent op de server die je hebt toegetreden, als je dat nog niet bent dan wordt je geautoriseerd.
+- Controleert of je geautoriseerd bent en een geldige boot licentie hebt. Dit is alleen nodig als je een boot licentie hebt.
 
-## I have Auth But can't Spawn Boats?
+## Ik heb Auth Maar kan geen boten spawnen?
 
-You need a boat license for the AutoAuth System to authorize you to spawn boats.
+Je hebt een vaartuiglicentie nodig voor het AutoAuth System om je toestemming te geven om boten te spawnen.
 
-Already have a license? Check if its valid.
+Heeft u al een licentie? Controleer of het geldig is.
 
-## Do I Have Auth?
+## Heb ik Auth?
 
-One way of checking if you have auth is just to join one of our Stormworks servers and you will get one of the following pop-ups.
+Een manier om te controleren of je authenticatie hebt, is om je aan te sluiten bij een van onze Stormworks-servers en je krijgt een van de volgende pop-ups.
 
 <!-- css for flex -->
   <div class="flex-vcenter">
@@ -38,7 +38,7 @@ One way of checking if you have auth is just to join one of our Stormworks serve
     </div>
 <p>
 
-This message will show if you are successfully authorized in-game when joining.
+Dit bericht zal tevoorschijn komen als je succesvol in-game bent geautoriseerd bij het verbinden.
 
 </p>
   </div>
@@ -50,7 +50,7 @@ This message will show if you are successfully authorized in-game when joining.
     </div>
 <p>
 
-This message will show if you are not authorized in-game when joining.
+Dit bericht zal tevoorschijn komen als je niet succesvol in-game bent geautoriseerd bij het verbinden.
 
 </p>
   </div>
