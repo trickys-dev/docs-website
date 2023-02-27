@@ -36,7 +36,7 @@ Je kunt geen knipperende blauwe of rode lichten gebruiken, aangezien deze door d
 
 :::tip Tip
 
-Wanneer je een schermafbeelding van de boot in de applicatie aanbiedt, toon de lengte van de boot op de afbeelding. Dit versnelt het proces nog al.
+Wanneer u een schermafbeelding van de boot in de applicatie aanbiedt, toon de lengte van de boot op de afbeelding. Dit versnelt het proces nog al.
 
 :::
 
@@ -65,38 +65,38 @@ Verplichte navigatielampen voor boten van minder dan 8 meter
 </div>
 </div>
 
-### Boten tussen de 8-40 meter
-Mandatory navigation lights for boats between 8-40 meters
+### Boten tussen de 8 en 40 meter
+Verplichte navigatieverlichting voor boten tussen de 8 en 40 meter
 
   <div class="flex-vcenter">
     <img src="/img/boats/tsboatnav1.png" width="200px"/>
     <div>
 
-- <span style={{color: "#3dd800"}}>Green</span> light placed on the right side, visible from the front and right only
-- <span style={{color: "#ff0400"}}>Red</span> light placed on the left side, visible from front and left only
-- **White** light placed on the rear, visible from behind only
-- **White** light placed high up, visible from both sides and the front
+- <span style={{color: "#3dd800"}}>Groen</span> licht geplaatst aan de rechterkant Alleen zichtbaar vanaf de voorkant en rechts
+- <span style={{color: "#ff0400"}}>rood</span> licht geplaatst aan de linkerkant, zichtbaar vanaf de voorkant en alleen linker
+- **Wit** licht aan de achterkant geplaatst Alleen zichtbaar van achter
+- **Wit** licht hoog en zichtbaar aan beide kanten en voorkant
 
 
   </div>
   </div>
 
-## Boat License Placement
+## Plaatsing vaartuiglicentie
 
   <div class="flex-vcenter">
     <img src="/img/boats/tsboatid1.png" width="200px"/>
-    Your boat license should be painted on the outside of your boat for easy inspection, paintable signs & indicators are allowed as long as they are easily visible. You cannot have the ID on a monitor or as a components name.
+    De vaartuiglicentie moet voor een eenvoudige inspectie op de boot worden geschilderd, beschrijfbare tekens en indicatoren zijn toegestaan zolang ze gemakkelijk zichtbaar zijn. U kunt het ID niet op een monitor afbeelden of als componentnaam hebben.
   </div>
 
-## Finding your Boat License ID
-You will find your license in the [account](https://trickys.gg/account) area.
+## Zoek uw Boot Licentie ID
+U vindt uw licentie in het gedeelte [account](https://trickys.gg/account).
 
 <img src="/img/boats/tslicensesview.png" width="500" />
 
-## Custom License ID
+## Aangepaste licentie
 
-You can have a custom license if you are a supporter, just head over to your account page and click Edit License.
+U kunt een aangepaste licentie hebben als u een supporter bent, ga gewoon naar uw accountpagina en klik op Edit License.
 
-- Custom license needs to be 4-6 digits long.
+- Aangepaste licentie moet 4 tot 6 cijfers lang zijn.
 
 ![Custom License](/img/boats/tsblcustomlicense.png)
