@@ -34,7 +34,7 @@ sidebar_position: 0
 
 1. Eerst moet je ervoor kiezen om land/zee lading of lucht te doen. (Voor deze handleiding kiezen we land / zee)
 
-:::note Een paar notities
+:::note A couple of notes
 
 - Locaties waar je kan leveren verschillen tussen land/zee of lucht. O’Neil (Air) kan bijvoorbeeld leveren op het noordpoolgebied, maar Noord Harbor (Land/Zee) niet.
 - Je kunt GEEN land/zeelading in de lucht nemen, dit is in strijd met de HRP-regels en zal leiden tot een directe boete. (Tenzij je het binnen 1 km van de terminal laadt)
