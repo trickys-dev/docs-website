@@ -137,8 +137,8 @@ const config = {
             label: 'Docs',
           },
           {
-            href: '/hrpgovdocs',
-            label: 'HRP Gov',
+            href: '/hrplaws',
+            label: 'HRP Laws',
             position: 'left',
           },
           {
