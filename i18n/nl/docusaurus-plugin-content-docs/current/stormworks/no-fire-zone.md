@@ -2,31 +2,31 @@
 sidebar_position: 1
 ---
 
-# No Firing Zone
+# Wapen vrije zone
 
-Do not do the following:
-- Fire your Weapons.
-- Fire at players or vehicles.
-- Fire Into the zone.
-- Fire at other players or vehicles while they are in the zone.
+Doe het volgende niet:
+- Vuur je wapens.
+- Vuur op spelers of voertuigen.
+- Vuur op of in de zone.
+- Vuur op andere spelers of voertuigen wanneer ze zich in de zone bevinden.
 
-:::info Firing In NFZ
+::info afvuren in NFZ
 
-Firing inside or into the zone will get you temporary banned.
+Als je binnen of in de zone schiet krijg je een tijdelijke verbanning.
 
 :::  
 
   <div class="flex-vcenter mb-1">
     <img src="/img/nfz/nfzmapzone.png" width="300px"/>
-    The green circle shows where the No Firing Zone is.
+    De groene cirkel laat zien waar de Geen Vuurzone is.
   </div>
 
   <div class="flex-vcenter mb-1">
     <img src="/img/nfz/nfzmappopup.png" width="300px"/>
-    This message will show when you highlight the No Firing Zone marker on the map.
+    Dit bericht wordt weergegeven wanneer u de Geen Vuurzone marker op de kaart markeert.
   </div>
 
   <div class="flex-vcenter">
     <img src="/img/nfz/nfzmsgpopup.png" width="300px"/>
-    This message will show in the top left hand corner and bottom right hand corner when you are inside the zone.
+    Dit bericht wordt weergegeven in de linkerbovenhoek en de rechteronderhoek wanneer je je in de zone bevindt.
   </div>
