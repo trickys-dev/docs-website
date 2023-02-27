@@ -144,6 +144,16 @@ const config = {
           {
             type: 'localeDropdown',
             position: 'right',
+            dropdownItemsAfter: [
+              {
+                type: 'html',
+                value: '<hr style="margin: 0.3rem 0;">',
+              },
+              {
+                href: 'https://translate.trickys.gg',
+                label: 'Help Us Translate',
+              },
+            ],
           },
           {
             href: 'https://trickys.gg',
