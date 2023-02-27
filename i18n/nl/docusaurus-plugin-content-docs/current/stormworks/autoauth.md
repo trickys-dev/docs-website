@@ -3,18 +3,18 @@ sidebar_position: 4
 ---
 
 # AutoAuth
-AutoAuth (Automatic Authorization)
+AutoAuth (Automatische Autorisatie)
 
-## What is AutoAuth?
+## Wat is AutoAuth?
 
-The "AutoAuth", or Automatic Authorization system authorizes you on all our servers automatically without any admins or staff needing to be on the server at the same time as you.
+De "AutoAuth", of het automatisch autorisatiesysteem machtigt u op al onze servers zonder dat een beheerder of staf op hetzelfde moment als u in de server hoeft te zijn.
 
 
-## How Does AutoAuth Work?
+## Hoe werkt AutoAuth?
 
-Once you join the website you will be authorized on all of our stormworks servers automatically.
+Zodra je lid bent van de website krijg je automatisch toegang tot al onze stormwork servers.
 
-When you join the server, the system will check the following things from our website:
+Wanneer je de server joined, zal het systeem de volgende dingen aanvragen van onze website:
 
 - Checks if you are perm banned or temp banned from the server you are joining.
 - Checks if you have an account on the website.(Steam & Discord linked)
