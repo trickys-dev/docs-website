@@ -43,25 +43,25 @@ description: Stormworks In-Game Commands.
 
 ## Voertuig Manager Commando's
 
-| Opdracht                                                              | Beschrijving                                 | Voorbeeld             |
-| --------------------------------------------------------------------- | -------------------------------------------- | --------------------- |
-| ?v help                                                               | Toont je sub-commando's                      | ?v help               |
-| ?v info                                                               | View your vehicle info                       | ?v info               |
-| ?v list                                                               | List all vehicles you spawned                | ?v list               |
-| ?v {vid} help                                                         | View sub-commands for ?v {id}                | ?v 1 help             |
-| ?v {vid} info                                                         | View info about vehicle                      | ?v 1 info             |
-| ?v {vid} despawn                                                      | Despawn vehicle                              | ?v 1 despawn          |
-| ?v {vid} owner {id}                                                   | Transfer ownership of vehicle                | ?v 1 owner 2          |
-| ?v {vid} tp                                                           | Teleport to a seat in the vehicle            | ?v 1 tp               |
-| ?v {vid} kick {id}                                                    | Kick a user from a vehicle                   | ?v 1 kick 1           |
-| ?v {vid} kickall                                                      | Kick all users from vehicle                  | ?v 1 kickall          |
-| ?v {vid} repair                                                       | Repair a vehicle (<a href="/docs/supporters#what-perks-are-there">Silver+</a>) | ?v 1 repair           |
-| Access control command. Change who can interaction with your vehicles |                                              |                       |
-| ?v accessmode (all/whitelist/blacklist/none)                          | Change who can interaction with your vehicle | ?v accessmode all     |
-| ?v whitelist/blacklist add {id}                                       | Add someone to your whitelist/blacklist      | ?v whitelist add 1    |
-| ?v whitelist/blacklist remove {id}                                    | Remove someone from your whitelist/blacklist | ?v whitelist remove 1 |
-| ?v whitelist/blacklist list                                           | Shows your current whitelist/blacklist       | ?v whitelist list     |
-| ?v whitelist/blacklist clear                                          | Clears whitelist/blacklist                   | ?v whitelist clear    |
+| Opdracht                                                                            | Beschrijving                                         | Voorbeeld             |
+| ----------------------------------------------------------------------------------- | ---------------------------------------------------- | --------------------- |
+| ?v help                                                                             | Toont je sub-commando's                              | ?v help               |
+| ?v info                                                                             | Bekijk de informatie van je voertuig                 | ?v info               |
+| ?v list                                                                             | Laat alle voertuigen zien die je hebt geplaatst      | ?v list               |
+| ?v {vid} help                                                                       | Bekijk sub-opdrachten voor ?v {id}                   | ?v 1 help             |
+| ?v {vid} info                                                                       | Bekijk info over het voertuig                        | ?v 1 info             |
+| ?v {vid} despawn                                                                    | Verwijder het voertuig                               | ?v 1 despawn          |
+| ?v {vid} owner {id}                                                                 | Eigendom van het voertuig overdragen                 | ?v 1 owner 2          |
+| ?v {vid} tp                                                                         | Teleporteer naar een zitplaats in het voertuig       | ?v 1 tp               |
+| ?v {vid} kick {id}                                                                  | Een gebruiker uit een voertuig verwijderen           | ?v 1 kick 1           |
+| ?v {vid} kickall                                                                    | Alle gebruikers verwijderen uit het voertuig         | ?v 1 kickall          |
+| ?v {vid} repair                                                                     | Repareer een voertuig (<a href="/docs/supporters#what-perks-are-there">Silver+</a>)    | ?v 1 repair           |
+| Toegang tot controle commando. Verander wie interactie kan hebben met uw voertuigen |                                                      |                       |
+| ?v accessmode (all/whitelist/blacklist/none)                                        | Verander wie interactie kan hebben met uw voertuigen | ?v accessmode all     |
+| ?v whitelist/blacklist add {id}                                                     | Voeg iemand toe aan je whitelist/blacklist           | ?v whitelist add 1    |
+| ?v whitelist/blacklist remove {id}                                                  | Verwijder iemand van je whitelist/blacklist          | ?v whitelist remove 1 |
+| ?v whitelist/blacklist list                                                         | Toont je huidige whitelist/blacklist                 | ?v whitelist list     |
+| ?v whitelist/blacklist clear                                                        | Verwijdert whitelist/blacklist                       | ?v whitelist clear    |
 
 
 
