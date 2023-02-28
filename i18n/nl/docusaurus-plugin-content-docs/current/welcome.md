@@ -2,9 +2,9 @@
 sidebar_position: 0
 ---
 
-# Welcome
+# Welkom
 
-Let's discover **some docs..**.
+Laten we **wat documenten ontdekken.**.
 
-## Getting Started
+## Aan de slag
 
