@@ -4,55 +4,47 @@ sidebar_position: 3
 
 # Supporters
 
-- This guide explains what you get for being a Patreon member.
-- By becoming a patreon you are supporting the community.
+- Deze handleiding legt uit wat je krijgt als lid van Patreon.
+- Door een patreon te worden ondersteunt u de gemeenschap.
 
-## Patreon Tiers
+## Patreon rangen
 
-| Tier              | Discord Roles                                        |
-| ----------------- | ---------------------------------------------------- |
-| Bronze Supporter  | <span class="b-supporter">@Bronze Supporter</span>   |
-| Silver Supporter  | <span class="s-supporter">@Silver Supporter</span>   |
-| Gold Supporter    | <span class="g-supporter">@Gold Supporter</span>     |
-| Diamond Supporter | <span class="d-supporter"> @Diamond Supporter</span> |
+| Niveau              | Discord Rollen                                         |
+| ------------------- | ------------------------------------------------------ |
+| Bronzen Supporter   | <span class="b-supporter">@Bronzen Supporter</span>    |
+| Zilveren Supporter  | <span class="s-supporter">@Zilveren Supporter</span>   |
+| Gouden supporter    | <span class="g-supporter">@Gouden supporter</span>     |
+| Diamanten Supporter | <span class="d-supporter"> @Diamanten Supporter</span> |
 
-## What Our Patreon Funds Are Used For?
+## Waar worden onze Patreon-fondsen voor gebruikt?
 
-Our Patreon will be used to fund
-- Server upkeep
-- Future hardware upgrades
-- Development costs
-- Discord bots
-- Website costs
+Onze Patreon zal worden gebruikt voor financiering van,
+- Server Onderhoud
+- Toekomstige hardware upgrades
+- Ontwikkelings kosten
+- Discord Bots
+- Website kosten
 
-## What Perks Are There?
+## Welke voordelen zijn er?
 
 <table>
 <thead>
     <tr>
-        <th scope="col">Perks</th>
-        <th scope="col"><span class="n-supporter">@Nitro</span></th>
-        <th scope="col"><span class="b-supporter">@Bronze</span></th>
-        <th scope="col"><span class="s-supporter">@Silver</span></th>
-        <th scope="col"><span class="g-supporter">@Gold</span></th>
-        <th scope="col"><span class="d-supporter">@Diamond</span></th>
+        <th scope="col">Voordelen</th>
+        <th scope="col"><span class="n-supporter">Nitro</span></th>
+        <th scope="col"><span class="b-supporter">@Brons</span></th>
+        <th scope="col"><span class="s-supporter">@Zilver</span></th>
+        <th scope="col"><span class="g-supporter">@Goud</span></th>
+        <th scope="col"><span class="d-supporter">@Diamant</span></th>
     </tr>
 </thead>
 <tbody>
 
 <tr>
-    <th colspan="6" class="tricky-color">Website & Discord Perks</th>
+    <th colspan="6" class="tricky-color">Website & Discord Voordelen</th>
 </tr>
 <tr>
-    <th scope="row">Coloured Name On Website</th>
-    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
-    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
-    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
-    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
-    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
-</tr>
-<tr>
-    <th scope="row">Discord Role</th>
+    <th scope="row">Gekleurde naam op website</th>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
@@ -60,7 +52,15 @@ Our Patreon will be used to fund
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
 </tr>
 <tr>
-    <th scope="row">Username On <a href="https://trickys.gg/awards">Awards Page</a></th>
+    <th scope="row">Discord Rol</th>
+    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
+    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
+    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
+    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
+    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
+</tr>
+<tr>
+    <th scope="row">Gebruikersnaam op <a href="https://trickys.gg/awards">Beloningen Pagina</a></th>
     <td></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
@@ -68,7 +68,7 @@ Our Patreon will be used to fund
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
 </tr>
 <tr>
-    <th scope="row">Exclusive Patreon Discord Channel</th>
+    <th scope="row">Exclusief Patreon Discord kanaal</th>
     <td></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
@@ -76,7 +76,7 @@ Our Patreon will be used to fund
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
 </tr>
 <tr>
-    <th scope="row">Full <a href="/docs/category/api">API</a> Access</th>
+    <th scope="row">Volledige <a href="/docs/category/api">API</a> toegang</th>
     <td></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
@@ -84,7 +84,7 @@ Our Patreon will be used to fund
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
 </tr>
 <tr>
-    <th scope="row">Username + avatar on <a href="/">homepage</a></th>
+    <th scope="row">Gebruikersnaam + avatar op <a href="/">startpagina</a></th>
     <td></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
@@ -92,15 +92,7 @@ Our Patreon will be used to fund
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
 </tr>
 <tr>
-    <th scope="row">Custom Profile URL</th>
-    <td></td>
-    <td class="text-center"><i class="fas fa-fw fa-pause-circle text-danger"></i></td>
-    <td class="text-center"><i class="fas fa-fw fa-pause-circle text-danger"></i></td>
-    <td class="text-center"><i class="fas fa-fw fa-pause-circle text-danger"></i></td>
-    <td class="text-center"><i class="fas fa-fw fa-pause-circle text-danger"></i></td>
-</tr>
-<tr>
-    <th scope="row">Profile Gallery</th>
+    <th scope="row">Aangepaste profiel-URL</th>
     <td></td>
     <td class="text-center"><i class="fas fa-fw fa-pause-circle text-danger"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-pause-circle text-danger"></i></td>
@@ -108,7 +100,15 @@ Our Patreon will be used to fund
     <td class="text-center"><i class="fas fa-fw fa-pause-circle text-danger"></i></td>
 </tr>
 <tr>
-    <th scope="row">Priority <a href="https://support.trickys.gg">Support Tickets</a></th>
+    <th scope="row">Profiel Galerij</th>
+    <td></td>
+    <td class="text-center"><i class="fas fa-fw fa-pause-circle text-danger"></i></td>
+    <td class="text-center"><i class="fas fa-fw fa-pause-circle text-danger"></i></td>
+    <td class="text-center"><i class="fas fa-fw fa-pause-circle text-danger"></i></td>
+    <td class="text-center"><i class="fas fa-fw fa-pause-circle text-danger"></i></td>
+</tr>
+<tr>
+    <th scope="row">Prioriteit <a href="https://support.trickys.gg">Support Tickets</a></th>
     <td></td>
     <td></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
@@ -116,7 +116,7 @@ Our Patreon will be used to fund
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
 </tr>
 <tr>
-    <th scope="row">Priority <a href="https://trickys.gg/applications">Applications</a></th>
+    <th scope="row">Prioriteit <a href="https://trickys.gg/applications">Applicaties</a></th>
     <td></td>
     <td></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
@@ -124,7 +124,7 @@ Our Patreon will be used to fund
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
 </tr>
 <tr>
-    <th scope="row">Early Access To Areas (Discord+Website)</th>
+    <th scope="row">Vroegtijdige toegang tot gebieden (Discord+Website)</th>
     <td></td>
     <td></td>
     <td></td>
@@ -135,7 +135,7 @@ Our Patreon will be used to fund
     <th colspan="6" class="tricky-color">Stormworks Perks</th>
 </tr>
 <tr>
-    <th scope="row"><a href="" data-toggle="modal" data-target="#exampleModal">Custom Map Label + Custom Icon</a></th>
+    <th scope="row"><a href="" data-toggle="modal" data-target="#exampleModal">Aangepaste kaart label + aangepast icoon</a></th>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
@@ -143,7 +143,7 @@ Our Patreon will be used to fund
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
 </tr>
 <tr>
-    <th scope="row"><a href="/docs/stormworks/boats#custom-license-id">Custom Boat ID</a></th>
+    <th scope="row"><a href="/docs/stormworks/boats#custom-license-id">Eigen speciale schip ID</a></th>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
@@ -152,7 +152,7 @@ Our Patreon will be used to fund
 </tr>
 
 <tr>
-    <th scope="row">Access To Travel Commands</th>
+    <th scope="row">Toegang tot reiscommando's</th>
     <td></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
@@ -160,7 +160,7 @@ Our Patreon will be used to fund
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
 </tr>
 <tr>
-    <th scope="row">Vehicle repair <a href="/docs/stormworks/commands#vehicle-manager-commands">command</a></th>
+    <th scope="row">Voertuig reparatie <a href="/docs/stormworks/commands#vehicle-manager-commands">commando</a></th>
     <td></td>
     <td></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
@@ -168,7 +168,7 @@ Our Patreon will be used to fund
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
 </tr>
 <tr>
-    <th scope="row">Custom Environment Mod On Server</th>
+    <th scope="row">Aangepaste Omgeving Mod Op Server</th>
     <td></td>
     <td></td>
     <td></td>
@@ -176,7 +176,7 @@ Our Patreon will be used to fund
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
 </tr>
 <tr>
-    <th scope="row"><a href="/docs/stormworks/commands">Home</a> limit</th>
+    <th scope="row"><a href="/docs/stormworks/commands">Huis</a> limiet</th>
     <td class="text-center"><i class="fa-fw text-success">2</i></td>
     <td class="text-center"><i class="fa-fw text-success">3</i></td>
     <td class="text-center"><i class="fa-fw text-success">4</i></td>
@@ -184,7 +184,7 @@ Our Patreon will be used to fund
     <td class="text-center"><i class="fa-fw text-success">10</i></td>
 </tr>
 <tr>
-    <th scope="row"><a href="/docs/stormworks/commands">Vehicle</a> limit (HRP3: 3)</th>
+    <th scope="row"><a href="/docs/stormworks/commands">Voertuig</a> limiet (HRP3: 3)</th>
     <td class="text-center"><i class="fa-fw text-success">2</i></td>
     <td class="text-center"><i class="fa-fw text-success">3</i></td>
     <td class="text-center"><i class="fa-fw text-success">3</i></td>
@@ -192,10 +192,10 @@ Our Patreon will be used to fund
     <td class="text-center"><i class="fa-fw text-success">5</i></td>
 </tr>
 <tr>
-    <th colspan="6" class="tricky-color">Minecraft Perks</th>
+    <th colspan="6" class="tricky-color">Minecraft Voordelen</th>
 </tr>
 <tr>
-    <th scope="row">Coloured Name On Minecraft + Tag</th>
+    <th scope="row">Gekleurde naam op Minecraft + Tag</th>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
@@ -203,7 +203,7 @@ Our Patreon will be used to fund
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
 </tr>
 <tr>
-    <th scope="row">Home Points (default: 3)</th>
+    <th scope="row">Thuis punten (standaard: 3)</th>
     <td class="text-center"><i class="fa-fw text-success">4</i></td>
     <td class="text-center"><i class="fa-fw text-success">5</i></td>
     <td class="text-center"><i class="fa-fw text-success">6</i></td>
@@ -211,7 +211,7 @@ Our Patreon will be used to fund
     <td class="text-center"><i class="fa-fw text-success">10</i></td>
 </tr>
 <tr>
-    <th scope="row">Back-pack Size (default: 1 row)</th>
+    <th scope="row">Rugzak grootte (standaard: 1 rij)</th>
     <td class="text-center"><i class="fa-fw text-success">2</i></td>
     <td class="text-center"><i class="fa-fw text-success">3</i></td>
     <td class="text-center"><i class="fa-fw text-success">4</i></td>
@@ -219,7 +219,7 @@ Our Patreon will be used to fund
     <td class="text-center"><i class="fa-fw text-success">6</i></td>
 </tr>
 <tr>
-    <th scope="row">Back-pack Keep On Death (default: No)</th>
+    <th scope="row">Rugzak behouden na dood (standaard: Niet)</th>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
@@ -227,7 +227,7 @@ Our Patreon will be used to fund
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
 </tr>
 <tr>
-    <th scope="row">Mobile Ender Chest</th>
+    <th scope="row">Draagbare Ender Kist</th>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
@@ -235,7 +235,7 @@ Our Patreon will be used to fund
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
 </tr>
 <tr>
-    <th scope="row">No Teleport Cooldown (default: 5s)</th>
+    <th scope="row">Geen Teleporteer Cooldown (standaard: 5s)</th>
     <td></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
@@ -243,7 +243,7 @@ Our Patreon will be used to fund
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
 </tr>
 <tr>
-    <th scope="row">Chunks Per Land (default: 30)</th>
+    <th scope="row">Chunks Per Land (standaard: 30)</th>
     <td class="text-center"><i class="fa-fw text-success">35</i></td>
     <td class="text-center"><i class="fa-fw text-success">40</i></td>
     <td class="text-center"><i class="fa-fw text-success">45</i></td>
@@ -251,7 +251,7 @@ Our Patreon will be used to fund
     <td class="text-center"><i class="fa-fw text-success">60</i></td>
 </tr>
 <tr>
-    <th scope="row">Fly Within Own Land</th>
+    <th scope="row">Vliegen binnen eigen land</th>
     <td></td>
     <td></td>
     <td></td>
@@ -261,6 +261,6 @@ Our Patreon will be used to fund
 </tbody>
 </table>
 
-## My Current Tier
+## Mijn huidige rang
 
-You can find what tier you currently have by going to your [account](https://trickys.gg/account) page.
+Je kunt vinden in welke rang je momenteel hebt door naar je [account](https://trickys.gg/account) pagina te gaan.
