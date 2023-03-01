@@ -43,13 +43,13 @@ Kurz gesagt, kann der Bot folgendes machen;
 
 :::note
 
-If you selected "None" in step 2, you can skip step 2.1
+Wenn Sie in Schritt 2 "Keine" ausgewählt haben, können Sie Schritt 2.1 überspringen
 <div class="flex-vcenter mb-1">
     <img src="/img/scamwatchbot/botqsbuttons.png" width="300px" />
   <p class="m-0">
-  <span class="statusbot-title">Step 2.1</span> - Pick a role that is requried to use the buttons.<br/>
-  <span class="statusbot-title">None</span> - If you type <span class="code-text">none</span> everyone that has access to the log channel can use the buttons.<br/>
-  <span class="statusbot-title">Roles</span> - When adding a role just @ the role, example @Moderator.
+  <span class="statusbot-title">Schritt 2.1</span> - Wählen Sie eine Rolle, die benötigt wird, um die Knöpfe zu nutzen.<br/>
+  <span class="statusbot-title">Keine</span> - Wenn Sie <span class="code-text">none</span> eingeben, kann jeder, der Zugriff auf den Log-Kanal hat die Knöpfe nutzen.<br/>
+  <span class="statusbot-title">Rollen</span> -Wenn Sie eine Rolle hinzufügen, erwähnen Sie diese einfach mit '@', Beispielsweise @Moderator.
   </p>
  </div>
 
@@ -57,105 +57,105 @@ If you selected "None" in step 2, you can skip step 2.1
 <div class="flex-vcenter mb-1">
     <img src="/img/scamwatchbot/botqspingrole.png" width="300px" />
   <p class="m-0">
-  <span class="statusbot-title">Step 3</span> -  Pick a role that will be pinged when a scam link is detected.<br/>
-  <span class="statusbot-title">None</span> -  If you type <span class="code-text">none</span> there wont be a ping role.<br/>
-  <span class="statusbot-title">Roles</span> - When adding a role just @ the role, example @Moderator.
+  <span class="statusbot-title">Schritt 3</span> - Wählen Sie eine Rolle, die erwähnt wird, wenn ein Betrugslink erkannt wird.<br/>
+  <span class="statusbot-title">Keine</span> - Wenn Sie <span class="code-text">none</span> eingeben, gibt es keine Rolle, die erwähnt wird.<br/>
+  <span class="statusbot-title">Rollen</span> - Wenn Sie eine Rolle hinzufügen, erwähnen Sie diese einfach mit '@', Beispielsweise @Moderator.
   </p>
  </div>
  <div class="flex-vcenter mb-1">
     <img src="/img/scamwatchbot/botqscomplete.png" width="300px" />
   <p class="m-0">
-  <span class="statusbot-title">Complete </span> -  Setup Complete.
+  <span class="statusbot-title">Abgeschlossen </span> - Setup abgeschlossen.
   </p>
  </div>
 
-:::tip Required
+:::tip Erforderlich
 
-Please make sure the bot has a role that is higher then your members on your server!
+Bitte stellen Sie sicher, dass der Bot eine Rolle hat, die höher ist als die der Mitglieder auf Ihrem Server!
 
 :::
 
-## Configuring The Bot
+## Den Bot konfigurieren
 
-:::caution Default Permissions
+:::caution Standardberechtigungen
 
-These commands by default will only be accessible by users with the administrator permission.
+Diese Befehle sind standardmäßig nur für Benutzer mit Administratorberechtigung zugänglich.
 
 :::
 
 <div class="flex-vcenter mb-1">
     <img src="/img/scamwatchbot/configlogchannel.png" width="300px" />
   <p class="m-0">
-  <span class="statusbot-title">Channel</span> - The channel which the bot will use for logs.<br/>
-  To set the channel: <span class="code-text">/config logchannel</span> <span class="discord-text">#channel</span>
+  <span class="statusbot-title">Kanal</span> - Der Kanal, den der Bot für Logs verwenden wird.<br/>
+  Um den Kanal zu setzen: <span class="code-text">/config logchannel</span> <span class="discord-text">#channel</span>
   </p>
  </div>
  <div class="flex-vcenter mb-1">
     <img src="/img/scamwatchbot/configstaffrole.png" width="300px" />
   <p class="m-0">
-  <span class="statusbot-title">Staff Role</span> - Set the staff role that you want to be pinged if the detects a scam link.<br/>
-  To set the role: <span class="code-text">/config staffrole</span> <span class="discord-text">@role</span>
+  <span class="statusbot-title">Staff Role</span> - Legen Sie die Mitarbeiterrolle fest, de gepingt werden soll, wenn der Bot einen Betrugslink erkennt.<br/>
+  Um die Rolle zu setzen: <span class="code-text">/config staffrole</span> <span class="discord-text">@Rolle</span>
 
   </p>
  </div>
  <div class="flex-vcenter mb-1">
     <img src="/img/scamwatchbot/configpingstaff.png" width="300px" />
   <p class="m-0">
-  <span class="statusbot-title">Ping Staff</span> - Enable or Disable staff pinging.<br/>
-  To set the role: <span class="code-text">/config pingstaff True/False</span>
+  <span class="statusbot-title">Ping Staff</span> - Ping für Mitarbeiter ein-/ausschalten.<br/>
+  Um die Rolle zu setzen: <span class="code-text">/config Pingstaff True/False</span>
   </p>
  </div>
  <div class="flex-vcenter mb-1">
     <img src="/img/scamwatchbot/configautotimeout.png" width="300px" />
   <p class="m-0">
-  <span class="statusbot-title">Auto TimeOut</span> - Set the time a user will be timed out for in days.<br/>
-  <span class="statusbot-title">Toggle</span> - Enable or Disable Auto Timeout.<br/>
-  To set this: <span class="code-text">/config autotimeout True/False days</span>
+  <span class="statusbot-title">Auto TimeOut</span> - Legen Sie fest, wie viele Tage ein Benutzer ein Timeout erhalten soll.<br/>
+  <span class="statusbot-title">Toggle</span> - Auto-Timeout ein-/ausschalten.<br/>
+  Um dies festzulegen: <span class="code-text">/config autotimeout True/False days</span>
   </p>
  </div>
   <div class="flex-vcenter mb-1">
     <img src="/img/scamwatchbot/configbuttonskick.png" width="300px" />
   <p class="m-0">
-  <span class="statusbot-title">Kick Button</span> - Set the role that can use the kick button.<br/>
-  <span class="statusbot-title">Toggle</span> - Enable or Disable the button.<br/>
-  To set this: <span class="code-text">/config buttons kick True/False</span> <span class="discord-text">@role</span>
+  <span class="statusbot-title">Kick-Button</span> - Legen Sie die Rolle fest, die den Kick-Knopf verwenden kann.<br/>
+  <span class="statusbot-title">Toggle</span> - Aktivieren oder Deaktivieren Sie die Schaltfläche.<br/>
+  Um dies festzulegen: <span class="code-text">/config buttons kicken True/False</span> <span class="discord-text">@role</span>
   </p>
  </div>
   <div class="flex-vcenter mb-1">
     <img src="/img/scamwatchbot/configbuttonsban.png" width="300px" />
   <p class="m-0">
-  <span class="statusbot-title">Ban Button</span> - Set the role that can use the ban button.<br/>
-  <span class="statusbot-title">Toggle</span> - Enable or Disable the button.<br/>
-  To set this: <span class="code-text">/config buttons ban True/False</span> <span class="discord-text">@role</span>
+  <span class="statusbot-title">Ban Button</span> - Legen Sie die Rolle fest, die den Ban-Knopf verwenden kann.<br/>
+  <span class="statusbot-title">Toggle</span> - Aktivieren oder Deaktivieren Sie die Schaltfläche.<br/>
+  Um dies festzulegen: <span class="code-text">/config buttons ban True/False</span> <span class="discord-text">@role</span>
   </p>
  </div>
   <div class="flex-vcenter mb-1">
     <img src="/img/scamwatchbot/configbuttonsuntimeout.png" width="300px" />
   <p class="m-0">
-  <span class="statusbot-title">UnTimeout Button</span> - Set the role that can use the Untimeout button.<br/>
-  <span class="statusbot-title">Toggle</span> - Enable or Disable the button.<br/>
-  To set this: <span class="code-text">/config buttons untimeout True/False</span> <span class="discord-text">@role</span>
+  <span class="statusbot-title">UnTimeout button</span> - Legen Sie die Rolle fest, die den Untimeout-Knopf verwenden kann.<br/>
+  <span class="statusbot-title">Toggle</span> - Aktivieren oder Deaktivieren Sie die Schaltfläche.<br/>
+  Um dies festzulegen: <span class="code-text">/config buttons untimeout True/False</span> <span class="discord-text">@role</span>
   </p>
  </div>
 
-## Examples
+## Beispiele
 
 <div class="flex-vcenter mb-1">
     <img src="/img/scamwatchbot/botlinkdetected.png" width="300px" />
   <p class="m-0">
-  <span class="statusbot-title">User Side</span> - This will show in the channel where a scam link is posted. (the embed will remove after 30 seconds).
+  <span class="statusbot-title">Benutzerseite</span> - Dies wird im Kanal angezeigt, in dem ein Betrugslink veröffentlicht wird. (die Einbettung wird nach 30 Sekunden entfernt).
   </p>
  </div>
    <div class="flex-vcenter mb-1">
     <img src="/img/scamwatchbot/botlinkdetectedlog.png" width="300px" />
   <p class="m-0">
-  <span class="statusbot-title">Log Channel</span> - This will show in the log channel for admins/staff.<br/>
-1. If you have enabled a role to be pinged this is where it will show.<br/>
-2. This shows the user who sent the scam link<br/>
-3. This shows the scam link itself.<br/>
-4. If you have enabled to Untimeout button this is where it will show.<br/>
-5. If you have enabled to Kick button this is where it will show.<br/>
-6. If you have enabled to Ban button this is where it will show.<br/>
+  <span class="statusbot-title">Log Channel</span> - Dies wird im Log-Kanal für Administratoren/Mitarbeiter angezeigt.<br/>
+1. Wenn Sie eine Rolle, die erwähnt werden soll festgelegt haben, wird sie hier angezeigt.<br/>
+2. Dies zeigt den Benutzer, der den Betrugslink gesendet hat<br/>
+3. Dies zeigt den Link selbst an.<br/>
+4. Wenn Sie den Untimeout-Knopf aktiviert haben, wird er hier angezeigt.<br/>
+5. Wenn Sie den Kick-Knopf aktiviert haben, wird er hier angezeigt.<br/>
+6. Wenn Sie den Bann-Knopf aktiviert haben, wird er hier angezeigt.<br/>
   </p>
  </div>
    <div class="flex-vcenter mb-1">
