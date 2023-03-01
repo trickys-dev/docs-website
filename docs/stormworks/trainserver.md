@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # Train Server
 
-This server is intended for roleplay railway operations. The section of railway from Spycakes to Comado recreates absolute block signalling for roleplay between signalling and train drivers in a realistic railway setting.
+This server is intended for roleplay railway operations. The section of railway from Spycakes to Camodo recreates absolute block signalling for roleplay between signalling and train drivers in a realistic railway setting.
 
 :::note Absolute Block Signalling Summary
 
@@ -32,7 +32,7 @@ If you are caught going over 100mph you will be kicked, if you continue to break
 ### Signals
 This system uses traditional upper quadrant semaphore signals, which means that insted of traffic light signals that you may be used to, these signals use moving arms with corresponding lights that inform the driver if they can continue or stop.
 
-All signals on this railway are upper quadrant semaphore signals, this means that a horizontal arm always means the signal is on displaying a danger or caution aspect. A arm that is pointing upwards indicates the signal is off, which means it's clear to proceed.
+All signals on this railway are upper quadrant semaphore signals, this means that a horizontal arm always means the signal is on displaying a danger or caution aspect. An arm that is pointing upwards indicates the signal is off, which means it's clear to proceed.
 
 <b>Home/Starter Signal</b>
 
