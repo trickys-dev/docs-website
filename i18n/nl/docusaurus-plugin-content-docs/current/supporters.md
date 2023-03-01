@@ -9,12 +9,12 @@ sidebar_position: 3
 
 ## Patreon rangen
 
-| Niveau              | Discord Rollen                                         |
-| ------------------- | ------------------------------------------------------ |
-| Bronzen Supporter   | <span class="b-supporter">@Bronzen Supporter</span>    |
-| Zilveren Supporter  | <span class="s-supporter">@Zilveren Supporter</span>   |
-| Gouden supporter    | <span class="g-supporter">@Gouden supporter</span>     |
-| Diamanten Supporter | <span class="d-supporter"> @Diamanten Supporter</span> |
+| Niveau              | Discord Rollen                                       |
+| ------------------- | ---------------------------------------------------- |
+| Bronzen Supporter   | <span class="b-supporter">@Bronze Supporter</span>   |
+| Zilveren Supporter  | <span class="s-supporter">@Silver Supporter</span>   |
+| Gouden supporter    | <span class="g-supporter">@Gold Supporter</span>     |
+| Diamanten Supporter | <span class="d-supporter"> @Diamond Supporter</span> |
 
 ## Waar worden onze Patreon-fondsen voor gebruikt?
 
@@ -32,10 +32,10 @@ Onze Patreon zal worden gebruikt voor financiering van,
     <tr>
         <th scope="col">Voordelen</th>
         <th scope="col"><span class="n-supporter">Nitro</span></th>
-        <th scope="col"><span class="b-supporter">@Brons</span></th>
-        <th scope="col"><span class="s-supporter">@Zilver</span></th>
-        <th scope="col"><span class="g-supporter">@Goud</span></th>
-        <th scope="col"><span class="d-supporter">@Diamant</span></th>
+        <th scope="col"><span class="b-supporter">@Bronze</span></th>
+        <th scope="col"><span class="s-supporter">@Silver</span></th>
+        <th scope="col"><span class="g-supporter">@Gold</span></th>
+        <th scope="col"><span class="d-supporter">@Diamond</span></th>
     </tr>
 </thead>
 <tbody>
