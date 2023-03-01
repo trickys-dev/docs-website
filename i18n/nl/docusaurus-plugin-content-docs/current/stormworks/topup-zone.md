@@ -10,9 +10,9 @@ De Top-up Zone kan het volgende aanvullen:
 - Steenkool vullen.
 - Hervul watertanks.
 
-::info in de zone
+:::info In The Zone
 
-Zodra je in de Top-Up Zone bent, gebruik je een van de volgende opdrachten om bij te vullen: ?refill or ?topup
+Once you are in the Top-Up Zone use one of the following commands to refill: ?refill or ?topup
 
 :::
 
