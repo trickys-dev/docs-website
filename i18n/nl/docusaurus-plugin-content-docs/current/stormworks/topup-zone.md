@@ -12,7 +12,7 @@ De Top-up Zone kan het volgende aanvullen:
 
 :::info In The Zone
 
-Once you are in the Top-Up Zone use one of the following commands to refill: ?refill or ?topup
+Zodra je in de Top-Up Zone bent, gebruik je een van de volgende opdrachten om bij te vullen: ?refill of ?topup
 
 :::
 
