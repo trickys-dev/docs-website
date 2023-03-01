@@ -48,7 +48,7 @@ const config = {
         path: 'nl',
       },
       fr: {
-        label: 'French (français)',
+        label: 'French (Français)',
         direction: 'ltr',
         htmlLang: 'dr',
         calendar: 'gregory',
