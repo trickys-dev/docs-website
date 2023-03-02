@@ -161,22 +161,22 @@ Diese Befehle sind standardmäßig nur für Benutzer mit Administratorberechtigu
    <div class="flex-vcenter mb-1">
     <img src="/img/scamwatchbot/botlinkdetectedaction.png" width="300px" />
   <p class="m-0">
-  <span class="statusbot-title">Log Channel - Taken Action</span> - This will show in the log channel if you take action.<br/>
-1. This shows what action has been taken.<br/>
-2. This show the staff member that took the actio.<br/>
-3. Once a action has been taken you cannot take another action, the buttons will be disabled.<br/>
+  <span class="statusbot-title">Log Channel - Taken Action</span> - Dies wird im Log-Kanal angezeigt, wenn Sie etwas unternehmen.<br/>
+1. Dies zeigt, welche Aktion ausgeführt wurde.<br/>
+2. Dies zeigt den Mitarbeiter, der die Aktion ausgeführt hat.<br/>
+3. Sobald eine Aktion durchgeführt wurde, können Sie keine andere Aktion durchführen, die Tasten werden deaktiviert.<br/>
   </p>
 </div>
 
-## Bot Permissions
-These are the bot's permissions:
+## Bot-Berechtigungen
+Dies sind die Berechtigungen des Bots:
 
-- Read Messages - Needed to read messages in server.
-- Send Messages - Needed to send messages in server.
-- Kick Members - Needed to kick members when you click a button (Read Configuring the bot).
-- Ban Members - Needed to ban members when you click a button (Read Configuring the bot).
-- Moderate Members - Needed to send messages in server.
-- Manage Messages - Needed to send & delete its own message in the channel specified.
-- Manage Channels - Needed to create a new channel for logs(only on setup).
-- Read Message History - Needed to read message history.
-- View Channel - Needed to view(see) channels.
+- Lesen von Nachrichten - Benötigt um Nachrichten auf dem Server zu lesen.
+- Nachrichten senden - Benötigt zum Senden von Nachrichten auf dem Server.
+- Kick-Mitglieder - Benötigt, um Mitglieder zu kicken, wenn Sie auf einen Knopf klicken (Lesen Sie die Bot-Konfiguration).
+- Mitglieder bannen - Benötigt um Mitglieder zu bannen, wenn Sie auf einen Knopf klicken (Lesen Sie die Bot-Konfiguration).
+- Mitglieder moderieren - Benötigt zum Senden von Nachrichten auf dem Server.
+- Nachrichten verwalten - Benötigt zum Senden & Löschen einer eigenen Nachricht im angegebenen Kanal.
+- Kanäle verwalten - Benötigt um einen neuen Kanal für Logs zu erstellen (nur beim Setup).
+- Nachrichtenverlauf lesen - Benötigt um Nachrichtenverlauf zu lesen.
+- Kanal anzeigen - Benötigt zum Ansehen von Kanälen.
