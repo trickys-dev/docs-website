@@ -57,7 +57,7 @@ Alle signalen op deze spoorweg zijn bovenste quadrant semaphore signalen, Dit be
     Signal Off = Clear<br/>
     Je bent vrij om door te gaan
   </div>
-<b>Fixed Distant Signal</b>
+<b>Vaste Afstand Signalen</b>
   <div class="flex-vcenter mb-1">
     <img src="/img/trainsrv/trainsrvyellowsignal3.png" width="300px"/>
     Wanneer je Camodo nadert van de Sawyer Eilanden zul je eerst een vast signaal tegenkomen. Zoals de naam beschrijft, dit signaal is vastgezet op gevaar verderop; het geeft aan dat je bereid moet zijn om te stoppen bij het volgende thuis/starter signaal dat een gevaar laat zien
@@ -67,13 +67,13 @@ Alle signalen op deze spoorweg zijn bovenste quadrant semaphore signalen, Dit be
 
   <div class="flex-vcenter mb-1">
     <img src="/img/trainsrv/trainsrvcommbox.png" width="300px"/>
-    Should you need help you can contact signallers in chat or by radio. Each signal box is set up with its own radio telephone and you can find the frequency of your nearest signal box using map labels.
+    Mocht je hulp nodig hebben, dan kunt u contact opnemen met signaleerders in de chat of via de radio. Elk signaalbox is ingesteld met zijn eigen radiotelefoon en u kunt de frequentie van uw dichtstbijzijnde signaalbox vinden met behulp van kaart labels.
   </div>
 
-## Signallers
+## Signaleerders
 
-coming soon...
+Binnenkort beschikbaar...
 
-### Applying For Signallers
+### Aanvragen om een Signaleerder te worden
 
-coming soon...
+Binnenkort beschikbaar...
