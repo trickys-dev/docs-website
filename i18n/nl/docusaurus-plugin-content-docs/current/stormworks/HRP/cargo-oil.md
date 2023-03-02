@@ -34,7 +34,7 @@ sidebar_position: 0
 
 1. Eerst moet je ervoor kiezen om land/zee lading of lucht te doen. (Voor deze handleiding kiezen we land / zee)
 
-:::note A couple of notes
+:::note Een paar notities
 
 - Locaties waar je kan leveren verschillen tussen land/zee of lucht. O’Neil (Air) kan bijvoorbeeld leveren op het noordpoolgebied, maar Noord Harbor (Land/Zee) niet.
 - Je kunt GEEN land/zeelading in de lucht nemen, dit is in strijd met de HRP-regels en zal leiden tot een directe boete. (Tenzij je het binnen 1 km van de terminal laadt)
@@ -67,7 +67,7 @@ ISO Containers:
 - Lengte: 29 blokken - 7,25 meter.
 - Gewicht: 4 Ton.
 
-AirISO:
+Luchtvracht ISO
 - Hoogte: 8 Blokken - 2 meter.
 - Breedte: 9 blokken - 2,25 meter.
 - Lengte: 9 blokken - 2,25 meter.
