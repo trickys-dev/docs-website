@@ -1,6 +1,6 @@
 ---
 sidebar_position: 0
-description: Boat License Information.
+description: Boot licentie informatie
 ---
 
 # Boten
@@ -99,4 +99,4 @@ U kunt een aangepaste licentie hebben als u een supporter bent, ga gewoon naar u
 
 - Aangepaste licentie moet 4 tot 6 cijfers lang zijn.
 
-![Custom License](/img/boats/tsblcustomlicense.png)
+![Aangepaste licentie](/img/boats/tsblcustomlicense.png)
