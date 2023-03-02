@@ -10,7 +10,7 @@ Doe het volgende niet:
 - Vuur op of in de zone.
 - Vuur op andere spelers of voertuigen wanneer ze zich in de zone bevinden.
 
-:::info Firing In NFZ
+::info vuren in NFZ
 
 Als je binnen of in de zone schiet krijg je een tijdelijke verbanning.
 
