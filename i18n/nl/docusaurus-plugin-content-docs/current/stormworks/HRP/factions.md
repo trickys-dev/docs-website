@@ -8,7 +8,7 @@ sidebar_position: 1
 
 Wij zijn nog bezig met het maken van een applicatie die automatisch je factie aanmaakt, tot dan kun je een ticket op Discord aanmaken.
 
-:::note Current Factions
+:::note Huidige Facties
 
 Je kunt alle huidige facties bekijken door [hier te klikken](https://trickys.gg/factions)
 
