@@ -6,7 +6,7 @@ sidebar_position: 4
 
 Persoonlijke & factieprofielen aanpassen
 
-:::note Faction Profiles
+::note Factie Profielen
 
 [Klik hier](/docs/stormworks/HRP/factions#faction-profiles) als u op zoek bent naar [Factie Profielen](/docs/stormworks/HRP/factions#faction-profiles)
 
@@ -44,7 +44,7 @@ De avatar-afbeelding zal ook worden weergegeven in een Discord embed wanneer je 
   </p>
 </div>
 
-## Example
+## Voorbeeld
 
 Hieronder hebben we een voorbeeld van hoe de resultaten eruit zouden zien als je alles zou aanpassen.
 
