@@ -4,9 +4,9 @@ sidebar_position: 0
 
 # Basic Information
 
-All requests are performed via HTTPS. The base URL is:
+Alla begäran görs via HTTPS. Bas URL är:
 <pre>
 https://trickys.gg/api/<span class="code-text">&#123;version&#125;</span>
 </pre>
 
-Currently the only supported API version is <span class="code-text">v1</span>. <br /> Most of the responses are JSON objects that contain a <span class="code-text">success</span> property, indicating if the request was successful.
+Just nu har bara <span class="code-text">v1</span> API versionen stöd. <br /> Mest av svaren är JSON object som innehåller en <span class="code-text">success</span> som visar att begäran lyckades.
