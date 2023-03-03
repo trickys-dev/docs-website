@@ -1,20 +1,20 @@
 ---
 sidebar_position: 0
-description: Boat License Information.
+description: Information de licence
 ---
 
-# Boats
+# Bateaux
 
-1. To use boats & amphibious vehicles on water on servers 1, 2 & 3 you need a boat license.
-2. Minimum 24 hours must have passed if you want to apply for a boat licence from when you joined the website.
-3. Your boat must not exceed `40 metres` in length -> `160 Blocks`, to reduce lag.
-4. You need a boat licence to use an amphibious vehicle on water.
-5. You cannot use workshop vehicles which you didn’t make.
+1. Pour utiliser des bateaux & véhicules amphibiens sur l'eau sur des serveurs 1, 2 & 3, vous avez besoin d'un permis de bateau.
+2. Un minimum de 24 heures doit être passé si vous voulez demander un permis de bateau à partir de votre entrée sur le site Web.
+3. Votre bateau ne doit pas dépasser `40 mètres` de longueur -> `160 blocs`, pour réduire la latence.
+4. Vous avez besoin d'un permis de bateau pour utiliser un véhicule amphibie sur l'eau.
+5. Vous ne pouvez pas utiliser de véhicules de l'atelier (workshop) que vous n'avez pas fabriqués.
 6. Float-planes and float-helicopters can take-off and land on water, but not move anywhere except to take-off again, unless they have a boat license.
 7. Nav lights are required for boats, seaplanes when on water, amphibious vehicles when on water, unless you are docked(example to dock or land)(view screenshots below for further details on light placements)
-8. Submersibles need nav lights when moving above water.
-9. You cannot use spotlights or indicators as nav lights.
-10. You must stop for staff if requested!
+8. Les submersibles ont besoin de lumières de navigation lorsqu'ils se déplacent au-dessus de l'eau.
+9. Vous ne pouvez pas utiliser des projecteurs ou des indicateurs comme des lumières de navigation.
+10. Vous devez vous arrêter pour le personnel s'ils vous le demandent!
 
 
 :::tip
