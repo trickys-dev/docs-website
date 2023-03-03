@@ -8,15 +8,15 @@
     "description": "Navbar item with label Docs"
   },
   "item.label.HRP Gov": {
-    "message": "HRP Gov",
+    "message": "HRP Regeringen",
     "description": "Navbar item with label HRP Gov"
   },
   "item.label.Main Site": {
-    "message": "Main Site",
+    "message": "Huvudsidan",
     "description": "Navbar item with label Main Site"
   },
   "item.label.HRP Laws": {
-    "message": "HRP Laws",
+    "message": "HRP Lagar",
     "description": "Navbar item with label HRP Laws"
   }
 }
