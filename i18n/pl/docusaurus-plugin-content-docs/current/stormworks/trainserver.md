@@ -2,78 +2,78 @@
 sidebar_position: 3
 ---
 
-# Train Server
+# Serwer pociągów
 
-This server is intended for roleplay railway operations. The section of railway from Spycakes to Camodo recreates absolute block signalling for roleplay between signalling and train drivers in a realistic railway setting.
+Ten serwer jest przeznaczony do wykonywania zadań związanych z koleją. Sekcja pomiędzy Spycakes i Camodo odtwarza blokadę liniową dla ról między sygnalizacją a maszynistami pociągu w realistycznym otoczeniu kolejowym.
 
-:::note Absolute Block Signalling Summary
+:::note Podsumowanie Blokady Liniowej
 
-The railway is divided up into four sections controlled by four separate signal boxes. This system ensures safe operation of trains on the railway by only allowing one train into a section at any given time.
-
-:::
-
-## Train Drivers
-
-### Speed Limits
-
-The railway is divided up into sections with different speed limits. These limits are indicated by signs across the railway in miles per hour (mph).
-
-Please see the following general speed limits on the railway:
-- Yards = 10mph
-- Bend between Spycakes and North Donkk = 80mph
-- Rest of the line = 100mph
-
-:::caution Overspeeding
-
-If you are caught going over 100mph you will be kicked, if you continue to break this rule you may be banned from the train server.
+Linia kolejowa jest podzielona na cztery odcinki kontrolowane przez cztery oddzielne skrzynie rozdzielcze. System ten zapewnia bezpieczną eksploatację pociągów na linii, dopuszczając tylko jeden pociąg do odcinka w danym momencie.
 
 :::
 
-### Signals
-This system uses traditional upper quadrant semaphore signals, which means that insted of traffic light signals that you may be used to, these signals use moving arms with corresponding lights that inform the driver if they can continue or stop.
+## Maszyniści pociągów
 
-All signals on this railway are upper quadrant semaphore signals, this means that a horizontal arm always means the signal is on displaying a danger or caution aspect. An arm that is pointing upwards indicates the signal is off, which means it's clear to proceed.
+### Ograniczenia prędkości
 
-<b>Home/Starter Signal</b>
+Linia kolejowa jest podzielona na odcinki o różnych ograniczeniach prędkości. Wartości te są oznaczane za pomocą znaków na całej linii kolejowej w milach na godzinę (mph).
+
+Proszę zapoznać się z następującymi ogólnymi ograniczeniami prędkości na kolei:
+- Place przeładunkowe = 10mph
+- Linia między Spycakes i North Donkk = 80mph
+- Reszta linii = 100mph
+
+:::caution Przekroczenie Prędkości
+
+Jeśli zostaniesz złapany w ciągu ponad 100mph zostaniesz wyrzucony, jeśli ponownie złamiesz tę regułę, możesz zostać zbanowany z serwera pociągów.
+
+:::
+
+### Sygnały
+System ten wykorzystuje tradycyjne semafory kształtowe, co oznacza, że zamiast sygnałów świetlnych, do których możesz być przyzwyczajony, sygnały te wykorzystują ruchome ramiona z odpowiednimi światłami, które informują kierowcę, czy może kontynuować jazdę, czy też się zatrzymać.
+
+Wszystkie sygnały na tej linii kolejowej są semaforami kształtowymi, oznacza to, że ramię poziome zawsze oznacza, że sygnał wyświetla niebezpieczeństwo lub szczególną uwagę. Ramię skierowaną w górę wskazuje, że sygnał jest wyłączony, co oznacza, że tor jest czysty.
+
+<b>Sygnał domowy/startowy</b>
 
 <div class="flex-vcenter mb-1">
     <img src="/img/trainsrv/trainsrvredsignal.png" width="300px"/>
-    Signal on = Danger<br/>
-    You should stop if you see this signal
+    Sygnał włączony = Niebezpieczeństwo<br/>
+    Powinieneś się zatrzymać, jeśli widzisz ten sygnał
   </div>
   <div class="flex-vcenter mb-1">
     <img src="/img/trainsrv/trainsrvgreensignal.png" width="300px"/>
-    Signal off = Clear<br/>
-    If you see this signal you are clear to continue to the next signal
+    Sygnał wyłączony = Tor czysty<br/>
+    Jeśli widzisz ten sygnał, możesz kontynuować do następnego sygnału
   </div>
-<b>Distant Signal</b><br/> You will encounter these distant signals before home/starter signals to give you warning whether they are at danger or clear. You can think of these as yellow traffic lights on the road.
+<b>Odległy Sygnał</b><br/> Przed sygnałami domowymi/początkowymi otrzymasz ostrzeżenie, czy znajdują się one w niebezpieczeństwie czy też są w czystości. Można o nich myśleć jako żółte światła drogowe.
   <div class="flex-vcenter mb-1">
     <img src="/img/trainsrv/trainsrvyellowsignal1.png" width="300px"/>
-    Signal On = Caution<br/>
-    You should prepare to stop as one of the following Home/Starter signals may be at danger
+    Sygnał włączony = Zachowaj ostrożność<br/>
+    Powinieneś przygotować się do zatrzymania, jeden z następujących sygnałów może być niebezpieczny
   </div>
   <div class="flex-vcenter mb-1">
     <img src="/img/trainsrv/trainsrvyellowsignal2.png" width="300px"/>
-    Signal Off = Clear<br/>
-    You are clear to continue
+    Sygnał wyłączony = Tor czysty<br/>
+    Możesz kontynuować
   </div>
-<b>Fixed Distant Signal</b>
+<b>Stały Odległy Sygnał</b>
   <div class="flex-vcenter mb-1">
     <img src="/img/trainsrv/trainsrvyellowsignal3.png" width="300px"/>
-    When approaching Camodo from the Sawyer Islands you will first come across a fixed distant signal. As the name describes, this signal is fixed on constantly at caution indicating you must be prepared to stop at the next home/starter signal displaying a danger aspect
+    Kiedy zbliżasz się do Camodo z Wysp Sawyer, najpierw natkniesz się na odległy stały sygnał. Jak opisuje nazwa, ten sygnał stale wskazuje ostrożność, że musisz być przygotowany do zatrzymania się na następnym sygnale pokazującym zagrożenie
   </div>
 
-### Communication
+### Komunikacja
 
   <div class="flex-vcenter mb-1">
     <img src="/img/trainsrv/trainsrvcommbox.png" width="300px"/>
-    Should you need help you can contact signallers in chat or by radio. Each signal box is set up with its own radio telephone and you can find the frequency of your nearest signal box using map labels.
+    Jeśli potrzebujesz pomocy, możesz skontaktować się z kontrolerami ruchu na czacie lub przez radio. Każda skrzynia rozdzielcza jest ustawione za pomocą własnego telefonu radiowego, a częstotliwość najbliższej skrzyni rozdzielczej można znaleźć za pomocą etykiet mapy.
   </div>
 
-## Signallers
+## Kontrolerzy Ruchu
 
-coming soon...
+Wkrótce ...
 
-### Applying For Signallers
+### Aplikowanie do roli Kontrolera Ruchu
 
-coming soon...
+Wkrótce ...
