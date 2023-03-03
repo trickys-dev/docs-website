@@ -4,15 +4,15 @@ sidebar_position: 7
 
 # /gblsbans
 
-<span class="request-bubble request-get">GET Request</span>
+<span class="request-bubble request-get">GET Begäran</span>
 
 
-## Get Global Ban List System Data
-(only server owners can access the Global Ban List System) Please note that <span class="code-text">timecreated</span> might be null if profile is private.
+## Få Global Ban List System Data
+(bara server ägare kan få tag på Global Ban List Systemet) Observera att <span class="code-text">timecreated</span> kan vara null om profilen är privat.
 
 
-### Parameters
-None
+### Parametrar
+Inga
 
 ## Examples
 ### Success Example
