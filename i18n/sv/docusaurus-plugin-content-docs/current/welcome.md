@@ -2,9 +2,9 @@
 sidebar_position: 0
 ---
 
-# Welcome
+# Välkommen
 
-Let's discover **some docs..**.
+Låt oss upptäcka **några dokument..**.
 
-## Getting Started
+## Kom Igång
 
