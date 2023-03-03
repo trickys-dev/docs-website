@@ -3,33 +3,33 @@ sidebar_position: 4
 ---
 
 # AutoAuth
-AutoAuth (Automatic Authorization)
+AutoAuth (Autorisation Automatique)
 
-## What is AutoAuth?
+## Qu'est-ce qui est AutoAuth?
 
-The "AutoAuth", or Automatic Authorization system authorizes you on all our servers automatically without any admins or staff needing to be on the server at the same time as you.
+Le système d'autorisation automatique (AutoAuth) donne l'autorisation sur tous les serveurs automatiquement sans nécessité la présence des administrateurs ou personnel.
 
 
-## How Does AutoAuth Work?
+## Comment est-ce que AutoAuth fonctionne?
 
-Once you join the website you will be authorized on all of our stormworks servers automatically.
+Quand vous vous inscrivez sur le site, vous serez autorisé sur tous les serveurs automatiquement.
 
-When you join the server, the system will check the following things from our website:
+Lorsque vous rejoignez le serveur, le système vérifiera les éléments suivants de notre site:
 
-- Checks if you are perm banned or temp banned from the server you are joining.
-- Checks if you have an account on the website.(Steam & Discord linked)
-- Checks if you are authorized on the server you joined, if not then you will be AutoAuthed.
-- Checks if you are authorized and have a vaild boat license. This is only needed if you have a boat license.
+- Vérifie si vous êtes banni permanentèrent ou temporairement du serveur que vous rejoignez.
+- Vérifie si vous avez un compte sur le site. (Steam et Discord lié)
+- Vérifie si vous êtes autorisé sur le serveur que vous avez joint, sinon le système d'autorisation automatique vous donnera l'autorisation.
+- Vérifie si vous étés autorisé et si vous avez un permis de bateau. C'est seulement nécessaire si vous avez un permis de bateau.
 
-## I have Auth But can't Spawn Boats?
+## J'ai l'autorisation, mais je ne peux pas utiliser les bateaux?
 
-You need a boat license for the AutoAuth System to authorize you to spawn boats.
+Vous avez besoin d'un permis de bateau pour que le système d'autorisation automatique vous autorise de faire apparaître des bateaux.
 
-Already have a license? Check if its valid.
+Avez-vous déjà un permis? Vérifiez si elle est valide.
 
-## Do I Have Auth?
+## Est-ce que j'ai l'autorisation?
 
-One way of checking if you have auth is just to join one of our Stormworks servers and you will get one of the following pop-ups.
+Une façon de vérifier si vous avez l'autorisation, c'est de joindre un de nos serveurs et vous recevrais une des notifications suivantes.
 
 <!-- css for flex -->
   <div class="flex-vcenter">
@@ -38,7 +38,7 @@ One way of checking if you have auth is just to join one of our Stormworks serve
     </div>
 <p>
 
-This message will show if you are successfully authorized in-game when joining.
+Ce message s'affichera si vous êtes autorisé en jeux avec succès.
 
 </p>
   </div>
@@ -50,7 +50,7 @@ This message will show if you are successfully authorized in-game when joining.
     </div>
 <p>
 
-This message will show if you are not authorized in-game when joining.
+Ce message s'affichera si vous n'êtes pas autorisé en jeux.
 
 </p>
   </div>
