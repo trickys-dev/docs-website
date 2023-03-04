@@ -4,7 +4,7 @@ sidebar_position: 5
 
 # /swserverstatus/ping
 
-<span class="request-bubble request-get">GET Request</span>
+<span class="request-bubble request-get">Requête GET</span>
 
 
 ## Obtenir le ping d'un serveur depuis plusieurs pays

@@ -2,9 +2,9 @@
 sidebar_position: 0
 ---
 
-# Cargo & Oil
+# Vracht & olie
 
-## Definitions
+## Definities
 
 <!-- css for flex -->
   <div class="flex-vcenter">
@@ -13,7 +13,7 @@ sidebar_position: 0
     </div>
 <p>
 
-- Land/Sea Cargo: This is defined as ISO Container.
+- Land/Zee-Vracht: dit wordt gedefinieerd als een ISO-container.
 
 </p>
   </div>
@@ -25,50 +25,50 @@ sidebar_position: 0
     </div>
 <p>
 
-- Air Cargo: This is defined as an AirISO Container.
+- Luchtvracht: dit wordt gedefinieerd als een Air ISO-container.
 
 </p>
   </div>
 
-## Cargo
+## Vracht
 
-1. First you must choose to do land/sea cargo or air. (For this guide we will choose land/sea)
+1. Eerst moet je ervoor kiezen om land/zee lading of lucht te doen. (Voor deze handleiding kiezen we land / zee)
 
-:::note A couple of notes
+:::note Een paar notities
 
-- Locations you can deliver are different between land/sea or air. For example, O’Neil (Air) can deliver to the Arctic, but North Harbor (Land/Sea) can not.
-- You can NOT take any land/sea cargo into the air, this is against HRP rules and will result in a fine on the spot. (Unless you are loading it within 1km of terminal)
-- As it currently stands you are allowed to take air cargo by land/sea it is not recommended as it is very inconvenient.
-- You are only allowed 2 of any type of cargo by HRP laws.
+- Locaties waar je kan leveren verschillen tussen land/zee of lucht. O’Neil (Air) kan bijvoorbeeld leveren op het noordpoolgebied, maar Noord Harbor (Land/Zee) niet.
+- Je kunt GEEN land/zeelading in de lucht nemen, dit is in strijd met de HRP-regels en zal leiden tot een directe boete. (Tenzij je het binnen 1 km van de terminal laadt)
+- Voor nu mag er per land of over zee luchtlading worden vervoerd, al wordt het niet aangeraden omdat het erg onhandig is.
+- Er zijn maar 2 van elk type vracht toegestaan door HRP-wetgeving.
 
 :::
 
-2. Figure out where you want to go using the `?listdst command` (deliver locations dependent on your location)
-3. Use the `?claimto [Number]` command to claim cargo to that destination. <img src="/img/hrp/cargooil/HRPClaimTo.png" />
+2. Zoek uit waar je heen wilt gaan met `?listdst commando` (bied locaties aan afhankelijk van jouw locatie)
+3. Gebruik `?claimto [Number]` commando om goederen naar die bestemming te claimen. <img src="/img/hrp/cargooil/HRPClaimTo.png" />
 
-4. Go to the delivery location, for this guide we are going to Spycakes.
-5. Once you get there look at the cargo for the id then run `?deliver [cargo id]`. <img src="/img/hrp/cargooil/HRPDeliver.png" width="750px" />
+4. Ga naar de bezorglocatie, voor deze handleiding gaan we naar Terminal Spycakes.
+5. Als je er eenmaal bent, kijk dan naar de lading voor het id en voer dan `?lever [cargo id]` in. <img src="/img/hrp/cargooil/HRPDeliver.png" width="750px" />
 
 
-## Oil
+## Olie
 
-1. You must be in a faction, you can either join one or create a new one.
-2. Find an oil point on the map. (This will give 30cr once captured) <img src="/img/hrp/cargooil/HRPOilField.png" />
+1. Je moet in een groep zitten, je kan lid worden van een groep of een nieuwe maken.
+2. Vind een olie locatie op de kaart. (Dit geeft 30cr indien geclaimd) <img src="/img/hrp/cargooil/HRPOilField.png" />
 
-3. Go to oil point and wait for capture. <img src="/img/hrp/cargooil/HRPOilPointcapture1.png" />
+3. Ga naar het oliepunt en wacht tot de locatie geclaimd is. <img src="/img/hrp/cargooil/HRPOilPointcapture1.png" />
 
-4. Once captured you will get money, the point will be uncaptured, and will be on cooldown for 30mins so wait or find another point. <img src="/img/hrp/cargooil/HRPOilPointcapture2.png" />
+4. Als het punt geclaimd is zal je geld krijgen, daarna komt het punt weer vrij maar zal het op afkoeltijd staan voor 30 minuten dus wacht of zoek een ander punt. <img src="/img/hrp/cargooil/HRPOilPointcapture2.png" />
 
-## Sizes
+## Container Afmetingen
 
 ISO Containers:
-- Height: 11 Blocks - 2.75 meters.
-- Width: 11 Blocks - 2.74 meters.
-- Length: 29 Blocks - 7.25 meters.
-- Weight: 4 Metric Tonnes.
+- Hoogte: 11 Blokken - 2,75 meter.
+- Breedte: 11 Blokken - 2,75 meter.
+- Lengte: 29 blokken - 7,25 meter.
+- Gewicht: 4 Ton.
 
-AirISO:
-- Hight: 8 Blocks - 2 meters.
-- Width: 9 Blocks - 2.25 meters.
-- Length: 9 Blocks - 2.25 meters.
-- Weight: 318 Kg.
+Luchtvracht ISO
+- Hoogte: 8 Blokken - 2 meter.
+- Breedte: 9 blokken - 2,25 meter.
+- Lengte: 9 blokken - 2,25 meter.
+- Gewicht: 318 kg.

@@ -4,7 +4,7 @@ sidebar_position: 6
 
 # /swinfo
 
-<span class="request-bubble request-get">GET Request</span>
+<span class="request-bubble request-get">Requête GET</span>
 
 
 ## Obtenir le Nombre Global de Joueurs sur Stormworks

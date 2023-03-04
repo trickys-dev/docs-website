@@ -2,14 +2,14 @@
 sidebar_position: 3
 ---
 
-# Supporters
+# サポーター
 
 - This guide explains what you get for being a Patreon member.
 - By becoming a patreon you are supporting the community.
 
-## Patreon Tiers
+## Patreon ランク
 
-| Tier              | Discord Roles                                        |
+| ランク               | Discord ロール                                          |
 | ----------------- | ---------------------------------------------------- |
 | Bronze Supporter  | <span class="b-supporter">@Bronze Supporter</span>   |
 | Silver Supporter  | <span class="s-supporter">@Silver Supporter</span>   |
@@ -30,7 +30,7 @@ Our Patreon will be used to fund
 <table>
 <thead>
     <tr>
-        <th scope="col">Perks</th>
+        <th scope="col">特典</th>
         <th scope="col"><span class="n-supporter">@Nitro</span></th>
         <th scope="col"><span class="b-supporter">@Bronze</span></th>
         <th scope="col"><span class="s-supporter">@Silver</span></th>
@@ -192,7 +192,7 @@ Our Patreon will be used to fund
     <td class="text-center"><i class="fa-fw text-success">5</i></td>
 </tr>
 <tr>
-    <th colspan="6" class="tricky-color">Minecraft Perks</th>
+    <th colspan="6" class="tricky-color">Minecraft (Vanilla)</th>
 </tr>
 <tr>
     <th scope="row">Coloured Name On Minecraft + Tag</th>
@@ -258,9 +258,44 @@ Our Patreon will be used to fund
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
 </tr>
+<tr>
+    <th colspan="6" class="tricky-color">Minecraft (Modded)</th>
+</tr>
+<tr>
+    <th scope="row">Homes (3)</th>
+    <td class="text-center"><i class="fa-fw text-success">4</i></td>
+    <td class="text-center"><i class="fa-fw text-success">5</i></td>
+    <td class="text-center"><i class="fa-fw text-success">6</i></td>
+    <td class="text-center"><i class="fa-fw text-success">8</i></td>
+    <td class="text-center"><i class="fa-fw text-success">10</i></td>
+</tr>
+<tr>
+    <th scope="row">Forceloaded Chunks (25)</th>
+    <td class="text-center">-</td>
+    <td class="text-center"><i class="fa-fw text-success">30</i></td>
+    <td class="text-center"><i class="fa-fw text-success">35</i></td>
+    <td class="text-center"><i class="fa-fw text-success">40</i></td>
+    <td class="text-center"><i class="fa-fw text-success">50</i></td>
+</tr>
+<tr>
+    <th scope="row">No TP Cooldown</th>
+    <td class="text-center">-</td>
+    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
+    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
+    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
+    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
+</tr>
+<tr>
+    <th scope="row">Portable Enderchest</th>
+    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
+    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
+    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
+    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
+    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
+</tr>
 </tbody>
 </table>
 
-## My Current Tier
+## 現在のランク
 
-You can find what tier you currently have by going to your [account](https://trickys.gg/account) page.
+あなたの現在のランクは、[アカウント](https://trickys.gg/account) ページにアクセスすることで確認できます。

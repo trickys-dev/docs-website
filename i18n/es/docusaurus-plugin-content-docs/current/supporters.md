@@ -41,18 +41,10 @@ Nuestro Patreon se utilizará para financiar
 <tbody>
 
 <tr>
-    <th colspan="6" class="tricky-color">Website & Discord Perks</th>
+    <th colspan="6" class="tricky-color">Página web y ventajas de Discord</th>
 </tr>
 <tr>
-    <th scope="row">Coloured Name On Website</th>
-    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
-    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
-    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
-    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
-    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
-</tr>
-<tr>
-    <th scope="row">Discord Role</th>
+    <th scope="row">Nombre de color en la página web</th>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
@@ -60,7 +52,15 @@ Nuestro Patreon se utilizará para financiar
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
 </tr>
 <tr>
-    <th scope="row">Username On <a href="https://trickys.gg/awards">Awards Page</a></th>
+    <th scope="row">Rol de Discord</th>
+    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
+    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
+    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
+    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
+    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
+</tr>
+<tr>
+    <th scope="row">Nombre de usuario en <a href="https://trickys.gg/awards">Página de Premios</a></th>
     <td></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
@@ -192,7 +192,7 @@ Nuestro Patreon se utilizará para financiar
     <td class="text-center"><i class="fa-fw text-success">5</i></td>
 </tr>
 <tr>
-    <th colspan="6" class="tricky-color">Minecraft Perks</th>
+    <th colspan="6" class="tricky-color">Minecraft (Vanilla)</th>
 </tr>
 <tr>
     <th scope="row">Coloured Name On Minecraft + Tag</th>
@@ -255,6 +255,41 @@ Nuestro Patreon se utilizará para financiar
     <td></td>
     <td></td>
     <td></td>
+    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
+    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
+</tr>
+<tr>
+    <th colspan="6" class="tricky-color">Minecraft (Modded)</th>
+</tr>
+<tr>
+    <th scope="row">Homes (3)</th>
+    <td class="text-center"><i class="fa-fw text-success">4</i></td>
+    <td class="text-center"><i class="fa-fw text-success">5</i></td>
+    <td class="text-center"><i class="fa-fw text-success">6</i></td>
+    <td class="text-center"><i class="fa-fw text-success">8</i></td>
+    <td class="text-center"><i class="fa-fw text-success">10</i></td>
+</tr>
+<tr>
+    <th scope="row">Forceloaded Chunks (25)</th>
+    <td class="text-center">-</td>
+    <td class="text-center"><i class="fa-fw text-success">30</i></td>
+    <td class="text-center"><i class="fa-fw text-success">35</i></td>
+    <td class="text-center"><i class="fa-fw text-success">40</i></td>
+    <td class="text-center"><i class="fa-fw text-success">50</i></td>
+</tr>
+<tr>
+    <th scope="row">No TP Cooldown</th>
+    <td class="text-center">-</td>
+    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
+    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
+    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
+    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
+</tr>
+<tr>
+    <th scope="row">Portable Enderchest</th>
+    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
+    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
+    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
 </tr>

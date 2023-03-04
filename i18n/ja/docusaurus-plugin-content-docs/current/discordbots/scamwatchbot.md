@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # ScamWatch Bot
 
-This page explains how to use and setup the ScamWatch Bot.
+このページでは、ScamWatch Botの使用方法とセットアップ方法について説明します。
 
 ## What Can The Bot Do
 
@@ -13,7 +13,7 @@ In brief the bot can do the following;
 - Logs removed links in a channel for staff to view and/or take action on the user (remove timeout, kick, ban buttons).
 - Auto Timeout feature, which can be set in config. (if a user posts a scam link the bot will time that user out for x amount of days)
 
-## Quick Setup
+## Botの設定
 
 1. <a href="">Invite</a> the bot to your server.
 2. use the <span class="code-text">/quicksetup</span> command in a admin channel that the bot can also see.

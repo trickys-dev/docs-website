@@ -14,5 +14,9 @@
   "item.label.Main Site": {
     "message": "Strona Główna",
     "description": "Navbar item with label Main Site"
+  },
+  "item.label.HRP Laws": {
+    "message": "Prawa HRP",
+    "description": "Navbar item with label HRP Laws"
   }
 }

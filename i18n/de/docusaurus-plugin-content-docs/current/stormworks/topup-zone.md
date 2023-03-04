@@ -2,17 +2,17 @@
 sidebar_position: 2
 ---
 
-# Top-Up Zone
+# Top-Up-Zone
 
-The Top-up Zone can top-up the following:
-- Refill Diesel & Jet Fuel tanks.
-- Charge Batteries.
-- Refill Coal.
-- Refill water tanks.
+Die Top-up Zone kann Folgendes:
+- Diesel & Jet-Treibstoff auffüllen.
+- Batterien aufladen.
+- Kohle auffüllen.
+- Wassertanks auffüllen.
 
-:::info In The Zone
+:::info in der Zone
 
-Once you are in the Top-Up Zone use one of the following commands to refill: ?refill or ?topup
+Sobald Sie sich in der Top-Up Zone befinden, verwenden Sie einen der folgenden Befehle zum Ausfüllen: ?refill oder ?topup
 
 :::
 
@@ -23,14 +23,14 @@ Once you are in the Top-Up Zone use one of the following commands to refill: ?re
     </div>
 <p>
 
-Top-Up Zones are yellow circles.
+Top-Up Zonen sind gelbe Kreise.
 
 </p>
   </div>
 
-## Steam Workshop Badge
+## Steam Workshop Abzeichen
 
-Show your workshop creation is compatible with the auto top-up zone by added a badge to your workshop description on steam. Just click on the "Copy Badge BBcode" button & paste into your description.
+Zeigen Sie, dass Ihre Workshop-Einsendung mit der automatischen Top-Up Zone kompatibel ist, indem Sie Ihrer Workshopbeschreibung ein Abzeichen auf Steam hinzugefügt haben. Klicken Sie einfach auf die Schaltfläche "Abzeichen-BBcode kopieren" & fügen Sie es in Ihrer beschreibung ein.
 
 
 

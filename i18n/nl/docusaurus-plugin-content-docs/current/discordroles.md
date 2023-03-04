@@ -132,9 +132,9 @@ Om een auteursrol te krijgen moet u een URL voor de steam workshop indienen, uw 
 </tbody>
 </table>
 
-:::note Want A Creator Role
+:::note Wil je een Creator rol
 
-[Click Here](https://trickys.gg/applications/new) to get a creator role.
+[Klik hier](https://trickys.gg/applications/new) om een maker rol te krijgen.
 
 :::
 
@@ -167,7 +167,7 @@ Het proces om een veteraan rol te krijgen is volledig automatisch.
 
 :::tip
 
-Do the <a class="code-text">/getveteran</a> command in [Discord](discord://discord.com/channels/710922135580835950/723322585563267073).
+Doe de <a class="code-text">/getveteran</a> opdracht in [Discord](discord://discord.com/channels/710922135580835950/723322585563267073).
 
 :::
 
