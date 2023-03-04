@@ -2,9 +2,9 @@
 sidebar_position: 0
 ---
 
-# Cargo & Oil
+# Marchandises & Pétrole
 
-## Definitions
+## Définitions
 
 <!-- css for flex -->
   <div class="flex-vcenter">
@@ -13,7 +13,7 @@ sidebar_position: 0
     </div>
 <p>
 
-- Land/Sea Cargo: This is defined as ISO Container.
+- Cargaison Land/Sea : Ceci est défini comme conteneur ISO.
 
 </p>
   </div>
@@ -25,50 +25,50 @@ sidebar_position: 0
     </div>
 <p>
 
-- Air Cargo: This is defined as an AirISO Container.
+- Air Cargo: Ceci est défini comme un conteneur AirISO.
 
 </p>
   </div>
 
-## Cargo
+## Marchandises
 
-1. First you must choose to do land/sea cargo or air. (For this guide we will choose land/sea)
+1. Vous devez d'abord choisir de faire des cargaisons terrestres ou maritimes ou aériennes. (Pour ce guide, nous choisirons la terre / la mer)
 
-:::note A couple of notes
+:::note Quelques notes
 
-- Locations you can deliver are different between land/sea or air. For example, O’Neil (Air) can deliver to the Arctic, but North Harbor (Land/Sea) can not.
-- You can NOT take any land/sea cargo into the air, this is against HRP rules and will result in a fine on the spot. (Unless you are loading it within 1km of terminal)
-- As it currently stands you are allowed to take air cargo by land/sea it is not recommended as it is very inconvenient.
-- You are only allowed 2 of any type of cargo by HRP laws.
+- Les endroits que vous pouvez livrer sont différents entre terres/mer ou air. Par exemple, O’Neil (air) peut livrer à l’Arctique, mais le Port du Nord (terre/mer) ne peut pas être un lieu de livraison.
+- Vous ne pouvez PAS emporter de cargaisons terrestres ou maritimes dans l'air, ce qui est contraire aux règles du RRH et se traduira par une amende sur place. (Sauf si vous le chargez dans un rayon de 1 km de terminal)
+- En l'état actuel des choses, vous êtes autorisé à transporter des cargaisons aériennes par voie terrestre ou maritime, il n'est pas recommandé car cela est une manière inconvénient.
+- Vous n'êtes autorisé que 2 de tout type de fret par les lois sur les RHP.
 
 :::
 
-2. Figure out where you want to go using the `?listdst command` (deliver locations dependent on your location)
-3. Use the `?claimto [Number]` command to claim cargo to that destination. <img src="/img/hrp/cargooil/HRPClaimTo.png" />
+2. Trouvez où vous voulez aller en utilisant la commande `?listdst` (délivre des emplacements dépendant de votre emplacement)
+3. Utilisez la commande `?claimto [Number]` pour réclamer des cargaisons vers cette destination. <img src="/img/hrp/cargooil/HRPClaimTo.png" />
 
-4. Go to the delivery location, for this guide we are going to Spycakes.
-5. Once you get there look at the cargo for the id then run `?deliver [cargo id]`. <img src="/img/hrp/cargooil/HRPDeliver.png" width="750px" />
+4. Allez au lieu de livraison, pour ce guide nous allons à Spycakes.
+5. Une fois que vous y arrivez, regardez la cargaison pour l'id puis exécutez `?deliver [cargo id]`. <img src="/img/hrp/cargooil/HRPDeliver.png" width="750px" />
 
 
-## Oil
+## Pétrole
 
-1. You must be in a faction, you can either join one or create a new one.
-2. Find an oil point on the map. (This will give 30cr once captured) <img src="/img/hrp/cargooil/HRPOilField.png" />
+1. Vous devez être dans une faction, vous pouvez également en rejoindre une ou en créer une nouvelle.
+2. Trouvez un point de pétrole sur la carte. (Cela donnera 30cr une fois capturé) <img src="/img/hrp/cargooil/HRPOilField.png" />
 
-3. Go to oil point and wait for capture. <img src="/img/hrp/cargooil/HRPOilPointcapture1.png" />
+3. Allez au point d'huile et attendez la capture. <img src="/img/hrp/cargooil/HRPOilPointcapture1.png" />
 
-4. Once captured you will get money, the point will be uncaptured, and will be on cooldown for 30mins so wait or find another point. <img src="/img/hrp/cargooil/HRPOilPointcapture2.png" />
+4. Une fois que vous aurez capturé de l'argent, le point ne sera pas capturé, et sera en cours de récupération pendant 30 mn, alors attendez ou trouvez un autre point. <img src="/img/hrp/cargooil/HRPOilPointcapture2.png" />
 
-## Sizes
+## Tailles
 
-ISO Containers:
-- Height: 11 Blocks - 2.75 meters.
-- Width: 11 Blocks - 2.74 meters.
-- Length: 29 Blocks - 7.25 meters.
-- Weight: 4 Metric Tonnes.
+Conteneurs ISO :
+- Hauteur : 11 Blocs - 2,75 mètres.
+- Hauteur : 11 Blocs - 2,75 mètres.
+- Hauteur : 29 Blocs - 2,75 mètres.
+- Poids : 4 Tonnes métriques.
 
 AirISO:
-- Hight: 8 Blocks - 2 meters.
-- Width: 9 Blocks - 2.25 meters.
-- Length: 9 Blocks - 2.25 meters.
-- Weight: 318 Kg.
+- Hauteur : 8 Blocs - 2,75 mètres.
+- Hauteur : 9 Blocs - 2,75 mètres.
+- Hauteur : 9 Blocs - 2,75 mètres.
+- Poids : 318 kg.
