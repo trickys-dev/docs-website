@@ -2,6 +2,10 @@
 sidebar_position: 3
 ---
 
+
+
+
+
 # Serwer pociągów
 
 Ten serwer jest przeznaczony do wykonywania zadań związanych z koleją. Sekcja pomiędzy Spycakes i Camodo odtwarza blokadę liniową dla ról między sygnalizacją a maszynistami pociągu w realistycznym otoczeniu kolejowym.
@@ -9,6 +13,13 @@ Ten serwer jest przeznaczony do wykonywania zadań związanych z koleją. Sekcja
 :::note Podsumowanie Blokady Liniowej
 
 Linia kolejowa jest podzielona na cztery odcinki kontrolowane przez cztery oddzielne skrzynie rozdzielcze. System ten zapewnia bezpieczną eksploatację pociągów na linii, dopuszczając tylko jeden pociąg do odcinka w danym momencie.
+
+:::
+
+:::caution Banned Components
+
+- Jet trains
+- Nuclear reactors
 
 :::
 
