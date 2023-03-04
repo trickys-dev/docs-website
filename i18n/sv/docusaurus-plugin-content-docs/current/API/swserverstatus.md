@@ -4,22 +4,22 @@ sidebar_position: 3
 
 # /swserverstatus
 
-<span class="request-bubble request-get">GET Request</span>
+<span class="request-bubble request-get">GET begäran</span>
 
 
-## Get Stormworks server status
+## Få Stormworks server status
 
-You can use the <span class="code-text">status</span> property to get a <span class="code-text">Offline</span>/<span class="code-text">Online</span>  response.
+Du kan använda <span class="code-text">status</span> för att få <span class="code-text">Offline</span>/<span class="code-text">Online</span>  svar.
 
-### Parameters
+### Parametrar
 
-| Parameter name |         Required          | Description                                                 |
-| -------------- |:-------------------------:| ----------------------------------------------------------- |
-| server         | <i class="fas fa-fw fa-check-circle text-success"></i> | CODENAME of the server that you want to get the status for. |
+| Parameter namn |       Obligatoriskt       | Beskrivning                                      |
+| -------------- |:-------------------------:| ------------------------------------------------ |
+| server         | <i class="fas fa-fw fa-check-circle text-success"></i> | CODENAME av servern som du vill få statusen för. |
 
-## Examples
+## Exemplar
 
-### Online Example
+### Online Exempel
 
 ```json
 {
@@ -52,7 +52,7 @@ You can use the <span class="code-text">status</span> property to get a <span cl
 }
 ```
 
-### Offline Example
+### Offline Exempel
 
 ```json
 {
