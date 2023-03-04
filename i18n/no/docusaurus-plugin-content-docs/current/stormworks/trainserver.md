@@ -2,6 +2,10 @@
 sidebar_position: 3
 ---
 
+
+
+
+
 # Train Server
 
 This server is intended for roleplay railway operations. The section of railway from Spycakes to Camodo recreates absolute block signalling for roleplay between signalling and train drivers in a realistic railway setting.
@@ -9,6 +13,13 @@ This server is intended for roleplay railway operations. The section of railway 
 :::note Absolute Block Signalling Summary
 
 The railway is divided up into four sections controlled by four separate signal boxes. This system ensures safe operation of trains on the railway by only allowing one train into a section at any given time.
+
+:::
+
+:::caution Banned Components
+
+- Jet trains
+- Nuclear reactors
 
 :::
 
