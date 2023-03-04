@@ -192,7 +192,7 @@ Our Patreon will be used to fund
     <td class="text-center"><i class="fa-fw text-success">5</i></td>
 </tr>
 <tr>
-    <th colspan="6" class="tricky-color">Minecraft Perks</th>
+    <th colspan="6" class="tricky-color">Minecraft (Vanilla)</th>
 </tr>
 <tr>
     <th scope="row">Coloured Name On Minecraft + Tag</th>
@@ -255,6 +255,41 @@ Our Patreon will be used to fund
     <td></td>
     <td></td>
     <td></td>
+    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
+    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
+</tr>
+<tr>
+    <th colspan="6" class="tricky-color">Minecraft (Modded)</th>
+</tr>
+<tr>
+    <th scope="row">Homes (3)</th>
+    <td class="text-center"><i class="fa-fw text-success">4</i></td>
+    <td class="text-center"><i class="fa-fw text-success">5</i></td>
+    <td class="text-center"><i class="fa-fw text-success">6</i></td>
+    <td class="text-center"><i class="fa-fw text-success">8</i></td>
+    <td class="text-center"><i class="fa-fw text-success">10</i></td>
+</tr>
+<tr>
+    <th scope="row">Forceloaded Chunks (25)</th>
+    <td class="text-center">-</td>
+    <td class="text-center"><i class="fa-fw text-success">30</i></td>
+    <td class="text-center"><i class="fa-fw text-success">35</i></td>
+    <td class="text-center"><i class="fa-fw text-success">40</i></td>
+    <td class="text-center"><i class="fa-fw text-success">50</i></td>
+</tr>
+<tr>
+    <th scope="row">No TP Cooldown</th>
+    <td class="text-center">-</td>
+    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
+    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
+    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
+    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
+</tr>
+<tr>
+    <th scope="row">Portable Enderchest</th>
+    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
+    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
+    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
 </tr>
