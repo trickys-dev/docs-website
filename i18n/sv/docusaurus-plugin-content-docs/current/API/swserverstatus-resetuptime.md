@@ -4,19 +4,19 @@ sidebar_position: 4
 
 # /swserverstatus/resetuptime
 
-<span class="request-bubble request-post">GET Request</span>
+<span class="request-bubble request-post">GET begäran</span>
 
 
-## Reset Stormworks Server Uptime
+## Återställ Stormworks Server Upptid
 
-### Parameters
+### Parametrar
 
-| Parameter name |         Required          | Description                                                   |
-| -------------- |:-------------------------:| ------------------------------------------------------------- |
-| server         | <i class="fas fa-fw fa-check-circle text-success"></i> | CODENAME of the server that you want to reset the uptime for. |
+| Parameter namn |       Obligatoriskt       | Beskrivning                                              |
+| -------------- |:-------------------------:| -------------------------------------------------------- |
+| server         | <i class="fas fa-fw fa-check-circle text-success"></i> | CODENAME av servern som du vill återställa upptiden för. |
 
-## Examples
-### Success Example
+## Exemplar
+### Exempel på ett lyckat försök
 ```json
 {
   "success": true,
