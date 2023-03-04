@@ -2,48 +2,48 @@
 sidebar_position: 2
 ---
 
-# ScamWatch Bot
+# ScamWatch Boten
 
-This page explains how to use and setup the ScamWatch Bot.
+Denna sidan förklarar hur man använder och setupar ScamWatch Boten.
 
-## What Can The Bot Do
+## Vad kan Boten göra
 
-In brief the bot can do the following;
-- Detects scam links from our 31,000+ database and removes them from chat.
-- Logs removed links in a channel for staff to view and/or take action on the user (remove timeout, kick, ban buttons).
-- Auto Timeout feature, which can be set in config. (if a user posts a scam link the bot will time that user out for x amount of days)
+I korthet kan boten göra följande;
+- Indentifierar scam länkar från vår 31,000+ databas och tar bort de från chatten.
+- Loggar länken som den tog bort i en kanal för server personalen att kolla på eller att utföra åtgärder för användaren (ta bort timeout, sparka från server, ban knappar).
+- Automatisk timeout funktion, som kan konfigureras. (om en användare skickar en scam länk kommer boten timeouta den för x dagar)
 
-## Quick Setup
+## Snabb Konfiguration
 
-1. <a href="">Invite</a> the bot to your server.
-2. use the <span class="code-text">/quicksetup</span> command in a admin channel that the bot can also see.
+1. <a href="">Bjud in</a> boten till servern.
+2. använd<span class="code-text">/quicksetup</span> kommandot i en administratör kanal som boten kan också se.
 
 <div class="flex-vcenter mb-1">
     <img src="/img/scamwatchbot/botqswelcome.png" width="300px" />
   <p class="m-0">
-  <span class="statusbot-title">Welcome</span> - Welcome to the quick setup guide.
+  <span class="statusbot-title">Välkommen</span> - Välkommen i snabb konfigurations guiden.
   </p>
  </div>
  <div class="flex-vcenter mb-1">
     <img src="/img/scamwatchbot/botqsselectchannel.png" width="300px" />
   <p class="m-0">
-  <span class="statusbot-title">Step 1.</span> - Select which buttons you want to see under the embeds.<br/>
-  <span class="statusbot-title">new</span> - type <span class="code-text">new</span> and the bot will create a channel called <span class="discord-text">#scam-log</span>.<br/>
-  <span class="statusbot-title"># Symbol</span> - type <span class="discord-text">#channelname</span> if you already have a channel.
+  <span class="statusbot-title">Steg 1.</span> - Välj vilka knappar du vill ha under embed meddelanden.<br/>
+  <span class="statusbot-title">new</span> - skriv <span class="code-text">new</span> och botten kommer göra en ny kanal som heter <span class="discord-text">#scam-log</span>.<br/>
+  <span class="statusbot-title"># Symbol</span> - skriv <span class="discord-text">#channelname</span> om du redan har kanalen.
   </p>
  </div>
 <div class="flex-vcenter mb-1">
     <img src="/img/scamwatchbot/botqsselectbuttons.png" width="300px" />
   <p class="m-0">
-  <span class="statusbot-title">Step 2.</span> - Select which buttons you want to see under the embeds.<br/>
-  <span class="statusbot-title">None Button</span> - Clicking the None button will not show any buttons under the embed.<br/>
-  <span class="statusbot-title">Select Buttons</span> - Click on the buttons dropdown and you will see a list pop up select the ones you want to show under the embeds.
+  <span class="statusbot-title">Steg 2.</span> - Välj vilka knappar du vill ha under embed meddelarna.<br/>
+  <span class="statusbot-title">None Button</span> - Om du klickar knappen None så kommer du inte ha några knappar under embed meddelandet.<br/>
+  <span class="statusbot-title">Select Buttons</span> - Klicka på knappens meny så kommer du se en lista komma upp då ska du välja vilka knappar du vill ha under embed meddelanden.
   </p>
  </div>
 
 :::note
 
-If you selected "None" in step 2, you can skip step 2.1
+Om du valde knappen "None" på steg 2, kan du hoppa över steg 2.1
 <div class="flex-vcenter mb-1">
     <img src="/img/scamwatchbot/botqsbuttons.png" width="300px" />
   <p class="m-0">
