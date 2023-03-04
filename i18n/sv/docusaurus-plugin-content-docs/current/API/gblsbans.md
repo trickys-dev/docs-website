@@ -14,8 +14,8 @@ sidebar_position: 7
 ### Parametrar
 Inga
 
-## Examples
-### Success Example
+## Exemplar
+### Exempel på ett lyckat försök
 ```json
 {
   "success": true,
