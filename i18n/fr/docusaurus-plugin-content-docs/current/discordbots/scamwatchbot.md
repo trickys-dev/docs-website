@@ -87,97 +87,97 @@ Ces commandes par défaut ne seront accessibles que par les utilisateurs ayant l
 <div class="flex-vcenter mb-1">
     <img src="/img/scamwatchbot/configlogchannel.png" width="300px" />
   <p class="m-0">
-  <span class="statusbot-title">Channel</span> - The channel which the bot will use for logs.<br/>
-  To set the channel: <span class="code-text">/config logchannel</span> <span class="discord-text">#channel</span>
+  <span class="statusbot-title">Channel</span> - Le canal que le bot utilisera pour les logs.<br/>
+  Pour définir le canal : <span class="code-text">/config logchannel</span> <span class="discord-text">#channel</span>
   </p>
  </div>
  <div class="flex-vcenter mb-1">
     <img src="/img/scamwatchbot/configstaffrole.png" width="300px" />
   <p class="m-0">
-  <span class="statusbot-title">Staff Role</span> - Set the staff role that you want to be pinged if the detects a scam link.<br/>
-  To set the role: <span class="code-text">/config staffrole</span> <span class="discord-text">@role</span>
+  <span class="statusbot-title">Rôle du personnel</span> - Définit le rôle du personnel que vous voulez être pointé si le détecte un lien d'arnaque.<br/>
+  Pour définir le rôle : <span class="code-text">/config staffrole</span> <span class="discord-text">@role</span>
 
   </p>
  </div>
  <div class="flex-vcenter mb-1">
     <img src="/img/scamwatchbot/configpingstaff.png" width="300px" />
   <p class="m-0">
-  <span class="statusbot-title">Ping Staff</span> - Enable or Disable staff pinging.<br/>
-  To set the role: <span class="code-text">/config pingstaff True/False</span>
+  <span class="statusbot-title">Personnel de ping</span> - Activer ou désactiver le ping du personnel.<br/>
+  Pour définir le rôle : <span class="code-text">/config pingstaff True/False</span>
   </p>
  </div>
  <div class="flex-vcenter mb-1">
     <img src="/img/scamwatchbot/configautotimeout.png" width="300px" />
   <p class="m-0">
-  <span class="statusbot-title">Auto TimeOut</span> - Set the time a user will be timed out for in days.<br/>
-  <span class="statusbot-title">Toggle</span> - Enable or Disable Auto Timeout.<br/>
-  To set this: <span class="code-text">/config autotimeout True/False days</span>
+  <span class="statusbot-title">Auto TimeOut</span> - Définit l'heure à laquelle un utilisateur sera expiré en jours.<br/>
+  <span class="statusbot-title">Activer</span> - Activer ou désactiver le délai d'expiration automatique.<br/>
+  Pour définir ceci: <span class="code-text">/config autotimeout Vrai / Faux jours</span>
   </p>
  </div>
   <div class="flex-vcenter mb-1">
     <img src="/img/scamwatchbot/configbuttonskick.png" width="300px" />
   <p class="m-0">
-  <span class="statusbot-title">Kick Button</span> - Set the role that can use the kick button.<br/>
-  <span class="statusbot-title">Toggle</span> - Enable or Disable the button.<br/>
-  To set this: <span class="code-text">/config buttons kick True/False</span> <span class="discord-text">@role</span>
+  <span class="statusbot-title">Auto TimeOut</span> - Définit l'heure à laquelle un utilisateur sera expiré en jours.<br/>
+  <span class="statusbot-title">Activer</span> - Activer ou désactiver le délai d'expiration automatique.<br/>
+  Pour définir ceci: <span class="code-text">/config autotimeout Vrai / Faux jours</span>
   </p>
  </div>
   <div class="flex-vcenter mb-1">
     <img src="/img/scamwatchbot/configbuttonsban.png" width="300px" />
   <p class="m-0">
-  <span class="statusbot-title">Ban Button</span> - Set the role that can use the ban button.<br/>
-  <span class="statusbot-title">Toggle</span> - Enable or Disable the button.<br/>
-  To set this: <span class="code-text">/config buttons ban True/False</span> <span class="discord-text">@role</span>
+  <span class="statusbot-title">Auto TimeOut</span> - Définit l'heure à laquelle un utilisateur sera expiré en jours.<br/>
+  <span class="statusbot-title">Activer</span> - Activer ou désactiver le délai d'expiration automatique.<br/>
+  Pour définir ceci: <span class="code-text">/config autotimeout Vrai / Faux jours</span>
   </p>
  </div>
   <div class="flex-vcenter mb-1">
     <img src="/img/scamwatchbot/configbuttonsuntimeout.png" width="300px" />
   <p class="m-0">
-  <span class="statusbot-title">UnTimeout Button</span> - Set the role that can use the Untimeout button.<br/>
-  <span class="statusbot-title">Toggle</span> - Enable or Disable the button.<br/>
-  To set this: <span class="code-text">/config buttons untimeout True/False</span> <span class="discord-text">@role</span>
+  <span class="statusbot-title">Auto TimeOut</span> - Définit l'heure à laquelle un utilisateur sera expiré en jours.<br/>
+  <span class="statusbot-title">Activer</span> - Activer ou désactiver le délai d'expiration automatique.<br/>
+  Pour définir ceci: <span class="code-text">/config autotimeout Vrai / Faux jours</span>
   </p>
  </div>
 
-## Examples
+## Exemples
 
 <div class="flex-vcenter mb-1">
     <img src="/img/scamwatchbot/botlinkdetected.png" width="300px" />
   <p class="m-0">
-  <span class="statusbot-title">User Side</span> - This will show in the channel where a scam link is posted. (the embed will remove after 30 seconds).
+  <span class="statusbot-title">Côté utilisateur</span> - Ceci affichera dans le canal où un lien d'arnaque est affiché. (the embed will remove after 30 seconds).
   </p>
  </div>
    <div class="flex-vcenter mb-1">
     <img src="/img/scamwatchbot/botlinkdetectedlog.png" width="300px" />
   <p class="m-0">
-  <span class="statusbot-title">Log Channel</span> - This will show in the log channel for admins/staff.<br/>
-1. If you have enabled a role to be pinged this is where it will show.<br/>
-2. This shows the user who sent the scam link<br/>
-3. This shows the scam link itself.<br/>
-4. If you have enabled to Untimeout button this is where it will show.<br/>
-5. If you have enabled to Kick button this is where it will show.<br/>
-6. If you have enabled to Ban button this is where it will show.<br/>
+  <span class="statusbot-title">Logs Channel</span> - Ceci sera affiché dans le salon de log pour les administrateurs/employés.<br/>
+1. Si vous avez activé le ''ping'' d'un rôle, c'est là qu'il s'affichera.<br/>
+2. Ceci montre l'utilisateur qui a envoyé le lien d'arnaque<br/>
+3. Ceci montre le lien de l'arnaque lui-même.<br/>
+4. Si vous avez activé le ''ping'' d'un rôle, c'est là qu'il s'affichera.<br/>
+5. Si vous avez activé le ''ping'' d'un rôle, c'est là qu'il s'affichera.<br/>
+6. Si vous avez activé le ''ping'' d'un rôle, c'est là qu'il s'affichera.<br/>
   </p>
  </div>
    <div class="flex-vcenter mb-1">
     <img src="/img/scamwatchbot/botlinkdetectedaction.png" width="300px" />
   <p class="m-0">
-  <span class="statusbot-title">Log Channel - Taken Action</span> - This will show in the log channel if you take action.<br/>
-1. This shows what action has been taken.<br/>
-2. This show the staff member that took the actio.<br/>
-3. Once a action has been taken you cannot take another action, the buttons will be disabled.<br/>
+  <span class="statusbot-title">Logs Channel</span> - Ceci sera affiché dans le salon de log pour les administrateurs/employés.<br/>
+1. Ceci montre quelles mesures ont été prises.<br/>
+2. Ceci montre le membre du staff qui a pris les mesures.<br/>
+3. Une fois une action effectuée, vous ne pouvez pas faire une autre action, les boutons seront désactivés.<br/>
   </p>
 </div>
 
-## Bot Permissions
-These are the bot's permissions:
+## Permissions du bot
+Voici les permissions du bot:
 
-- Read Messages - Needed to read messages in server.
-- Send Messages - Needed to send messages in server.
-- Kick Members - Needed to kick members when you click a button (Read Configuring the bot).
-- Ban Members - Needed to ban members when you click a button (Read Configuring the bot).
+- Lire les messages - Nécessaire pour lire les messages dans le serveur.
+- Envoyer les messages - Nécessaire pour Envoyer les messages dans le serveur.
+- Expulser les membres - Nécessaire d'expulser les membres lorsque vous cliquez sur un bouton (Lire la configuration du bot).
+- Expulser les membres - Nécessaire d'expulser les membres lorsque vous cliquez sur un bouton (Lire la configuration du bot).
 - Moderate Members - Needed to send messages in server.
-- Manage Messages - Needed to send & delete its own message in the channel specified.
-- Manage Channels - Needed to create a new channel for logs(only on setup).
-- Read Message History - Needed to read message history.
-- View Channel - Needed to view(see) channels.
+- Gérer les messages - Nécessaire pour envoyer & supprimer son propre message dans le canal spécifié.
+- Gérer les canaux - Nécessaire pour créer un nouveau canal pour les journaux (uniquement à l'installation).
+- Lire les messages - Nécessaire pour lire les messages dans le serveur.
+- Voir le canal - Nécessaire pour voir (voir) les canaux.
