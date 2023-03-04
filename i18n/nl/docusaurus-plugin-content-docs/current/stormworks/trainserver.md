@@ -2,6 +2,10 @@
 sidebar_position: 3
 ---
 
+
+
+
+
 # Trein Server
 
 Deze server is bedoeld voor Rollenspel op de spoorwegen. Het deel van de spoorwegen, van Spycakes tot Camodo maakt een volledig bloksignaal voor rollenspel tussen signalering en machinisten in een realistische spoorwegomgeving.
@@ -9,6 +13,13 @@ Deze server is bedoeld voor Rollenspel op de spoorwegen. Het deel van de spoorwe
 :::note Absolute Block Signaal Samenvatting
 
 De spoorwegen worden verdeeld in vier gedeeltes, die worden beheerd door vier afzonderlijke signaalboxen. Dit systeem helpt het veilig gebruik maken van treinen op het spoor, door slechts één trein op elk gewenst moment toe te staan in een traject.
+
+:::
+
+:::caution Banned Components
+
+- Jet trains
+- Nuclear reactors
 
 :::
 
