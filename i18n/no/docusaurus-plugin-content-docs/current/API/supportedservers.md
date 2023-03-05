@@ -5,7 +5,7 @@ sidebar_position: 2
 # Støttede servere
 
 ## Servere
-API Example Usage: <span class="code-text">tricky&lt;number&gt;</span>
+API Eksempel Bruk: <span class="code-text">tricky&lt;number&gt;</span>
 
 | Server Navn     | API kodenavn | Server Nummer |
 | --------------- | ------------ | ------------- |
