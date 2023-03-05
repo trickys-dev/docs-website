@@ -274,34 +274,34 @@
     "description": "The title of the tag list page"
   },
   "Trickys Docs": {
-    "message": "Trickys Docs"
+    "message": "Trickys Dokumenter"
   },
   "Docs For Everyone": {
-    "message": "Docs For Everyone"
+    "message": "Dokumenter for alle"
   },
   "Game Docs": {
-    "message": "Game Docs"
+    "message": "Spill Dokumenter"
   },
   "Find documentation on some of the games we host to help you out": {
-    "message": "Find documentation on some of the games we host to help you out"
+    "message": "Finn dokumentasjon på noen av spillene vi hoster for å hjelpe deg"
   },
   "Wolf says hi": {
-    "message": "Wolf says hi"
+    "message": "Wolf Sier Hei!"
   },
   "Say hello back to wolf": {
-    "message": "Say hello back to wolf"
+    "message": "Si hei tilbake til Wolf"
   },
   "API Docs": {
-    "message": "API Docs"
+    "message": "API Dokumentasjon"
   },
   "Documentation for developers who are looking to use our API": {
-    "message": "Documentation for developers who are looking to use our API"
+    "message": "Dokumentasjon for utviklere som ser etter å bruke vår API"
   },
   "theme.SearchBar.seeAll": {
-    "message": "See all {count} results"
+    "message": "Se alle {count} resultat"
   },
   "theme.SearchPage.documentsFound.plurals": {
-    "message": "One document found|{count} documents found",
+    "message": "Ett dokument funnet|{count} dokumenter funnet",
     "description": "Pluralized label for \"{count} documents found\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
   },
   "theme.SearchPage.existingResultsTitle": {
