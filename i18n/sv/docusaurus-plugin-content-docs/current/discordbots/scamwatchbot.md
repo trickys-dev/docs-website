@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# ScamWatch Boten
+# ScamWatch Botten
 
 Denna sidan förklarar hur man använder och setupar ScamWatch Boten.
 
