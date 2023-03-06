@@ -32,7 +32,7 @@ Profile osobiste odnoszą się do profili publicznych, które mają wszyscy czł
     </p>
  </div>
 
-Wybrany awatar pokaże się również w osadzonej wiadomości Discord podczas publikowania adresu URL swojego profilu, więcej na ten temat poniżej.
+The selected avatar will also show in a Discord embed when you post your profile URL, more about this is below.
 
 ### Kolor konturu awatara
 
