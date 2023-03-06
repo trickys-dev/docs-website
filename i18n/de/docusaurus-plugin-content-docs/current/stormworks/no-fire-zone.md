@@ -12,7 +12,7 @@ Tun Sie Folgendes nicht:
 
 :::info Schießen in NFZ
 
-Wenn Sie in der Zone Schießen oder in die Zone hineinschießen, werden Sie temporär gebannt.
+Firing inside or into the zone will get you temporarily banned.
 
 :::  
 
