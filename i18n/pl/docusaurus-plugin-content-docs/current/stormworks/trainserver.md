@@ -57,7 +57,7 @@ Wszystkie sygnały na tej linii kolejowej są semaforami kształtowymi, oznacza 
     Sygnał wyłączony = Tor czysty<br/>
     Jeśli widzisz ten sygnał, możesz kontynuować do następnego sygnału
   </div>
-<b>Odległy Sygnał</b><br/> Przed sygnałami domowymi/początkowymi otrzymasz ostrzeżenie, czy znajdują się one w niebezpieczeństwie czy też są w czystości. Można o nich myśleć jako żółte światła drogowe.
+<b>Distant Signal</b><br/> You will encounter these distant signals before home/starter signals to give you a warning whether they are at danger or clear. Można o nich myśleć jako żółte światła drogowe.
   <div class="flex-vcenter mb-1">
     <img src="/img/trainsrv/trainsrvyellowsignal1.png" width="300px"/>
     Sygnał włączony = Zachowaj ostrożność<br/>
