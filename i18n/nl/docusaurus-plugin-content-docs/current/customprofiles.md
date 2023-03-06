@@ -32,7 +32,7 @@ Persoonlijke profielen verwijzen naar openbare profielen die alle leden hebben.
     </p>
  </div>
 
-De avatar-afbeelding zal ook worden weergegeven in een Discord embed wanneer je je factie-URL plaatst, voorbeeld hieronder.
+The selected avatar will also show in a Discord embed when you post your profile URL, more about this is below.
 
 ### Avatar omlijning kleur
 
