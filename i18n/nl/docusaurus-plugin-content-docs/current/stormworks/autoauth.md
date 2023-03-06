@@ -16,10 +16,10 @@ Zodra je lid bent van de website krijg je automatisch toegang tot al onze stormw
 
 Wanneer je de server joined, zal het systeem de volgende dingen aanvragen van onze website:
 
-- Controleert of je permanent verbannen bent of tijdelijk verbannen bent van de server waar je in probeert te komen.
-- Controleert of je een account hebt op de website.(Steam & Discord-linked)
+- Checks if you are perm-banned or temp banned from the server you are joining.
+- Checks if you have an account on the website. (Steam & Discord linked)
 - Controleert of je geautoriseerd bent op de server die je hebt toegetreden, als je dat nog niet bent dan wordt je geautoriseerd.
-- Controleert of je geautoriseerd bent en een geldige boot licentie hebt. Dit is alleen nodig als je een boot licentie hebt.
+- Checks if you are authorized and have a valid boat license. Dit is alleen nodig als je een boot licentie hebt.
 
 ## Ik heb Auth Maar kan geen boten spawnen?
 
