@@ -5,13 +5,13 @@ description: Boot licentie informatie
 
 # Boten
 
-1. Voor het gebruik van boten & amfibiele voertuigen op het water op de servers 1, 2 & 3 heb je een vaartuiglicentie nodig.
-2. Minimaal 24 uur moet voorbij zijn als u een vaarlicentie wilt aanvragen vanaf het moment dat u zich bij de website aansluit.
-3. Je boot mag niet langer zijn dan `40 meter` -> `160 blokken`, om lag te verminderen.
-4. Je hebt een vaarbevoegdheidsbewijs nodig voor het gebruik van een amfibisch voertuig op het water.
+1. To use boats & amphibious vehicles on the water on servers 1, 2 & 3 you need a boat license.
+2. Minimum of 24 hours must have passed if you want to apply for a boat license from when you joined the website.
+3. Your boat must not exceed `40 meters` in length -> `160 Blocks`, to reduce lag.
+4. You need a boat license to use an amphibious vehicle on water.
 5. U kunt geen workshop voertuigen gebruiken die u niet hebt gemaakt.
-6. Vliegtuigen en drijvende helikopters kunnen opstijgen en landen op water, maar verplaatsen niet naar een ander land over het water, behalve om weer te vertrekken, tenzij ze een bootlicentie hebben.
-7. Navigatie lampen zijn vereist voor boten, watervliegtuigen wanneer op het water, amfibische voertuigen wanneer je op het water drijft. tenzij je voor anker ligt (voorbeeld aan een steiger of land)(zie screenshots hieronder voor meer informatie over ligplaatsen)
+6. Float-planes and float helicopters can take off and land on water, but not move anywhere except to take off again unless they have a boat license.
+7. Nav lights are required for boats, seaplanes when on water, and amphibious vehicles when on water, unless you are docked(for example to dock or land)(view screenshots below for further details on light placements)
 8. Submersibles hebben nav-lichten nodig wanneer ze boven water bewegen.
 9. Je kunt geen spotlights of indicatoren gebruiken als nav lampen.
 10. Je MOET stoppen voor personeel indien ze daarom vragen!
@@ -85,7 +85,7 @@ Verplichte navigatieverlichting voor boten tussen de 8 en 40 meter
 
   <div class="flex-vcenter">
     <img src="/img/boats/tsboatid1.png" width="200px"/>
-    De vaartuiglicentie moet voor een eenvoudige inspectie op de boot worden geschilderd, beschrijfbare tekens en indicatoren zijn toegestaan zolang ze gemakkelijk zichtbaar zijn. U kunt het ID niet op een monitor afbeelden of als componentnaam hebben.
+    De vaartuiglicentie moet voor een eenvoudige inspectie op de boot worden geschilderd, beschrijfbare tekens en indicatoren zijn toegestaan zolang ze gemakkelijk zichtbaar zijn. You cannot have the ID on a monitor or as a component's name.
   </div>
 
 ## Zoek uw Boot Licentie ID
