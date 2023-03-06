@@ -5,13 +5,13 @@ description: Information de licence
 
 # Bateaux
 
-1. Pour utiliser des bateaux & véhicules amphibiens sur l'eau sur des serveurs 1, 2 & 3, vous avez besoin d'un permis de bateau.
-2. Un minimum de 24 heures doit être passé si vous voulez demander un permis de bateau à partir de votre entrée sur le site Web.
-3. Votre bateau ne doit pas dépasser `40 mètres` de longueur -> `160 blocs`, pour réduire la latence.
-4. Vous avez besoin d'un permis de bateau pour utiliser un véhicule amphibie sur l'eau.
+1. To use boats & amphibious vehicles on the water on servers 1, 2 & 3 you need a boat license.
+2. Minimum of 24 hours must have passed if you want to apply for a boat license from when you joined the website.
+3. Your boat must not exceed `40 meters` in length -> `160 Blocks`, to reduce lag.
+4. You need a boat license to use an amphibious vehicle on water.
 5. Vous ne pouvez pas utiliser de véhicules de l'atelier (workshop) que vous n'avez pas fabriqués.
-6. Les hydravions et les hélicoptères amphibies peuvent décoller et atterrir sur l'eau, mais ne se déplacent nulle part, sauf pour décoller de nouveau, à moins qu'ils ne disposent d'un permis de bateau.
-7. Les lumières de navigation sont requis pour les bateaux, les plans de mer lorsque vous êtes sur l'eau, les véhicules amphibies sur l'eau, sauf si vous êtes amarré(exemple d'amarrage ou de terrain)(afficher les captures d'écran ci-dessous pour plus de détails sur les emplacements légers)
+6. Float-planes and float helicopters can take off and land on water, but not move anywhere except to take off again unless they have a boat license.
+7. Nav lights are required for boats, seaplanes when on water, and amphibious vehicles when on water, unless you are docked(for example to dock or land)(view screenshots below for further details on light placements)
 8. Les submersibles ont besoin de lumières de navigation lorsqu'ils se déplacent au-dessus de l'eau.
 9. Vous ne pouvez pas utiliser des projecteurs ou des indicateurs comme des lumières de navigation.
 10. Vous devez vous arrêter pour le personnel s'ils vous le demandent!
@@ -86,7 +86,7 @@ Lumière de navigation obligatoires pour les bateaux de moins de 8 mètres
 
   <div class="flex-vcenter">
     <img src="/img/boats/tsboatid1.png" width="200px"/>
-    Votre permis de bateau devrait être peint à l'extérieur de votre bateau pour une inspection facile, Les signes et indicateurs peints sont autorisés tant qu'ils sont facilement visibles. Vous ne pouvez pas avoir l'ID sur un moniteur ou en tant que nom de composant.
+    Votre permis de bateau devrait être peint à l'extérieur de votre bateau pour une inspection facile, Les signes et indicateurs peints sont autorisés tant qu'ils sont facilement visibles. You cannot have the ID on a monitor or as a component's name.
   </div>
 
 ## Trouver votre ID de licence de bateau
