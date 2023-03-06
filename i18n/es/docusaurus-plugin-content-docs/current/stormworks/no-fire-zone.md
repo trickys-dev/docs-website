@@ -12,7 +12,7 @@ No haga lo siguiente:
 
 :::info Disparar en NFZ
 
-Disparar dentro o en la zona será resultado de un ban temporal.
+Firing inside or into the zone will get you temporarily banned.
 
 :::  
 
