@@ -37,9 +37,9 @@ sidebar_position: 0
 :::note A couple of notes
 
 - Locations you can deliver are different between land/sea or air. For example, O’Neil (Air) can deliver to the Arctic, but North Harbor (Land/Sea) can not.
-- You can NOT take any land/sea cargo into the air, this is against HRP rules and will result in a fine on the spot. (Unless you are loading it within 1km of terminal)
-- As it currently stands you are allowed to take air cargo by land/sea it is not recommended as it is very inconvenient.
-- You are only allowed 2 of any type of cargo by HRP laws.
+- You can NOT take any land/sea cargo into the air, this is against HRP Laws and will result in a fine on the spot. (Unless you are loading it within 1km of terminal)
+- You are NOT allowed to take air cargo by land/sea, this is against [HRP Laws (2.2)](/hrplaws#23-airiso-container-mismanagement) and will result in a fine on the spot.
+- You are only allowed 2 of any type of cargo by [HRP Laws (2.4)](/hrplaws#24-player-container-limit).
 
 :::
 
@@ -54,7 +54,7 @@ sidebar_position: 0
 
 ## Oil
 
-1. You must be in a faction, you can either join one or create a new one.
+1. You must be in a [faction](https://trickys.gg/factions), you can either join one or [create](factions.md#create-a-faction) a new one.
 2. Find an oil point on the map. (This will give 30cr once captured)
 
 <img src="/img/hrp/cargooil/HRPOilField.png"/>

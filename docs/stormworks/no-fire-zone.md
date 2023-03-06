@@ -12,7 +12,7 @@ Do not do the following:
 
 :::info Firing In NFZ
 
-Firing inside or into the zone will get you temporary banned.
+Firing inside or into the zone will get you temporarily banned.
 
 :::
 

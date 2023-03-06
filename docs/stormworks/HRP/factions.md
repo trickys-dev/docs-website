@@ -84,19 +84,19 @@ To manage roles head to the `Roles` tab on a faction your own.
 
 :::tip
 
-Regardless of permissions roles cannot edit there own role or roles above them.
+Regardless of permissions roles cannot edit their own role or roles above them.
 
 :::
 
 :::note
 
-The owner role of each faction cannot edit there own role order or permissions.
+The owner role of each faction cannot edit their own role order or permissions.
 
 :::
 
 ## Example
 
-Below we have a exmaple of what the outcome would look like if you customised everything.
+Below we have an example of what the outcome would look like if you customize everything.
 
 ### Custom Faction Example
 
