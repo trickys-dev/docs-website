@@ -12,7 +12,7 @@ Doe het volgende niet:
 
 :::info vuren in NFZ
 
-Als je binnen of in de zone schiet krijg je een tijdelijke verbanning.
+Firing inside or into the zone will get you temporarily banned.
 
 :::  
 
