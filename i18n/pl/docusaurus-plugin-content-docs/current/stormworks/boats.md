@@ -5,13 +5,13 @@ description: Informacje o licencji łodzi.
 
 # Łodzie
 
-1. Aby korzystać z łodzi i pojazdów ziemnowodnych na wodzie na serwerach 1, 2 i 3 potrzebujesz licencji na łódź.
-2. Co najmniej 24 godziny muszą upłynąć, jeśli chcesz ubiegać się o licencję na łódź, od kiedy dołączyłeś do strony internetowej.
-3. Twoja łódź nie może przekraczać `40 metrów` długości -> `160 bloków`, aby zredukować lag.
-4. Potrzebujesz licencji na łódź, aby używać na wodzie pojazdu ziemnowodnego.
+1. To use boats & amphibious vehicles on the water on servers 1, 2 & 3 you need a boat license.
+2. Minimum of 24 hours must have passed if you want to apply for a boat license from when you joined the website.
+3. Your boat must not exceed `40 meters` in length -> `160 Blocks`, to reduce lag.
+4. You need a boat license to use an amphibious vehicle on water.
 5. Nie możesz używać pojazdów warsztatowych, których nie zrobiłeś.
-6. Samoloty i śmigłowce pływające mogą startować i lądować na wodzie, ale nie przemieszczać się nigdzie poza ponownym startem, chyba że posiadają licencję na łódź.
-7. Światła nawigacyjne są wymagane w przypadku łodzi, statków pływających na wodzie, pojazdów ziemnowodnych znajdujących się na wodzie, chyba że jesteś zacumowany (na przykład cumowanie lub lądowania)(zobacz zrzuty ekranu poniżej, aby uzyskać więcej informacji na temat położenia świateł)
+6. Float-planes and float helicopters can take off and land on water, but not move anywhere except to take off again unless they have a boat license.
+7. Nav lights are required for boats, seaplanes when on water, and amphibious vehicles when on water, unless you are docked(for example to dock or land)(view screenshots below for further details on light placements)
 8. Pojazdy podwodne podczas poruszania się nad wodą podwodną wymagają świateł nawigacyjnych.
 9. Nie możesz używać reflektorów lub wskaźników jako świateł nawigacyjnych.
 10. Musisz zatrzymać się dla personelu, jeżeli zostałeś o to poproszony!
@@ -85,7 +85,7 @@ Obowiązkowe światła nawigacyjne dla łodzi o długości od 8 do 40 metrów
 
   <div class="flex-vcenter">
     <img src="/img/boats/tsboatid1.png" width="200px"/>
-    Licencja na łódź powinna być pomalowana na zewnątrz łodzi w celu łatwej inspekcji, znaki i wskaźniki są dozwolone, o ile są łatwo widoczne. Nie możesz mieć identyfikatora na monitorze lub w nazwach komponentów.
+    Licencja na łódź powinna być pomalowana na zewnątrz łodzi w celu łatwej inspekcji, znaki i wskaźniki są dozwolone, o ile są łatwo widoczne. You cannot have the ID on a monitor or as a component's name.
   </div>
 
 ## Znalezienie twojego Identyfikatora Licencji Łodzi
