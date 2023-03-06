@@ -57,7 +57,7 @@ All signals on this railway are upper quadrant semaphore signals, this means tha
     Signal off = Clear<br/>
     If you see this signal you are clear to continue to the next signal
   </div>
-<b>Distant Signal</b><br/> You will encounter these distant signals before home/starter signals to give you warning whether they are at danger or clear. You can think of these as yellow traffic lights on the road.
+<b>Distant Signal</b><br/> You will encounter these distant signals before home/starter signals to give you a warning whether they are at danger or clear. You can think of these as yellow traffic lights on the road.
   <div class="flex-vcenter mb-1">
     <img src="/img/trainsrv/trainsrvyellowsignal1.png" width="300px"/>
     Signal On = Caution<br/>
