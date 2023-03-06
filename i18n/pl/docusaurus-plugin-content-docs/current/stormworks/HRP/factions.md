@@ -84,19 +84,19 @@ Aby zarządzać rolami w twojej frakcji, kliknij zakładkę `Roles`.
 
 :::tip
 
-Bez względu na uprawnienia, role nie mogą edytować własnej roli ani ról nad nimi.
+Regardless of permissions roles cannot edit their own role or roles above them.
 
 :::
 
 :::note
 
-Rola właściciela każdej frakcji nie może edytować tam własnych kolejności ról lub uprawnień.
+The owner role of each faction cannot edit their own role order or permissions.
 
 :::
 
 ## Przykład
 
-Poniżej znajduje się przykład tego, jak wyglądałby rezultat, gdybyś zmodyfikował wszystko.
+Below we have an example of what the outcome would look like if you customize everything.
 
 ### Przykład niestandardowego profilu frakcji
 
