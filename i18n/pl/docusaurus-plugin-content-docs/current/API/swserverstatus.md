@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # /swserverstatus
 
-<span class="request-bubble request-get">GET Request</span>
+<span class="request-bubble request-get">Żądanie GET</span>
 
 
 ## Uzyskaj status serwera Stormworks
