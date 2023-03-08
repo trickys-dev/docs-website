@@ -37,9 +37,9 @@ sidebar_position: 0
 :::note Kilka notatek
 
 - Lokalizacje, do których możesz dostarczać, różnią się między lądem/morzem lub powietrzem. Na przykład O’Neil (Powietrze) może dostarczyć do Arktyki, ale nie może do North Harbor (Ląd/Morze).
-- You can NOT take any land/sea cargo into the air, this is against HRP Laws and will result in a fine on the spot. (Chyba że używasz pojazdu powietrznego do załadowania w odległości maksymalnie 1 km od terminalu)
-- You are NOT allowed to take air cargo by land/sea, this is against [HRP Laws (2.2)](/hrplaws#23-airiso-container-mismanagement) and will result in a fine on the spot.
-- You are only allowed 2 of any type of cargo by [HRP Laws (2.4)](/hrplaws#24-player-container-limit).
+- NIE wolno zabierać żadnego ładunku lądowego/morskiego w powietrze, jest to sprzeczne z prawem HRP i doprowadzi do natychmiastowej kary. (Chyba że używasz pojazdu powietrznego do załadowania w odległości maksymalnie 1 km od terminalu)
+- NIE wolno zabierać ładunku powietrznego przez ląd/morze, to jest sprzeczne z artykułem [Praw HRP (2.2)](/hrplaws#23-airiso-container-mismanagement) i doprowadzi do natychmiastowej kary.
+- Możesz tylko 2 każdego typu ładunku zgodnie z artykułem [Prawa HRP (2.4)](/hrplaws#24-player-container-limit).
 
 :::
 
@@ -52,23 +52,23 @@ sidebar_position: 0
 
 ## Ropa
 
-1. You must be in a [faction](https://trickys.gg/factions), you can either join one or [create](factions.md#create-a-faction) a new one.
+1. Musisz być w [frakcji](https://trickys.gg/factions), możesz dołączyć albo [utworzyć](factions.md#create-a-faction) nową.
 2. Znajdź punkt ropy naftowej na mapie. (To daje 30cr po przechwyceniu)
 
 <img src="/img/hrp/cargooil/HRPOilField.png" />
 
-3. Go to oil point and wait for capture.
+3. Udaj się do punktu ropy naftowej i poczekaj na przechwycenie.
 
 <img src="/img/hrp/cargooil/HRPOilPointcapture1.png" />
 
-4. Once captured you will get money, the point will be uncaptured, and will be on cooldown for 30mins so wait or find another point.
+4. Po przechwyceniu otrzymasz pieniądze, punkt zostanie porzucony i będzie niedostępny do przechwycenia przez 30 minut, więc poczekaj lub znajdź inny punkt.
 
 <img src="/img/hrp/cargooil/HRPOilPointcapture2.png" />
 
 ## Wymiary
 
-ISO Containers:
-- Height: 11 Blocks - 2.75 meters.
+Kontenery ISO:
+- Wysokość: 11 bloków – 2,75 metra.
 - Szerokość: 11 bloków – 2,74 metra.
 - Długość: 29 bloków – 7,25 metrów.
 - Waga: 4 tony.
