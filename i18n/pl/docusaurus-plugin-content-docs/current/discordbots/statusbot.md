@@ -77,12 +77,12 @@ Rodzaje informacji są zarządzanie przez polecenie <span class="code-text">/con
 <div class="flex-vcenter mb-1">
   <p>
 
-| No. | Info Type       | Description                                |
-|-----|-----------------|--------------------------------------------|
-| 1   | players         | Shows the online player count.             |
-| 2   | version         | Shows the server version.                  |
-| 3   | TPS             | Shows the servers TPS.                     |
-| 4   | DLC             | Shows If Weapons or Arid DLC.              |
+| Nr | Typ informacji | Opis |
+|-----|-----------------|----------------------------|
+| 1 | gracze | Pokazuje liczbę graczy online.             |
+| 2 | wersja | Pokazuje wersję gry serwera.                  |
+| 3 | TPS | Pokazuje TPS serwera.                     |
+| 4 | DLC | Pokazuje DLC serwera.              |
 | 5   | uptime          | Shows the uptime of the server.            |
 | 6   | operatingSystem | Shows the servers operating system.        |
 | 7   | hasPassword     | Shows if the server is password protected. |
