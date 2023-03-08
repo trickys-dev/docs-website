@@ -16,10 +16,10 @@ Po dołączeniu do strony będziesz automatycznie autoryzowany na wszystkich nas
 
 Po dołączeniu do serwera system będzie sprawdzał następujące rzeczy z naszej strony internetowej:
 
-- Checks if you are perm-banned or temp banned from the server you are joining.
-- Checks if you have an account on the website. (Steam & Discord linked)
+- Sprawdza, czy jesteś trwale zbanowany lub tymczasowo zbanowany z serwera, do którego dołączysz.
+- Sprawdza, czy masz konto na stronie internetowej. (Steam i Discord podłączone)
 - Sprawdza, czy jesteś autoryzowany na serwerze, do którego dołączyłeś, jeśli nie, zostaniesz Automatycznie Autoryzowany.
-- Checks if you are authorized and have a valid boat license. Jest to wymagane tylko wtedy, gdy posiadasz licencję na łodzie.
+- Sprawdza, czy jesteś autoryzowany i posiadasz licencję na łodzie. Jest to wymagane tylko wtedy, gdy posiadasz licencję na łodzie.
 
 ## Mam autoryzację, ale nie mogę tworzyć łodzi?
 
