@@ -12,7 +12,7 @@ Nie wykonuj następujących czynności:
 
 :::info Strzelanie w Strefie
 
-Firing inside or into the zone will get you temporarily banned.
+Strzelanie w środku lub w głąb strefy spowoduje, że zostaniesz tymczasowo zbanowany.
 
 :::  
 
