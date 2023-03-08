@@ -259,10 +259,10 @@ Nasz Patreon będzie używany do płacenia za
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
 </tr>
 <tr>
-    <th colspan="6" class="tricky-color">Minecraft (Modded)</th>
+    <th colspan="6" class="tricky-color">Minecraft (Zmodyfikowany)</th>
 </tr>
 <tr>
-    <th scope="row">Homes (3)</th>
+    <th scope="row">Domy (3)</th>
     <td class="text-center"><i class="fa-fw text-success">4</i></td>
     <td class="text-center"><i class="fa-fw text-success">5</i></td>
     <td class="text-center"><i class="fa-fw text-success">6</i></td>
@@ -270,7 +270,7 @@ Nasz Patreon będzie używany do płacenia za
     <td class="text-center"><i class="fa-fw text-success">10</i></td>
 </tr>
 <tr>
-    <th scope="row">Forceloaded Chunks (25)</th>
+    <th scope="row">Zawsze załadowane Chunki (25)</th>
     <td class="text-center">-</td>
     <td class="text-center"><i class="fa-fw text-success">30</i></td>
     <td class="text-center"><i class="fa-fw text-success">35</i></td>
@@ -278,7 +278,7 @@ Nasz Patreon będzie używany do płacenia za
     <td class="text-center"><i class="fa-fw text-success">50</i></td>
 </tr>
 <tr>
-    <th scope="row">No TP Cooldown</th>
+    <th scope="row">Brak czasu odnowienia TP</th>
     <td class="text-center">-</td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
@@ -286,7 +286,7 @@ Nasz Patreon będzie używany do płacenia za
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
 </tr>
 <tr>
-    <th scope="row">Portable Enderchest</th>
+    <th scope="row">Przenośna skrzynia Kresu</th>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
