@@ -16,10 +16,10 @@ Linia kolejowa jest podzielona na cztery odcinki kontrolowane przez cztery oddzi
 
 :::
 
-:::caution Banned Components
+::caution Zastrzeżone Komponenty
 
-- Jet trains
-- Nuclear reactors
+- Silniki Odrzutowe
+- Reaktory Jądrowe
 
 :::
 

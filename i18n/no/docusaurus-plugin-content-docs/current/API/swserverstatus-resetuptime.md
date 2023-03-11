@@ -4,7 +4,7 @@ sidebar_position: 4
 
 # /swserverstatus/resetuptime
 
-<span class="request-bubble request-post">GET Request</span>
+<span class="request-bubble request-post">Få forespørsel</span>
 
 
 ## Tilbakestill Stormworks server oppetid

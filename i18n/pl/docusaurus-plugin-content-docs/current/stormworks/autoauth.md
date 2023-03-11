@@ -17,7 +17,7 @@ Po dołączeniu do strony będziesz automatycznie autoryzowany na wszystkich nas
 Po dołączeniu do serwera system będzie sprawdzał następujące rzeczy z naszej strony internetowej:
 
 - Sprawdza, czy jesteś trwale zbanowany lub tymczasowo zbanowany z serwera, do którego dołączysz.
-- Sprawdza, czy masz konto na stronie internetowej. (Steam i Discord jest połączony)
+- Sprawdza, czy masz konto na stronie internetowej. (Steam i Discord podłączone)
 - Sprawdza, czy jesteś autoryzowany na serwerze, do którego dołączyłeś, jeśli nie, zostaniesz Automatycznie Autoryzowany.
 - Sprawdza, czy jesteś autoryzowany i posiadasz licencję na łodzie. Jest to wymagane tylko wtedy, gdy posiadasz licencję na łodzie.
 

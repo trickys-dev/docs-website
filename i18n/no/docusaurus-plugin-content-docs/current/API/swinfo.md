@@ -4,7 +4,7 @@ sidebar_position: 6
 
 # /swinfo
 
-<span class="request-bubble request-get">GET Request</span>
+<span class="request-bubble request-get">Få forespørsel</span>
 
 
 ## Få Stormwork's Globale Spillerantall

@@ -43,7 +43,7 @@ Krótko mówiąc, bot może zrobić następujące działania;
 
 :::note
 
-If you selected "None" in step 2, you can skip step 2.1
+Jeśli wybrałeś "None" w kroku 2, możesz pominąć krok 2.1
 <div class="flex-vcenter mb-1">
     <img src="/img/scamwatchbot/botqsbuttons.png" width="300px" />
   <p class="m-0">
@@ -69,17 +69,17 @@ If you selected "None" in step 2, you can skip step 2.1
   </p>
  </div>
 
-:::tip Required
+:::tip Wymagane
 
-Please make sure the bot has a role that is higher then your members on your server!
+Upewnij się, że bot ma rolę wyższą niż użytkownicy na Twoim serwerze!
 
 :::
 
 ## Konfigurowanie bota
 
-:::caution Default Permissions
+:::caution Domyślne Uprawnienia
 
-These commands by default will only be accessible by users with the administrator permission.
+Te polecenia domyślnie będą dostępne tylko dla użytkowników z uprawnieniami administratora.
 
 :::
 

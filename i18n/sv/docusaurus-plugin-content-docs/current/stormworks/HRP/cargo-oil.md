@@ -2,9 +2,9 @@
 sidebar_position: 0
 ---
 
-# Cargo & Oil
+# Gods & Olja
 
-## Definitions
+## Definitioner
 
 <!-- css for flex -->
   <div class="flex-vcenter">
@@ -13,7 +13,7 @@ sidebar_position: 0
     </div>
 <p>
 
-- Land/Sea Cargo: This is defined as ISO Container.
+-Land/Vatten gods: Definieras som en ISO Container.
 
 </p>
   </div>
@@ -25,50 +25,56 @@ sidebar_position: 0
     </div>
 <p>
 
-- Air Cargo: This is defined as an AirISO Container.
+- Luft gods: Är definierade som en AirISO Container.
 
 </p>
   </div>
 
-## Cargo
+## Gods
 
-1. First you must choose to do land/sea cargo or air. (For this guide we will choose land/sea)
+1. Först behöver du välja mellan land/sjö eller luft. (För denna guiden kommer vi välja land/sjö)
 
-:::note A couple of notes
+:::note Några anteckningar
 
-- Locations you can deliver are different between land/sea or air. For example, O’Neil (Air) can deliver to the Arctic, but North Harbor (Land/Sea) can not.
-- You can NOT take any land/sea cargo into the air, this is against HRP rules and will result in a fine on the spot. (Unless you are loading it within 1km of terminal)
-- As it currently stands you are allowed to take air cargo by land/sea it is not recommended as it is very inconvenient.
-- You are only allowed 2 of any type of cargo by HRP laws.
+- Lokationer som du kan trasnportera till är olika för land/sjö eller luft transport. Till exempel, O’Neil (Luft) kan leverera till Arktis, men North Harbor (Land/Sea) kan inte göra det.
+- Du får INTE ta transportera någon land/sjö gods i luften, det är mot HRP regler och kommer resultera med böter på plats. (Bara om du transporterar det inom 1km från terminalen)
+- Du är inte tillåten att ta luft Gods genom land/sjö, det är emot [HRP Lagar (2.2)](/hrplaws#23-airiso-container-mismanagement) och kommer resultera med ett böter på plats.
+- Du får endast transportera 2 containrar av valfritt gods enligt [HRP Lagar (2.4)](/hrplaws#24-player-container-limit).
 
 :::
 
-2. Figure out where you want to go using the `?listdst command` (deliver locations dependent on your location)
-3. Use the `?claimto [Number]` command to claim cargo to that destination. <img src="/img/hrp/cargooil/HRPClaimTo.png" />
+2. Få reda på var du vill gå genom att använda `?listdst` kommandot (leverans platser beror på vart du befinner dig)
+3. Använd `?claimto [Number]` kommandot för att få gods till den destinationen. <img src="/img/hrp/cargooil/HRPClaimTo.png" />
 
-4. Go to the delivery location, for this guide we are going to Spycakes.
-5. Once you get there look at the cargo for the id then run `?deliver [cargo id]`. <img src="/img/hrp/cargooil/HRPDeliver.png" width="750px" />
+4. Gå till leverans platsen, för denna guiden kommer vi åka till Spycakes.
+5. När du kommer fram vid leverans platsen kolla på godset för att få en id kod och sedan kör `?deliver [cargo id]` kommandot. <img src="/img/hrp/cargooil/HRPDeliver.png" width="750px" />
 
 
-## Oil
+## Olja
 
-1. You must be in a faction, you can either join one or create a new one.
-2. Find an oil point on the map. (This will give 30cr once captured) <img src="/img/hrp/cargooil/HRPOilField.png" />
+1. Du måste vara i en [faction](https://trickys.gg/factions), Du kan antingen gå med i en faction eller [skapa](factions.md#create-a-faction) en ny.
+2. Hitta en olja punkt på kartan. (Det kommer ge dig 30cr efter övertagning)
 
-3. Go to oil point and wait for capture. <img src="/img/hrp/cargooil/HRPOilPointcapture1.png" />
+<img src="/img/hrp/cargooil/HRPOilField.png" />
 
-4. Once captured you will get money, the point will be uncaptured, and will be on cooldown for 30mins so wait or find another point. <img src="/img/hrp/cargooil/HRPOilPointcapture2.png" />
+3. Gå till olje punkten och sedan vänta för att överta punkten.
 
-## Sizes
+<img src="/img/hrp/cargooil/HRPOilPointcapture1.png" />
 
-ISO Containers:
-- Height: 11 Blocks - 2.75 meters.
-- Width: 11 Blocks - 2.74 meters.
-- Length: 29 Blocks - 7.25 meters.
-- Weight: 4 Metric Tonnes.
+4. När du har övertagit punkten så kommer du få pengarna, punkten kommer inte vara övertagen, och kommer du kommer inte kunna överta punkten igen för 30 minuter så du kan vänta eller bara hitta en annan punkt att överta.
+
+<img src="/img/hrp/cargooil/HRPOilPointcapture2.png" />
+
+## Storlekar
+
+ISO Containrar:
+- Höjd: 11 Blocka - 2,75 meter.
+- Bredd: 11 Block - 2,74 meter.
+- Längd: 29 Block - 7,25 meter.
+- Vikt: 4 Metriska Ton.
 
 AirISO:
-- Hight: 8 Blocks - 2 meters.
-- Width: 9 Blocks - 2.25 meters.
-- Length: 9 Blocks - 2.25 meters.
-- Weight: 318 Kg.
+- Höjd: 8 Block - 2 meter.
+- Bredd: 9 Block - 2.25 meter.
+- Längd: 9 Block - 2.25 meter.
+- Vikt: 318 Kg.

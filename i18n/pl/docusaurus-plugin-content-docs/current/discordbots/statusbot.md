@@ -77,20 +77,20 @@ Rodzaje informacji są zarządzanie przez polecenie <span class="code-text">/con
 <div class="flex-vcenter mb-1">
   <p>
 
-| No. | Info Type       | Description                                |
-|-----|-----------------|--------------------------------------------|
-| 1   | players         | Shows the online player count.             |
-| 2   | version         | Shows the server version.                  |
-| 3   | TPS             | Shows the servers TPS.                     |
-| 4   | DLC             | Shows If Weapons or Arid DLC.              |
-| 5   | uptime          | Shows the uptime of the server.            |
-| 6   | operatingSystem | Shows the servers operating system.        |
-| 7   | hasPassword     | Shows if the server is password protected. |
-| 8   | owner           | Shows the owner of the server.             |
-| 9   | serverLocation  | Shows the server location.                 |
-| 10  | responseTimeMs  | Shows the response time (Ms).              |
-| 11  | globalPlayers   | Shows the number of players on stormworks. |
-| 12  | logo            | Shows the server logo in the embed.        |
+| Nr | Typ informacji | Opis |
+|-----|-----------------|----------------------------|
+| 1  | players         | Pokazuje liczbę graczy online.             |
+| 2   | version         | Pokazuje wersję gry serwera.                  |
+| 3 | TPS | Pokazuje TPS serwera.                     |
+| 4 | DLC | Pokazuje DLC serwera.              |
+| 5 | uptime | Pokazuje dyspozycyjność serwera.            |
+| 6 | operatingSystem | Pokazuje system operacyjny serwera.        |
+| 7 | hasPassword | Pokazuje czy serwer jest chroniony hasłem. |
+| 8   | owner           | Pokazuje właściciela serwera.             |
+| 9   | serverLocation  | Pokazuje lokalizację serwera.                 |
+| 10  | responseTimeMs  | Pokazuje czas odpowiedzi (Ms).              |
+| 11  | globalPlayers   | Pokazuje ogólną liczbę graczy Stormworks. |
+| 12  | logo            | Pokazuje logo serwera w osadzeniu.        |
 
   </p>
   <span class="ml-1" >

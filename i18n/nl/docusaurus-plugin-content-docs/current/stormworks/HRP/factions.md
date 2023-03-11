@@ -84,19 +84,19 @@ Om rollen te beheren ga je naar het tabblad `rollen` op je eigen factie.
 
 :::tip
 
-Ongeacht permissies kan de eigenaar geen eigen rol of rollen hierboven bewerken.
+Regardless of permissions roles cannot edit their own role or roles above them.
 
 :::
 
 :::note
 
-De eigenaar van elke factie kan geen eigen rol volgorde of permissies bewerken.
+The owner role of each faction cannot edit their own role order or permissions.
 
 :::
 
 ## Voorbeeld
 
-Hieronder hebben we een voorbeeld van hoe de resultaten eruit zouden zien als je alles zou aanpassen.
+Below we have an example of what the outcome would look like if you customize everything.
 
 ### Aangepaste Factie voorbeeld
 

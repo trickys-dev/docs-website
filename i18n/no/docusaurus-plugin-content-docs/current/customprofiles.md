@@ -32,7 +32,7 @@ Personal profiles are referring to public profiles which all members have.
     </p>
  </div>
 
-The selected avatar will also show in a Discord embed when you post your profile URL, more about this below.
+The selected avatar will also show in a Discord embed when you post your profile URL, more about this is below.
 
 ### Avatar Outline Colour
 

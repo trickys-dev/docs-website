@@ -16,10 +16,10 @@ Quand vous vous inscrivez sur le site, vous serez autorisé sur tous les serveur
 
 Lorsque vous rejoignez le serveur, le système vérifiera les éléments suivants de notre site:
 
-- Vérifie si vous êtes banni permanentèrent ou temporairement du serveur que vous rejoignez.
-- Vérifie si vous avez un compte sur le site. (Steam et Discord lié)
+- Checks if you are perm-banned or temp banned from the server you are joining.
+- Checks if you have an account on the website. (Steam & Discord linked)
 - Vérifie si vous êtes autorisé sur le serveur que vous avez joint, sinon le système d'autorisation automatique vous donnera l'autorisation.
-- Vérifie si vous étés autorisé et si vous avez un permis de bateau. C'est seulement nécessaire si vous avez un permis de bateau.
+- Checks if you are authorized and have a valid boat license. C'est seulement nécessaire si vous avez un permis de bateau.
 
 ## J'ai l'autorisation, mais je ne peux pas utiliser les bateaux?
 

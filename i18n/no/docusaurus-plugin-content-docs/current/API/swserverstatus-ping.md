@@ -4,7 +4,7 @@ sidebar_position: 5
 
 # /swserverstatus/ping
 
-<span class="request-bubble request-get">GET Request</span>
+<span class="request-bubble request-get">Få forespørsel</span>
 
 
 ## Få ping av en server fra flere land

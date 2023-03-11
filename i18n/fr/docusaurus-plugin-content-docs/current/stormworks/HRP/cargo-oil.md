@@ -37,9 +37,9 @@ sidebar_position: 0
 :::note Quelques notes
 
 - Les endroits que vous pouvez livrer sont différents entre terres/mer ou air. Par exemple, O’Neil (air) peut livrer à l’Arctique, mais le Port du Nord (terre/mer) ne peut pas être un lieu de livraison.
-- Vous ne pouvez PAS emporter de cargaisons terrestres ou maritimes dans l'air, ce qui est contraire aux règles du RRH et se traduira par une amende sur place. (Sauf si vous le chargez dans un rayon de 1 km de terminal)
-- En l'état actuel des choses, vous êtes autorisé à transporter des cargaisons aériennes par voie terrestre ou maritime, il n'est pas recommandé car cela est une manière inconvénient.
-- Vous n'êtes autorisé que 2 de tout type de fret par les lois sur les RHP.
+- You can NOT take any land/sea cargo into the air, this is against HRP Laws and will result in a fine on the spot. (Sauf si vous le chargez dans un rayon de 1 km de terminal)
+- You are NOT allowed to take air cargo by land/sea, this is against [HRP Laws (2.2)](/hrplaws#23-airiso-container-mismanagement) and will result in a fine on the spot.
+- You are only allowed 2 of any type of cargo by [HRP Laws (2.4)](/hrplaws#24-player-container-limit).
 
 :::
 
@@ -52,16 +52,22 @@ sidebar_position: 0
 
 ## Pétrole
 
-1. Vous devez être dans une faction, vous pouvez également en rejoindre une ou en créer une nouvelle.
-2. Trouvez un point de pétrole sur la carte. (Cela donnera 30cr une fois capturé) <img src="/img/hrp/cargooil/HRPOilField.png" />
+1. You must be in a [faction](https://trickys.gg/factions), you can either join one or [create](factions.md#create-a-faction) a new one.
+2. Trouvez un point de pétrole sur la carte. (Cela donnera 30cr une fois capturé)
 
-3. Allez au point d'huile et attendez la capture. <img src="/img/hrp/cargooil/HRPOilPointcapture1.png" />
+<img src="/img/hrp/cargooil/HRPOilField.png" />
 
-4. Une fois que vous aurez capturé de l'argent, le point ne sera pas capturé, et sera en cours de récupération pendant 30 mn, alors attendez ou trouvez un autre point. <img src="/img/hrp/cargooil/HRPOilPointcapture2.png" />
+3. Go to oil point and wait for capture.
+
+<img src="/img/hrp/cargooil/HRPOilPointcapture1.png" />
+
+4. Once captured you will get money, the point will be uncaptured, and will be on cooldown for 30mins so wait or find another point.
+
+<img src="/img/hrp/cargooil/HRPOilPointcapture2.png" />
 
 ## Tailles
 
-Conteneurs ISO :
+ISO Containers:
 - Hauteur : 11 Blocs - 2,75 mètres.
 - Hauteur : 11 Blocs - 2,75 mètres.
 - Hauteur : 29 Blocs - 2,75 mètres.

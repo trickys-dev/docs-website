@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# ScamWatch Boten
+# ScamWatch Botten
 
 Denna sidan förklarar hur man använder och setupar ScamWatch Boten.
 
@@ -47,9 +47,9 @@ Om du valde knappen "None" på steg 2, kan du hoppa över steg 2.1
 <div class="flex-vcenter mb-1">
     <img src="/img/scamwatchbot/botqsbuttons.png" width="300px" />
   <p class="m-0">
-  <span class="statusbot-title">Step 2.1</span> - Pick a role that is requried to use the buttons.<br/>
-  <span class="statusbot-title">None</span> - If you type <span class="code-text">none</span> everyone that has access to the log channel can use the buttons.<br/>
-  <span class="statusbot-title">Roles</span> - When adding a role just @ the role, example @Moderator.
+  <span class="statusbot-title">Steg 2.1</span> - Välj en roll som kommer krävas att använda knapparna.<br/>
+  <span class="statusbot-title">None</span> - Om du skriver <span class="code-text">none</span> alla som har tillgång till logg kanalen kommer kunna använda dessa knapparna.<br/>
+  <span class="statusbot-title">Roles</span> - När man lägger till en roll bara @ rollen, till exempel @Moderator.
   </p>
  </div>
 

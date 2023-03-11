@@ -37,9 +37,9 @@ sidebar_position: 0
 :::note Kilka notatek
 
 - Lokalizacje, do których możesz dostarczać, różnią się między lądem/morzem lub powietrzem. Na przykład O’Neil (Powietrze) może dostarczyć do Arktyki, ale nie może do North Harbor (Ląd/Morze).
-- NIE wolno transportować żadnego ładunku lądowego/morskiego powietrzne, jest to sprzeczne z zasadami HRP i będzie skutkowało nałożeniem kary na miejscu. (Chyba że używasz pojazdu powietrznego do załadowania w odległości maksymalnie 1 km od terminalu)
-- Obecnie możesz transportować ładunki lotnicze drogą lądową/morską, ale to nie jest rekomendowane, ponieważ jest to bardzo niedogodne.
-- Prawo HRP zezwala transport tylko na 2 typów z dowolnego rodzaju ładunku na raz.
+- NIE wolno zabierać żadnego ładunku lądowego/morskiego w powietrze, jest to sprzeczne z prawem HRP i doprowadzi do natychmiastowej kary. (Chyba że używasz pojazdu powietrznego do załadowania w odległości maksymalnie 1 km od terminalu)
+- NIE wolno zabierać ładunku powietrznego przez ląd/morze, to jest sprzeczne z artykułem [Praw HRP (2.2)](/hrplaws#23-airiso-container-mismanagement) i doprowadzi do natychmiastowej kary.
+- Możesz tylko 2 każdego typu ładunku zgodnie z artykułem [Prawa HRP (2.4)](/hrplaws#24-player-container-limit).
 
 :::
 
@@ -52,17 +52,23 @@ sidebar_position: 0
 
 ## Ropa
 
-1. Musisz być we frakcji, możesz dołączyć do niej lub utworzyć nową.
-2. Znajdź punkt ropy naftowej na mapie. (To daje 30cr po przechwyceniu) <img src="/img/hrp/cargooil/HRPOilField.png" />
+1. Musisz być w [frakcji](https://trickys.gg/factions), możesz dołączyć albo [utworzyć](factions.md#create-a-faction) nową.
+2. Znajdź punkt ropy naftowej na mapie. (To daje 30cr po przechwyceniu)
 
-3. Udaj się do punktu ropy naftowej i poczekaj na przechwycenie. <img src="/img/hrp/cargooil/HRPOilPointcapture1.png" />
+<img src="/img/hrp/cargooil/HRPOilField.png" />
 
-4. Po przechwyceniu otrzymasz pieniądze, punkt zostanie porzucony i będzie niedostępny do przechwycenia przez 30 minut, więc poczekaj lub znajdź inny punkt. <img src="/img/hrp/cargooil/HRPOilPointcapture2.png" />
+3. Udaj się do punktu ropy naftowej i poczekaj na przechwycenie.
+
+<img src="/img/hrp/cargooil/HRPOilPointcapture1.png" />
+
+4. Po przechwyceniu otrzymasz pieniądze, punkt zostanie porzucony i będzie niedostępny do przechwycenia przez 30 minut, więc poczekaj lub znajdź inny punkt.
+
+<img src="/img/hrp/cargooil/HRPOilPointcapture2.png" />
 
 ## Wymiary
 
 Kontenery ISO:
-- Height: 11 Blocks - 2.75 meters.
+- Wysokość: 11 bloków – 2,75 metra.
 - Szerokość: 11 bloków – 2,74 metra.
 - Długość: 29 bloków – 7,25 metrów.
 - Waga: 4 tony.
