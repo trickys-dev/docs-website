@@ -69,7 +69,7 @@ Hvis du valgte "None" i trinn 2, kan du hoppe over trinn 2.1
   </p>
  </div>
 
-:::tip Required
+:::tip Obligatorisk
 
 Venligst pass på at botten har en rolle som er høyere enn server medlemmene!
 
@@ -77,7 +77,7 @@ Venligst pass på at botten har en rolle som er høyere enn server medlemmene!
 
 ## Konfigurering av botten
 
-:::caution Default Permissions
+:::caution Standard Tillatelser
 
 Disse kommandoene vil som standard bare være tilgjengelig for brukere med administratorrettigheter.
 
