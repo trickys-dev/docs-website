@@ -24,7 +24,7 @@ En bref, le bot peut faire ce qui suit ;
 3. Utilisez la commande <span class="code-text">/config servers</span> pour définir les serveurs que vous souhaitez afficher.
 4. Une fois que vous avez créé le canal, demander au bot d'utiliser le canal pour afficher le statut en utilisant :<br/><span class="code-text">/config channel <code>channel :&lt;span class="discord-text">#server-status&lt;/span></code></span>
 
-## Configuring The Bot
+## Configuration du Bot
 
 <div class="flex-vcenter mb-1">
     <img src="/img/statusbot/swconfigchannel.png" width="300px" />
@@ -43,8 +43,8 @@ En bref, le bot peut faire ce qui suit ;
 <div class="flex-vcenter mb-1">
     <img src="/img/statusbot/swconfiginfo.png" width="300px" />
   <p class="m-0">
-  <span class="statusbot-title">Info</span> - What server info to show in the status embed for each server.<br/>
-  To add or remove info: <span class="code-text">/config info</span>
+  <span class="statusbot-title">Info</span> - Quelles informations de serveur afficher dans le statut de chaque serveur.<br/>
+  Pour ajouter ou supprimer des infos : <span class="code-text">/config info</span>
   </p>
  </div>
 <div class="flex-vcenter mb-1">
@@ -58,33 +58,33 @@ En bref, le bot peut faire ce qui suit ;
 <div class="flex-vcenter mb-1">
     <img src="/img/statusbot/swconfigadminrole.png" width="300px" />
   <p class="m-0">
-  <span class="statusbot-title">Admin Role</span> - Users with this role can configure the bot <span class="text-muted">(If there is no value, only users with the administrator permission can edit the bot).</span><br/>
-  To set the admin role: <span class="code-text">/config adminrole <code>role:<span class="discord-text">@role</span></code></span>
+  <span class="statusbot-title">Rôle d'administrateur</span> - Les utilisateurs avec ce rôle peuvent configurer le bot <span class="text-muted">(S'il n'y a pas de valeur, seuls les utilisateurs ayant les droits d'administrateur peuvent modifier le bot).</span><br/>
+  Pour définir le rôle admin : <span class="code-text">/config adminrole <code>rôle :<span class="discord-text">@role</span></code></span>
   </p>
  </div>
 <div class="flex-vcenter mb-1">
     <img src="/img/statusbot/swconfigpinging.png" width="300px" />
   <p class="m-0">
-  <span class="statusbot-title">Offline DM</span> - Will DM admin role if any listed server is detected to be offline.<br/>
-  <span class="statusbot-title">Outdated DM</span> - Will DM the admin role if any listed server is detected to be out of date.<br/>
-  To set DM settings: <span class="code-text">/config pinging</span>
+  <span class="statusbot-title">DM hors-ligne</span> - Rôle d'administration de DM si un serveur listé est détecté pour être hors ligne.<br/>
+  <span class="statusbot-title">DM obsolète</span> - Will DM le rôle administrateur si un serveur listé est détecté comme obsolète.<br/>
+  Définir les paramètres de DM : <span class="code-text">/config pinging</span>
   </p>
  </div>
 
-## Info Types
+## Type d'informations
 
-Info types are managed by the <span class="code-text">/config info</span> command.
+Les types d'informations sont gérés par la commande <span class="code-text">/config info</span>.
 <div class="flex-vcenter mb-1">
   <p>
 
-| No. | Info Type       | Description                                |
-|-----|-----------------|--------------------------------------------|
-| 1   | players         | Shows the online player count.             |
-| 2   | version         | Shows the server version.                  |
-| 3   | TPS             | Shows the servers TPS.                     |
-| 4   | DLC             | Shows If Weapons or Arid DLC.              |
-| 5   | uptime          | Shows the uptime of the server.            |
-| 6   | operatingSystem | Shows the servers operating system.        |
+| No. | Type d'info | Description |
+|-----|--------------------------------------------|
+| 1 | joueurs | Affiche le nombre de joueurs en ligne.             |
+| 2 | version | Affiche la version du serveur.                  |
+| 3 | TPS | Montre les serveurs TPS.                     |
+| 4 | DLC | Montre Si armes ou DLC aride.              |
+| 5 | uptime | Affiche la durée de disponibilité du serveur.            |
+| 6 | système d'opération | Affiche le système d'exploitation des serveurs.        |
 | 7   | hasPassword     | Shows if the server is password protected. |
 | 8   | owner           | Shows the owner of the server.             |
 | 9   | serverLocation  | Shows the server location.                 |
@@ -103,32 +103,32 @@ Info types are managed by the <span class="code-text">/config info</span> comman
 <div class="flex-vcenter mb-1">
     <img src="/img/statusbot/swoutofdatemsg.png" width="300px" />
   <p class="m-0">
-  <span class="statusbot-title">Server Out Of Date</span><br/>
-  If your server is out of date the status embed will look like this, You will also get a DM if they are enabled as shown in the alert embed example.
+  <span class="statusbot-title">Serveur obsolète</span><br/>
+  Si votre serveur est dépassé, le statut intégré ressemblera à ceci, Vous obtiendrez également un DM s'ils sont activés comme indiqué dans l'exemple d'alerte intégrée.
   </p>
  </div>
 
-## Ping
+## Latence
 
 <div class="flex-vcenter mb-1">
     <img src="/img/statusbot/swglobalping.png" width="300px" />
   <p class="m-0">
-  <span class="statusbot-title">PING</span> - Get the ping of a server from all over the world.<br/>
-    All users can use the <span class="code-text">/ping</span> command.
+  <span class="statusbot-title">PING</span> - Récupère le ping d'un serveur du monde entier.<br/>
+    Tous les utilisateurs peuvent utiliser la commande <span class="code-text">/ping</span>.
   </p>
  </div>
 
    <img src="/img/statusbot/swglobalpinginfo.png" />
 
-## Bots Permissions
-These are the bot's permissions:
+## Permissions du bot
+Voici les permissions du bot:
 
-- Read Messages - Needed to read messages in server.
-- Send Messages - Needed to send messages in server.
-- Manage Messages - Needed to send & delete its own message in the channel specified.
-- Embed Links - Needed to embed links within the status embed.
-- Attach Files - Needed to attach files to status embed.
-- Read Message History - Needed to read message history.
-- Use External Emojis - Needed to access emojis used in the status embed.
-- Add Reactions - Needed as we might implement something in the future.
-- View Channel - Needed to view(see) channels.
+- Lire les messages - Nécessaire pour lire les messages dans le serveur.
+- Envoyer les messages - Nécessaire pour Envoyer les messages dans le serveur.
+- Gérer les messages - Nécessaire pour envoyer & supprimer son propre message dans le canal spécifié.
+- Intégrer des liens (Embed Links) - Nécessaire pour intégrer des liens dans le statut intégré.
+- Joindre des fichiers - Nécessaire pour attacher des fichiers au statut intégré.
+- Lire les messages - Nécessaire pour lire les messages dans le serveur.
+- Utilisez des émojis externes - Nécessaires pour accéder aux émojis utilisés dans le statut intégré (embed).
+- Ajouter des réactions - Nécessaire car nous pourrions implémenter quelque chose dans le futur.
+- Voir le canal - Nécessaire pour voir (voir) les canaux.
