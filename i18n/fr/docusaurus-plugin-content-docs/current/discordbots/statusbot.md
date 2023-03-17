@@ -2,27 +2,27 @@
 sidebar_position: 1
 ---
 
-# SW Status Bot
+# Status Du Bots Dans Stormworks
 
-This page explains how to use and setup the Stormworks Status Bot.
+Cette page explique comment utiliser et configurer le Stormworks Status Bot.
 
-## What Can The Bot Do
+## Que Peut Faire Le Bot
 
-In brief the bot can do the following;
+En bref, le bot peut faire ce qui suit ;
 
-- Get stormworks server status and different types of stats.
-- Get total players playing stormworks.
-- Show when the server is out of date.
-- Show when the server is offline.
-- Allows users to ping a server from 15+ different locations around the world.
-- Sends a DM when a server is offline. (when enabled)
-- Sends a DM when a server is out-of-date. (when enabled)
+- Obtenir le statut du serveur Stormworks et les différents types de statistiques.
+- Obtenez le nombre total de joueurs qui jouent à stormworks.
+- Afficher lorsque le serveur n'est plus à jour.
+- Afficher lorsque le serveur est hors ligne.
+- Permet aux utilisateurs de ping un serveur à partir de plus de 15 emplacements différents dans le monde.
+- Envoie un DM lorsqu'un serveur est déconnecté. (quand activé)
+- Envoie un DM lorsqu'un serveur n'est plus à jour. (quand activé)
 
-## Getting Started
-1. To get started <a href="https://discord.com/oauth2/authorize?client_id=807750726205702176&scope=bot&permissions=388160">invite</a> the bot to your server.
+## Pour Commencer
+1. Pour commencer, <a href="https://discord.com/oauth2/authorize?client_id=807750726205702176&scope=bot&permissions=388160">invitez</a> le bot sur votre serveur.
 2. Create a <code class="discord-text">#server-status</code> channel or whatever you want to call the channel, this is where the bot will place the embed to show the server status.
-3. Use <span class="code-text">/config servers</span> command to set what servers you would like to display.
-4. Once you have created the channel, tell the bot to use the channel to show the status using:<br/><span class="code-text">/config channel <code>channel:&lt;span class="discord-text">#server-status&lt;/span></code></span>
+3. Utilisez la commande <span class="code-text">/config servers</span> pour définir les serveurs que vous souhaitez afficher.
+4. Une fois que vous avez créé le canal, demander au bot d'utiliser le canal pour afficher le statut en utilisant :<br/><span class="code-text">/config channel <code>channel :&lt;span class="discord-text">#server-status&lt;/span></code></span>
 
 ## Configuring The Bot
 
