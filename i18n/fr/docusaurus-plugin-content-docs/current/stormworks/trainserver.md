@@ -8,7 +8,7 @@ sidebar_position: 3
 
 # Serveur de train
 
-Ce serveur est destiné aux opérations ferroviaires de jeux de rôles. The section of railway from Spycakes to Camodo recreates absolute block signalling for roleplay between signalling and train drivers in a realistic railway setting.
+Ce serveur est destiné aux opérations ferroviaires de jeux de rôles. Le tronçon de chemin de fer de Spycakes à Camodo recrée des panneaux de signalisation pour le jeu de rôles entre les conducteurs de signalisation et de train dans un cadre ferroviaire réaliste.
 
 :::note Absolute Block Signalling Summary
 
@@ -16,10 +16,10 @@ Le chemin de fer est divisé en quatre sections contrôlées par quatre boîtes 
 
 :::
 
-:::caution Banned Components
+:::mise en garde des composants bannis
 
-- Jet trains
-- Nuclear reactors
+- Train à réacteur
+- Réacteur nucléaire
 
 :::
 
@@ -27,20 +27,20 @@ Le chemin de fer est divisé en quatre sections contrôlées par quatre boîtes 
 
 ### Limites de Vitesse
 
-The railway is divided up into sections with different speed limits. These limits are indicated by signs across the railway in miles per hour (mph).
+Le chemin de fer est divisé en sections avec des limites de vitesse différentes. Ces limites sont indiquées par les panneaux qui traversent le chemin de fer en milles par heure (mil/h).
 
-Please see the following general speed limits on the railway:
+Veuillez consulter les limites de vitesse générales suivantes sur le chemin de fer:
 - Yards = 10mph
-- Bend between Spycakes and North Donkk = 80mph
-- Rest of the line = 100mph
+- Tendance entre Spycakes et Donkk du Nord = 80mph
+- Restant de la ligne = 100mph
 
-:::caution Overspeeding
+:::prudence excès de vitesse
 
-If you are caught going over 100mph you will be kicked, if you continue to break this rule you may be banned from the train server.
+Si vous êtes attrapé de plus de 100 mph, vous serez expulsé(e), si vous continuez à enfreindre cette règle, vous pourriez être banni du serveur ferroviaire.
 
 :::
 
-### Signals
+### Signaux
 This system uses traditional upper quadrant semaphore signals, which means that insted of traffic light signals that you may be used to, these signals use moving arms with corresponding lights that inform the driver if they can continue or stop.
 
 All signals on this railway are upper quadrant semaphore signals, this means that a horizontal arm always means the signal is on displaying a danger or caution aspect. An arm that is pointing upwards indicates the signal is off, which means it's clear to proceed.
