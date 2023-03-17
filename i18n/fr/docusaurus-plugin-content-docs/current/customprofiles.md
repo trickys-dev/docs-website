@@ -2,65 +2,65 @@
 sidebar_position: 4
 ---
 
-# Custom Profiles
+# Profils personnalisés
 
-Customise personal & faction profiles
+Personnaliser les profils personnels & de faction
 
-:::note Faction Profiles
+:::note Profils de Faction
 
-[Click Here](/docs/stormworks/HRP/factions#faction-profiles) if you are looking for [Faction Profiles](/docs/stormworks/HRP/factions#faction-profiles)
+[Cliquez ici](/docs/stormworks/HRP/factions#faction-profiles) si vous recherchez [Profils de faction](/docs/stormworks/HRP/factions#faction-profiles)
 
 :::
 
 
-## Personal Profiles
+## Profil personnel
 
-Personal profiles are referring to public profiles which all members have.
+Les profils personnels se réfèrent aux profils publics que tous les membres possèdent.
 
-- Avatar to display.
-- Bio. **You are limited to 200 characters in bios & descriptions.**
-- Avatar outline colour.
+- Avatar à afficher.
+- Biographie. **Vous êtes limité à 200 caractères en bios & descriptions.**
+- Couleur du contour de l'avatar.
 
-### Avatar To Display
+### Avatar à afficher
 
 <div class="flex-vcenter mb-1">
     <img src="/img/customprofiles/profileavatardisplay.png"/>
     <p>
-    You can choose which avatar you want to show on your profile, they are:<br/>
-- Steam Avatar. (Default)<br/>
-- Discord Avatar.
+    Vous pouvez choisir quel avatar vous voulez afficher sur votre profil, ils sont:<br/>
+- Steam Avatar. (par défaut)<br/>
+- Avatar Discord.
     </p>
  </div>
 
-The selected avatar will also show in a Discord embed when you post your profile URL, more about this is below.
+L'avatar sélectionné sera également affiché dans un intégration Discord lorsque vous publierez votre URL de profil, plus à ce sujet est ci-dessous.
 
-### Avatar Outline Colour
+### Couleur du contour externe de l'avatar
 
 <div class="flex-vcenter mb-1">
   <img src="/img/customprofiles/editavatarcolour.png"/>
   <p>
-  You can choose the outline colour that is around your avatar.
-  The selected colour will also show in a Discord embed when you post your profile URL, example below.
+  Vous pouvez choisir la couleur du contour qui est autour de votre avatar.
+  La couleur sélectionnée apparaîtra également dans une intégration de Discord lorsque vous publierez votre URL de profil, exemple ci-dessous.
   </p>
 </div>
 
-## Example
+## Exemple
 
-Below we have have exmaple of what the outcome would look like if you customised everything.
+Ci-dessous nous avons une aperçue de ce à quoi ressemblerait le résultat si vous avez tout personnalisé.
 
-### Custom Profile Example
+### Exemple de profil customisé
 
 <div class="flex-vcenter mb-1">
     <img src="/img/customprofiles/profilecolorwebsite.png"/>
     <p>
-    <b>Avatar Outline Colour</b><br/>
-    Viewing profile with selected colour on website.
+    <b>Couleur du contour de l'avatar</b><br/>
+    Visualisation du profil avec la couleur sélectionnée sur le site Web.
     </p>
   </div>
     <div class="flex-vcenter mb-1">
     <img src="/img/customprofiles/profilediscordemebed.png"/>
     <p>
-    <b>Sharing Profile Link</b><br/>
-    Sharing a link on discord will show a embed of your profile including the custom colour & the avatar that you set.
+    <b>Lien de profil de partage</b><br/>
+    Partage un lien sur discord montrera un intégration de votre profil, y compris la couleur personnalisée et l'avatar que vous avez défini.
     </p>
   </div>
