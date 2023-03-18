@@ -113,8 +113,8 @@ Les types d'informations sont gérés par la commande <span class="code-text">/c
 <div class="flex-vcenter mb-1">
     <img src="/img/statusbot/swglobalping.png" width="300px" />
   <p class="m-0">
-  <span class="statusbot-title">PING</span> - Récupère le ping d'un serveur du monde entier.<br/>
-    Tous les utilisateurs peuvent utiliser la commande <span class="code-text">/ping</span>.
+  <span class="statusbot-title">PING</span> - Get the ping of a server from all over the world.<br/>
+    All users can use the <span class="code-text">/ping</span> command.
   </p>
  </div>
 
