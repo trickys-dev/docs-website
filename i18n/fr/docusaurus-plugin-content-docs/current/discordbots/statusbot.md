@@ -20,7 +20,7 @@ En bref, le bot peut faire ce qui suit ;
 
 ## Pour Commencer
 1. Pour commencer, <a href="https://discord.com/oauth2/authorize?client_id=807750726205702176&scope=bot&permissions=388160">invitez</a> le bot sur votre serveur.
-2. Create a <code class="discord-text">#server-status</code> channel or whatever you want to call the channel, this is where the bot will place the embed to show the server status.
+2. Créez un canal <code class="discord-text">#server-status</code> ou tout autre canal que vous voulez appeler le canal, c'est là que le bot placera l'embed pour afficher le statut du serveur.
 3. Utilisez la commande <span class="code-text">/config servers</span> pour définir les serveurs que vous souhaitez afficher.
 4. Une fois que vous avez créé le canal, demander au bot d'utiliser le canal pour afficher le statut en utilisant :<br/><span class="code-text">/config channel <code>channel :&lt;span class="discord-text">#server-status&lt;/span></code></span>
 
@@ -36,8 +36,8 @@ En bref, le bot peut faire ce qui suit ;
 <div class="flex-vcenter mb-1">
     <img src="/img/statusbot/swconfigservers.png" width="300px" />
   <p class="m-0">
-  <span class="statusbot-title">Servers</span> - The list of servers to add or remove from the embed<br/>
-  To add or remove servers: <span class="code-text">/config servers</span>
+  <span class="statusbot-title">Serveurs</span> - La liste de serveurs à ajouter ou à supprimer de l'embed<br/>
+  Ajouter ou supprimer des serveurs : <span class="code-text">/config serveurs</span>
   </p>
  </div>
 <div class="flex-vcenter mb-1">
