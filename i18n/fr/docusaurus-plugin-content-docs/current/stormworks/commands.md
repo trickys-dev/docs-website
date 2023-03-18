@@ -29,7 +29,7 @@ description: Les commandes Stormworks en jeu.
 
 ## Commandes de Matériel HRP
 
- | Commandes        | Descriptions                                                                                           | Example    |
+ | Commandes        | Descriptions                                                                                           | Exemples   |
  | ---------------- | ------------------------------------------------------------------------------------------------------ | ---------- |
  | ?help            | Montrer toutes les commandes                                                                           | ?help      |
  | ?claim           | Fait apparaître un conteneur s'il n'existe pas                                                         | ?claim     |
@@ -51,7 +51,7 @@ description: Les commandes Stormworks en jeu.
 | ?v {vid} help                                                           | Voir les sous-commandes pour ?v {id}                      | ?v 1 help             |
 | ?v {vid} info                                                           | Voir les informations sur le véhicule                     | ?v 1 info             |
 | ?v {vid} despawn                                                        | Faire disparaître un véhicule                             | ?v 1 despawn          |
-| ?v {vid} owner {id}                                                     | Transfer ownership of vehicle                             | ?v 1 owner 2          |
+| ?v {vid} owner {id}                                                     | Transférer de propriétaire sur le véhicule                | ?v 1 owner 2          |
 | ?v {vid} tp                                                             | Téléporter à un siège dans le véhicule                    | ?v 1 tp               |
 | ?v {vid} kick {id}                                                      | Expulser un utilisateur d'un véhicule                     | ?v 1 kick 1           |
 | ?v {vid} kickall                                                        | Expulser tous les utilisateurs du véhicule                | ?v 1 kickall          |
