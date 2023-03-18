@@ -9,7 +9,7 @@ sidebar_position: 3
 
 ## Paliers Patreon
 
-| Niveaux              | Discord Roles                                        |
+| Niveaux              | Rôles Discord                                        |
 | -------------------- | ---------------------------------------------------- |
 | Contributeur Bronze  | <span class="b-supporter">@Bronze Supporter</span>   |
 | Contributeur Argent  | <span class="s-supporter">@Silver Supporter</span>   |
