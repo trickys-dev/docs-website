@@ -41,16 +41,16 @@ Si vous êtes attrapé de plus de 100 mph, vous serez expulsé(e), si vous con
 :::
 
 ### Signaux
-This system uses traditional upper quadrant semaphore signals, which means that insted of traffic light signals that you may be used to, these signals use moving arms with corresponding lights that inform the driver if they can continue or stop.
+Ce système utilise des signaux traditionnels de sémaphore du quadrant supérieur, ce qui signifie que les signaux de feux de signalisation que vous pouvez utiliser, Ces signaux utilisent des bras mobiles avec des lumières correspondantes qui informent le conducteur s'ils peuvent continuer ou s'arrêter.
 
-All signals on this railway are upper quadrant semaphore signals, this means that a horizontal arm always means the signal is on displaying a danger or caution aspect. An arm that is pointing upwards indicates the signal is off, which means it's clear to proceed.
+Tous les signaux sur ce chemin de fer sont des signaux de sémaphore du quadrant supérieur, Cela signifie qu'un bras horizontal signifie toujours que le signal est en train d'afficher un danger ou un aspect de prudence. Un bras qui pointe vers le haut indique que le signal est éteint, ce qui signifie qu'il est clair de continuer.
 
-<b>Home/Starter Signal</b>
+<b>Signal d'accueil/démarrage</b>
 
 <div class="flex-vcenter mb-1">
     <img src="/img/trainsrv/trainsrvredsignal.png" width="300px"/>
     Signal on = Danger<br/>
-    You should stop if you see this signal
+    Vous devriez vous arrêter si vous voyez ce signal
   </div>
   <div class="flex-vcenter mb-1">
     <img src="/img/trainsrv/trainsrvgreensignal.png" width="300px"/>
@@ -68,23 +68,23 @@ All signals on this railway are upper quadrant semaphore signals, this means tha
     Signal Off = Clear<br/>
     You are clear to continue
   </div>
-<b>Fixed Distant Signal</b>
+<b>Signal Distant Fixe</b>
   <div class="flex-vcenter mb-1">
     <img src="/img/trainsrv/trainsrvyellowsignal3.png" width="300px"/>
-    When approaching Camodo from the Sawyer Islands you will first come across a fixed distant signal. As the name describes, this signal is fixed on constantly at caution indicating you must be prepared to stop at the next home/starter signal displaying a danger aspect
+    Lorsque vous approcherez de Camodo depuis les îles Sawyer, vous rencontrerez d'abord un signal fixe distant. Comme le nom le décrit, ce signal est résolu en permanence à la mise en garde indiquant que vous devez être prêt à vous arrêter au prochain signal d'accueil ou de démarrage affichant un aspect de danger
   </div>
 
-### Communication
+### La communication
 
   <div class="flex-vcenter mb-1">
     <img src="/img/trainsrv/trainsrvcommbox.png" width="300px"/>
-    Should you need help you can contact signallers in chat or by radio. Each signal box is set up with its own radio telephone and you can find the frequency of your nearest signal box using map labels.
+    Si vous avez besoin d'aide, vous pouvez contacter les signalisateurs dans le chat ou par radio. Chaque boîte de signal est configurée avec son propre téléphone radio et vous pouvez trouver la fréquence de votre boîte de signal la plus proche en utilisant des étiquettes de carte.
   </div>
 
-## Signallers
+## Signaleurs
 
-coming soon...
+très bientôt...
 
-### Applying For Signallers
+### Application pour les Signaleurs
 
-coming soon...
+très bientôt...
