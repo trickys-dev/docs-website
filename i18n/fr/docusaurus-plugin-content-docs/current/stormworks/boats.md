@@ -5,8 +5,8 @@ description: Information de licence
 
 # Bateaux
 
-1. To use boats & amphibious vehicles on the water on servers 1, 2 & 3 you need a boat license.
-2. Minimum of 24 hours must have passed if you want to apply for a boat license from when you joined the website.
+1. Pour utiliser des bateaux & véhicules amphibiens sur l'eau sur des serveurs 1, 2 & 3, vous avez besoin d'un permis de bateau.
+2. Un minimum de 24 heures doit être passé si vous voulez demander un permis de bateau à partir de votre entrée sur le site Web.
 3. Your boat must not exceed `40 meters` in length -> `160 Blocks`, to reduce lag.
 4. You need a boat license to use an amphibious vehicle on water.
 5. Vous ne pouvez pas utiliser de véhicules de l'atelier (workshop) que vous n'avez pas fabriqués.
