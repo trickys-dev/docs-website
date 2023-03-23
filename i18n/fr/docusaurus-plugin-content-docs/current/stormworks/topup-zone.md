@@ -12,7 +12,7 @@ La zone de recharge peut recharger les éléments suivants :
 
 :::info Dans la Zone
 
-Once you are in the Top-Up Zone use one of the following commands to refill: ?refill or ?topup
+Info In The ZoneOnce you are in the Top-Up Zone use one of the following commands to refill: ?refill or ?topup
 
 :::
 
@@ -30,7 +30,7 @@ Les zones de recharge sont des cercles jaunes.
 
 ## Badge Du Steam Workshop
 
-Montrez que la création de votre atelier est compatible avec la zone de recharge automatique en ajoutant un badge à la description de votre atelier sur la vapeur. Just click on the "Copy Badge BBcode" button & paste into your description.
+Montrez que la création de votre atelier est compatible avec la zone de recharge automatique en ajoutant un badge à la description de votre atelier sur la vapeur. Cliquez simplement sur le bouton "Copier le code BBcode" & collez dans votre description.
 
 
 
