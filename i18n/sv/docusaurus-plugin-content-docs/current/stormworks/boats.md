@@ -3,7 +3,7 @@ sidebar_position: 0
 description: Boat License Information.
 ---
 
-# Boats
+# Båtar
 
 1. To use boats & amphibious vehicles on the water on servers 1, 2 & 3 you need a boat license.
 2. Minimum of 24 hours must have passed if you want to apply for a boat license from when you joined the website.
