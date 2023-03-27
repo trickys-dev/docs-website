@@ -30,7 +30,7 @@ Le chemin de fer est divisé en quatre sections contrôlées par quatre boîtes 
 Le chemin de fer est divisé en sections avec des limites de vitesse différentes. Ces limites sont indiquées par les panneaux qui traversent le chemin de fer en milles par heure (mil/h).
 
 Veuillez consulter les limites de vitesse générales suivantes sur le chemin de fer:
-- Yards = 10mph
+- Dépôt = 10mph
 - Tendance entre Spycakes et Donkk du Nord = 80mph
 - Restant de la ligne = 100mph
 
@@ -54,19 +54,19 @@ Tous les signaux sur ce chemin de fer sont des signaux de sémaphore du quadrant
   </div>
   <div class="flex-vcenter mb-1">
     <img src="/img/trainsrv/trainsrvgreensignal.png" width="300px"/>
-    Signal off = Clear<br/>
-    If you see this signal you are clear to continue to the next signal
+    Signal off = Effacer<br/>
+    Si vous voyez ce signal, vous êtes clair pour continuer vers le signal suivant
   </div>
-<b>Distant Signal</b><br/> You will encounter these distant signals before home/starter signals to give you a warning whether they are at danger or clear. You can think of these as yellow traffic lights on the road.
+<b>Signal Distant</b><br/> Vous rencontrerez ces signaux distants avant les signaux d'accueil / de départ pour vous avertir s'ils sont en danger ou dégager. Vous pouvez les considérer comme des feux de circulation jaunes sur la route.
   <div class="flex-vcenter mb-1">
     <img src="/img/trainsrv/trainsrvyellowsignal1.png" width="300px"/>
-    Signal On = Caution<br/>
-    You should prepare to stop as one of the following Home/Starter signals may be at danger
+    Signal On = Attention<br/>
+    Vous devriez vous préparer à vous arrêter car l'un des signaux suivants de la maison/du démarrage peut être en danger
   </div>
   <div class="flex-vcenter mb-1">
     <img src="/img/trainsrv/trainsrvyellowsignal2.png" width="300px"/>
-    Signal Off = Clear<br/>
-    You are clear to continue
+    Signal Off = Effacer<br/>
+    Vous êtes libre de continuer
   </div>
 <b>Signal Distant Fixe</b>
   <div class="flex-vcenter mb-1">
