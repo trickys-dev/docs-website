@@ -29,8 +29,8 @@ En bref, le bot peut faire ce qui suit ;
 <div class="flex-vcenter mb-1">
     <img src="/img/statusbot/swconfigchannel.png" width="300px" />
   <p class="m-0">
-  <span class="statusbot-title">Channel</span> - The channel which the status embed will be sent and updated<br/>
-  To set the channel: <span class="code-text">/config channel <code>channel:<span class="discord-text">#channel</span></code></span>
+  <span class="statusbot-title">Channel</span> - Le canal que le bot utilisera pour les logs.<br/>
+  Pour définir le canal : <span class="code-text">/config logchannel<code> <span class="discord-text">#channel</span>
   </p>
  </div>
 <div class="flex-vcenter mb-1">
@@ -50,9 +50,9 @@ En bref, le bot peut faire ce qui suit ;
 <div class="flex-vcenter mb-1">
     <img src="/img/statusbot/swconfigembed.png" width="300px" />
   <p class="m-0">
-  <span class="statusbot-title">Title</span> - The title of the embed.<br/>
-  <span class="statusbot-title">Color</span> - The color of the embed in hex.<br/>
-  To set the title or color: <span class="code-text">/config embed</span>
+  <span class="statusbot-title">Auto TimeOut</span> - Définit l'heure à laquelle un utilisateur sera expiré en jours.<br/>
+  <span class="statusbot-title">Activer</span> - Activer ou désactiver le délai d'expiration automatique.<br/>
+  Pour définir ceci: <span class="code-text">/config autotimeout Vrai / Faux jours</span>
   </p>
  </div>
 <div class="flex-vcenter mb-1">
@@ -85,12 +85,12 @@ Les types d'informations sont gérés par la commande <span class="code-text">/c
 | 4 | DLC | Montre Si armes ou DLC aride.              |
 | 5 | uptime | Affiche la durée de disponibilité du serveur.            |
 | 6 | système d'opération | Affiche le système d'exploitation des serveurs.        |
-| 7   | hasPassword     | Shows if the server is password protected. |
-| 8   | owner           | Shows the owner of the server.             |
-| 9   | serverLocation  | Shows the server location.                 |
-| 10  | responseTimeMs  | Shows the response time (Ms).              |
-| 11  | globalPlayers   | Shows the number of players on stormworks. |
-| 12  | logo            | Shows the server logo in the embed.        |
+| 7 | hasPassword | Affiche si le serveur est protégé par mot de passe. |
+| 8 | uptime | Affiche la durée de disponibilité du serveur.             |
+| 9 | serverLocation | Affiche l'emplacement du serveur.                 |
+| 10 | responseTimeMs | Affiche le temps de réponse (Ms).              |
+| 11 | GlobalPlayers | Affiche le nombre de joueurs dans stormworks. |
+| 12 | logo | Affiche le logo du serveur dans l'incorporation.        |
 
   </p>
   <span class="ml-1" >
@@ -98,7 +98,7 @@ Les types d'informations sont gérés par la commande <span class="code-text">/c
   </span>
  </div>
 
-## Server Out Of Date
+## Serveur obsolète
 
 <div class="flex-vcenter mb-1">
     <img src="/img/statusbot/swoutofdatemsg.png" width="300px" />
