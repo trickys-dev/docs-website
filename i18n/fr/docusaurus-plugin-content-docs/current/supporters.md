@@ -243,7 +243,7 @@ Notre Patreon sera utilisé pour financer
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
 </tr>
 <tr>
-    <th scope="row">Chunks Per Land (default: 30)</th>
+    <th scope="row">Blocs de terrain (par défaut: 30)</th>
     <td class="text-center"><i class="fa-fw text-success">35</i></td>
     <td class="text-center"><i class="fa-fw text-success">40</i></td>
     <td class="text-center"><i class="fa-fw text-success">45</i></td>
