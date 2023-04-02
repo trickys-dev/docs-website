@@ -110,13 +110,18 @@ const config = {
         //   editUrl:
         //     'https://github.com',
         // },
-        // blog: {
-        //   showReadingTime: true,
-        //   // Please change this to your repo.
-        //   // Remove this to remove the "edit this page" links.
-        //   editUrl:
-        //     'https://github.com',
-        // },
+        blog: {
+          path: 'blog',
+          routeBasePath: 'updates', //CHANGE HERE
+          include: ['*.md', '*.mdx'],
+          postsPerPage: 10,
+          showReadingTime: true,
+          blogSidebarCount: 'ALL',
+           // Please change this to your repo.
+           // Remove this to remove the "edit this page" links.
+          //editUrl:
+           // 'https://github.com',
+        },
         theme: {
           customCss: [require.resolve('./src/css/custom.css'),require.resolve('./src/css/fontawesome/css/all.min.css')],
         },
@@ -224,14 +229,13 @@ const config = {
         {name: 'theme-color', content: '#375a7f'},
         {property: 'og:site_name', content: 'docs.trickys.gg'},
       ],
-      announcementBar: {
-        id: 'beta',
-        content:
-          'New Docs for Trickys Server, if you have any suggestions or feedback please let us know',
-        backgroundColor: '#375a7f',
+      //  announcementBar: {
+      //   id: 'beta',
+      //   content: '',
+      //   backgroundColor: '#375a7f',
         textColor: '#fff',
-        isCloseable: false,
-      },
+      //   isCloseable: false,
+      // },
       colorMode: {
         defaultMode: 'dark',
         disableSwitch: false,

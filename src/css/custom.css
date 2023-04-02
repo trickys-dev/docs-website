@@ -112,3 +112,22 @@ html {
 .fa-coins {
   color: #FFD700;
 }
+
+.update-star {
+  color: #dbde45;
+}
+.update-add {
+  color: #32a852;
+}
+.update-removed {
+  color: #db0f42;
+}
+.update-updated {
+  color: #fcba03;
+}
+.update-moved {
+  color: #4287f5;
+}
+.update-bug {
+  color: #0f807e;
+}
