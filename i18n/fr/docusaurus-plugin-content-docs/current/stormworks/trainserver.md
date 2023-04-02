@@ -8,7 +8,7 @@ sidebar_position: 3
 
 # Serveur de train
 
-Ce serveur est destiné aux opérations ferroviaires de jeux de rôles. The section of railway from Spycakes to Camodo recreates absolute block signalling for roleplay between signalling and train drivers in a realistic railway setting.
+Ce serveur est destiné aux opérations ferroviaires de jeux de rôles. Le tronçon de chemin de fer de Spycakes à Camodo recrée des panneaux de signalisation pour le jeu de rôles entre les conducteurs de signalisation et de train dans un cadre ferroviaire réaliste.
 
 :::note Absolute Block Signalling Summary
 
@@ -16,10 +16,10 @@ Le chemin de fer est divisé en quatre sections contrôlées par quatre boîtes 
 
 :::
 
-:::caution Banned Components
+:::mise en garde des composants bannis
 
-- Jet trains
-- Nuclear reactors
+- Train à réacteur
+- Réacteur nucléaire
 
 :::
 
@@ -27,64 +27,64 @@ Le chemin de fer est divisé en quatre sections contrôlées par quatre boîtes 
 
 ### Limites de Vitesse
 
-The railway is divided up into sections with different speed limits. These limits are indicated by signs across the railway in miles per hour (mph).
+Le chemin de fer est divisé en sections avec des limites de vitesse différentes. Ces limites sont indiquées par les panneaux qui traversent le chemin de fer en milles par heure (mil/h).
 
-Please see the following general speed limits on the railway:
-- Yards = 10mph
-- Bend between Spycakes and North Donkk = 80mph
-- Rest of the line = 100mph
+Veuillez consulter les limites de vitesse générales suivantes sur le chemin de fer:
+- Dépôt = 10mph
+- Tendance entre Spycakes et Donkk du Nord = 80mph
+- Restant de la ligne = 100mph
 
-:::caution Overspeeding
+:::prudence excès de vitesse
 
-If you are caught going over 100mph you will be kicked, if you continue to break this rule you may be banned from the train server.
+Si vous êtes attrapé de plus de 100 mph, vous serez expulsé(e), si vous continuez à enfreindre cette règle, vous pourriez être banni du serveur ferroviaire.
 
 :::
 
-### Signals
-This system uses traditional upper quadrant semaphore signals, which means that insted of traffic light signals that you may be used to, these signals use moving arms with corresponding lights that inform the driver if they can continue or stop.
+### Signaux
+Ce système utilise des signaux traditionnels de sémaphore du quadrant supérieur, ce qui signifie que les signaux de feux de signalisation que vous pouvez utiliser, Ces signaux utilisent des bras mobiles avec des lumières correspondantes qui informent le conducteur s'ils peuvent continuer ou s'arrêter.
 
-All signals on this railway are upper quadrant semaphore signals, this means that a horizontal arm always means the signal is on displaying a danger or caution aspect. An arm that is pointing upwards indicates the signal is off, which means it's clear to proceed.
+Tous les signaux sur ce chemin de fer sont des signaux de sémaphore du quadrant supérieur, Cela signifie qu'un bras horizontal signifie toujours que le signal est en train d'afficher un danger ou un aspect de prudence. Un bras qui pointe vers le haut indique que le signal est éteint, ce qui signifie qu'il est clair de continuer.
 
-<b>Home/Starter Signal</b>
+<b>Signal d'accueil/démarrage</b>
 
 <div class="flex-vcenter mb-1">
     <img src="/img/trainsrv/trainsrvredsignal.png" width="300px"/>
     Signal on = Danger<br/>
-    You should stop if you see this signal
+    Vous devriez vous arrêter si vous voyez ce signal
   </div>
   <div class="flex-vcenter mb-1">
     <img src="/img/trainsrv/trainsrvgreensignal.png" width="300px"/>
-    Signal off = Clear<br/>
-    If you see this signal you are clear to continue to the next signal
+    Signal off = Effacer<br/>
+    Si vous voyez ce signal, vous êtes clair pour continuer vers le signal suivant
   </div>
-<b>Distant Signal</b><br/> You will encounter these distant signals before home/starter signals to give you a warning whether they are at danger or clear. You can think of these as yellow traffic lights on the road.
+<b>Signal Distant</b><br/> Vous rencontrerez ces signaux distants avant les signaux d'accueil / de départ pour vous avertir s'ils sont en danger ou dégager. Vous pouvez les considérer comme des feux de circulation jaunes sur la route.
   <div class="flex-vcenter mb-1">
     <img src="/img/trainsrv/trainsrvyellowsignal1.png" width="300px"/>
-    Signal On = Caution<br/>
-    You should prepare to stop as one of the following Home/Starter signals may be at danger
+    Signal On = Attention<br/>
+    Vous devriez vous préparer à vous arrêter car l'un des signaux suivants de la maison/du démarrage peut être en danger
   </div>
   <div class="flex-vcenter mb-1">
     <img src="/img/trainsrv/trainsrvyellowsignal2.png" width="300px"/>
-    Signal Off = Clear<br/>
-    You are clear to continue
+    Signal Off = Effacer<br/>
+    Vous êtes libre de continuer
   </div>
-<b>Fixed Distant Signal</b>
+<b>Signal Distant Fixe</b>
   <div class="flex-vcenter mb-1">
     <img src="/img/trainsrv/trainsrvyellowsignal3.png" width="300px"/>
-    When approaching Camodo from the Sawyer Islands you will first come across a fixed distant signal. As the name describes, this signal is fixed on constantly at caution indicating you must be prepared to stop at the next home/starter signal displaying a danger aspect
+    Lorsque vous approcherez de Camodo depuis les îles Sawyer, vous rencontrerez d'abord un signal fixe distant. Comme le nom le décrit, ce signal est résolu en permanence à la mise en garde indiquant que vous devez être prêt à vous arrêter au prochain signal d'accueil ou de démarrage affichant un aspect de danger
   </div>
 
-### Communication
+### La communication
 
   <div class="flex-vcenter mb-1">
     <img src="/img/trainsrv/trainsrvcommbox.png" width="300px"/>
-    Should you need help you can contact signallers in chat or by radio. Each signal box is set up with its own radio telephone and you can find the frequency of your nearest signal box using map labels.
+    Si vous avez besoin d'aide, vous pouvez contacter les signalisateurs dans le chat ou par radio. Chaque boîte de signal est configurée avec son propre téléphone radio et vous pouvez trouver la fréquence de votre boîte de signal la plus proche en utilisant des étiquettes de carte.
   </div>
 
-## Signallers
+## Signaleurs
 
-coming soon...
+très bientôt...
 
-### Applying For Signallers
+### Application pour les Signaleurs
 
-coming soon...
+très bientôt...

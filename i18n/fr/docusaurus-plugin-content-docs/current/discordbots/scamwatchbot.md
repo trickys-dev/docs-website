@@ -144,7 +144,7 @@ Ces commandes par défaut ne seront accessibles que par les utilisateurs ayant l
 <div class="flex-vcenter mb-1">
     <img src="/img/scamwatchbot/botlinkdetected.png" width="300px" />
   <p class="m-0">
-  <span class="statusbot-title">Côté utilisateur</span> - Ceci affichera dans le canal où un lien d'arnaque est affiché. (the embed will remove after 30 seconds).
+  <span class="statusbot-title">Côté utilisateur</span> - Ceci affichera dans le canal où un lien d'arnaque est affiché. (l'embed se retirera dans 30 secondes).
   </p>
  </div>
    <div class="flex-vcenter mb-1">
@@ -176,7 +176,7 @@ Voici les permissions du bot:
 - Envoyer les messages - Nécessaire pour Envoyer les messages dans le serveur.
 - Expulser les membres - Nécessaire d'expulser les membres lorsque vous cliquez sur un bouton (Lire la configuration du bot).
 - Expulser les membres - Nécessaire d'expulser les membres lorsque vous cliquez sur un bouton (Lire la configuration du bot).
-- Moderate Members - Needed to send messages in server.
+- Membres modérés - Nécessaire pour envoyer des messages sur le serveur.
 - Gérer les messages - Nécessaire pour envoyer & supprimer son propre message dans le canal spécifié.
 - Gérer les canaux - Nécessaire pour créer un nouveau canal pour les journaux (uniquement à l'installation).
 - Lire les messages - Nécessaire pour lire les messages dans le serveur.
