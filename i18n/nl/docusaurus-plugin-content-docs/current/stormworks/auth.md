@@ -9,6 +9,26 @@ AKA: AutoAuth (Automatic Authorization)
 
 De "AutoAuth", of het automatisch autorisatiesysteem machtigt u op al onze servers zonder dat een beheerder of staf op hetzelfde moment als u in de server hoeft te zijn.
 
+## Getting Auth?
+
+To get auth which will allow you to use the workbenches on all of our servers you just need to do the following;
+
+:::note New User
+
+You won't be able to login with Discord if you have never logged-in with steam before
+
+:::
+
+1. Go to https://trickys.gg/login
+2. [Sign-in/Register](https://trickys.gg/login) with <i class="fa-brands fa-steam"></i> Steam.
+3. You then will be asked to linked your <i class="fa-brands fa-discord"></i> Discord account.
+4. Thats it!
+
+:::note Verified
+
+Once you have linked your <i class="fa-brands fa-discord"></i> Discord & <i class="fa-brands fa-steam"></i> Steam account you will become [Verified](./), read more [here](./).
+
+:::
 
 ## Hoe werkt AutoAuth?
 
@@ -25,7 +45,7 @@ Wanneer je de server joined, zal het systeem de volgende dingen aanvragen van on
 
 Je hebt een vaartuiglicentie nodig voor het AutoAuth System om je toestemming te geven om boten te spawnen.
 
-Heeft u al een licentie? Controleer of het geldig is.
+Heeft u al een licentie? Check if its [valid](https://trickys.gg/account).
 
 ## Heb ik Auth?
 
