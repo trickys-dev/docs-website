@@ -69,7 +69,7 @@ Hvis du valgte "None" i trinn 2, kan du hoppe over trinn 2.1
   </p>
  </div>
 
-:::tip Required
+:::tip Obligatorisk
 
 Venligst pass på at botten har en rolle som er høyere enn server medlemmene!
 
@@ -77,7 +77,7 @@ Venligst pass på at botten har en rolle som er høyere enn server medlemmene!
 
 ## Konfigurering av botten
 
-:::caution Default Permissions
+:::caution Standard Tillatelser
 
 Disse kommandoene vil som standard bare være tilgjengelig for brukere med administratorrettigheter.
 
@@ -93,24 +93,20 @@ Disse kommandoene vil som standard bare være tilgjengelig for brukere med admin
  <div class="flex-vcenter mb-1">
     <img src="/img/scamwatchbot/configstaffrole.png" width="300px" />
   <p class="m-0">
-  <span class="statusbot-title">Staff Role</span> - Set the staff role that you want to be pinged if the detects a scam link.<br/>
-  To set the role: <span class="code-text">/config staffrole</span> <span class="discord-text">@role</span>
+  <span class="statusbot-title">Stab Rolle</span><br/> For å sette rollen: <span class="code-text">/config staffrole</span> <span class="discord-text">@rolle</span>
 
   </p>
  </div>
  <div class="flex-vcenter mb-1">
     <img src="/img/scamwatchbot/configpingstaff.png" width="300px" />
   <p class="m-0">
-  <span class="statusbot-title">Ping Staff</span> - Enable or Disable staff pinging.<br/>
-  To set the role: <span class="code-text">/config pingstaff True/False</span>
+  <span class="statusbot-title">Nevn Stab</span> - Aktiver eller Deaktiver stab omtaler.<br/> For å sette rollen: <span class="code-text">/config pingstaff True/False</span>
   </p>
  </div>
  <div class="flex-vcenter mb-1">
     <img src="/img/scamwatchbot/configautotimeout.png" width="300px" />
   <p class="m-0">
-  <span class="statusbot-title">Auto TimeOut</span> - Set the time a user will be timed out for in days.<br/>
-  <span class="statusbot-title">Toggle</span> - Enable or Disable Auto Timeout.<br/>
-  To set this: <span class="code-text">/config autotimeout True/False days</span>
+  <span class="statusbot-title">Automatisk timeout</span> - Sett tiden en bruker vil bli satt i skammekroken for. Skrives i antall dager.<br/> <span class="statusbot-title">Bryter</span> - Skru av eller på automatisk timeout.<br/> For å sette dette: <span class="code-text">/config autotimeout True/False DAGER</span>
   </p>
  </div>
   <div class="flex-vcenter mb-1">

@@ -4,113 +4,113 @@ sidebar_position: 1
 
 # Factions
 
-## Create A Faction
+## Créer une Faction
 
-We are still working on creating an application that automatically creates your faction, until then you can create a ticket on discord.
+Nous sommes toujours en train de créer une application qui crée automatiquement votre faction, jusqu'à ce que vous puissiez créer un ticket sur discord.
 
-:::note Current Factions
+:::note Factions actuelles
 
-You can view all the current factions by [Clicking Here](https://trickys.gg/factions)
+Vous pouvez voir toutes les factions actuelles en [cliquant ici](https://trickys.gg/factions)
 
 :::
 
-## Faction Profiles
+## Profils de faction
 
-- Avatar image.
-- Cover image.
+- Image d'avatar.
+- Image de présentation.
 - Bio/description.
-- Faction avatar outline colour.
+- Couleur du contour extérieur de l'avatar.
 
-### Faction Avatar
+### Avatar de la faction
 
   <div class="flex-vcenter mb-1">
     <img src="/img/customprofiles/factions/factionavatar.png"/>
     <p>
-    Upload a avatar for your faction.
-    The avatar image will also show in a Discord embed when you post your faction URL, example below.
+    Téléchargez un avatar pour votre faction.
+    La couleur sélectionnée apparaîtra également dans une intégration de Discord lorsque vous publierez votre URL de profil, exemple ci-dessous.
     </p>
  </div>
 
-### Faction Cover Image
+### Image d'arrière plan de la faction
 
   <div class="flex-vcenter mb-1">
     <img src="/img/customprofiles/factions/factioncover.png"/>
     <p>
-    Upload a cover for your faction.
-    The selected cover will show on the faction website profile page, example below.
+    Téléchargez un avatar pour votre faction.
+    La couverture sélectionnée sera affichée sur la page de profil du site web de la faction, exemple ci-dessous.
     </p>
  </div>
 
-### Faction Bio
+### Bio de faction
 
   <div class="flex-vcenter mb-1">
     <img src="/img/customprofiles/factions/factionbio.png"/>
     <p>
-    Write a bio for your faction, this will be seen on the faction website profile page.
+    Écrivez une biographie pour votre faction, celle-ci sera visible sur la page de profil du site de la faction.
     </p>
  </div>
 
-You are able to use BBCode in your factions bio, heres whats allowed:
+Vous pouvez utiliser le BBCode dans votre bio de factions, ici ce qui est autorisé :
 
-- [b] - <code>[b]Hello World[/b]</code> - <b>Bold</b>
-- [i] - <code>[i]Hello World[/i]</code> - <i>Italic</i>
-- [s] - <code>[s]Hello World[/s]</code> - <s>Struck Through</s>
-- [u] - <code>[u]Hello World[/u]</code> - <u>Underlined</u>
+- [b] - <code>[b]Bonjour le monde[/b]</code> - <b>Gras</b>
+- [i] - <code>[i]Bonjour le monde[/i]</code> - <i>Italique</i>
+- [s] - <code>[s]Bonjour le monde[/s]</code> - <s>Italique</s>
+- [u] - <code>[u]Bonjour le monde[/u]</code> - <u>Gras</u>
 
-### Faction Avatar Colour
+### Couleur de l'avatar de la faction
 
 <div class="flex-vcenter mb-1">
     <img src="/img/customprofiles/factions/factionavatarcolour.png"/>
     <p>
-    You can choose the outline colour that is around your faction avatar.
-    The selected colour will also show in a Discord embed when you post your profile URL, example below.
+    Vous pouvez choisir la couleur du contour qui est autour de votre avatar.
+    La couleur sélectionnée apparaîtra également dans une intégration de Discord lorsque vous publierez votre URL de profil, exemple ci-dessous.
     </p>
  </div>
 
-## Role Management
+## Gestion des rôles
 
-To manage roles head to the `Roles` tab on a faction your own.
+Pour gérer les rôles, allez à l'onglet `Rôles` sur une faction qui vous appartient.
 
 <img src="/img/hrp/factions/factionrolestab.png" />
 
-  One you click on roles you will be able to do the following:
-- Create a new role
-- Reorder the roles
-- Edit the role permissions
-- Rename roles
-- Delete roles
+  En cliquant sur les rôles que vous pourrez faire ce qui suit:
+- Créer un nouveau rôle
+- Réorganiser les rôles
+- Modifie des permissions de rôles
+- Renommer les rôles
+- Supprimer les rôles
 
 <img src="/img/hrp/factions/factionsroleviewpage.png" />
 
 :::tip
 
-Regardless of permissions roles cannot edit their own role or roles above them.
+Indépendamment des rôles de permissions ne peuvent pas modifier leur propre rôle ou leur propre rôle au-dessus d'eux.
 
 :::
 
 :::note
 
-The owner role of each faction cannot edit their own role order or permissions.
+Le rôle de propriétaire de chaque faction ne peut pas modifier son propre ordre de rôle ou ses propres permissions.
 
 :::
 
-## Example
+## Exemples
 
-Below we have an example of what the outcome would look like if you customize everything.
+Ci-dessous nous avons une aperçue de ce à quoi ressemblerait le résultat si vous avez tout personnalisé.
 
-### Custom Faction Example
+### Exemple de faction personnalisée
 
 <div class="flex-vcenter mb-1">
     <img src="/img/customprofiles/factions/factionexamplediscord.png"/>
    <p>
-    <b>Sharing Faction Link</b><br/>
-    Sharing a link on discord will show a embed of your faction including the custom colour & the avatar that you set.
+    <b>Lien de profil de partage</b><br/>
+    Partage un lien sur discord montrera un intégration de votre profil, y compris la couleur personnalisée et l'avatar que vous avez défini.
     </p>
 </div>
    <div class="flex-vcenter mb-1">
     <img src="/img/customprofiles/factions/factionexampleavatar.png"/>
    <p>
-     <b>Avatar Outline Colour</b><br/>
-    Viewing profile with selected colour on website.
+     <b>Couleur du contour de l'avatar</b><br/>
+    Visualisation du profil avec la couleur sélectionnée sur le site Web.
     </p>
 </div>

@@ -2,9 +2,9 @@
 sidebar_position: 0
 ---
 
-# Cargo & Oil
+# Last & Olje
 
-## Definitions
+## Definisjoner
 
 <!-- css for flex -->
   <div class="flex-vcenter">
