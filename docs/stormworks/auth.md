@@ -2,8 +2,8 @@
 sidebar_position: 4
 ---
 
-# AutoAuth
-AutoAuth (Automatic Authorization)
+# Authorization
+AKA: AutoAuth (Automatic Authorization)
 
 ## What is AutoAuth?
 
