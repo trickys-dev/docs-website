@@ -9,6 +9,26 @@ AKA: AutoAuth (Automatic Authorization)
 
 "AutoAuth" lub Automatyczna Autoryzacja to system, który autoryzuje cię na wszystkich naszych serwerach bez konieczności obecności adminów lub personelu na serwerze w tym samym czasie co ty.
 
+## Getting Auth?
+
+To get auth which will allow you to use the workbenches on all of our servers you just need to do the following;
+
+:::note New User
+
+You won't be able to login with Discord if you have never logged-in with steam before
+
+:::
+
+1. Go to https://trickys.gg/login
+2. [Sign-in/Register](https://trickys.gg/login) with <i class="fa-brands fa-steam"></i> Steam.
+3. You then will be asked to linked your <i class="fa-brands fa-discord"></i> Discord account.
+4. Thats it!
+
+:::note Verified
+
+Once you have linked your <i class="fa-brands fa-discord"></i> Discord & <i class="fa-brands fa-steam"></i> Steam account you will become [Verified](./), read more [here](./).
+
+:::
 
 ## Jak działa AutoAuth?
 
@@ -25,7 +45,7 @@ Po dołączeniu do serwera system będzie sprawdzał następujące rzeczy z nasz
 
 Potrzebujesz licencji na łodzie dla systemu AutoAuth, aby autoryzować tworzenie łodzi.
 
-Masz już licencję? Sprawdź, czy jest poprawna.
+Masz już licencję? Check if its [valid](https://trickys.gg/account).
 
 ## Czy mam Autoryzacje?
 
