@@ -8,11 +8,26 @@ sidebar_position: 1
 
 Nous sommes toujours en train de créer une application qui crée automatiquement votre faction, jusqu'à ce que vous puissiez créer un ticket sur discord.
 
+Information you need to provide to create a faction:
+1. Type of faction:
+    - Small - `max roles: 5, max users: 10, cost to create: 200`
+    - Medium - `max roles: 10, max users: 25, cost to create: 400`
+    - Large - `max roles: 15, max users: 50, cost to create: 1000`
+    - Enterprise - `max roles: 15, max users: 100, cost to create: 2500`
+2. Name of your faction.
+3. Faction description.
+4. Faction abbreviation, has to be at least 2 or more characters (example: Government is GOV).
+5. Roles names `You cannot have roles named: admin, staff, coastguard`.
+6. Provide discord (this is not requried) You dont have to have a discord to create a faction.
+
 :::note Factions actuelles
 
 Vous pouvez voir toutes les factions actuelles en [cliquant ici](https://trickys.gg/factions)
 
 :::
+
+
+
 
 ## Profils de faction
 
