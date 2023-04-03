@@ -2,18 +2,18 @@
 sidebar_position: 1
 ---
 
-# Factions
+# Faktioner
 
-## Create A Faction
+## Skapa en Faktion
 
-We are still working on creating an application that automatically creates your faction, until then you can create a ticket on discord.
+Vi fortfarande arbetar på en automatisk ansökan som skapar din faktion, tills dess behöver man göra en ticket på vår discord.
 
-Information you need to provide to create a faction:
-1. Type of faction:
-    - Small - `max roles: 5, max users: 10, cost to create: 200`
-    - Medium - `max roles: 10, max users: 25, cost to create: 400`
-    - Large - `max roles: 15, max users: 50, cost to create: 1000`
-    - Enterprise - `max roles: 15, max users: 100, cost to create: 2500`
+Information som du behöver att ge för att skapa en faktion:
+1. Typ av faktion:
+    - Små - `max roller: 5, max användare: 10, kostar: 200`
+    - Medium - `max roller: 10, max användare: 25, kostar: 400`
+    - Stor - `max roller: 15, max användare: 50, kostar: 1000`
+    - Enterprise - `max roller: 15, max användare: 100, kostar: 2500`
 2. Name of your faction.
 3. Faction description.
 4. Faction abbreviation, has to be at least 2 or more characters (example: Government is GOV).
