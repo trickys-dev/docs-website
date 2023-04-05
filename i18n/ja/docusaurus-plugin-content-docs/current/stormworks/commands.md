@@ -55,7 +55,7 @@ description: Stormworks In-Game Commands.
 | ?v {vid} tp                                                           | Teleport to a seat in the vehicle            | ?v 1 tp               |
 | ?v {vid} kick {id}                                                    | Kick a user from a vehicle                   | ?v 1 kick 1           |
 | ?v {vid} kickall                                                      | Kick all users from vehicle                  | ?v 1 kickall          |
-| ?v {vid} repair                                                       | Repair a vehicle (<a href="/docs/supporters#what-perks-are-there">Silver+</a>) | ?v 1 repair           |
+| ?v {vid} repair                                                       | Repair a vehicle (<a href="/supporters#what-perks-are-there">Silver+</a>) | ?v 1 repair           |
 | Access control command. Change who can interaction with your vehicles |                                              |                       |
 | ?v accessmode (all/whitelist/blacklist/none)                          | Change who can interaction with your vehicle | ?v accessmode all     |
 | ?v whitelist/blacklist add {id}                                       | Add someone to your whitelist/blacklist      | ?v whitelist add 1    |
