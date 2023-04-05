@@ -176,7 +176,7 @@ Faites la commande <a class="code-text">/getveteran</a> dans [Discord](discord:/
 
 Ces rôles supporter sont entièrement automatiques.
 
-Vous cherchez à devenir un supporter ? [Cliquez ici](/docs/supporters)
+Vous cherchez à devenir un supporter ? [Click Here](/supporters)
 
 <table class="table nowrap table-dark table-sm">
 <thead>
