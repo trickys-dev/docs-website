@@ -32,7 +32,7 @@ You cannot use flashing blue or red lights as these are used by staff.
 
 1. Make sure your boat meets the requirments.
 2. Head over to [applications](https://trickys.gg/applications/new) and select Boat License.
-3. You cannot apply for your 1st ever license with a sea-plane, you need to apply with a boat. Once you have a [Boat ID](/docs/stormworks/boats#boat-license-placement) you can place that onto your sea-plane.
+3. You cannot apply for your 1st ever license with a sea-plane, you need to apply with a boat. Once you have a [Boat ID](boats.md#boat-license-placement) you can place that onto your sea-plane.
 
 :::tip Tip
 
