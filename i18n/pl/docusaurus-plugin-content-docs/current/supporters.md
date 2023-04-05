@@ -76,7 +76,7 @@ Nasz Patreon będzie używany do płacenia za
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
 </tr>
 <tr>
-    <th scope="row">Dostęp do <a href="/docs/category/api">API</a></th>
+    <th scope="row">Full <a href="/category/api">API</a> Access</th>
     <td></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
@@ -143,7 +143,7 @@ Nasz Patreon będzie używany do płacenia za
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
 </tr>
 <tr>
-    <th scope="row"><a href="/docs/stormworks/boats#custom-license-id">Niestandardowy identyfikator łodzi</a></th>
+    <th scope="row"><a href="/stormworks/boats#custom-license-id">Niestandardowy identyfikator łodzi</a></th>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
@@ -160,7 +160,7 @@ Nasz Patreon będzie używany do płacenia za
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
 </tr>
 <tr>
-    <th scope="row">Polecenie naprawy pojazdu <a href="/docs/stormworks/commands#vehicle-manager-commands"></a></th>
+    <th scope="row">Vehicle repair <a href="/stormworks/commands#vehicle-manager-commands">command</a></th>
     <td></td>
     <td></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
@@ -176,7 +176,7 @@ Nasz Patreon będzie używany do płacenia za
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
 </tr>
 <tr>
-    <th scope="row"><a href="/docs/stormworks/commands">Limit Domów</a></th>
+    <th scope="row"><a href="/stormworks/commands">Home</a> limit</th>
     <td class="text-center"><i class="fa-fw text-success">2</i></td>
     <td class="text-center"><i class="fa-fw text-success">3</i></td>
     <td class="text-center"><i class="fa-fw text-success">4</i></td>
@@ -184,7 +184,7 @@ Nasz Patreon będzie używany do płacenia za
     <td class="text-center"><i class="fa-fw text-success">10</i></td>
 </tr>
 <tr>
-    <th scope="row">Limit <a href="/docs/stormworks/commands">pojazdów</a> (HRP3: 3)</th>
+    <th scope="row"><a href="/stormworks/commands">Vehicle</a> limit (HRP3: 3)</th>
     <td class="text-center"><i class="fa-fw text-success">2</i></td>
     <td class="text-center"><i class="fa-fw text-success">3</i></td>
     <td class="text-center"><i class="fa-fw text-success">3</i></td>
