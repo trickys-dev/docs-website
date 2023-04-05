@@ -55,7 +55,7 @@ description: Polecenia Stormworks w grze.
 | ?v {vid} tp                                                                         | Teleportacja do siedzenia w pojeździe                 | ?v 1 tp               |
 | ?v {vid} kick {id}                                                                  | Wyrzuć użytkownika z pojazdu                          | ?v 1 kick 1           |
 | ?v {vid} kickall                                                                    | Wyrzuć wszystkich użytkowników z pojazdu              | ?v 1 kickall          |
-| ?v {vid} repair                                                                     | Napraw pojazd (<a href="/docs/supporters#what-perks-are-there">Silver+</a>)             | ?v 1 repair           |
+| ?v {vid} repair                                                                     | Repair a vehicle (<a href="/supporters#what-perks-are-there">Silver+</a>)          | ?v 1 repair           |
 | Polecenie kontroli dostępu. Zmień kto może wchodzić w interakcje z twoimi pojazdami |                                                       |                       |
 | ?v accessmode (all/whitelist/blacklist/none)                                        | Zmień kto może wchodzić w interakcje z twoim pojazdem | ?v accessmode all     |
 | ?v whitelist/blacklist add {id}                                                     | Dodaj kogoś do białej/czarnej listy                   | ?v whitelist add 1    |
