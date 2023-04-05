@@ -22,7 +22,7 @@ En bref, le bot peut faire ce qui suit ;
 1. Pour commencer, <a href="https://discord.com/oauth2/authorize?client_id=807750726205702176&scope=bot&permissions=388160">invitez</a> le bot sur votre serveur.
 2. Créez un canal <code class="discord-text">#server-status</code> ou tout autre canal que vous voulez appeler le canal, c'est là que le bot placera l'embed pour afficher le statut du serveur.
 3. Utilisez la commande <span class="code-text">/config servers</span> pour définir les serveurs que vous souhaitez afficher.
-4. Une fois que vous avez créé le canal, demander au bot d'utiliser le canal pour afficher le statut en utilisant :<br/><span class="code-text">/config channel <code>channel :&lt;span class="discord-text">#server-status&lt;/span></code></span>
+4. Une fois que vous avez créé le canal, demander au bot d'utiliser le canal pour afficher le statut en utilisant :<br/><span class="code-text">/config channel <code>channel :<span class="discord-text">#server-status</span></code></span>
 
 ## Configuration du Bot
 
@@ -30,7 +30,7 @@ En bref, le bot peut faire ce qui suit ;
     <img src="/img/statusbot/swconfigchannel.png" width="300px" />
   <p class="m-0">
   <span class="statusbot-title">Channel</span> - Le canal que le bot utilisera pour les logs.<br/>
-  Pour définir le canal : <span class="code-text">/config logchannel<code> <span class="discord-text">#channel</span>
+  Pour définir le canal : <span class="code-text">/config logchannel</span> <span class="discord-text">#channel</span>
   </p>
  </div>
 <div class="flex-vcenter mb-1">

@@ -55,7 +55,7 @@ description: Stormworks In-Game Commando's.
 | ?v {vid} tp                                                                         | Teleporteer naar een zitplaats in het voertuig       | ?v 1 tp               |
 | ?v {vid} kick {id}                                                                  | Een gebruiker uit een voertuig verwijderen           | ?v 1 kick 1           |
 | ?v {vid} kickall                                                                    | Alle gebruikers verwijderen uit het voertuig         | ?v 1 kickall          |
-| ?v {vid} repair                                                                     | Repareer een voertuig (<a href="/docs/supporters#what-perks-are-there">Silver+</a>)    | ?v 1 repair           |
+| ?v {vid} repair                                                                     | Repareer een voertuig (<a href="/supporters#what-perks-are-there">Silver+</a>)    | ?v 1 repair           |
 | Toegang tot controle commando. Verander wie interactie kan hebben met uw voertuigen |                                                      |                       |
 | ?v accessmode (all/whitelist/blacklist/none)                                        | Verander wie interactie kan hebben met uw voertuigen | ?v accessmode all     |
 | ?v whitelist/blacklist add {id}                                                     | Voeg iemand toe aan je whitelist/blacklist           | ?v whitelist add 1    |

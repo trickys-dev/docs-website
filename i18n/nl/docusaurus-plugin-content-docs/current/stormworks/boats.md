@@ -21,7 +21,7 @@ description: Boot licentie informatie
 
 Je hoeft alleen nav-lampjes aan te laten gedurende de nacht en/of lage zichtbaarheid.
 
-:::  
+:::
 :::caution
 
 Je kunt geen knipperende blauwe of rode lichten gebruiken, aangezien deze door de Admins worden gebruikt.
@@ -32,7 +32,7 @@ Je kunt geen knipperende blauwe of rode lichten gebruiken, aangezien deze door d
 
 1. Zorg ervoor dat je boot voldoet aan de vereisten.
 2. Ga naar [applicaties](https://trickys.gg/applications/new) en selecteer Boat license.
-3. Je kunt je eerste licentie niet aanvragen met een watervliegtuig, je moet een boot aanmelden. Zodra je een [Boot ID](/docs/stormworks/boats#boat-license-placement) hebt, kun je dat op je watervliegtuig plaatsen.
+3. Je kunt je eerste licentie niet aanvragen met een watervliegtuig, je moet een boot aanmelden. Zodra je een [Boot ID](/stormworks/boats#boat-license-placement) hebt, kun je dat op je watervliegtuig plaatsen.
 
 :::tip Tip
 

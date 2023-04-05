@@ -176,7 +176,7 @@ Do the <a class="code-text">/getveteran</a> command in [Discord](discord://disco
 
 These supporter roles are fully automatically.
 
-Looking to become a supporter? [Click Here](/docs/supporters)
+Looking to become a supporter? [Click Here](/supporters)
 
 <table class="table nowrap table-dark table-sm">
 <thead>

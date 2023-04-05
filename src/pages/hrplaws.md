@@ -243,4 +243,4 @@ To be decided!
 
 ### Horizon Docs
 
-[View Docs](./docs/category/hrp)
+[View Docs](/category/hrp)

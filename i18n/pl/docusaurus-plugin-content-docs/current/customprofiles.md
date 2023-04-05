@@ -8,7 +8,7 @@ Dostosuj profile osobiste i frakcji
 
 :::note Profile Frakcji
 
-[Kliknij Tutaj](/docs/stormworks/HRP/factions#faction-profiles) jeżeli szukasz [Profili Frakcji](/docs/stormworks/HRP/factions#faction-profiles)
+[Kliknij Tutaj](/stormworks/HRP/factions#faction-profiles) jeżeli szukasz [Profili Frakcji](/stormworks/HRP/factions#faction-profiles)
 
 :::
 

@@ -176,7 +176,7 @@ Führen Sie den <a class="code-text">/getveteran</a> Befehl in [Discord](discord
 
 Diese Unterstützerrollen sind vollautomatisch.
 
-Möchten Sie ein Unterstützer werden? [Hier klicken](/docs/supporters)
+Möchten Sie ein Unterstützer werden? [Hier klicken](/supporters)
 
 <table class="table nowrap table-dark table-sm">
 <thead>

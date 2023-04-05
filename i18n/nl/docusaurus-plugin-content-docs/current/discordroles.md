@@ -176,7 +176,7 @@ Doe de <a class="code-text">/getveteran</a> opdracht in [Discord](discord://disc
 
 Deze supporter rollen zijn volledig automatisch.
 
-Wil je een supporter worden? [Klik hier](/docs/supporters)
+Wil je een supporter worden? [Klik hier](/supporters)
 
 <table class="table nowrap table-dark table-sm">
 <thead>

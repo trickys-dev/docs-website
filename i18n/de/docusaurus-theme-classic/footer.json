@@ -13,11 +13,11 @@
   },
   "link.item.label.Stormworks": {
     "message": "Stormworks",
-    "description": "The label of footer link with label=Stormworks linking to /docs/category/stormworks"
+    "description": "The label of footer link with label=Stormworks linking to /category/stormworks"
   },
   "link.item.label.API": {
     "message": "API",
-    "description": "The label of footer link with label=API linking to /docs/category/API"
+    "description": "The label of footer link with label=API linking to /category/API"
   },
   "link.item.label.Discord": {
     "message": "Discord",

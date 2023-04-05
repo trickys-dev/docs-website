@@ -21,7 +21,7 @@ description: Informacje o licencji łodzi.
 
 Musisz tylko włączyć światła nawigacyjne podczas nocy i/lub przy niskiej widoczności.
 
-:::  
+:::
 :::caution
 
 Nie możesz używać migających niebieskich lub czerwonych świateł, ponieważ są one używane przez personel.
@@ -32,7 +32,7 @@ Nie możesz używać migających niebieskich lub czerwonych świateł, ponieważ
 
 1. Upewnij się, że łódź spełnia wymagania.
 2. Przejdź do [zgłoszeń](https://trickys.gg/applications/new) i wybierz Licencję Łodzi.
-3. Twoja pierwsza licencja nie może być samolotem pływającym, musisz najpierw złożyć wniosek łodzią. Gdy masz [ID łodzi](/docs/stormworks/boats#boat-license-placement) możesz umieścić to na swoim samolocie pływającym.
+3. Twoja pierwsza licencja nie może być samolotem pływającym, musisz najpierw złożyć wniosek łodzią. Gdy masz [ID łodzi](/stormworks/boats#boat-license-placement) możesz umieścić to na swoim samolocie pływającym.
 
 :::tip Wskazówka
 

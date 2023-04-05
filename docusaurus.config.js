@@ -8,7 +8,7 @@ const darkCodeTheme = require('./src/themes/trickytheme');
 const config = {
 
   title: 'Trickys Docs',
-  tagline: 'Docs For Everyone',
+  tagline: 'Docs For Gamers',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -65,7 +65,7 @@ const config = {
         label: 'Japanese (日本)',
         direction: 'ltr',
         htmlLang: 'ja',
-        calendar: 'gregorian',
+        calendar: 'gregory',
         path: 'ja',
       },
       no: {
@@ -103,20 +103,33 @@ const config = {
       'classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
-        // docs: {
+        docs: {
         //   sidebarPath: require.resolve('./sidebars.js'),
         //   // Please change this to your repo.
         //   // Remove this to remove the "edit this page" links.
         //   editUrl:
         //     'https://github.com',
-        // },
+        routeBasePath: '/',
+        },
+
         blog: {
           path: 'blog',
+          blogTitle: 'asdasd',
+          blogDescription: 'Updates',
           routeBasePath: 'updates', //CHANGE HERE
-          include: ['*.md', '*.mdx'],
-          postsPerPage: 10,
+          include: [`**/*.{md,mdx}`],
           showReadingTime: true,
+          postsPerPage: 5,
+          blogSidebarTitle: 'All Updates',
           blogSidebarCount: 'ALL',
+          blogListComponent: '@theme/BlogListPage',
+          blogPostComponent: '@theme/BlogPostPage',
+          blogTagsListComponent: '@theme/BlogTagsListPage',
+          blogTagsPostsComponent: '@theme/BlogTagsPostsPage',
+          authorsMapPath: 'authors.yml',
+          feedOptions: {
+            type: 'all',
+          },
            // Please change this to your repo.
            // Remove this to remove the "edit this page" links.
           //editUrl:
@@ -154,6 +167,11 @@ const config = {
             position: 'left',
           },
           {
+            href: '/updates',
+            label: 'Updates',
+            position: 'left',
+          },
+          {
             type: 'localeDropdown',
             position: 'right',
             dropdownItemsAfter: [
@@ -182,11 +200,11 @@ const config = {
             items: [
               {
                 label: 'Stormworks',
-                to: '/docs/category/stormworks',
+                to: '/category/stormworks',
               },
               {
                 label: 'API',
-                to: '/docs/category/API',
+                to: '/category/API',
               },
             ],
           },

@@ -176,7 +176,7 @@ Gjør <a class="code-text">/getveteran</a> Komandoen i [ Discord](discord://disc
 
 Dette er Supporter rollene.
 
-Vil du bli en Supporter? [Trykk her](/docs/supporters)
+Vil du bli en Supporter? [Trykk her](/supporters)
 
 <table class="table nowrap table-dark table-sm">
 <thead>

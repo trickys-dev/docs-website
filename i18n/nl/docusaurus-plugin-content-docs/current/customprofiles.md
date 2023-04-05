@@ -8,7 +8,7 @@ Persoonlijke & factieprofielen aanpassen
 
 :::note Factie Profielen
 
-[Klik hier](/docs/stormworks/HRP/factions#faction-profiles) als u op zoek bent naar [Factie Profielen](/docs/stormworks/HRP/factions#faction-profiles)
+[Klik hier](/stormworks/HRP/factions#faction-profiles) als u op zoek bent naar [Factie Profielen](/stormworks/HRP/factions#faction-profiles)
 
 :::
 
