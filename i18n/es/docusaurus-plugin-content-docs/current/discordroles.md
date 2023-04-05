@@ -176,7 +176,7 @@ Ejecuta el comando <a class="code-text">/getveteran</a> en [Discord](discord://d
 
 Los roles de mecenas están completamente automatizados.
 
-¿Te gustaría convertirte en un mecena? Haga click aquí
+¿Te gustaría convertirte en un mecena? [Click Here](/supporters)
 
 <table class="table nowrap table-dark table-sm">
 <thead>
