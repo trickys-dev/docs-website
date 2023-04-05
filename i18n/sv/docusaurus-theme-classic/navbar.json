@@ -7,10 +7,6 @@
     "message": "Docs",
     "description": "Navbar item with label Docs"
   },
-  "item.label.HRP Gov": {
-    "message": "HRP Regeringen",
-    "description": "Navbar item with label HRP Gov"
-  },
   "item.label.Main Site": {
     "message": "Huvudsidan",
     "description": "Navbar item with label Main Site"
@@ -18,5 +14,13 @@
   "item.label.HRP Laws": {
     "message": "HRP Lagar",
     "description": "Navbar item with label HRP Laws"
+  },
+  "item.label.Updates": {
+    "message": "Updates",
+    "description": "Navbar item with label Updates"
+  },
+  "logo.alt": {
+    "message": "My Site Logo",
+    "description": "The alt text of navbar logo"
   }
 }
