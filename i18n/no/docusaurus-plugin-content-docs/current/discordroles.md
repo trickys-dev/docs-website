@@ -151,15 +151,15 @@ Søknaden for å skaffe seg denne rollen er helt automatisk.
 </thead>
 <tbody>
 <tr>
-<th scope="row"><span style={{color: "#c27c0e"}}>@3 års veteran</span></th>
+<th scope="row"><span style={{color: "#c27c0e"}}>@3 Year Veteran</span></th>
 <td>Vært i discorden i 3 år</td>
 </tr>
 <tr>
-<th scope="row"><span style={{color: "#c27c0e"}}>@2 års veteran</span></th>
+<th scope="row"><span style={{color: "#c27c0e"}}>@2 Year Veteran</span></th>
 <td>Vært i discorden i 2 år</td>
 </tr>
 <tr>
-<th scope="row"><span style={{color: "#c27c0e"}}>@1 års veteran</span></th>
+<th scope="row"><span style={{color: "#c27c0e"}}>@1 Year Veteran</span></th>
 <td>Vært i discorden i 1 år</td>
 </tr>
 </tbody>
@@ -176,7 +176,7 @@ Gjør <a class="code-text">/getveteran</a> Komandoen i [ Discord](discord://disc
 
 Dette er Supporter rollene.
 
-Vil du bli en Supporter? [Click Here](/supporters)
+Vil du bli en Supporter? [Trykk her](/supporters)
 
 <table class="table nowrap table-dark table-sm">
 <thead>
