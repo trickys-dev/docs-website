@@ -20,14 +20,17 @@ Information you need to provide to create a faction:
 5. Roles names `You cannot have roles named: admin, staff, coastguard`.
 6. Provide discord (this is not requried) You dont have to have a discord to create a faction.
 
+:::caution Have A Discord Server?
+
+Owners that have a Discord server for the faction they are running are required to have at least one admin in the server with the administrator permission.
+
+:::
+
 :::note Factions actuelles
 
 Vous pouvez voir toutes les factions actuelles en [cliquant ici](https://trickys.gg/factions)
 
 :::
-
-
-
 
 ## Profils de faction
 
