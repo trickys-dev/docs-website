@@ -15,6 +15,11 @@ export const Icon = ({children, type}) => {
   if (type=="s") return (<i class="fas fa-star update-star" title="Star"></i>)
 }
 
+```
+[TEXT](LINK)
+```
+
+
 Version x.x.x Updates
 
 <!--truncate-->
