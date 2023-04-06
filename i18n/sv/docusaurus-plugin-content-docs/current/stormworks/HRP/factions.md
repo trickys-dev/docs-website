@@ -14,37 +14,37 @@ Information som du behöver att ge för att skapa en faktion:
     - Medium - `max roller: 10, max användare: 25, kostar: 400`
     - Stor - `max roller: 15, max användare: 50, kostar: 1000`
     - Enterprise - `max roller: 15, max användare: 100, kostar: 2500`
-2. Name of your faction.
-3. Faction description.
-4. Faction abbreviation, has to be at least 2 or more characters (example: Government is GOV).
-5. Roles names `You cannot have roles named: admin, staff, coastguard`.
-6. Provide discord (this is not requried) You dont have to have a discord to create a faction.
+2. Namnet på din faktion.
+3. Beskrivning av faktionen.
+4. Faktions förkortning, minst 2 eller mer tecken (exempel: Government är GOV).
+5. Rollernas namn `Du får inte ha roller som heter: admin, staff, coastguard`.
+6. Ge en discordsserver länk (ej obligatoriskt) Du behöver inte ha en discord server för att skapa en faktion.
 
-:::caution Have A Discord Server?
+:::caution Har en discord server?
 
-Owners that have a Discord server for the faction they are running are required to have at least one admin in the server with the administrator permission.
-
-:::
-
-:::note Current Factions
-
-You can view all the current factions by [Clicking Here](https://trickys.gg/factions)
+Faktion ägare som har en discord server för deras faktion som de leder behöver att ha i alla fall en admin i servern med administratör permissioner.
 
 :::
 
-## Faction Profiles
+:::note Nuvarande Faktioner
 
-- Avatar image.
-- Cover image.
-- Bio/description.
-- Faction avatar outline colour.
+Du kan se alla nuvarande faktioner genom att [Clicka Här](https://trickys.gg/factions)
 
-### Faction Avatar
+:::
+
+## Faktion Profiler
+
+- Avatar-bild.
+- Bakgrundsbild.
+- Beskrivning av faktionen.
+- Faktion avatar konturfärg.
+
+### Faktion Avatar
 
   <div class="flex-vcenter mb-1">
     <img src="/img/customprofiles/factions/factionavatar.png"/>
     <p>
-    Upload a avatar for your faction.
+    Ladda upp en avatar för din faktion.
     The avatar image will also show in a Discord embed when you post your faction URL, example below.
     </p>
  </div>
