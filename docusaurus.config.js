@@ -118,6 +118,7 @@ const config = {
           blogDescription: 'Updates',
           routeBasePath: 'updates', //CHANGE HERE
           include: [`**/*.{md,mdx}`],
+          exclude: [`template.md`],
           showReadingTime: true,
           postsPerPage: 5,
           blogSidebarTitle: 'All Updates',
