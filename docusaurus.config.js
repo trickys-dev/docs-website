@@ -104,7 +104,7 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-        //   sidebarPath: require.resolve('./sidebars.js'),
+        sidebarPath: require.resolve('./sidebars.js'),
         //   // Please change this to your repo.
         //   // Remove this to remove the "edit this page" links.
         //   editUrl:
@@ -113,8 +113,8 @@ const config = {
         },
 
         blog: {
-          path: 'blog',
-          blogTitle: 'asdasd',
+          //path: 'blogs',
+          blogTitle: 'Updates',
           blogDescription: 'Updates',
           routeBasePath: 'updates', //CHANGE HERE
           include: [`**/*.{md,mdx}`],
@@ -122,10 +122,10 @@ const config = {
           postsPerPage: 5,
           blogSidebarTitle: 'All Updates',
           blogSidebarCount: 'ALL',
-          blogListComponent: '@theme/BlogListPage',
-          blogPostComponent: '@theme/BlogPostPage',
-          blogTagsListComponent: '@theme/BlogTagsListPage',
-          blogTagsPostsComponent: '@theme/BlogTagsPostsPage',
+          //blogListComponent: '@theme/BlogListPage',
+          //blogPostComponent: '@theme/BlogPostPage',
+          //blogTagsListComponent: '@theme/BlogTagsListPage',
+          //blogTagsPostsComponent: '@theme/BlogTagsPostsPage',
           authorsMapPath: 'authors.yml',
           feedOptions: {
             type: 'all',
@@ -151,7 +151,7 @@ const config = {
       navbar: {
         title: 'Trickys.gg Docs',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'TDocs Logo',
           src: 'img/logo.png',
         },
         items: [
