@@ -45,35 +45,35 @@ Du kan se alla nuvarande faktioner genom att [Clicka Här](https://trickys.gg/fa
     <img src="/img/customprofiles/factions/factionavatar.png"/>
     <p>
     Ladda upp en avatar för din faktion.
-    The avatar image will also show in a Discord embed when you post your faction URL, example below.
+    Avatar bilden kommer också visa en Discord embed när du skickar din faktions URL, exempel nedan.
     </p>
  </div>
 
-### Faction Cover Image
+### Faktion cover bild
 
   <div class="flex-vcenter mb-1">
     <img src="/img/customprofiles/factions/factioncover.png"/>
     <p>
-    Upload a cover for your faction.
-    The selected cover will show on the faction website profile page, example below.
+    Ladda upp en cover för din faktion.
+    Den valda cover bilden kommer visas på faktionens webbplatsprofilsida, exempel nedan.
     </p>
  </div>
 
-### Faction Bio
+### Faktionens beskrivning
 
   <div class="flex-vcenter mb-1">
     <img src="/img/customprofiles/factions/factionbio.png"/>
     <p>
-    Write a bio for your faction, this will be seen on the faction website profile page.
+    Skriv en beskrivning för din faktion, den kan man se på faktionens webbplats profilsidan.
     </p>
  </div>
 
-You are able to use BBCode in your factions bio, heres whats allowed:
+Du får använda BBCode i faktionens beskrivning, här är vad som är tillåtet:
 
-- [b] - <code>[b]Hello World[/b]</code> - <b>Bold</b>
-- [i] - <code>[i]Hello World[/i]</code> - <i>Italic</i>
-- [s] - <code>[s]Hello World[/s]</code> - <s>Struck Through</s>
-- [u] - <code>[u]Hello World[/u]</code> - <u>Underlined</u>
+- [b] - <code>[b]Hello World[/b]</code> - <b>Fet stil</b>
+- [i] - <code>[i]Hello World[/i]</code> - <i>Kursiv</i>
+- [s] - <code>[s]Hello World[/s]</code> - <s>Sträckt igenom</s>
+- [u] - <code>[u]Hello World[/u]</code> - <u>Understräckt</u>
 
 ### Faction Avatar Colour
 
