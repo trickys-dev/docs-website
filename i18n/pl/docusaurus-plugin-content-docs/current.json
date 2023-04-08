@@ -40,7 +40,7 @@
     "description": "The label for category Carrier Command 2 in sidebar defaultSidebar"
   },
   "sidebar.defaultSidebar.category.Carrier Command 2.link.generated-index.description": {
-    "message": "Carrier Command 2 Docs",
+    "message": "Dokumentacja Carrier Command 2",
     "description": "The generated-index page description for category Carrier Command 2 in sidebar defaultSidebar"
   }
 }
