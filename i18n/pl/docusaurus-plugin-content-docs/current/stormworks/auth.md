@@ -2,31 +2,31 @@
 sidebar_position: 4
 ---
 
-# Authorization
-AKA: AutoAuth (Automatic Authorization)
+# Autoryzacja
+Inaczej: AutoAuth (Automatyczna Autoryzacja)
 
 ## Co to jest AutoAuth?
 
 "AutoAuth" lub Automatyczna Autoryzacja to system, który autoryzuje cię na wszystkich naszych serwerach bez konieczności obecności adminów lub personelu na serwerze w tym samym czasie co ty.
 
-## Getting Auth?
+## Otrzymanie Autoryzacji
 
-To get auth which will allow you to use the workbenches on all of our servers you just need to do the following;
+Aby otrzymać autoryzację, która pozwoli ci używać stołów roboczych na wszystkich naszych serwerach, musisz zrobić następujące czynności;
 
-:::note New User
+:::note Nowy Użytkownik
 
-You won't be able to login with Discord if you have never logged-in with steam before
+Nie będziesz mógł zalogować się za pomocą Discord, jeśli nigdy wcześniej nie zalogowałeś się za pomocą Steam
 
 :::
 
-1. Go to https://trickys.gg/login
-2. [Sign-in/Register](https://trickys.gg/login) with <i class="fa-brands fa-steam"></i> Steam.
-3. You then will be asked to linked your <i class="fa-brands fa-discord"></i> Discord account.
-4. Thats it!
+1. Przejdź do https://trickys.gg/login
+2. [Zaloguj się / Zarejestruj](https://trickys.gg/login) za pomocą <i class="fa-brands fa-steam"></i> Steam.
+3. Następnie zostaniesz poproszony o połączenie konta <i class="fa-brands fa-discord"></i> Discord.
+4. Gotowe!
 
-:::note Verified
+:::note Zweryfikowany Użytkownik
 
-Once you have linked your <i class="fa-brands fa-discord"></i> Discord & <i class="fa-brands fa-steam"></i> Steam account you will become [Verified](./), read more [here](./).
+Po połączeniu kont <i class="fa-brands fa-discord"></i> Discord i <i class="fa-brands fa-steam"></i> Steam, twoje konto zostanie [Zweryfikowane](./), możesz przeczytać więcej o tym [tutaj](./).
 
 :::
 
@@ -45,7 +45,7 @@ Po dołączeniu do serwera system będzie sprawdzał następujące rzeczy z nasz
 
 Potrzebujesz licencji na łodzie dla systemu AutoAuth, aby autoryzować tworzenie łodzi.
 
-Masz już licencję? Check if its [valid](https://trickys.gg/account).
+Masz już licencję? Sprawdź, czy jest [ważna](https://trickys.gg/account).
 
 ## Czy mam Autoryzacje?
 
