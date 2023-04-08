@@ -8,21 +8,21 @@ sidebar_position: 1
 
 Nadal pracujemy nad stworzeniem aplikacji, która automatycznie tworzy frakcję, aż do tego czasu możesz utworzyć zgłoszenie na serwerze Discord.
 
-Information you need to provide to create a faction:
-1. Type of faction:
-    - Small - `max roles: 5, max users: 10, cost to create: 200`
-    - Medium - `max roles: 10, max users: 25, cost to create: 400`
-    - Large - `max roles: 15, max users: 50, cost to create: 1000`
-    - Enterprise - `max roles: 15, max users: 100, cost to create: 2500`
-2. Name of your faction.
-3. Faction description.
-4. Faction abbreviation, has to be at least 2 or more characters (example: Government is GOV).
-5. Roles names `You cannot have roles named: admin, staff, coastguard`.
-6. Provide discord (this is not requried) You dont have to have a discord to create a faction.
+Informacje które musisz podać aby utworzyć frakcję:
+1. Typ frakcji:
+    - Mała - `maks. ilość ról: 5, maks. ilość osób: 10, koszt utworzenia: 200`
+    - Średnia - `maks. ilość ról: 10, maks. ilość osób: 25, koszt utworzenia: 400`
+    - Duża - `maks. ilość ról: 15, maks. ilość osób: 50, koszt utworzenia: 1000`
+    - Firma - `maks. ilość ról: 15, maks. ilość osób: 100, koszt utworzenia: 2500`
+2. Nazwa twojej frakcji.
+3. Opis frakcji.
+4. Skrót nazwy frakcji, musi mieć przynajmniej 2 lub więcej znaków (na przykład: Rząd[Government] to GOV).
+5. Nazwy ról `Nie możesz mieć rol nazwanych: admin, staff, coastguard`.
+6. Podaj Discord (Nie jest wymagane) Nie musisz mieć Discord, aby utworzyć frakcję.
 
-:::caution Have A Discord Server?
+:::caution Posiadasz serwer Discord?
 
-Owners that have a Discord server for the faction they are running are required to have at least one admin in the server with the administrator permission.
+Właściciele, którzy mają serwer Discord dla frakcji, w której są obecni, muszą mieć co najmniej jednego administratora na serwerze z uprawnieniami administratora.
 
 :::
 
