@@ -75,7 +75,7 @@ Du får använda BBCode i faktionens beskrivning, här är vad som är tillåtet
 - [s] - <code>[s]Hello World[/s]</code> - <s>Sträckt igenom</s>
 - [u] - <code>[u]Hello World[/u]</code> - <u>Understräckt</u>
 
-### Faction Avatar Colour
+### Faktionens Avatar Färg
 
 <div class="flex-vcenter mb-1">
     <img src="/img/customprofiles/factions/factionavatarcolour.png"/>
