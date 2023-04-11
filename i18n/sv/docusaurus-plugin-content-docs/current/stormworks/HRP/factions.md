@@ -80,7 +80,7 @@ Du får använda BBCode i faktionens beskrivning, här är vad som är tillåtet
 <div class="flex-vcenter mb-1">
     <img src="/img/customprofiles/factions/factionavatarcolour.png"/>
     <p>
-    You can choose the outline colour that is around your faction avatar.
+    Du kan välja konturfärg som finns runt din faktionsavatar.
     The selected colour will also show in a Discord embed when you post your profile URL, example below.
     </p>
  </div>
