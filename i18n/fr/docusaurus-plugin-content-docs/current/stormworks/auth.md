@@ -2,31 +2,31 @@
 sidebar_position: 4
 ---
 
-# Authorization
-AKA: AutoAuth (Automatic Authorization)
+# Autorisation
+AutoAuth (Autorisation Automatique)
 
 ## Qu'est-ce qui est AutoAuth?
 
 Le système d'autorisation automatique (AutoAuth) donne l'autorisation sur tous les serveurs automatiquement sans nécessité la présence des administrateurs ou personnel.
 
-## Getting Auth?
+## Obtention de l’authentification ?
 
-To get auth which will allow you to use the workbenches on all of our servers you just need to do the following;
+Pour obtenir une authentification qui vous permettra d'utiliser les ateliers sur tous nos serveurs, il vous suffit de faire ce qui suit ;
 
-:::note New User
+:::note Nouvel utilisateur
 
-You won't be able to login with Discord if you have never logged-in with steam before
+Vous ne pourrez pas vous connecter avec Discord si vous ne vous êtes jamais connecté avec Steam avant
 
 :::
 
-1. Go to https://trickys.gg/login
-2. [Sign-in/Register](https://trickys.gg/login) with <i class="fa-brands fa-steam"></i> Steam.
-3. You then will be asked to linked your <i class="fa-brands fa-discord"></i> Discord account.
-4. Thats it!
+1. Allez sur https://trickys.gg/login
+2. [Connexion/Enregistrement](https://trickys.gg/login) avec <i class="fa-brands fa-steam"></i> Steam.
+3. Tu seras alors invité à lier ton compte Discord <i class="fa-brands fa-discord"></i>.
+4. C'est tout !
 
-:::note Verified
+:::note vérifiée
 
-Once you have linked your <i class="fa-brands fa-discord"></i> Discord & <i class="fa-brands fa-steam"></i> Steam account you will become [Verified](./), read more [here](./).
+Une fois que vous aurez lié votre compte <i class="fa-brands fa-discord"></i> Discord & <i class="fa-brands fa-steam"></i> Steam vous deviendrez [vérifié](./), en savoir plus [ici](./).
 
 :::
 
@@ -45,7 +45,7 @@ Lorsque vous rejoignez le serveur, le système vérifiera les éléments suivant
 
 Vous avez besoin d'un permis de bateau pour que le système d'autorisation automatique vous autorise de faire apparaître des bateaux.
 
-Avez-vous déjà un permis? Check if its [valid](https://trickys.gg/account).
+Avez-vous déjà un permis? Vérifie si c'est [valide](https://trickys.gg/account).
 
 ## Est-ce que j'ai l'autorisation?
 
