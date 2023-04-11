@@ -55,7 +55,7 @@ description: Les commandes Stormworks en jeu.
 | ?v {vid} tp                                                             | Téléporter à un siège dans le véhicule                    | ?v 1 tp               |
 | ?v {vid} kick {id}                                                      | Expulser un utilisateur d'un véhicule                     | ?v 1 kick 1           |
 | ?v {vid} kickall                                                        | Expulser tous les utilisateurs du véhicule                | ?v 1 kickall          |
-| ?v {vid} repair                                                         | Repair a vehicle (<a href="/supporters#what-perks-are-there">Silver+</a>)              | ?v 1 repair           |
+| ?v {vid} repair                                                         | Réparez un véhicule (<a href="/supporters#what-perks-are-there">Silver+</a>)           | ?v 1 repair           |
 | Mode de contrôle d'accès. Changer qui peut interagir avec vos véhicules |                                                           |                       |
 | ?v accessmode (all/whitelist/blacklist/none)                            | Changer qui peut interagir avec votre véhicule            | ?v accessmode all     |
 | ?v whitelist/blacklist add {id}                                         | Ajouter quelqu'un à votre liste blanche/noire             | ?v whitelist add 1    |
