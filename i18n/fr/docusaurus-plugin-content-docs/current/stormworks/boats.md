@@ -33,7 +33,7 @@ Vous devez seulement allumer les lumières de navigations pendant la nuit et/ou 
 
 1. Assurez-vous que votre bateau répond aux exigences.
 2. Rendez-vous sur [applications](https://trickys.gg/applications/new) et sélectionnez Licence de bateau.
-3. Vous ne pouvez pas demander votre 1ère licence avec un hydravion, vous devez faire une demande avec un bateau. Once you have a [Boat ID](boats.md#boat-license-placement) you can place that onto your sea-plane.
+3. Vous ne pouvez pas demander votre 1ère licence avec un hydravion, vous devez faire une demande avec un bateau. Une fois que vous avez un [ID de bateau](boats.md#boat-license-placement) , vous pouvez le placer dans votre hydravion.
 
 :::tip Conseil
 
