@@ -76,7 +76,7 @@ Notre Patreon sera utilisé pour financer
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
 </tr>
 <tr>
-    <th scope="row">Full <a href="/category/api">API</a> Access</th>
+    <th scope="row">Accès complet à l'API <a href="/category/api"></a></th>
     <td></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
@@ -160,7 +160,7 @@ Notre Patreon sera utilisé pour financer
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
 </tr>
 <tr>
-    <th scope="row">Vehicle repair <a href="/stormworks/commands#vehicle-manager-commands">command</a></th>
+    <th scope="row">Commande de la réparation du véhicule <a href="/stormworks/commands#vehicle-manager-commands"></a></th>
     <td></td>
     <td></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
@@ -176,7 +176,7 @@ Notre Patreon sera utilisé pour financer
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
 </tr>
 <tr>
-    <th scope="row"><a href="/stormworks/commands">Home</a> limit</th>
+    <th scope="row">Limite de <a href="/stormworks/commands">Maison</a></th>
     <td class="text-center"><i class="fa-fw text-success">2</i></td>
     <td class="text-center"><i class="fa-fw text-success">3</i></td>
     <td class="text-center"><i class="fa-fw text-success">4</i></td>
@@ -184,7 +184,7 @@ Notre Patreon sera utilisé pour financer
     <td class="text-center"><i class="fa-fw text-success">10</i></td>
 </tr>
 <tr>
-    <th scope="row"><a href="/stormworks/commands">Vehicle</a> limit (HRP3: 3)</th>
+    <th scope="row"><a href="/stormworks/commands">Limite de</a> Véhicule (HRP3: 3)</th>
     <td class="text-center"><i class="fa-fw text-success">2</i></td>
     <td class="text-center"><i class="fa-fw text-success">3</i></td>
     <td class="text-center"><i class="fa-fw text-success">3</i></td>
@@ -270,7 +270,7 @@ Notre Patreon sera utilisé pour financer
     <td class="text-center"><i class="fa-fw text-success">10</i></td>
 </tr>
 <tr>
-    <th scope="row">Forceloaded Chunks (25)</th>
+    <th scope="row">Morceaux Forceloadés (25)</th>
     <td class="text-center">-</td>
     <td class="text-center"><i class="fa-fw text-success">30</i></td>
     <td class="text-center"><i class="fa-fw text-success">35</i></td>
