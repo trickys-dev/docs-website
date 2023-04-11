@@ -8,7 +8,7 @@
   },
   "theme.ErrorPageContent.tryAgain": {
     "message": "Try again",
-    "description": "The label of the button to try again when the page crashed"
+    "description": "The label of the button to try again rendering when the React error boundary captures an error"
   },
   "theme.NotFound.title": {
     "message": "Page Not Found",
@@ -276,9 +276,6 @@
   "Trickys Docs": {
     "message": "Trickys Docs"
   },
-  "Docs For Everyone": {
-    "message": "Docs For Everyone"
-  },
   "Game Docs": {
     "message": "Game Docs"
   },
@@ -427,5 +424,8 @@
   "theme.SearchModal.placeholder": {
     "message": "Search docs",
     "description": "The placeholder of the input of the DocSearch pop-up modal"
+  },
+  "Docs For Gamers": {
+    "message": "Docs For Gamers"
   }
 }

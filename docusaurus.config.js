@@ -8,7 +8,7 @@ const darkCodeTheme = require('./src/themes/trickytheme');
 const config = {
 
   title: 'Trickys Docs',
-  tagline: 'Docs For Everyone',
+  tagline: 'Docs For Gamers',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -65,7 +65,7 @@ const config = {
         label: 'Japanese (日本)',
         direction: 'ltr',
         htmlLang: 'ja',
-        calendar: 'gregorian',
+        calendar: 'gregory',
         path: 'ja',
       },
       no: {
@@ -103,20 +103,39 @@ const config = {
       'classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
-        // docs: {
-        //   sidebarPath: require.resolve('./sidebars.js'),
+        docs: {
+        sidebarPath: require.resolve('./sidebars.js'),
         //   // Please change this to your repo.
         //   // Remove this to remove the "edit this page" links.
         //   editUrl:
         //     'https://github.com',
-        // },
-        // blog: {
-        //   showReadingTime: true,
-        //   // Please change this to your repo.
-        //   // Remove this to remove the "edit this page" links.
-        //   editUrl:
-        //     'https://github.com',
-        // },
+        routeBasePath: '/',
+        },
+
+        blog: {
+          //path: 'blogs',
+          blogTitle: 'Updates',
+          blogDescription: 'Updates',
+          routeBasePath: 'updates', //CHANGE HERE
+          include: [`**/*.{md,mdx}`],
+          exclude: [`template.md`],
+          showReadingTime: true,
+          postsPerPage: 5,
+          blogSidebarTitle: 'All Updates',
+          blogSidebarCount: 'ALL',
+          //blogListComponent: '@theme/BlogListPage',
+          //blogPostComponent: '@theme/BlogPostPage',
+          //blogTagsListComponent: '@theme/BlogTagsListPage',
+          //blogTagsPostsComponent: '@theme/BlogTagsPostsPage',
+          authorsMapPath: 'authors.yml',
+          feedOptions: {
+            type: 'all',
+          },
+           // Please change this to your repo.
+           // Remove this to remove the "edit this page" links.
+          //editUrl:
+           // 'https://github.com',
+        },
         theme: {
           customCss: [require.resolve('./src/css/custom.css'),require.resolve('./src/css/fontawesome/css/all.min.css')],
         },
@@ -133,7 +152,7 @@ const config = {
       navbar: {
         title: 'Trickys.gg Docs',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'TDocs Logo',
           src: 'img/logo.png',
         },
         items: [
@@ -146,6 +165,11 @@ const config = {
           {
             href: '/hrplaws',
             label: 'HRP Laws',
+            position: 'left',
+          },
+          {
+            href: '/updates',
+            label: 'Updates',
             position: 'left',
           },
           {
@@ -177,11 +201,11 @@ const config = {
             items: [
               {
                 label: 'Stormworks',
-                to: '/docs/category/stormworks',
+                to: '/category/stormworks',
               },
               {
                 label: 'API',
-                to: '/docs/category/API',
+                to: '/category/API',
               },
             ],
           },
@@ -224,14 +248,13 @@ const config = {
         {name: 'theme-color', content: '#375a7f'},
         {property: 'og:site_name', content: 'docs.trickys.gg'},
       ],
-      announcementBar: {
-        id: 'beta',
-        content:
-          'New Docs for Trickys Server, if you have any suggestions or feedback please let us know',
-        backgroundColor: '#375a7f',
+      //  announcementBar: {
+      //   id: 'beta',
+      //   content: '',
+      //   backgroundColor: '#375a7f',
         textColor: '#fff',
-        isCloseable: false,
-      },
+      //   isCloseable: false,
+      // },
       colorMode: {
         defaultMode: 'dark',
         disableSwitch: false,
