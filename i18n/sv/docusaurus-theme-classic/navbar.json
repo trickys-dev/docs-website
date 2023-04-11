@@ -1,0 +1,26 @@
+{
+  "title": {
+    "message": "Trickys.gg Docs",
+    "description": "The title in the navbar"
+  },
+  "item.label.Docs": {
+    "message": "Docs",
+    "description": "Navbar item with label Docs"
+  },
+  "item.label.Main Site": {
+    "message": "Huvudsidan",
+    "description": "Navbar item with label Main Site"
+  },
+  "item.label.HRP Laws": {
+    "message": "HRP Lagar",
+    "description": "Navbar item with label HRP Laws"
+  },
+  "item.label.Updates": {
+    "message": "Uppdateringar",
+    "description": "Navbar item with label Updates"
+  },
+  "logo.alt": {
+    "message": "My Site Logo",
+    "description": "The alt text of navbar logo"
+  }
+}
