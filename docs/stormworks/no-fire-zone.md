@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+description: Stormworks NFZ Information
 ---
 
 # No Firing Zone

@@ -54,7 +54,7 @@ sidebar_position: 0
 
 ## Oil
 
-1. You must be in a [faction](https://trickys.gg/factions), you can either join one or [create](factions.md#create-a-faction) a new one.
+1. You must be in a [faction](https://trickys.gg/factions), you can either join one or [create](/stormworks/HRP/factions#create-a-faction) a new one.
 2. Find an oil point on the map. (This will give 30cr once captured)
 
 <img src="/img/hrp/cargooil/HRPOilField.png"/>
