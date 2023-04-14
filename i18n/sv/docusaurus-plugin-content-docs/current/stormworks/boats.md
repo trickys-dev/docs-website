@@ -1,6 +1,6 @@
 ---
 sidebar_position: 0
-description: Båt Licens Information.
+description: Boat License Information
 ---
 
 # Båtar
