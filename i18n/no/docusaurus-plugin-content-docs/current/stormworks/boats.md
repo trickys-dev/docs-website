@@ -1,6 +1,6 @@
 ---
 sidebar_position: 0
-description: Boat License Information.
+description: Boat License Information
 ---
 
 # Boats
