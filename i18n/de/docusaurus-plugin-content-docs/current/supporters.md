@@ -1,5 +1,6 @@
 ---
 sidebar_position: 3
+description: Patreon & Server boosters information
 ---
 
 # Unterstützer
