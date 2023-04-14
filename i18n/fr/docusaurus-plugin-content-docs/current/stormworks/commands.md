@@ -1,6 +1,6 @@
 ---
 sidebar_position: 3
-description: Les commandes Stormworks en jeu.
+description: Stormworks In-Game Commands
 ---
 
 
@@ -38,14 +38,14 @@ description: Les commandes Stormworks en jeu.
  | ?unclaim {ID}    | Ne pas revendiquer un conteneur                                                                        | ?unclaim 1 |
  | ?listdst         | Montre toutes les destinations de caisse depuis le terminal en cours de lecture                        | ?listdst   |
  | ?deliver {ID}    | Utilisez ceci lorsque vous vous trouvez dans une zone de livraison pour retourner dans votre cargaison | ?deliver 1 |
- | ?myclaims        | Montrez votre cargaison réclamée                                                                       | ?myclaims  |
+ | ?myclaims        | Montre vos cargaisons réclamées                                                                        | ?myclaims  |
 
 
 ## Commandes du gestionnaire de véhicule
 
 | Commandes                                                               | Descriptions                                              | Exemples              |
 | ----------------------------------------------------------------------- | --------------------------------------------------------- | --------------------- |
-| ?v help                                                                 | Te montre les sous-commandes                              | ?v help               |
+| ?v help                                                                 | Montre les sous-commandes                                 | ?v help               |
 | ?v info                                                                 | Voir les informations de votre véhicule                   | ?v info               |
 | ?v list                                                                 | Liste de tous les véhicules que vous avez fait apparaitre | ?v list               |
 | ?v {vid} help                                                           | Voir les sous-commandes pour ?v {id}                      | ?v 1 help             |
