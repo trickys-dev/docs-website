@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+description: SWStatus Bot Information
 ---
 
 # Status Du Bots Dans Stormworks
