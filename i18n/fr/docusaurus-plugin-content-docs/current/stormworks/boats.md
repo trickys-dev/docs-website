@@ -1,6 +1,6 @@
 ---
 sidebar_position: 0
-description: Information de licence
+description: Boat License Information
 ---
 
 # Bateaux
