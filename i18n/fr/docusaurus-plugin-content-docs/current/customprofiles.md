@@ -1,6 +1,6 @@
 ---
 sidebar_position: 4
-description: Website Custom Profiles
+description: Profils personnalisés du site Web
 ---
 
 # Profils personnalisés
