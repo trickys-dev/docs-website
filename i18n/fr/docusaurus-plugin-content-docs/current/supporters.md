@@ -1,6 +1,6 @@
 ---
 sidebar_position: 3
-description: Patreon & Server boosters information
+description: Informations sur les boosters Patreon & Serveur
 ---
 
 # Contributeurs
