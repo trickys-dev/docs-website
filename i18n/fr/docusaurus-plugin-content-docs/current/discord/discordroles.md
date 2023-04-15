@@ -85,7 +85,7 @@ Pour obtenir des rôles, regardez en haut à gauche de Discord et vous verrez un
 
 ### Rôles de Créateur
 
-Ces rôles sont pour les joueurs qui ont le nombre requis d'abonnés sur un véhicule du workshop de stormworks.
+Ces rôles sont pour les joueurs qui ont le nombre d'abonnés requis sur un véhicule du workshop de Stormworks.
 
 Pour avoir un rôle créateur, vous devez soumettre un lien du workshop steam, votre candidature sera traitée automatiquement et vous recevrez votre rôle instantanément si vous correspondez à un des rôles ci-dessous.
 
