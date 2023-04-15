@@ -3,7 +3,7 @@ sidebar_position: 1
 description: Informations NFZ de Stormworks
 ---
 
-# Pas de zone de tir
+# Pas de Zone de Tir
 
 Ne PAS faire ce qui suit:
 - Tirer avec vos armes.
