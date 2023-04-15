@@ -1,6 +1,6 @@
 ---
 sidebar_position: 0
-description: HRP Cargo & Oil information
+description: Informations sur le RRH Cargo & Pétrole
 ---
 
 # Marchandises & Pétrole
@@ -53,7 +53,7 @@ description: HRP Cargo & Oil information
 
 ## Pétrole
 
-1. You must be in a [faction](https://trickys.gg/factions), you can either join one or [create](/stormworks/HRP/factions#create-a-faction) a new one.
+1. Vous devez être dans une faction [](https://trickys.gg/factions), vous pouvez en rejoindre une ou [en créer une](/stormworks/HRP/factions#create-a-faction) nouvelle.
 2. Trouvez un point de pétrole sur la carte. (Cela donnera 30cr une fois capturé)
 
 <img src="/img/hrp/cargooil/HRPOilField.png" />
