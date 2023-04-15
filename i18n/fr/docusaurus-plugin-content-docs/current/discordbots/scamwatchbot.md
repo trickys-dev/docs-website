@@ -1,6 +1,6 @@
 ---
 sidebar_position: 2
-description: ScamWatch Bot Information
+description: Information du Bot ScamWatch
 ---
 
 # Bot ScamWatch
