@@ -1,6 +1,6 @@
 ---
 sidebar_position: 3
-description: Stormworks Train Server Information
+description: Informations sur le serveur de Train Stormworks
 ---
 
 
