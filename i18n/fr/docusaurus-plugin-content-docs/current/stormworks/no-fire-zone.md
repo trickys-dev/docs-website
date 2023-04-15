@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-description: Stormworks NFZ Information
+description: Informations NFZ de Stormworks
 ---
 
 # Pas de zone de tir
