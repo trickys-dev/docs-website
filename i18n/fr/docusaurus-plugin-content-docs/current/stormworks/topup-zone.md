@@ -1,6 +1,6 @@
 ---
 sidebar_position: 2
-description: Top-Up Zone Information
+description: Informations sur la zone de rechargement
 ---
 
 # Zone de rechargement
