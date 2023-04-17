@@ -3,10 +3,6 @@ sidebar_position: 3
 description: Stormworks Train Server Information
 ---
 
-
-
-
-
 # Serwer pociągów
 
 Ten serwer jest przeznaczony do wykonywania zadań związanych z koleją. Sekcja pomiędzy Spycakes i Camodo odtwarza blokadę liniową dla ról między sygnalizacją a maszynistami pociągu w realistycznym otoczeniu kolejowym.
@@ -42,6 +38,7 @@ Jeśli zostaniesz złapany w ciągu ponad 100mph zostaniesz wyrzucony, jeśli po
 :::
 
 ### Sygnały
+
 System ten wykorzystuje tradycyjne semafory kształtowe, co oznacza, że zamiast sygnałów świetlnych, do których możesz być przyzwyczajony, sygnały te wykorzystują ruchome ramiona z odpowiednimi światłami, które informują kierowcę, czy może kontynuować jazdę, czy też się zatrzymać.
 
 Wszystkie sygnały na tej linii kolejowej są semaforami kształtowymi, oznacza to, że ramię poziome zawsze oznacza, że sygnał wyświetla niebezpieczeństwo lub szczególną uwagę. Ramię skierowaną w górę wskazuje, że sygnał jest wyłączony, co oznacza, że tor jest czysty.
@@ -84,8 +81,15 @@ Wszystkie sygnały na tej linii kolejowej są semaforami kształtowymi, oznacza 
 
 ## Kontrolerzy Ruchu
 
-Wkrótce ...
+Info coming soon...
 
 ### Aplikowanie do roli Kontrolera Ruchu
 
-Wkrótce ...
+To apply to be a Signaller you need to [<a class="discord-text">#submit-a-ticket</a>](discord://discord.com/channels/710922135580835950/846373509470748722) on discord, and say that you are looking to become a signaller. When applying for signaller the following will be checked;
+- Ban history - If you have been banned on our servers within the last 12 months from when you apply then you cannot apply, however this does depend on a few factors.
+- Serious notes - Do you have any "serious" notes on ur account with us. When you apply for any role that we offer we just take a look at you're notes that staff use. (no you cannot ask "do i have any notes on my account"), these notes are for staff only.
+- Do you have a good standing within the community!
+- How long have you been a member with us!
+
+
+
