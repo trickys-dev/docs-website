@@ -3,10 +3,6 @@ sidebar_position: 3
 description: Stormworks Train Server Information
 ---
 
-
-
-
-
 # Train Server
 
 This server is intended for roleplay railway operations. The section of railway from Spycakes to Camodo recreates absolute block signalling for roleplay between signalling and train drivers in a realistic railway setting.
@@ -42,6 +38,7 @@ If you are caught going over 100mph you will be kicked, if you continue to break
 :::
 
 ### Signals
+
 This system uses traditional upper quadrant semaphore signals, which means that insted of traffic light signals that you may be used to, these signals use moving arms with corresponding lights that inform the driver if they can continue or stop.
 
 All signals on this railway are upper quadrant semaphore signals, this means that a horizontal arm always means the signal is on displaying a danger or caution aspect. An arm that is pointing upwards indicates the signal is off, which means it's clear to proceed.
@@ -84,8 +81,15 @@ All signals on this railway are upper quadrant semaphore signals, this means tha
 
 ## Signallers
 
-coming soon...
+Info coming soon...
 
 ### Applying For Signallers
 
-coming soon...
+To apply to be a Signaller you need to [<a class="discord-text">#submit-a-ticket</a>](discord://discord.com/channels/710922135580835950/846373509470748722) on discord, and say that you are looking to become a signaller. When applying for signaller the following will be checked;
+- Ban history - If you have been banned on our servers within the last 12 months from when you apply then you cannot apply, however this does depend on a few factors.
+- Serious notes - Do you have any "serious" notes on ur account with us. When you apply for any role that we offer we just take a look at you're notes that staff use. (no you cannot ask "do i have any notes on my account"), these notes are for staff only.
+- Do you have a good standing within the community!
+- How long have you been a member with us!
+
+
+
