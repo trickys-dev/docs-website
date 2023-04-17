@@ -3,10 +3,6 @@ sidebar_position: 3
 description: Informations sur le serveur de Train Stormworks
 ---
 
-
-
-
-
 # Serveur de train
 
 Ce serveur est destiné aux opérations ferroviaires de jeux de rôles. Le tronçon de chemin de fer de Spycakes à Camodo recrée des panneaux de signalisation pour le jeu de rôles entre les conducteurs de signalisation et de train dans un cadre ferroviaire réaliste.
@@ -42,6 +38,7 @@ Si vous êtes attrapé de plus de 100 mph, vous serez expulsé(e), si vous con
 :::
 
 ### Signaux
+
 Ce système utilise des signaux traditionnels de sémaphore du quadrant supérieur, ce qui signifie que les signaux de feux de signalisation que vous pouvez utiliser, Ces signaux utilisent des bras mobiles avec des lumières correspondantes qui informent le conducteur s'ils peuvent continuer ou s'arrêter.
 
 Tous les signaux sur ce chemin de fer sont des signaux de sémaphore du quadrant supérieur, Cela signifie qu'un bras horizontal signifie toujours que le signal est en train d'afficher un danger ou un aspect de prudence. Un bras qui pointe vers le haut indique que le signal est éteint, ce qui signifie qu'il est clair de continuer.
@@ -84,8 +81,15 @@ Tous les signaux sur ce chemin de fer sont des signaux de sémaphore du quadrant
 
 ## Signaleurs
 
-très bientôt...
+Info coming soon...
 
 ### Application pour les Signaleurs
 
-très bientôt...
+To apply to be a Signaller you need to [<a class="discord-text">#submit-a-ticket</a>](discord://discord.com/channels/710922135580835950/846373509470748722) on discord, and say that you are looking to become a signaller. When applying for signaller the following will be checked;
+- Ban history - If you have been banned on our servers within the last 12 months from when you apply then you cannot apply, however this does depend on a few factors.
+- Serious notes - Do you have any "serious" notes on ur account with us. When you apply for any role that we offer we just take a look at you're notes that staff use. (no you cannot ask "do i have any notes on my account"), these notes are for staff only.
+- Do you have a good standing within the community!
+- How long have you been a member with us!
+
+
+
