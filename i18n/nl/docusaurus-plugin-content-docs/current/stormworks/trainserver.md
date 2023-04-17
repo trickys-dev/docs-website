@@ -3,10 +3,6 @@ sidebar_position: 3
 description: Stormworks Train Server Information
 ---
 
-
-
-
-
 # Trein Server
 
 Deze server is bedoeld voor Rollenspel op de spoorwegen. Het deel van de spoorwegen, van Spycakes tot Camodo maakt een volledig bloksignaal voor rollenspel tussen signalering en machinisten in een realistische spoorwegomgeving.
@@ -42,6 +38,7 @@ Als je gepakt wordt met meer dan 100 mph zal je uit het spel worden gezet, als j
 :::
 
 ### Signalen
+
 Dit systeem maakt gebruik van traditionele bovenste quadrant semaphore signalen, wat betekent dat in plaats van verkeerslichtsignalen waar je aan gewend bent deze signalen gebruikt met bewegende armen met overeenkomstige lampen die de chauffeur informeren als ze kunnen doorgaan of stoppen.
 
 Alle signalen op deze spoorweg zijn bovenste quadrant semaphore signalen, Dit betekent dat een horizontale arm altijd het signaal is dat er gevaar is op de lijn en je snelheid moet minderen. Een arm die naar boven wijst, geeft aan dat het signaal vrij is, wat betekent dat het vrij is om verder te gaan.
@@ -84,8 +81,15 @@ Alle signalen op deze spoorweg zijn bovenste quadrant semaphore signalen, Dit be
 
 ## Signaleerders
 
-Binnenkort beschikbaar...
+Info coming soon...
 
 ### Aanvragen om een Signaleerder te worden
 
-Binnenkort beschikbaar...
+To apply to be a Signaller you need to [<a class="discord-text">#submit-a-ticket</a>](discord://discord.com/channels/710922135580835950/846373509470748722) on discord, and say that you are looking to become a signaller. When applying for signaller the following will be checked;
+- Ban history - If you have been banned on our servers within the last 12 months from when you apply then you cannot apply, however this does depend on a few factors.
+- Serious notes - Do you have any "serious" notes on ur account with us. When you apply for any role that we offer we just take a look at you're notes that staff use. (no you cannot ask "do i have any notes on my account"), these notes are for staff only.
+- Do you have a good standing within the community!
+- How long have you been a member with us!
+
+
+
