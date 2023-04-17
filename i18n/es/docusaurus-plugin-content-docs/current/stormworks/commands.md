@@ -1,6 +1,6 @@
 ---
 sidebar_position: 3
-description: Comandos de Stormworks.
+description: Stormworks In-Game Commands
 ---
 
 

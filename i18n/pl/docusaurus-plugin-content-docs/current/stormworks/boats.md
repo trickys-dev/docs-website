@@ -1,6 +1,6 @@
 ---
 sidebar_position: 0
-description: Informacje o licencji łodzi.
+description: Boat License Information
 ---
 
 # Łodzie

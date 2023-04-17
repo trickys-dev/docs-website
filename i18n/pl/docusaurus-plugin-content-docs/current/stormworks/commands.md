@@ -1,6 +1,6 @@
 ---
 sidebar_position: 3
-description: Polecenia Stormworks w grze.
+description: Stormworks In-Game Commands
 ---
 
 

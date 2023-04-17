@@ -1,6 +1,6 @@
 ---
 sidebar_position: 0
-description: Boot licentie informatie
+description: Boat License Information
 ---
 
 # Boten
