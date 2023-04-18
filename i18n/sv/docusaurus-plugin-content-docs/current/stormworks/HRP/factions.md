@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-description: HRP Factions information
+description: HRP Faktions information
 ---
 
 # Faktioner
