@@ -1,6 +1,6 @@
 ---
 sidebar_position: 0
-description: HRP Cargo & Oil information
+description: HRP Gods & Olja information
 ---
 
 # Gods & Olja
@@ -53,7 +53,7 @@ description: HRP Cargo & Oil information
 
 ## Olja
 
-1. You must be in a [faction](https://trickys.gg/factions), you can either join one or [create](/stormworks/HRP/factions#create-a-faction) a new one.
+1. Du måste vara i en [faktion](https://trickys.gg/factions), antingen gå med i en faktion eller [skapa](/stormworks/HRP/factions#create-a-faction) en ny.
 2. Hitta en olja punkt på kartan. (Det kommer ge dig 30cr efter övertagning)
 
 <img src="/img/hrp/cargooil/HRPOilField.png" />
