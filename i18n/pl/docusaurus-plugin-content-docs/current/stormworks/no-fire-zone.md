@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-description: Stormworks NFZ Information
+description: Informacje o Strefie Zdemilitaryzowanej w Stormworks
 ---
 
 # Strefa Zdemilitaryzowana
