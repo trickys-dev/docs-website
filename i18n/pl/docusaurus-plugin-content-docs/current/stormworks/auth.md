@@ -1,6 +1,6 @@
 ---
 sidebar_position: 4
-description: Auth information for stormworks
+description: Informacje o Autoryzacji w Stormworks
 ---
 
 # Autoryzacja
