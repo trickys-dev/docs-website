@@ -1,6 +1,6 @@
 ---
 sidebar_position: 4
-description: Website Custom Profiles
+description: Niestandardowe Profile na Stronie Internetowej
 ---
 
 # Profile Niestandardowe
