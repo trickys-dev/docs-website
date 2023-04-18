@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-description: SWStatus Bot Information
+description: Informacje o Bocie SWStatus
 ---
 
 # Bot Statusu SW
