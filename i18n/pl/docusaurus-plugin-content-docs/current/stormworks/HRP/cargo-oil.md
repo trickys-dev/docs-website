@@ -1,6 +1,6 @@
 ---
 sidebar_position: 0
-description: HRP Cargo & Oil information
+description: Informacje o ładunku i ropie na HRP
 ---
 
 # Towar i Ropa
@@ -53,7 +53,7 @@ description: HRP Cargo & Oil information
 
 ## Ropa
 
-1. You must be in a [faction](https://trickys.gg/factions), you can either join one or [create](/stormworks/HRP/factions#create-a-faction) a new one.
+1. Musisz być w [frakcji](https://trickys.gg/factions), możesz do jakiejś dołączyć lub [utworzyć](/stormworks/HRP/factions#create-a-faction) nową.
 2. Znajdź punkt ropy naftowej na mapie. (To daje 30cr po przechwyceniu)
 
 <img src="/img/hrp/cargooil/HRPOilField.png" />
