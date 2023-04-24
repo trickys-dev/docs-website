@@ -23,7 +23,8 @@ Informacje które musisz podać aby utworzyć frakcję:
 
 :::caution Posiadasz serwer Discord?
 
-Właściciele, którzy mają serwer Discord dla frakcji, w której są obecni, muszą mieć co najmniej jednego administratora na serwerze z uprawnieniami administratora.
+- Owners that have a Discord server for the faction they are running are required to have at least one admin from the main server in the server with the administrator permission.
+- The owner of the faction must be the owner of the Discord server.
 
 :::
 
@@ -38,7 +39,12 @@ Możesz zobaczyć wszystkie aktualnie istniejące frakcje [Klikając Tutaj](http
 - Awatar profilowy.
 - Obraz okładki.
 - Bio/opis.
+- Faction Discrd server invite link.
 - Kolor konturu awatara.
+
+<div class="flex-vcenter mb-1">
+    <img src="/img/customprofiles/factions/factionbuttons.png"/>
+ </div>
 
 ### Awatar Frakcji
 
@@ -86,6 +92,17 @@ Możesz korzystać z BBCode w opisie swojej frakcji, oto co jest dozwolone:
     </p>
  </div>
 
+### Faction Discord Invite
+
+<div class="flex-vcenter mb-1">
+    <img src="/img/customprofiles/factions/factiondiscordinvite.png"/>
+    <p>
+    You can set a faction Discord server invite link.
+    The link must start with <code>https://discord.com/invite/</code> <br/>
+    Example <code>https://discord.com/invite/&#60;invite-code&#62;</code>
+  </p>
+ </div>
+
 ## Zarządzanie Rolami
 
 Aby zarządzać rolami w twojej frakcji, kliknij zakładkę `Roles`.
@@ -107,9 +124,9 @@ Bez względu na uprawnienia, role nie mogą edytować własnej roli ani ról nad
 
 :::
 
-:::note
+:::note Owner Role
 
-Rola właściciela każdej frakcji nie może edytować tam własnych kolejności ról lub uprawnień.
+The owner role of a faction cannot edit their own role order or permissions.
 
 :::
 
