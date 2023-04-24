@@ -23,7 +23,8 @@ Informations que vous devez fournir pour créer une faction:
 
 :::caution Vous avez un serveur Discord ?
 
-Les propriétaires qui ont un serveur Discord pour la faction qu'ils exécutent sont tenus d'avoir au moins un administrateur sur le serveur avec la permission d'administrateur.
+- Owners that have a Discord server for the faction they are running are required to have at least one admin from the main server in the server with the administrator permission.
+- The owner of the faction must be the owner of the Discord server.
 
 :::
 
@@ -38,7 +39,12 @@ Vous pouvez voir toutes les factions actuelles en [cliquant ici](https://trickys
 - Image d'avatar.
 - Image de présentation.
 - Bio/description.
+- Faction Discrd server invite link.
 - Couleur du contour extérieur de l'avatar.
+
+<div class="flex-vcenter mb-1">
+    <img src="/img/customprofiles/factions/factionbuttons.png"/>
+ </div>
 
 ### Avatar de la faction
 
@@ -86,6 +92,17 @@ Vous pouvez utiliser le BBCode dans votre bio de factions, ici ce qui est autori
     </p>
  </div>
 
+### Faction Discord Invite
+
+<div class="flex-vcenter mb-1">
+    <img src="/img/customprofiles/factions/factiondiscordinvite.png"/>
+    <p>
+    You can set a faction Discord server invite link.
+    The link must start with <code>https://discord.com/invite/</code> <br/>
+    Example <code>https://discord.com/invite/&#60;invite-code&#62;</code>
+  </p>
+ </div>
+
 ## Gestion des rôles
 
 Pour gérer les rôles, allez à l'onglet `Rôles` sur une faction qui vous appartient.
@@ -107,9 +124,9 @@ Indépendamment des rôles de permissions ne peuvent pas modifier leur propre r�
 
 :::
 
-:::note
+:::note Owner Role
 
-Le rôle de propriétaire de chaque faction ne peut pas modifier son propre ordre de rôle ou ses propres permissions.
+The owner role of a faction cannot edit their own role order or permissions.
 
 :::
 
