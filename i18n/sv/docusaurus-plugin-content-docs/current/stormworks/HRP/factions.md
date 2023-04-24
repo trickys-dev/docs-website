@@ -23,7 +23,8 @@ Information som du behöver att ge för att skapa en faktion:
 
 :::caution Har en discord server?
 
-Faktion ägare som har en discord server för deras faktion som de leder behöver att ha i alla fall en admin i servern med administratör permissioner.
+- Owners that have a Discord server for the faction they are running are required to have at least one admin from the main server in the server with the administrator permission.
+- The owner of the faction must be the owner of the Discord server.
 
 :::
 
@@ -38,7 +39,12 @@ Du kan se alla nuvarande faktioner genom att [Clicka Här](https://trickys.gg/fa
 - Avatar-bild.
 - Bakgrundsbild.
 - Beskrivning av faktionen.
+- Faction Discrd server invite link.
 - Faktion avatar konturfärg.
+
+<div class="flex-vcenter mb-1">
+    <img src="/img/customprofiles/factions/factionbuttons.png"/>
+ </div>
 
 ### Faktion Avatar
 
@@ -86,6 +92,17 @@ Du får använda BBCode i faktionens beskrivning, här är vad som är tillåtet
     </p>
  </div>
 
+### Faction Discord Invite
+
+<div class="flex-vcenter mb-1">
+    <img src="/img/customprofiles/factions/factiondiscordinvite.png"/>
+    <p>
+    You can set a faction Discord server invite link.
+    The link must start with <code>https://discord.com/invite/</code> <br/>
+    Example <code>https://discord.com/invite/&#60;invite-code&#62;</code>
+  </p>
+ </div>
+
 ## Roll Hantering
 
 För att hantera rollerna i din faktion gå till `Roller` bokmärket.
@@ -107,9 +124,9 @@ Oavsett behörigheten rollen, kan rollen inte redigera sin egen roll eller rolle
 
 :::
 
-:::note
+:::note Owner Role
 
-Ägare rollen av varje faktion kan inte redigera deras egen roll eller behörigheter.
+The owner role of a faction cannot edit their own role order or permissions.
 
 :::
 
