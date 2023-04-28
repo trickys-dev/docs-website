@@ -23,8 +23,8 @@ Informacje które musisz podać aby utworzyć frakcję:
 
 :::caution Posiadasz serwer Discord?
 
-- Owners that have a Discord server for the faction they are running are required to have at least one admin from the main server in the server with the administrator permission.
-- The owner of the faction must be the owner of the Discord server.
+- Właściciele, którzy mają serwer Discord dla frakcji, która operują, muszą mieć co najmniej jednego administratora z głównego serwera na własnym serwerze z uprawnieniami administratora.
+- Właścicielem frakcji musi być właściciel serwera Discord.
 
 :::
 
@@ -39,7 +39,7 @@ Możesz zobaczyć wszystkie aktualnie istniejące frakcje [Klikając Tutaj](http
 - Awatar profilowy.
 - Obraz okładki.
 - Bio/opis.
-- Faction Discrd server invite link.
+- Link z zaproszeniem do serwera frakcji Discrd.
 - Kolor konturu awatara.
 
 <div class="flex-vcenter mb-1">
@@ -92,14 +92,14 @@ Możesz korzystać z BBCode w opisie swojej frakcji, oto co jest dozwolone:
     </p>
  </div>
 
-### Faction Discord Invite
+### Zaproszenie na serwer Discord frakcji
 
 <div class="flex-vcenter mb-1">
     <img src="/img/customprofiles/factions/factiondiscordinvite.png"/>
     <p>
     You can set a faction Discord server invite link.
-    The link must start with <code>https://discord.com/invite/</code> <br/>
-    Example <code>https://discord.com/invite/&#60;invite-code&#62;</code>
+    Link musi zaczynać się od <code>https://discord.com/invite/</code> <br/>
+    Przykład <code>https://discord.com/invite/&#60;invite-code&#62;</code>
   </p>
  </div>
 
