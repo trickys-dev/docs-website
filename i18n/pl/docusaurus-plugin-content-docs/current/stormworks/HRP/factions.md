@@ -97,7 +97,7 @@ Możesz korzystać z BBCode w opisie swojej frakcji, oto co jest dozwolone:
 <div class="flex-vcenter mb-1">
     <img src="/img/customprofiles/factions/factiondiscordinvite.png"/>
     <p>
-    You can set a faction Discord server invite link.
+    Możesz ustawić zaproszenie na serwer Discord frakcji.
     Link musi zaczynać się od <code>https://discord.com/invite/</code> <br/>
     Przykład <code>https://discord.com/invite/&#60;invite-code&#62;</code>
   </p>
@@ -124,9 +124,9 @@ Bez względu na uprawnienia, role nie mogą edytować własnej roli ani ról nad
 
 :::
 
-:::note Owner Role
+:::note Rola Właściciela
 
-The owner role of a faction cannot edit their own role order or permissions.
+Rola właściciela każdej frakcji nie może edytować tam własnych kolejności ról lub uprawnień.
 
 :::
 
