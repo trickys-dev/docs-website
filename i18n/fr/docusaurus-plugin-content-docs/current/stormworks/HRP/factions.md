@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+description: Informations sur les factions HRP
 ---
 
 # Factions

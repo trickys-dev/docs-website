@@ -1,6 +1,6 @@
 ---
 sidebar_position: 3
-description: Stormworks In-Game Commando's.
+description: Stormworks In-Game Commands
 ---
 
 

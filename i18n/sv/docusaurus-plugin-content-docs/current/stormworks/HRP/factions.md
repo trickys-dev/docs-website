@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+description: HRP Factions information
 ---
 
 # Faktioner
@@ -81,54 +82,54 @@ Du får använda BBCode i faktionens beskrivning, här är vad som är tillåtet
     <img src="/img/customprofiles/factions/factionavatarcolour.png"/>
     <p>
     Du kan välja konturfärg som finns runt din faktionsavatar.
-    The selected colour will also show in a Discord embed when you post your profile URL, example below.
+    Den valda färgen kommer också visas i en Discord embed när du skickar din profils URL, exempel nedan.
     </p>
  </div>
 
-## Role Management
+## Roll Hantering
 
-To manage roles head to the `Roles` tab on a faction your own.
+För att hantera rollerna i din faktion gå till `Roller` bokmärket.
 
 <img src="/img/hrp/factions/factionrolestab.png" />
 
-  One you click on roles you will be able to do the following:
-- Create a new role
-- Reorder the roles
-- Edit the role permissions
-- Rename roles
-- Delete roles
+  När du klickar på rollerna ska du kunna göra följande:
+- Skapa en ny roll
+- Ordna om rollerna
+- Redigera behörigheterna för rollerna
+- Byta namn av rollen
+- Ta bort roller
 
 <img src="/img/hrp/factions/factionsroleviewpage.png" />
 
 :::tip
 
-Regardless of permissions roles cannot edit their own role or roles above them.
+Oavsett behörigheten rollen, kan rollen inte redigera sin egen roll eller roller ovanför dem.
 
 :::
 
 :::note
 
-The owner role of each faction cannot edit their own role order or permissions.
+Ägare rollen av varje faktion kan inte redigera deras egen roll eller behörigheter.
 
 :::
 
-## Example
+## Exempel
 
-Below we have an example of what the outcome would look like if you customize everything.
+Nedan har vi ett exempel på hur resultatet skulle se ut om du har anpassat allting.
 
-### Custom Faction Example
+### Exempel på en anpassad faktion
 
 <div class="flex-vcenter mb-1">
     <img src="/img/customprofiles/factions/factionexamplediscord.png"/>
    <p>
-    <b>Sharing Faction Link</b><br/>
-    Sharing a link on discord will show a embed of your faction including the custom colour & the avatar that you set.
+    <b>Att dela faktions länken</b><br/>
+    När man delar faktions länken på Discord kommer visa en embed av din faktion inkluderad med anpassade färgen och avataren du valde.
     </p>
 </div>
    <div class="flex-vcenter mb-1">
     <img src="/img/customprofiles/factions/factionexampleavatar.png"/>
    <p>
-     <b>Avatar Outline Colour</b><br/>
-    Viewing profile with selected colour on website.
+     <b>Avatar Kontur Färg</b><br/>
+    Visning av profil med valda färgen på webbsidan.
     </p>
 </div>

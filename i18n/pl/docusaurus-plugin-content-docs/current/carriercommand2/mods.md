@@ -1,5 +1,6 @@
 ---
 sidebar_position: 0
+description: Carrier Command 2 Mods
 ---
 
 # Modyfikacje

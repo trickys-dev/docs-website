@@ -1,5 +1,6 @@
 ---
 sidebar_position: 3
+description: Informations sur les boosters Patreon & Serveur
 ---
 
 # Contributeurs
@@ -184,12 +185,12 @@ Notre Patreon sera utilisé pour financer
     <td class="text-center"><i class="fa-fw text-success">10</i></td>
 </tr>
 <tr>
-    <th scope="row"><a href="/stormworks/commands">Limite de</a> Véhicule (HRP3: 3)</th>
-    <td class="text-center"><i class="fa-fw text-success">2</i></td>
-    <td class="text-center"><i class="fa-fw text-success">3</i></td>
-    <td class="text-center"><i class="fa-fw text-success">3</i></td>
-    <td class="text-center"><i class="fa-fw text-success">4</i></td>
-    <td class="text-center"><i class="fa-fw text-success">5</i></td>
+    <th scope="row">Vehicle limit</th>
+    <td class="text-center"><i class="fa-fw text-success">+1</i></td>
+    <td class="text-center"><i class="fa-fw text-success">+2</i></td>
+    <td class="text-center"><i class="fa-fw text-success">+2</i></td>
+    <td class="text-center"><i class="fa-fw text-success">+3</i></td>
+    <td class="text-center"><i class="fa-fw text-success">+4</i></td>
 </tr>
 <tr>
     <th colspan="6" class="tricky-color">Minecraft (Vanilla)</th>
