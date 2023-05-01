@@ -39,7 +39,7 @@ Vous pouvez voir toutes les factions actuelles en [cliquant ici](https://trickys
 - Image d'avatar.
 - Image de présentation.
 - Bio/description.
-- Lien d'invitation du serveur Discrd de faction.
+- Lien d'invitation du serveur Discord de faction.
 - Couleur du contour extérieur de l'avatar.
 
 <div class="flex-vcenter mb-1">
