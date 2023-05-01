@@ -185,7 +185,7 @@ Nasz Patreon będzie używany do płacenia za
     <td class="text-center"><i class="fa-fw text-success">10</i></td>
 </tr>
 <tr>
-    <th scope="row">Limit Pojazdów</th>
+    <th scope="row">Vehicle limit (<a href="/stormworks/sw-servers">Above Limit</a>)</th>
     <td class="text-center"><i class="fa-fw text-success">+1</i></td>
     <td class="text-center"><i class="fa-fw text-success">+2</i></td>
     <td class="text-center"><i class="fa-fw text-success">+2</i></td>
