@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-description: HRP Factions information
+description: Informacje o frakcjach HRP
 ---
 
 # Frakcje
@@ -23,7 +23,8 @@ Informacje które musisz podać aby utworzyć frakcję:
 
 :::caution Posiadasz serwer Discord?
 
-Właściciele, którzy mają serwer Discord dla frakcji, w której są obecni, muszą mieć co najmniej jednego administratora na serwerze z uprawnieniami administratora.
+- Właściciele, którzy mają serwer Discord dla frakcji, która operują, muszą mieć co najmniej jednego administratora z głównego serwera na własnym serwerze z uprawnieniami administratora.
+- Właścicielem frakcji musi być właściciel serwera Discord.
 
 :::
 
@@ -38,7 +39,12 @@ Możesz zobaczyć wszystkie aktualnie istniejące frakcje [Klikając Tutaj](http
 - Awatar profilowy.
 - Obraz okładki.
 - Bio/opis.
+- Link z zaproszeniem do serwera frakcji Discrd.
 - Kolor konturu awatara.
+
+<div class="flex-vcenter mb-1">
+    <img src="/img/customprofiles/factions/factionbuttons.png"/>
+ </div>
 
 ### Awatar Frakcji
 
@@ -86,6 +92,17 @@ Możesz korzystać z BBCode w opisie swojej frakcji, oto co jest dozwolone:
     </p>
  </div>
 
+### Zaproszenie na serwer Discord frakcji
+
+<div class="flex-vcenter mb-1">
+    <img src="/img/customprofiles/factions/factiondiscordinvite.png"/>
+    <p>
+    Możesz ustawić zaproszenie na serwer Discord frakcji.
+    Link musi zaczynać się od <code>https://discord.com/invite/</code> <br/>
+    Przykład <code>https://discord.com/invite/&#60;invite-code&#62;</code>
+  </p>
+ </div>
+
 ## Zarządzanie Rolami
 
 Aby zarządzać rolami w twojej frakcji, kliknij zakładkę `Roles`.
@@ -107,7 +124,7 @@ Bez względu na uprawnienia, role nie mogą edytować własnej roli ani ról nad
 
 :::
 
-:::note
+:::note Rola Właściciela
 
 Rola właściciela każdej frakcji nie może edytować tam własnych kolejności ról lub uprawnień.
 

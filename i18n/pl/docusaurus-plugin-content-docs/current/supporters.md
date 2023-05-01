@@ -1,6 +1,6 @@
 ---
 sidebar_position: 3
-description: Patreon & Server boosters information
+description: Informacje o Patreon i Boosterach serwera
 ---
 
 # Patroni
@@ -185,7 +185,7 @@ Nasz Patreon będzie używany do płacenia za
     <td class="text-center"><i class="fa-fw text-success">10</i></td>
 </tr>
 <tr>
-    <th scope="row">Vehicle limit</th>
+    <th scope="row">Vehicle limit (<a href="/stormworks/sw-servers">Above Limit</a>)</th>
     <td class="text-center"><i class="fa-fw text-success">+1</i></td>
     <td class="text-center"><i class="fa-fw text-success">+2</i></td>
     <td class="text-center"><i class="fa-fw text-success">+2</i></td>

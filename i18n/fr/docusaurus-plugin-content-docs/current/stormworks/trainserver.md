@@ -81,15 +81,15 @@ Tous les signaux sur ce chemin de fer sont des signaux de sémaphore du quadrant
 
 ## Signaleurs
 
-Info coming soon...
+Informations bientôt à venir...
 
 ### Application pour les Signaleurs
 
-To apply to be a Signaller you need to [<a class="discord-text">#submit-a-ticket</a>](discord://discord.com/channels/710922135580835950/846373509470748722) on discord, and say that you are looking to become a signaller. When applying for signaller the following will be checked;
-- Ban history - If you have been banned on our servers within the last 12 months from when you apply then you cannot apply, however this does depend on a few factors.
-- Serious notes - Do you have any "serious" notes on ur account with us. When you apply for any role that we offer we just take a look at you're notes that staff use. (no you cannot ask "do i have any notes on my account"), these notes are for staff only.
-- Do you have a good standing within the community!
-- How long have you been a member with us!
+Pour postuler pour être Signaller, vous devez [<a class="discord-text">#submit-a-ticket</a>](discord://discord.com/channels/710922135580835950/846373509470748722) sur discord, et dire que vous cherchez à devenir un signal. Lors de la demande de signaliseur, ce qui suit sera vérifié;
+- Historique des bannissements - Si vous avez été banni sur nos serveurs au cours des 12 derniers mois à partir de la date de votre demande, vous ne pouvez pas postuler, Cependant, cela dépend de quelques facteurs.
+- Notes graves - Avez-vous des notes « sérieuses » sur notre compte . Lorsque vous postulez pour n'importe quel rôle que nous offrons, nous vous invitons à jeter un coup d'œil à ce que le personnel utilise. (vous ne pouvez pas demander "j'ai des notes sur mon compte), ces notes sont pour le personnel seulement.
+- Avez-vous une bonne réputation au sein de la communauté !
+- Depuis combien de temps êtes-vous membre avec nous!
 
 
 

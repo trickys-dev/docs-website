@@ -176,7 +176,7 @@ Wpisz komendę <a class="code-text">/getveteran</a> na [Discordzie](discord://di
 
 Te role są przyznawane w pełni automatycznie.
 
-Chcesz zostać patronem? [Click Here](/supporters)
+Chcesz zostać patronem? [Kliknij Tutaj](/supporters)
 
 <table class="table nowrap table-dark table-sm">
 <thead>

@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-description: HRP Factions information
+description: HRP Faktions information
 ---
 
 # Faktioner
@@ -23,7 +23,8 @@ Information som du behöver att ge för att skapa en faktion:
 
 :::caution Har en discord server?
 
-Faktion ägare som har en discord server för deras faktion som de leder behöver att ha i alla fall en admin i servern med administratör permissioner.
+- Ägare som har en Discord server för faktionen som de leder behöver ha minst en admin från huvudservern med administrator permissioner.
+- Ägaren av faktionen måste vara ägaren till Discord servern.
 
 :::
 
@@ -38,7 +39,12 @@ Du kan se alla nuvarande faktioner genom att [Clicka Här](https://trickys.gg/fa
 - Avatar-bild.
 - Bakgrundsbild.
 - Beskrivning av faktionen.
+- Faktionens Discord server inbjudnings länk.
 - Faktion avatar konturfärg.
+
+<div class="flex-vcenter mb-1">
+    <img src="/img/customprofiles/factions/factionbuttons.png"/>
+ </div>
 
 ### Faktion Avatar
 
@@ -86,6 +92,17 @@ Du får använda BBCode i faktionens beskrivning, här är vad som är tillåtet
     </p>
  </div>
 
+### Faktion Discord Inbjudan
+
+<div class="flex-vcenter mb-1">
+    <img src="/img/customprofiles/factions/factiondiscordinvite.png"/>
+    <p>
+    Du kan sätta en faktion Discord server inbjudnings länk.
+    Länken måste starta med <code>https://discord.com/invite/</code> <br/>
+    Exempel <code>https://discord.com/invite/&#60;invite-code&#62;</code>
+  </p>
+ </div>
+
 ## Roll Hantering
 
 För att hantera rollerna i din faktion gå till `Roller` bokmärket.
@@ -107,9 +124,9 @@ Oavsett behörigheten rollen, kan rollen inte redigera sin egen roll eller rolle
 
 :::
 
-:::note
+:::note Ägare rollen
 
-Ägare rollen av varje faktion kan inte redigera deras egen roll eller behörigheter.
+Ägar rollen av en faktion kan inte redigera sin egen rolls ordning eller behörigheter.
 
 :::
 

@@ -1,6 +1,6 @@
 ---
 sidebar_position: 3
-description: Stormworks Train Server Information
+description: Informacje o Serwerze Pociągów
 ---
 
 # Serwer pociągów
@@ -81,15 +81,15 @@ Wszystkie sygnały na tej linii kolejowej są semaforami kształtowymi, oznacza 
 
 ## Kontrolerzy Ruchu
 
-Info coming soon...
+Wkrótce...
 
 ### Aplikowanie do roli Kontrolera Ruchu
 
-To apply to be a Signaller you need to [<a class="discord-text">#submit-a-ticket</a>](discord://discord.com/channels/710922135580835950/846373509470748722) on discord, and say that you are looking to become a signaller. When applying for signaller the following will be checked;
-- Ban history - If you have been banned on our servers within the last 12 months from when you apply then you cannot apply, however this does depend on a few factors.
-- Serious notes - Do you have any "serious" notes on ur account with us. When you apply for any role that we offer we just take a look at you're notes that staff use. (no you cannot ask "do i have any notes on my account"), these notes are for staff only.
-- Do you have a good standing within the community!
-- How long have you been a member with us!
+Aby zaaplikować jako Kontroler Ruchu, musisz wysłać zgłoszenie do [<a class="discord-text">#submit-a-ticket</a>](discord://discord.com/channels/710922135580835950/846373509470748722) na serwerze Discord, w którym powiesz, że chcesz zostać kontrolerem. Przy składaniu wniosku na kontrolera ruchu, sprawdzane są następujące elementy;
+- Historia Banów - Jeżeli byłeś zbanowany na jednym z naszych serwerów w ciągu 12 miesięcy przed zgłoszeniem, wtedy nie możesz się zgłosić, z kilkoma wyjątkami.
+- Poważne uwagi - Czy masz jakieś "poważne" notatki na twoim koncie u nas. Kiedy ubiegasz się o jakąkolwiek rolę, którą oferujemy, przyjrzymy się notatkom, które prowadzi administracja. (Nie, nie możesz się zapytać: "Czy mam jakieś notatki u was o moim koncie?"), one są tylko dla personelu.
+- Czy jesteś lubiany w naszej społeczności!
+- Jak długo jesteś członkiem naszej grupy!
 
 
 
