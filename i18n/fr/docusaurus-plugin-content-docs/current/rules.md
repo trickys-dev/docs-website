@@ -42,23 +42,23 @@ export default function ControlledAccordions() { const [expanded, setExpanded] =
         </AccordionSummary>
         <AccordionDetails>
         <Typography>
-          1. Use common sense.<br/>
-          2. Don't spawn large or complex vehicles.<br/>
-          3. No Spawning vehicles from the <a href="https://trickys.gg/vehiclebans">Vehicle Ban List</a>.<br/>
-          4. Despawn unused & broken vehicles. (<a href="/stormworks/commands">?clean or ?c</a>)<br/>
-          5. No advertising in-game (example: having server names and/or logos on vehicles).<br/>
-          6. No modified workbenches.<br/>
-          7. No using structure workbenches.<br/>
-          8. <a href="https://trickys.gg/staffteam">Staff</a> have final say.<br/>
-          9. Malicious or exploitative use of alternate steam accounts is strictly prohibited.<br/>
-          10. You need a <a href="/stormworks/boats">Boat License</a> to use boats on servers 1,2,3.<br/>
-          11. Do not fire inside the <a href="/stormworks/no-fire-zone">NFZ</a>, this is a safe zone.<br/>
-          12. Do not use nuclear weapons anywhere.<br/>
-          13. Do not spam chat or voice. (music is not allowed within 1km of spawn)<br/>
-          14. Do not grief/intentionally ruin the fun of gameplay for other users.<br/><br/>
-          Roleplay Laws For Servers 3,4,5<br/>
-          1. <a href="/hrplaws">Game Laws</a><br/>
-          2. <a href="https://trickys.gg/staffteam">RP Charter</a>
+          1. Utilisez le bon sens.<br/>
+          2. N'apparaissez pas de gros véhicules ou de complexes.<br/>
+          3. Pas de véhicules d'apparition dans la <a href="https://trickys.gg/vehiclebans">Liste d'interdiction de véhicule</a>.<br/>
+          4. Faire disparaître les véhicules non utilisés ou brisés. (<a href="/stormworks/commands">?clean ou ?c</a>)<br/>
+          5. Aucune publicité en jeu (exemple : avoir des noms de serveurs et/ou des logos sur les véhicules).<br/>
+          6. Aucun atelier modifié.<br/>
+          7. Pas d'ateliers de structure utilisés.<br/>
+          8. <a href="https://trickys.gg/staffteam">Staff</a> ont le dernier mot.<br/>
+          9. L'utilisation malveillante ou exploitation de comptes discord alternatifs sera punie correctement.<br/>
+          10. Vous avez besoin d'une licence de bateau <a href="/stormworks/boats"></a> pour utiliser des bateaux sur des serveurs 1,2,3.<br/>
+          11. Ne tirez pas à l'intérieur de la <a href="/stormworks/no-fire-zone">NFZ</a>, c'est une zone sûre.<br/>
+          12. N'utilisez pas d'armes nucléaires nulle part.<br/>
+          13. Ne spammez pas le chat ou la voix. (la musique n'est pas autorisée à moins de 1 km d'apparition)<br/>
+          14. Ne chagrinez pas intentionnellement le plaisir du jeu pour les autres utilisateurs.<br/><br/>
+          Lois de Roleplay pour les serveurs 3,4,5<br/>
+          1. <a href="/hrplaws">Loi sur les jeux</a><br/>
+          2. <a href="https://trickys.gg/staffteam">Charte RP</a>
         </Typography>
         </AccordionDetails>
       </Accordion>
@@ -66,58 +66,59 @@ export default function ControlledAccordions() { const [expanded, setExpanded] =
     {/* #region ATS/ETS Rules */}
       <Accordion expanded={expanded === 'panel3'} onChange={handleChange('panel3')}>
         <AccordionSummary expandIcon={<ExpandMoreIcon />}>
-          <Typography><i class="fas fas fa-truck"></i> ETS/ATS Server Rules</Typography>
+          <Typography><i class="fas fas fa-truck"></i> Règles du serveur ETS/ATS</Typography>
         </AccordionSummary>
         <AccordionDetails>
         <Typography>
-          All up-to-date company rules can be viewed in <a href="https://trucksbook.eu/company/125046">Trucksbook</a>.
+          Toutes les règles de la société à jour peuvent être consultées dans <a href="https://trucksbook.eu/company/125046">Trucksbook</a>.
         </Typography>
         </AccordionDetails>
       </Accordion>
     {/* #endregion */}
-    {/* #region FS22 Rules */}
+    {/* #region ATS/ETS Rules */}
       <Accordion expanded={expanded === 'panel4'} onChange={handleChange('panel4')}>
         <AccordionSummary expandIcon={<ExpandMoreIcon />}>
-          <Typography><i class="fas fa-tractor"></i> FS22 Server Rules</Typography>
+          <Typography><i class="fas fa-tractor"></i> Règles du serveur</Typography>
         </AccordionSummary>
         <AccordionDetails>
         <Typography>
-          <span class="tricky-color">General Rules</span><br/>
-          1.1 Do not sabotage other peoples work.<br/>
-          1.2 Always show respect for other peoples equipment, crops and livestock.<br/>
-          1.3 Always listen to the farm manager when working as a farm worker or contractor.<br/>
-          1.4 Do not create landscapes that will spoil the map for everyone (e.g a large unnatural mountain on your field).<br/>
-          1.5 Use common sense.<br/>
-           <span class="tricky-color">Trees</span><br/>
-          2.1 Only cut down trees on your property or property that you are contacted on.<br/>
-          2.2 Trees must be properly stored, scattered trees left on fields or roads will result in a fine.<br/>
-           <span class="tricky-color">Driving</span><br/>
-          3.1 If you are carrying a load or implement beacons must be on.<br/>
-          3.2 Drivers must adhere to the correct side of the road depending on the map.<br/>
-          3.3 Crashing into another vehicle(player), compensation may be asked for.<br/>
-           <span class="tricky-color">Punishment & Fines</span><br/>
-          These will result in a warning or a fine;<br/>
-          4.1 Fly-tipping - leaving bags or pallets around the map will result in a fine per item from the bank.<br/>
-          4.2 Leaving vehicles or equipment in or around the shop will result in a fine.<br/>
-          4.3 Dumping bulk (straw, grains, wood chippings etc) on the road.<br/>
-          4.4 Blocking roads, sell points or other peoples fields with objects.<br/>
-          4.5 The bank can issue fines to any farm when they see sit, even for something that is not stated in these rules.<br/>
-           <span class="tricky-color">Debt</span><br/>
-          Green (£0 - £-25,000), Yellow (£-25,001 - £-40,000), Red (£-40,001 - £-50,000+)<br/>
-          5.1 Reaching yellow will get you a warning, when reaching red you will get one last warning, when you go over red the bank gets involved.<br/>
-           <span class="tricky-color">FS22 Generators</span><br/>
-          6.1 Small farms* are allowed to use a generator that produces upto 14k a month.<br/>
-          *A small farm is a farm that owns upto or less then 2 land tiles.<br/>
-          6.2 All other farms are considered big and should be independant (have no generators).<br/>
-          Breaking either of these will result in farm deleation.<br/>
+          <span class="tricky-color">Règles générales</span><br/>
+          1. Ne sabotez pas le travail des autres joueurs.<br/>
+          1.2 Faites toujours preuve de respect pour les équipements, les cultures et le bétail des autres joueurs.<br/>
+          1. Écoutez toujours le gestionnaire de la ferme lorsque vous travaillez en tant que travailleur ou entrepreneur.<br/>
+          1. Ne pas créer des paysages qui gâcheront la carte pour tout le monde (e. une grande montagne contre nature sur votre champ).<br/>
+          1.5 Utilisez le bon sens.<br/>
+           <span class="tricky-color">Arbres</span><br/>
+          2. Ne coupez que des arbres sur votre propriété ou sur laquelle vous êtes contacté.<br/>
+          2. Les arbres doivent être entreposés comme il se doit, les arbres dispersés laissés sur les champs ou les routes se solderont par une amende.<br/>
+           <span class="tricky-color">Conduite</span><br/>
+          3. Si vous portez une charge ou implantez des balises doivent être activées.<br/>
+          3. Les conducteurs doivent respecter le bon côté de la route en fonction de la carte.<br/>
+          3.3 Crashing dans un autre véhicule(joueur), une compensation peut être demandée.<br/>
+           <span class="tricky-color">punitions et amendes</span><br/>
+          Celles-ci entraîneront une alerte ou une amende;<br/>
+          4. Astuce - le fait de laisser des sacs ou des palettes autour de la carte entraînera une amende par article de la banque.<br/>
+          4. Laisser des véhicules ou de l'équipement dans ou autour de la boutique se traduira par une amende.<br/>
+          4.3 Vrac de vidage (paille, grains, copeaux de bois, etc) sur la route.<br/>
+          
+ 4.4 Bloquer les routes, vendre des points ou d'autres champs de peuples avec des objets.<br/>
+          4. La banque peut infliger des amendes à n'importe quelle ferme quand elle se voit assise, même pour quelque chose qui n'est pas stipulé dans ces règles.<br/>
+           <span class="tricky-color">dettes</span><br/>
+          vert (0 - 25 £, 00), Jaune (£-25,001 - £-40,000), Rouge (£-40,001 - £-50,000+)<br/>
+          5. Atteindre le jaune vous donnera un avertissement, en atteignant le rouge, vous recevrez un dernier avertissement, quand vous dépassez le rouge, la banque s'implique.<br/>
+           <span class="tricky-color">Générateurs FS22</span><br/>
+          6. Les petites fermes* sont autorisées à utiliser un générateur qui produit jusqu'à 14k par mois.<br/>
+          *Une petite ferme est une ferme qui possède jusqu'à 2 parcelles de terre.<br/>
+          6. Toutes les autres fermes sont considérées comme grandes et doivent être indépendantes (n'ont pas de générateurs).<br/>
+          La rupture de l'un d'eux entraînera la suppression de la ferme.<br/>
         </Typography>
         </AccordionDetails>
       </Accordion>
     {/* #endregion */}
-    {/* #region Minecraft Rules */}
+    {/* #region Ats/Ets Rules */}
       <Accordion expanded={expanded === 'panel5'} onChange={handleChange('panel5')}>
         <AccordionSummary expandIcon={<ExpandMoreIcon />}>
-          <Typography><i class="fa-solid fa-square-full"></i> Minecraft Server Rules</Typography>
+          <Typography><i class="fa-solid fa-square-full"></i> Serveurs Minecraft</Typography>
         </AccordionSummary>
         <AccordionDetails>
         <Typography>
@@ -126,43 +127,43 @@ a
         </AccordionDetails>
       </Accordion>
     {/* #endregion */}
-    {/* #region KSP Rules */}
+    {/* #region ATS/ETS Rules */}
       <Accordion expanded={expanded === 'panel6'} onChange={handleChange('panel6')}>
         <AccordionSummary expandIcon={<ExpandMoreIcon />}>
-          <Typography><i class="fas fa-user-astronaut"></i> KSP Server Rules</Typography>
+          <Typography><i class="fas fa-user-astronaut"></i> Règles du serveur KSP</Typography>
         </AccordionSummary>
         <AccordionDetails>
         <Typography>
-          1. Use common sense.<br/>
-          2. Don't spawn vehicles that cause significant lag.<br/>
-          3. No messing with other players vehicles or Kerbals.<br/>
-          4. No removing other players vehicles unless you have the permission of the person who spawned them.<br/>
-          5. Remove vehicles that either you do not plan to use and/or will not benefit the server.<br/>
-          6. <a href="https://trickys.gg/staffteam">Staff</a> have the final say.<br/>
+          1. Utilisez le bon sens.<br/>
+          2. Ne faites pas apparaître des véhicules qui causent un lag significatif.<br/>
+          3. Pas de désordres avec les véhicules des autres joueurs ou les Kerbals.<br/>
+          4. Il ne faut pas retirer les véhicules des autres joueurs sauf si vous avez la permission de la personne qui les a créés.<br/>
+          5. Supprimez les véhicules que vous ne prévoyez pas d'utiliser et/ou qui ne bénéficieront pas au serveur.<br/>
+          6. <a href="https://trickys.gg/staffteam">Staff</a> ont le dernier mot.<br/>
         </Typography>
         </AccordionDetails>
       </Accordion>
     {/* #endregion */}
-    {/* #region CC2 Rules */}
+    {/* #region ATS/ETS Rules */}
       <Accordion expanded={expanded === 'panel7'} onChange={handleChange('panel7')}>
         <AccordionSummary expandIcon={<ExpandMoreIcon />}>
-          <Typography><i class="fas fa-ship"></i> CC2 Server Rules</Typography>
+          <Typography><i class="fas fa-ship"></i> Règles du serveur CC2</Typography>
         </AccordionSummary>
         <AccordionDetails>
         <Typography>
-          1. Use common sense.<br/>
+          1. Utiliser le sens commun.<br/>
         </Typography>
         </AccordionDetails>
       </Accordion>
     {/* #endregion */}
-    {/* #region CC2 Rules */}
+    {/* #region ATS/ETS Rules */}
       <Accordion expanded={expanded === 'panel8'} onChange={handleChange('panel8')}>
         <AccordionSummary expandIcon={<ExpandMoreIcon />}>
-          <Typography><i class="fas fa-car"></i> MotorTown Server Rules</Typography>
+          <Typography><i class="fas fa-car"></i> Règles du serveur MotorTown</Typography>
         </AccordionSummary>
         <AccordionDetails>
         <Typography>
-          1. Use common sense.<br/>
+          1. Utiliser le sens commun.<br/>
         </Typography>
         </AccordionDetails>
       </Accordion>
