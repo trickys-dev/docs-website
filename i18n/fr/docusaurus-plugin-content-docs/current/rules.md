@@ -14,7 +14,7 @@ import ExpandMoreIcon from '@mui/icons-material/ExpandMore';
 export default function ControlledAccordions() { const [expanded, setExpanded] = React.useState(false); const handleChange =(panel) => (event, isExpanded) => { setExpanded(isExpanded ? panel : false); }; return (
     <div>
     {/* #region Discord Rules & Info */}
-      <Accordion expanded={expanded === 'panel1'} onChange={handleChange('panel1')}>
+      <Accordion expanded={expanded === 'dcpanel'} onChange={handleChange('dcpanel')}>
         <AccordionSummary expandIcon={<ExpandMoreIcon />}>
           <Typography><i class="fab fa-discord"></i> Information des Rôles Discord</Typography>
         </AccordionSummary>
@@ -36,35 +36,36 @@ export default function ControlledAccordions() { const [expanded, setExpanded] =
       </Accordion>
     {/* #endregion */}
     {/* #region Stormworks Rules */}
-      <Accordion expanded={expanded === 'panel2'} onChange={handleChange('panel2')}>
+      <Accordion expanded={expanded === 'swpanel'} onChange={handleChange('swpanel')}>
         <AccordionSummary expandIcon={<ExpandMoreIcon />}>
           <Typography><i class="fa-solid fa-anchor"></i> Documentation du serveur Stormworks</Typography>
         </AccordionSummary>
         <AccordionDetails>
         <Typography>
+          <b>The following rules apply to all servers:</b><br/>
           1. Utilisez le bon sens.<br/>
           2. N'apparaissez pas de gros véhicules ou de complexes.<br/>
           3. Pas de véhicules d'apparition dans la <a href="https://trickys.gg/vehiclebans">Liste d'interdiction de véhicule</a>.<br/>
           4. Faire disparaître les véhicules non utilisés ou brisés. (<a href="/stormworks/commands">?clean ou ?c</a>)<br/>
-          5. Aucune publicité en jeu (exemple : avoir des noms de serveurs et/ou des logos sur les véhicules).<br/>
+          5. No advertising in-game.<br/>
           6. Aucun atelier modifié.<br/>
           7. Pas d'ateliers de structure utilisés.<br/>
           8. <a href="https://trickys.gg/staffteam">Staff</a> ont le dernier mot.<br/>
           9. L'utilisation malveillante ou exploitation de comptes discord alternatifs sera punie correctement.<br/>
           10. Vous avez besoin d'une licence de bateau <a href="/stormworks/boats"></a> pour utiliser des bateaux sur des serveurs 1,2,3.<br/>
-          11. Ne tirez pas à l'intérieur de la <a href="/stormworks/no-fire-zone">NFZ</a>, c'est une zone sûre.<br/>
-          12. N'utilisez pas d'armes nucléaires nulle part.<br/>
+          11. Do not fire inside the <a href="/stormworks/no-fire-zone">NFZ</a>, this is a safe zone. Using weapons in non weapons servers is prohibited.<br/>
+          12. The usage of nuclear weapons is prohibited.<br/>
           13. Ne spammez pas le chat ou la voix. (la musique n'est pas autorisée à moins de 1 km d'apparition)<br/>
           14. Ne chagrinez pas intentionnellement le plaisir du jeu pour les autres utilisateurs.<br/><br/>
           Lois de Roleplay pour les serveurs 3,4,5<br/>
-          1. <a href="/hrplaws">Loi sur les jeux</a><br/>
+          1. <a href="/hrplaws">Loi sur le jeu</a><br/>
           2. <a href="https://trickys.gg/staffteam">Charte RP</a>
         </Typography>
         </AccordionDetails>
       </Accordion>
     {/* #endregion */}
     {/* #region ATS/ETS Rules */}
-      <Accordion expanded={expanded === 'panel3'} onChange={handleChange('panel3')}>
+      <Accordion expanded={expanded === 'truckpanel'} onChange={handleChange('truckpanel')}>
         <AccordionSummary expandIcon={<ExpandMoreIcon />}>
           <Typography><i class="fas fas fa-truck"></i> Règles du serveur ETS/ATS</Typography>
         </AccordionSummary>
@@ -75,8 +76,8 @@ export default function ControlledAccordions() { const [expanded, setExpanded] =
         </AccordionDetails>
       </Accordion>
     {/* #endregion */}
-    {/* #region ATS/ETS Rules */}
-      <Accordion expanded={expanded === 'panel4'} onChange={handleChange('panel4')}>
+    {/* #region FS22 Rules */}
+      <Accordion expanded={expanded === 'fs22panel'} onChange={handleChange('fs22panel')}>
         <AccordionSummary expandIcon={<ExpandMoreIcon />}>
           <Typography><i class="fas fa-tractor"></i> Règles du serveur</Typography>
         </AccordionSummary>
@@ -115,27 +116,38 @@ export default function ControlledAccordions() { const [expanded, setExpanded] =
         </AccordionDetails>
       </Accordion>
     {/* #endregion */}
-    {/* #region Ats/Ets Rules */}
-      <Accordion expanded={expanded === 'panel5'} onChange={handleChange('panel5')}>
+    {/* #region Minecraft Rules */}
+      <Accordion expanded={expanded === 'mcpanel'} onChange={handleChange('mcpanel')}>
         <AccordionSummary expandIcon={<ExpandMoreIcon />}>
           <Typography><i class="fa-solid fa-square-full"></i> Serveurs Minecraft</Typography>
         </AccordionSummary>
         <AccordionDetails>
         <Typography>
-a
+        <span class="tricky-color">General Rules</span><br/>
+        1. No purposeful lagging of the server.<br/>
+        2. Any act of exploting bug/s is an immediate ban.<br/>
+        3. No Nukes within two rtp range of any claimed chunk.<br/>
+        4. If two or more players are playing together and are  bassmates (players that share a base/s) you are required to be in the same team/party. (Using FTBchunks)<br/>
+        5. You are allowed a maximum of four mining machines (Quarries, Digital Miners, etc) per team/party running at a time. (See rule 4)<br/>
+        6. Minecraft Game Manager has final say.<br/>
+        <span class="tricky-color">Dimension Specific Rules</span><br/>
+        End Rules:<br/>
+        1. Anything on the main End island can not be claimed (This does not include the End city)<br/>
+        2. Spawn platform may not be changed in anyway<br/>
+        3. Bedrock portals to leave or enter the End City may not be claimed or changed in anyway<br/>
         </Typography>
         </AccordionDetails>
       </Accordion>
     {/* #endregion */}
-    {/* #region ATS/ETS Rules */}
-      <Accordion expanded={expanded === 'panel6'} onChange={handleChange('panel6')}>
+    {/* #region KSP Rules */}
+      <Accordion expanded={expanded === 'ksppanel'} onChange={handleChange('ksppanel')}>
         <AccordionSummary expandIcon={<ExpandMoreIcon />}>
           <Typography><i class="fas fa-user-astronaut"></i> Règles du serveur KSP</Typography>
         </AccordionSummary>
         <AccordionDetails>
         <Typography>
           1. Utilisez le bon sens.<br/>
-          2. Ne faites pas apparaître des véhicules qui causent un lag significatif.<br/>
+          2. Ne faites pas apparaître des véhicules qui causent un retard significatif.<br/>
           3. Pas de désordres avec les véhicules des autres joueurs ou les Kerbals.<br/>
           4. Il ne faut pas retirer les véhicules des autres joueurs sauf si vous avez la permission de la personne qui les a créés.<br/>
           5. Supprimez les véhicules que vous ne prévoyez pas d'utiliser et/ou qui ne bénéficieront pas au serveur.<br/>
@@ -144,26 +156,65 @@ a
         </AccordionDetails>
       </Accordion>
     {/* #endregion */}
-    {/* #region ATS/ETS Rules */}
-      <Accordion expanded={expanded === 'panel7'} onChange={handleChange('panel7')}>
+    {/* #region CC2 Rules */}
+      <Accordion expanded={expanded === 'cc2panel'} onChange={handleChange('cc2panel')}>
         <AccordionSummary expandIcon={<ExpandMoreIcon />}>
           <Typography><i class="fas fa-ship"></i> Règles du serveur CC2</Typography>
         </AccordionSummary>
         <AccordionDetails>
         <Typography>
-          1. Utiliser le sens commun.<br/>
+          1. Do not grief/intentionally ruin the fun of gameplay for other users.<br/>
         </Typography>
         </AccordionDetails>
       </Accordion>
     {/* #endregion */}
-    {/* #region ATS/ETS Rules */}
-      <Accordion expanded={expanded === 'panel8'} onChange={handleChange('panel8')}>
+    {/* #region BeamMP Rules */}
+      <Accordion expanded={expanded === 'beampanel'} onChange={handleChange('beampanel')}>
+        <AccordionSummary expandIcon={<ExpandMoreIcon />}>
+          <Typography><i class="fa-solid fa-car-side"></i> BeamMP Server Rules</Typography>
+        </AccordionSummary>
+        <AccordionDetails>
+        <Typography>
+          1. Do not grief/intentionally ruin the fun of gameplay for other users.<br/>
+        </Typography>
+        </AccordionDetails>
+      </Accordion>
+    {/* #endregion */}
+    {/* #region Project Zomboid Rules */}
+      <Accordion  disabled expanded={expanded === 'pzpanel'} onChange={handleChange('pzpanel')}>
+        <AccordionSummary expandIcon={<ExpandMoreIcon />}>
+          <Typography><i class="fa-solid fa-biohazard"></i> Project Zomboid Server Rules</Typography>
+        </AccordionSummary>
+        <AccordionDetails>
+        <Typography>
+          To be added
+        </Typography>
+        </AccordionDetails>
+      </Accordion>
+    {/* #endregion */}
+    {/* #region Factorio Rules */}
+      <Accordion  disabled expanded={expanded === 'factpanel'} onChange={handleChange('factpanel')}>
+        <AccordionSummary expandIcon={<ExpandMoreIcon />}>
+          <Typography><i class="fa-solid fa-industry"></i> Factorio Server Rules</Typography>
+        </AccordionSummary>
+        <AccordionDetails>
+        <Typography>
+          To be added
+        </Typography>
+        </AccordionDetails>
+      </Accordion>
+    {/* #endregion */}
+    {/* #region MotorTown Rules */}
+      <Accordion expanded={expanded === 'mtpanel'} onChange={handleChange('mtpanel')}>
         <AccordionSummary expandIcon={<ExpandMoreIcon />}>
           <Typography><i class="fas fa-car"></i> Règles du serveur MotorTown</Typography>
         </AccordionSummary>
         <AccordionDetails>
         <Typography>
-          1. Utiliser le sens commun.<br/>
+          1. Police jobs are limited to <a href="https://trickys.gg/staffteam">moderation staff</a> only.<br/>
+          2. Respect players and their jobs.<br/>
+          3. No modding, cheating or causing lag intentionally.<br/>
+          4. <a href="https://trickys.gg/staffteam">Staff</a> have final say.<br/>
         </Typography>
         </AccordionDetails>
       </Accordion>
