@@ -9,15 +9,15 @@ description: Informations sur les factions HRP
 
 Nous sommes toujours en train de créer une application qui crée automatiquement votre faction, jusqu'à ce que vous puissiez créer un ticket sur discord.
 
-- You can only own one faction.
-- Changing the name of a faction (including the TAG) or to transfer ownership will cost `500⎈`
+- Vous ne pouvez posséder qu'une seule faction.
+- Changer le nom d'une faction (y compris le TAG) ou d'un transfert de propriété coûtera `500<unk>`
 
 Informations que vous devez fournir pour créer une faction:
 1. Type de faction :
-    - Small - `max roles: 5, max users: 10, cost to create: 200⎈`
-    - Medium - `max roles: 10, max users: 25, cost to create: 400⎈`
-    - Large - `max roles: 15, max users: 50, cost to create: 1000⎈`
-    - Enterprise - `max roles: 15, max users: 100, cost to create: 2500⎈`
+    - Petits - `rôles max : 5, max utilisateurs : 10, coût à créer : 200`
+    - Moyen - `rôles max : 10, max utilisateurs : 25, coût à créer : 400`
+    - Large - `rôles max : 15, max utilisateurs : 50, coût à créer : 1000`
+    - Entreprise - `rôles max : 15, max utilisateurs : 100, coût à créer : 2500`
 2. Nom de votre faction.
 3. Description de la faction.
 4. L'abréviation de la faction doit comporter au moins 2 caractères ou plus (exemple: Gouvernement est GOV).
@@ -28,7 +28,7 @@ Informations que vous devez fournir pour créer une faction:
 
 - Les propriétaires qui ont un serveur Discord pour la faction qu'ils exécutent sont tenus d'avoir au moins un administrateur sur le serveur avec la permission d'administrateur.
 - Le propriétaire de la faction doit être le propriétaire du serveur Discord.
-- Servers must have 2FA enabled `(Server Settings -> Safety Setup -> Permissions -> Enable 2FA)`.
+- Les serveurs doivent avoir 2FA activé `(Server Settings -> Safety Setup -> Permissions -> Enable 2FA)`.
 
 :::
 
