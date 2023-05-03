@@ -42,19 +42,19 @@ export default function ControlledAccordions() { const [expanded, setExpanded] =
         </AccordionSummary>
         <AccordionDetails>
         <Typography>
-          <b>The following rules apply to all servers:</b><br/>
+          <b>Les règles suivantes s'appliquent à tous les serveurs :</b><br/>
           1. Utilisez le bon sens.<br/>
           2. N'apparaissez pas de gros véhicules ou de complexes.<br/>
           3. Pas de véhicules d'apparition dans la <a href="https://trickys.gg/vehiclebans">Liste d'interdiction de véhicule</a>.<br/>
           4. Faire disparaître les véhicules non utilisés ou brisés. (<a href="/stormworks/commands">?clean ou ?c</a>)<br/>
-          5. No advertising in-game.<br/>
+          5. Pas de publicité dans le jeu.<br/>
           6. Aucun atelier modifié.<br/>
           7. Pas d'ateliers de structure utilisés.<br/>
           8. <a href="https://trickys.gg/staffteam">Staff</a> ont le dernier mot.<br/>
           9. L'utilisation malveillante ou exploitation de comptes discord alternatifs sera punie correctement.<br/>
           10. Vous avez besoin d'une licence de bateau <a href="/stormworks/boats"></a> pour utiliser des bateaux sur des serveurs 1,2,3.<br/>
-          11. Do not fire inside the <a href="/stormworks/no-fire-zone">NFZ</a>, this is a safe zone. Using weapons in non weapons servers is prohibited.<br/>
-          12. The usage of nuclear weapons is prohibited.<br/>
+          11. Ne tirez pas à l'intérieur de la <a href="/stormworks/no-fire-zone">NFZ</a>, c'est une zone sûre. L'utilisation d'armes dans les serveurs sans armes est interdite.<br/>
+          12. L'utilisation d'armes nucléaires est interdite.<br/>
           13. Ne spammez pas le chat ou la voix. (la musique n'est pas autorisée à moins de 1 km d'apparition)<br/>
           14. Ne chagrinez pas intentionnellement le plaisir du jeu pour les autres utilisateurs.<br/><br/>
           Lois de Roleplay pour les serveurs 3,4,5<br/>
@@ -123,18 +123,18 @@ export default function ControlledAccordions() { const [expanded, setExpanded] =
         </AccordionSummary>
         <AccordionDetails>
         <Typography>
-        <span class="tricky-color">General Rules</span><br/>
-        1. No purposeful lagging of the server.<br/>
-        2. Any act of exploting bug/s is an immediate ban.<br/>
-        3. No Nukes within two rtp range of any claimed chunk.<br/>
-        4. If two or more players are playing together and are  bassmates (players that share a base/s) you are required to be in the same team/party. (Using FTBchunks)<br/>
-        5. You are allowed a maximum of four mining machines (Quarries, Digital Miners, etc) per team/party running at a time. (See rule 4)<br/>
-        6. Minecraft Game Manager has final say.<br/>
+        <span class="tricky-color">Règles générales</span><br/>
+        1. Aucun lag intentionnel du serveur.<br/>
+        2. Tout acte d'exploiter bogue/s est un bannissement immédiat.<br/>
+        3. Pas de Nukes dans une plage de deux rtp de n'importe quel chunk.<br/>
+        4. Si deux ou plusieurs joueurs jouent ensemble et sont des bassmates (joueurs qui partagent une base/s), vous devez être dans la même équipe/partie. (Utilisation de FTBchunks)<br/>
+        5. Vous avez droit à un maximum de quatre machines minières (Quarries, Digital Miners, etc) par équipe/partie en cours à la fois. (Voir la règle 4)<br/>
+        6. Minecraft Game Manager a le dernier mot.<br/>
         <span class="tricky-color">Dimension Specific Rules</span><br/>
-        End Rules:<br/>
-        1. Anything on the main End island can not be claimed (This does not include the End city)<br/>
-        2. Spawn platform may not be changed in anyway<br/>
-        3. Bedrock portals to leave or enter the End City may not be claimed or changed in anyway<br/>
+        Fin de règles :<br/>
+        1. Tout ce qui se trouve sur l'île principale ne peut pas être réclamé (ceci n'inclut pas la ville finale)<br/>
+        2. La plate-forme d'apparition ne peut pas être modifiée de toute façon<br/>
+        3. Les portails de Bedrock pour quitter ou entrer dans la Ville de l'End ne peuvent pas être réclamés ou modifiés de toute façon<br/>
         </Typography>
         </AccordionDetails>
       </Accordion>
@@ -163,7 +163,7 @@ export default function ControlledAccordions() { const [expanded, setExpanded] =
         </AccordionSummary>
         <AccordionDetails>
         <Typography>
-          1. Do not grief/intentionally ruin the fun of gameplay for other users.<br/>
+          1. N'endeuillez/ne ruinez pas intentionnellement le plaisir du jeu pour les autres utilisateurs.<br/>
         </Typography>
         </AccordionDetails>
       </Accordion>
@@ -171,11 +171,11 @@ export default function ControlledAccordions() { const [expanded, setExpanded] =
     {/* #region BeamMP Rules */}
       <Accordion expanded={expanded === 'beampanel'} onChange={handleChange('beampanel')}>
         <AccordionSummary expandIcon={<ExpandMoreIcon />}>
-          <Typography><i class="fa-solid fa-car-side"></i> BeamMP Server Rules</Typography>
+          <Typography><i class="fa-solid fa-car-side"></i> Règles du serveur BeamMP</Typography>
         </AccordionSummary>
         <AccordionDetails>
         <Typography>
-          1. Do not grief/intentionally ruin the fun of gameplay for other users.<br/>
+          1. N'endeuillez/ne ruinez pas intentionnellement le plaisir du jeu pour les autres utilisateurs.<br/>
         </Typography>
         </AccordionDetails>
       </Accordion>
@@ -183,11 +183,11 @@ export default function ControlledAccordions() { const [expanded, setExpanded] =
     {/* #region Project Zomboid Rules */}
       <Accordion  disabled expanded={expanded === 'pzpanel'} onChange={handleChange('pzpanel')}>
         <AccordionSummary expandIcon={<ExpandMoreIcon />}>
-          <Typography><i class="fa-solid fa-biohazard"></i> Project Zomboid Server Rules</Typography>
+          <Typography><i class="fa-solid fa-biohazard"></i> Règles du serveur du projet Zomboid</Typography>
         </AccordionSummary>
         <AccordionDetails>
         <Typography>
-          To be added
+          À ajouter
         </Typography>
         </AccordionDetails>
       </Accordion>
@@ -195,11 +195,11 @@ export default function ControlledAccordions() { const [expanded, setExpanded] =
     {/* #region Factorio Rules */}
       <Accordion  disabled expanded={expanded === 'factpanel'} onChange={handleChange('factpanel')}>
         <AccordionSummary expandIcon={<ExpandMoreIcon />}>
-          <Typography><i class="fa-solid fa-industry"></i> Factorio Server Rules</Typography>
+          <Typography><i class="fa-solid fa-industry"></i> Règles du serveur Factorio</Typography>
         </AccordionSummary>
         <AccordionDetails>
         <Typography>
-          To be added
+          À ajouter
         </Typography>
         </AccordionDetails>
       </Accordion>
@@ -211,10 +211,10 @@ export default function ControlledAccordions() { const [expanded, setExpanded] =
         </AccordionSummary>
         <AccordionDetails>
         <Typography>
-          1. Police jobs are limited to <a href="https://trickys.gg/staffteam">moderation staff</a> only.<br/>
-          2. Respect players and their jobs.<br/>
-          3. No modding, cheating or causing lag intentionally.<br/>
-          4. <a href="https://trickys.gg/staffteam">Staff</a> have final say.<br/>
+          1. Les postes de police sont limités à <a href="https://trickys.gg/staffteam">personnel de modération</a> seulement.<br/>
+          2. Respectez les joueurs et leurs emplois.<br/>
+          3. Pas de modding, de triche ou de causant intentionnellement du ralentissement.<br/>
+          4. <a href="https://trickys.gg/staffteam">Staff</a> ont le dernier mot.<br/>
         </Typography>
         </AccordionDetails>
       </Accordion>
