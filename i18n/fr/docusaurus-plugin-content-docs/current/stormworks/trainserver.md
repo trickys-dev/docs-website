@@ -81,15 +81,15 @@ Tous les signaux sur ce chemin de fer sont des signaux de sémaphore du quadrant
 
 ## Signaleurs
 
-### Signal Codes
+### Codes de signalisation
 
-- 3-1 Passenger
-- 2-3 Light Engine
-- 1-3-1 Freight
-- 2 Train Entering section
-- 2-1 Train leaving section
-- 1 call to attention
-- 3-5 Train cancelled
+- 3-1 Passager
+- 2-3 Moteur Léger
+- 1-3-1 Fret
+- 2 Sections Entrée du Train
+- 2-1 Section de départ du train
+- 1 appel à l'attention
+- 3-5 Train annulé
 
 ### Application pour les Signaleurs
 
