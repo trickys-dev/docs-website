@@ -9,12 +9,15 @@ description: HRP Factions information
 
 Wij zijn nog bezig met het maken van een applicatie die automatisch je factie aanmaakt, tot dan kun je een ticket op Discord aanmaken.
 
+- You can only own one faction.
+- Changing the name of a faction (including the TAG) or to transfer ownership will cost `500⎈`
+
 Information you need to provide to create a faction:
 1. Type of faction:
-    - Small - `max roles: 5, max users: 10, cost to create: 200`
-    - Medium - `max roles: 10, max users: 25, cost to create: 400`
-    - Large - `max roles: 15, max users: 50, cost to create: 1000`
-    - Enterprise - `max roles: 15, max users: 100, cost to create: 2500`
+    - Small - `max roles: 5, max users: 10, cost to create: 200⎈`
+    - Medium - `max roles: 10, max users: 25, cost to create: 400⎈`
+    - Large - `max roles: 15, max users: 50, cost to create: 1000⎈`
+    - Enterprise - `max roles: 15, max users: 100, cost to create: 2500⎈`
 2. Name of your faction.
 3. Faction description.
 4. Faction abbreviation, has to be at least 2 or more characters (example: Government is GOV).
@@ -25,6 +28,7 @@ Information you need to provide to create a faction:
 
 - Owners that have a Discord server for the faction they are running are required to have at least one admin from the main server in the server with the administrator permission.
 - The owner of the faction must be the owner of the Discord server.
+- Servers must have 2FA enabled `(Server Settings -> Safety Setup -> Permissions -> Enable 2FA)`.
 
 :::
 
