@@ -81,7 +81,15 @@ Wszystkie sygnały na tej linii kolejowej są semaforami kształtowymi, oznacza 
 
 ## Kontrolerzy Ruchu
 
-Wkrótce...
+### Signal Codes
+
+- 3-1 Passenger
+- 2-3 Light Engine
+- 1-3-1 Freight
+- 2 Train Entering section
+- 2-1 Train leaving section
+- 1 call to attention
+- 3-5 Train cancelled
 
 ### Aplikowanie do roli Kontrolera Ruchu
 

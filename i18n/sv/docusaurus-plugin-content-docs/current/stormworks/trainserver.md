@@ -81,7 +81,15 @@ All signals on this railway are upper quadrant semaphore signals, this means tha
 
 ## Signallers
 
-Info coming soon...
+### Signal Codes
+
+- 3-1 Passenger
+- 2-3 Light Engine
+- 1-3-1 Freight
+- 2 Train Entering section
+- 2-1 Train leaving section
+- 1 call to attention
+- 3-5 Train cancelled
 
 ### Applying For Signallers
 

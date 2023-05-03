@@ -9,12 +9,15 @@ description: Informacje o frakcjach HRP
 
 Nadal pracujemy nad stworzeniem aplikacji, która automatycznie tworzy frakcję, aż do tego czasu możesz utworzyć zgłoszenie na serwerze Discord.
 
+- You can only own one faction.
+- Changing the name of a faction (including the TAG) or to transfer ownership will cost `500⎈`
+
 Informacje które musisz podać aby utworzyć frakcję:
 1. Typ frakcji:
-    - Mała - `maks. ilość ról: 5, maks. ilość osób: 10, koszt utworzenia: 200`
-    - Średnia - `maks. ilość ról: 10, maks. ilość osób: 25, koszt utworzenia: 400`
-    - Duża - `maks. ilość ról: 15, maks. ilość osób: 50, koszt utworzenia: 1000`
-    - Firma - `maks. ilość ról: 15, maks. ilość osób: 100, koszt utworzenia: 2500`
+    - Small - `max roles: 5, max users: 10, cost to create: 200⎈`
+    - Medium - `max roles: 10, max users: 25, cost to create: 400⎈`
+    - Large - `max roles: 15, max users: 50, cost to create: 1000⎈`
+    - Enterprise - `max roles: 15, max users: 100, cost to create: 2500⎈`
 2. Nazwa twojej frakcji.
 3. Opis frakcji.
 4. Skrót nazwy frakcji, musi mieć przynajmniej 2 lub więcej znaków (na przykład: Rząd[Government] to GOV).
@@ -25,6 +28,7 @@ Informacje które musisz podać aby utworzyć frakcję:
 
 - Właściciele, którzy mają serwer Discord dla frakcji, która operują, muszą mieć co najmniej jednego administratora z głównego serwera na własnym serwerze z uprawnieniami administratora.
 - Właścicielem frakcji musi być właściciel serwera Discord.
+- Servers must have 2FA enabled `(Server Settings -> Safety Setup -> Permissions -> Enable 2FA)`.
 
 :::
 

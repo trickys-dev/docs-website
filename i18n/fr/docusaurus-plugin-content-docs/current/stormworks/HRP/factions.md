@@ -9,6 +9,9 @@ description: Informations sur les factions HRP
 
 Nous sommes toujours en train de créer une application qui crée automatiquement votre faction, jusqu'à ce que vous puissiez créer un ticket sur discord.
 
+- Vous ne pouvez posséder qu'une seule faction.
+- Changer le nom d'une faction (y compris le TAG) ou d'un transfert de propriété coûtera `500<unk>`
+
 Informations que vous devez fournir pour créer une faction:
 1. Type de faction :
     - Petits - `rôles max : 5, max utilisateurs : 10, coût à créer : 200`
@@ -25,6 +28,7 @@ Informations que vous devez fournir pour créer une faction:
 
 - Les propriétaires qui ont un serveur Discord pour la faction qu'ils exécutent sont tenus d'avoir au moins un administrateur sur le serveur avec la permission d'administrateur.
 - Le propriétaire de la faction doit être le propriétaire du serveur Discord.
+- Les serveurs doivent avoir 2FA activé `(Server Settings -> Safety Setup -> Permissions -> Enable 2FA)`.
 
 :::
 
