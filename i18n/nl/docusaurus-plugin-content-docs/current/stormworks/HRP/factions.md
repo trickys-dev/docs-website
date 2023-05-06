@@ -9,26 +9,26 @@ description: HRP Factions information
 
 Wij zijn nog bezig met het maken van een applicatie die automatisch je factie aanmaakt, tot dan kun je een ticket op Discord aanmaken.
 
-- You can only own one faction.
-- Changing the name of a faction (including the TAG) or to transfer ownership will cost `500⎈`
+- Je kunt maar één groep bezitten.
+- Het veranderen van de naam van een factie (inclusief de TAG) of het overdragen van eigendom kost `500fting`
 
-Information you need to provide to create a faction:
-1. Type of faction:
-    - Small - `max roles: 5, max users: 10, cost to create: 200⎈`
-    - Medium - `max roles: 10, max users: 25, cost to create: 400⎈`
-    - Large - `max roles: 15, max users: 50, cost to create: 1000⎈`
-    - Enterprise - `max roles: 15, max users: 100, cost to create: 2500⎈`
-2. Name of your faction.
-3. Faction description.
-4. Faction abbreviation, has to be at least 2 or more characters (example: Government is GOV).
-5. Roles names `You cannot have roles named: admin, staff, coastguard`.
-6. Provide discord (this is not requried) You dont have to have a discord to create a faction.
+Informatie die je moet opgeven om een factie te maken:
+1. Type factie:
+    - Klein - `max rollen: 5, max gebruikers: 10, kosten om te maken: 200`
+    - Gemiddeld - `max rollen: 10, max gebruikers: 25, kosten om te maken: 400`
+    - Groot - `max rollen: 15, max gebruikers: 50, kosten om te maken: 1000~`
+    - Bedrijf - `max rollen: 15, max gebruikers: 100, kosten om te maken: 2500`
+2. Naam van je factie.
+3. Omschrijving factie.
+4. Factie afkorting, moet ten minste 2 of meer tekens bevatten (bijvoorbeeld: overheid is GOV).
+5. Rolnamen `Je kunt geen rollen zoals: ''admin, medewerker, kustwacht'' zelf benoemen`.
+6. Geef een discord op (dit is niet per se nodig) Je hoeft geen discord te hebben om een factie te maken.
 
-:::caution Have A Discord Server?
+:::caution Heb je een Discord server?
 
-- Owners that have a Discord server for the faction they are running are required to have at least one admin from the main server in the server with the administrator permission.
-- The owner of the faction must be the owner of the Discord server.
-- Servers must have 2FA enabled `(Server Settings -> Safety Setup -> Permissions -> Enable 2FA)`.
+- Eigenaren die een Discord server hebben voor de factie die ze draaien, zijn verplicht om ten minste één beheerder van de hoofdserver met beheerdersrechten te hebben.
+- De eigenaar van de factie moet eigenaar zijn van de Discord server.
+- Servers moeten 2FA ingeschakeld hebben `(Serverinstellingen -> Veiligheidsinstellingen -> Permissies -> 2FA)` inschakelen.
 
 :::
 
@@ -43,7 +43,7 @@ Je kunt alle huidige facties bekijken door [hier te klikken](https://trickys.gg/
 - Avatar afbeelding.
 - Omslagfoto.
 - Bio/beschrijving.
-- Faction Discrd server invite link.
+- Factie Discord server uitnodiging link.
 - Factie avatar outline kleur.
 
 <div class="flex-vcenter mb-1">
@@ -96,14 +96,14 @@ Je kunt BBCode gebruiken in je facties bio, hier is wat is toegestaan:
     </p>
  </div>
 
-### Faction Discord Invite
+### Factie uitnodiging voor Discord
 
 <div class="flex-vcenter mb-1">
     <img src="/img/customprofiles/factions/factiondiscordinvite.png"/>
     <p>
-    You can set a faction Discord server invite link.
-    The link must start with <code>https://discord.com/invite/</code> <br/>
-    Example <code>https://discord.com/invite/&#60;invite-code&#62;</code>
+    Je kunt een factie Discord-server uitnodigingslink instellen.
+    De link moet beginnen met <code>https://discord.com/invite/</code> <br/>
+    Voorbeeld <code>https://discord.com/invite/&#60;invite-code&#62;</code>
   </p>
  </div>
 
