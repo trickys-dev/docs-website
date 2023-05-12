@@ -74,7 +74,7 @@ ISO Containers:
 - Lengte: 29 blokken - 7,25 meter.
 - Gewicht: 4 Ton.
 
-Luchtvracht ISO:
+Luchtvracht ISO
 - Hoogte: 8 Blokken - 2 meter.
 - Breedte: 9 blokken - 2,25 meter.
 - Lengte: 9 blokken - 2,25 meter.
