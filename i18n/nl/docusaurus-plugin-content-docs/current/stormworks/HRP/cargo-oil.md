@@ -1,6 +1,6 @@
 ---
 sidebar_position: 0
-description: HRP Cargo & Oil information
+description: HRP Vracht & Olie informatie
 ---
 
 # Vracht & olie
@@ -38,9 +38,9 @@ description: HRP Cargo & Oil information
 :::note Een paar notities
 
 - Locaties waar je kan leveren verschillen tussen land/zee of lucht. O’Neil (Air) kan bijvoorbeeld leveren op het noordpoolgebied, maar Noord Harbor (Land/Zee) niet.
-- You can NOT take any land/sea cargo into the air, this is against HRP Laws and will result in a fine on the spot. (Tenzij je het binnen 1 km van de terminal laadt)
-- You are NOT allowed to take air cargo by land/sea, this is against [HRP Laws (2.2)](/hrplaws#23-airiso-container-mismanagement) and will result in a fine on the spot.
-- You are only allowed 2 of any type of cargo by [HRP Laws (2.4)](/hrplaws#24-player-container-limit).
+- Je kunt GEEN land/zeelading in de lucht nemen, dit is in strijd met HRP-wetten en zal leiden tot een boete op de plek. (Tenzij je het binnen 1 km van de terminal laadt)
+- Je bent niet toegestaan om een lading per land of op zee te vervoeren, dit is tegen [HRP Laws (2. )](/hrplaws#23-airiso-container-mismanagement) en resulteert in een boete op de plek.
+- Maar 2 van elk type lading is toegestaan door [HRP Laws (2.4)](/hrplaws#24-player-container-limit).
 
 :::
 
@@ -53,16 +53,16 @@ description: HRP Cargo & Oil information
 
 ## Olie
 
-1. You must be in a [faction](https://trickys.gg/factions), you can either join one or [create](/stormworks/HRP/factions#create-a-faction) a new one.
+1. Je moet in een [factie](https://trickys.gg/factions) zitten, je kan of lid worden van een van [maak](/stormworks/HRP/factions#create-a-faction) een nieuwe.
 2. Vind een olie locatie op de kaart. (Dit geeft 30cr indien geclaimd)
 
 <img src="/img/hrp/cargooil/HRPOilField.png" />
 
-3. Go to oil point and wait for capture.
+3. Ga naar het oliepunt en wacht tot de locatie geclaimd is.
 
 <img src="/img/hrp/cargooil/HRPOilPointcapture1.png" />
 
-4. Once captured you will get money, the point will be uncaptured, and will be on cooldown for 30mins so wait or find another point.
+4. Als het punt geclaimd is zal je geld krijgen, daarna komt het punt weer vrij maar zal het op afkoeltijd staan voor 30 minuten dus wacht of zoek een ander punt.
 
 <img src="/img/hrp/cargooil/HRPOilPointcapture2.png" />
 
@@ -74,7 +74,7 @@ ISO Containers:
 - Lengte: 29 blokken - 7,25 meter.
 - Gewicht: 4 Ton.
 
-AirISO:
+Luchtvracht ISO
 - Hoogte: 8 Blokken - 2 meter.
 - Breedte: 9 blokken - 2,25 meter.
 - Lengte: 9 blokken - 2,25 meter.
