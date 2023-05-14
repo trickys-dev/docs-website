@@ -30,7 +30,7 @@ const config = {
   // to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
-    locales: ['en', 'nl', 'fr','de', 'jp', 'no', 'pl', 'es', 'sv'],
+    locales: ['en','nl','fr','de','no','pl','es','sv'],
     path: 'i18n',
     localeConfigs: {
       en: {
@@ -60,13 +60,6 @@ const config = {
         htmlLang: 'de',
         calendar: 'gregory',
         path: 'de',
-      },
-      jp: {
-        label: 'Japanese (日本)',
-        direction: 'ltr',
-        htmlLang: 'ja',
-        calendar: 'gregory',
-        path: 'ja',
       },
       no: {
         label: 'Norwegian (Norsk Bokmål)',
