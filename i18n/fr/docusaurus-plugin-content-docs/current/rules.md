@@ -211,10 +211,11 @@ export default function ControlledAccordions() { const [expanded, setExpanded] =
         </AccordionSummary>
         <AccordionDetails>
         <Typography>
-          1. Les postes de police sont limités à <a href="https://trickys.gg/staffteam">personnel de modération</a> seulement.<br/>
-          2. Respectez les joueurs et leurs emplois.<br/>
-          3. Pas de modding, de triche ou de causant intentionnellement du ralentissement.<br/>
-          4. <a href="https://trickys.gg/staffteam">Staff</a> ont le dernier mot.<br/>
+          1. Police jobs are whitelisted, to be whitelisted <a href="discord://discord.com/channels/710922135580835950/846373509470748722" class="discord-text">#submit a ticket</a> on Discord.<br/>
+          2. If you find a player abusing his whitelisted perks, you can <a href="discord://discord.com/channels/710922135580835950/846373509470748722" class="discord-text">#submit a ticket</a> on Discord to report them.<br/>
+          3. Respect players and their jobs.<br/>
+          4. No modding, cheating or causing lag intentionally.<br/>
+          5. <a href="https://trickys.gg/staffteam">Staff</a> ont le dernier mot.<br/>
         </Typography>
         </AccordionDetails>
       </Accordion>
