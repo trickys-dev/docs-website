@@ -212,10 +212,10 @@ export default function ControlledAccordions() { const [expanded, setExpanded] =
         <AccordionDetails>
         <Typography>
           1. Police jobs are whitelisted, to be whitelisted <a href="discord://discord.com/channels/710922135580835950/846373509470748722" class="discord-text">#submit a ticket</a> on Discord.<br/>
-          2. If you find a player abusing his whitelisted perks, you can <a href="discord://discord.com/channels/710922135580835950/846373509470748722" class="discord-text">#submit a ticket</a> on Discord to report them.<br/>
-          3. Respect players and their jobs.<br/>
-          4. No modding, cheating or causing lag intentionally.<br/>
-          5. <a href="https://trickys.gg/staffteam">Staff</a> ont le dernier mot.<br/>
+          2. Respect players and their jobs.<br/>
+          3. No modding, cheating or causing lag intentionally.<br/>
+          4. <a href="https://trickys.gg/staffteam">Staff</a> have final say.<br/><br/>
+          If you find a player abusing his whitelisted perks, you can <a href="discord://discord.com/channels/710922135580835950/846373509470748722" class="discord-text">#submit a ticket</a> on Discord to report them.
         </Typography>
         </AccordionDetails>
       </Accordion>
