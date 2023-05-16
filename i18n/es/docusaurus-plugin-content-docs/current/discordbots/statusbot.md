@@ -51,28 +51,28 @@ De manera resumida, el bot puede hacer lo siguiente;
 <div class="flex-vcenter mb-1">
     <img src="/img/statusbot/swconfigembed.png" width="300px" />
   <p class="m-0">
-  <span class="statusbot-title">Title</span> - The title of the embed.<br/>
-  <span class="statusbot-title">Color</span> - The color of the embed in hex.<br/>
-  To set the title or color: <span class="code-text">/config embed</span>
+  <span class="statusbot-title">Título</span> - El título del mensaje.<br/>
+  <span class="statusbot-title">Color</span> - El color del mensaje en hexadecimal.<br/>
+  Para establecer el título o color: <span class="code-text">/config embed</span>
   </p>
  </div>
 <div class="flex-vcenter mb-1">
     <img src="/img/statusbot/swconfigadminrole.png" width="300px" />
   <p class="m-0">
-  <span class="statusbot-title">Admin Role</span> - Users with this role can configure the bot <span class="text-muted">(If there is no value, only users with the administrator permission can edit the bot).</span><br/>
-  To set the admin role: <span class="code-text">/config adminrole <code>role:<span class="discord-text">@role</span></code></span>
+  <span class="statusbot-title">Rol de administrador</span> - Los usuarios con este rol pueden configurar el bot <span class="text-muted">(Si no hay valor, sólo los usuarios con el permiso de administrador pueden editar el bot).</span><br/>
+  Para establecer el rol de administrador: <span class="code-text">/config adminrole <code>role:<span class="discord-text">@role</span></code></span>
   </p>
  </div>
 <div class="flex-vcenter mb-1">
     <img src="/img/statusbot/swconfigpinging.png" width="300px" />
   <p class="m-0">
-  <span class="statusbot-title">Offline DM</span> - Will DM admin role if any listed server is detected to be offline.<br/>
-  <span class="statusbot-title">Outdated DM</span> - Will DM the admin role if any listed server is detected to be out of date.<br/>
-  To set DM settings: <span class="code-text">/config pinging</span>
+  <span class="statusbot-title">MD sin conexión</span> - Enviará un mensaje privado a un administrador si algún servidor de la lista se encuentra desconectado.<br/>
+  <span class="statusbot-title">MD desactualizado</span> -Enviará un mensaje privado a un administrador si se detecta que algún servidor listado está desactualizado.<br/>
+  Para configurar los ajustes de mensaje directo: <span class="code-text">/config pinging</span>
   </p>
  </div>
 
-## Info Types
+## Tipos de información
 
 Info types are managed by the <span class="code-text">/config info</span> command.
 <div class="flex-vcenter mb-1">
