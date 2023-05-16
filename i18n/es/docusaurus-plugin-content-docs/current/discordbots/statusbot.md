@@ -1,51 +1,51 @@
 ---
 sidebar_position: 1
-description: SWStatus Bot Information
+description: Información del bot SWStatus
 ---
 
 # SW Status Bot
 
-This page explains how to use and setup the Stormworks Status Bot.
+Esta página explica como usar y configurar el bot de Stormworks Status.
 
-## What Can The Bot Do
+## Lo que puede hacer el bot
 
-In brief the bot can do the following;
+De manera resumida, el bot puede hacer lo siguiente;
 
-- Get stormworks server status and different types of stats.
-- Get total players playing stormworks.
-- Show when the server is out of date.
-- Show when the server is offline.
-- Allows users to ping a server from 15+ different locations around the world.
-- Sends a DM when a server is offline. (when enabled)
-- Sends a DM when a server is out-of-date. (when enabled)
+- Obtener el estado del servidor Stormworks y diferentes tipos de estadísticas.
+- Consigue el total de jugadores jugando Stormworks.
+- Mostrar cuando el servidor está desactualizado.
+- Mostrar cuando el servidor está desconectado.
+- Permite a los usuarios hacer ping a un servidor desde más de 15 lugares diferentes en todo el mundo.
+- Envía un MD cuando un servidor está desconectado. (cuando está activado)
+- Envía un MD cuando un servidor está desactualizado. (cuando está activado)
 
-## Getting Started
-1. To get started <a href="https://discord.com/oauth2/authorize?client_id=807750726205702176&scope=bot&permissions=388160">invite</a> the bot to your server.
-2. Create a <code class="discord-text">#server-status</code> channel or whatever you want to call the channel, this is where the bot will place the embed to show the server status.
-3. Use <span class="code-text">/config servers</span> command to set what servers you would like to display.
-4. Once you have created the channel, tell the bot to use the channel to show the status using:<br/><span class="code-text">/config channel <code>channel:&lt;span class="discord-text">#server-status&lt;/span></code></span>
+## Primeros pasos
+1. Para comenzar <a href="https://discord.com/oauth2/authorize?client_id=807750726205702176&scope=bot&permissions=388160">invita</a> al bot a tu servidor.
+2. Crea un canal <code class="discord-text">#server-status</code> o como lo quieras llamar al canal, aquí es donde el bot colocará el mensaje (embed) para mostrar el estado del servidor.
+3. Utilice el comando <span class="code-text">/config servers</span> para establecer qué servidores desea mostrar.
+4. Una vez que haya creado el canal, diga al bot que use el canal para mostrar el estado usando:<br/><span class="code-text">/config canal <code>canal:&lt;span class="discord-text">#server-status&lt;/span></code></span>
 
-## Configuring The Bot
+## Configurando el bot
 
 <div class="flex-vcenter mb-1">
     <img src="/img/statusbot/swconfigchannel.png" width="300px" />
   <p class="m-0">
-  <span class="statusbot-title">Channel</span> - The channel which the status embed will be sent and updated<br/>
-  To set the channel: <span class="code-text">/config channel <code>channel:<span class="discord-text">#channel</span></code></span>
+  <span class="statusbot-title">Canal</span> - El canal donde el mensaje de estado será enviado y actualizado<br/>
+  Para configurar el canal: <span class="code-text">/config canal <code>canal:<span class="discord-text">#canal</span></code></span>
   </p>
  </div>
 <div class="flex-vcenter mb-1">
     <img src="/img/statusbot/swconfigservers.png" width="300px" />
   <p class="m-0">
-  <span class="statusbot-title">Servers</span> - The list of servers to add or remove from the embed<br/>
-  To add or remove servers: <span class="code-text">/config servers</span>
+  <span class="statusbot-title">Servidores</span> - La lista de servidores a añadir o eliminar en el mensaje<br/>
+  Para añadir o eliminar servidores: <span class="code-text">/config servers</span>
   </p>
  </div>
 <div class="flex-vcenter mb-1">
     <img src="/img/statusbot/swconfiginfo.png" width="300px" />
   <p class="m-0">
-  <span class="statusbot-title">Info</span> - What server info to show in the status embed for each server.<br/>
-  To add or remove info: <span class="code-text">/config info</span>
+  <span class="statusbot-title">Información</span> - Qué información del servidor se muestra en el mensaje para cada servidor.<br/>
+  Para añadir o eliminar información: <span class="code-text">/config info</span>
   </p>
  </div>
 <div class="flex-vcenter mb-1">
