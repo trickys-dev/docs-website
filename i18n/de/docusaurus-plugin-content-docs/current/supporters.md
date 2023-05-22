@@ -1,6 +1,6 @@
 ---
 sidebar_position: 3
-description: Patreon & Server boosters information
+description: Patreon & Server-Booster Informationen
 ---
 
 # Unterstützer
@@ -77,7 +77,7 @@ Unser Patreon finanziert
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
 </tr>
 <tr>
-    <th scope="row">Full <a href="/category/api">API</a> Access</th>
+    <th scope="row">Vollständiger <a href="/category/api">API</a> Zugriff</th>
     <td></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
@@ -161,7 +161,7 @@ Unser Patreon finanziert
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
 </tr>
 <tr>
-    <th scope="row">Vehicle repair <a href="/stormworks/commands#vehicle-manager-commands">command</a></th>
+    <th scope="row">Fahrzeugreparatur <a href="/stormworks/commands#vehicle-manager-commands">Befehl</a></th>
     <td></td>
     <td></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
