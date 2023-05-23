@@ -1,97 +1,97 @@
 ---
 sidebar_position: 1
-description: SWStatus Bot Information
+description: SWStatus Bot Informationen
 ---
 
 # SW Status Bot
 
-This page explains how to use and setup the Stormworks Status Bot.
+Diese Seite erklärt, wie Sie den Stormworks Status Bot verwenden und einrichten.
 
-## What Can The Bot Do
+## Was der Bot machen kann
 
-In brief the bot can do the following;
+Kurz gesagt, der Bot kann folgendes tun;
 
-- Get stormworks server status and different types of stats.
-- Get total players playing stormworks.
-- Show when the server is out of date.
-- Show when the server is offline.
-- Allows users to ping a server from 15+ different locations around the world.
-- Sends a DM when a server is offline. (when enabled)
-- Sends a DM when a server is out-of-date. (when enabled)
+- Erhalte Stormworks Server Status und verschiedene Arten von Statistiken.
+- Erhalte die insgesamte Spieleranzahl der Spieler, die Stormworks spielen.
+- Zeigt an, wann der Server veraltet ist.
+- Zeigt an, wann der Server offline ist.
+- Ermöglicht Benutzern einen Server von mehr als 15 verschiedenen Orten auf der ganzen Welt zu pingen.
+- Sendet einen DM, wenn ein Server offline ist. (wenn aktiviert)
+- Sendet einen DM, wenn ein Server veraltet ist. (wenn aktiviert)
 
-## Getting Started
-1. To get started <a href="https://discord.com/oauth2/authorize?client_id=807750726205702176&scope=bot&permissions=388160">invite</a> the bot to your server.
-2. Create a <code class="discord-text">#server-status</code> channel or whatever you want to call the channel, this is where the bot will place the embed to show the server status.
-3. Use <span class="code-text">/config servers</span> command to set what servers you would like to display.
-4. Once you have created the channel, tell the bot to use the channel to show the status using:<br/><span class="code-text">/config channel <code>channel:&lt;span class="discord-text">#server-status&lt;/span></code></span>
+## Erste Schritte
+1. Um loszulegen, lade <a href="https://discord.com/oauth2/authorize?client_id=807750726205702176&scope=bot&permissions=388160">den Bot</a> auf deinen Server ein.
+2. Erstelle einen <code class="discord-text">#server-status</code> Kanal oder wie auch immer Sie den Channel nennen möchten, hier platziert der Bot die Einbettung, um den Serverstatus anzuzeigen.
+3. Benutzen Sie den <span class="code-text">/config server</span> Befehl, um festzulegen, welche Server Sie anzeigen möchten.
+4. Sobald Sie den Kanal erstellt haben, teilen Sie dem Bot mit, dass er den Channel benutzen soll, um den Status anzuzeigen:<br/><span class="code-text">/config channel <code>Channel:&lt;span class="discord-text">#server-status&lt;/span></code></span>
 
-## Configuring The Bot
+## Den Bot konfigurieren
 
 <div class="flex-vcenter mb-1">
     <img src="/img/statusbot/swconfigchannel.png" width="300px" />
   <p class="m-0">
-  <span class="statusbot-title">Channel</span> - The channel which the status embed will be sent and updated<br/>
-  To set the channel: <span class="code-text">/config channel <code>channel:<span class="discord-text">#channel</span></code></span>
+  <span class="statusbot-title">Kanal</span> - Der Kanal, in den die Status-Einbettung gesendet und aktualisiert wird<br/>
+  Um den Kanal festzulegen: <span class="code-text">/config channel <code>Kanal:<span class="discord-text">#channel</span></code></span>
   </p>
  </div>
 <div class="flex-vcenter mb-1">
     <img src="/img/statusbot/swconfigservers.png" width="300px" />
   <p class="m-0">
-  <span class="statusbot-title">Servers</span> - The list of servers to add or remove from the embed<br/>
-  To add or remove servers: <span class="code-text">/config servers</span>
+  <span class="statusbot-title">Server</span> - Liste der Server, die hinzugefügt oder entfernt werden sollten<br/>
+  Um Server hinzuzufügen oder zu entfernen: <span class="code-text">/config servers</span>
   </p>
  </div>
 <div class="flex-vcenter mb-1">
     <img src="/img/statusbot/swconfiginfo.png" width="300px" />
   <p class="m-0">
-  <span class="statusbot-title">Info</span> - What server info to show in the status embed for each server.<br/>
-  To add or remove info: <span class="code-text">/config info</span>
+  <span class="statusbot-title">Info</span> - Welche Serverinformationen in der Statusmeldung für jeden Server angezeigt werden sollen.<br/>
+  Um Informationen hinzuzufügen oder zu entfernen: <span class="code-text">/config info</span>
   </p>
  </div>
 <div class="flex-vcenter mb-1">
     <img src="/img/statusbot/swconfigembed.png" width="300px" />
   <p class="m-0">
-  <span class="statusbot-title">Title</span> - The title of the embed.<br/>
-  <span class="statusbot-title">Color</span> - The color of the embed in hex.<br/>
-  To set the title or color: <span class="code-text">/config embed</span>
+  <span class="statusbot-title">Titel</span> - Der Titel der Einbettung.<br/>
+  <span class="statusbot-title">Farbe</span> - Die Farbe der Einbettung in Hex.<br/>
+  Um den Titel oder die Farbe zu setzen: <span class="code-text">/config embed</span>
   </p>
  </div>
 <div class="flex-vcenter mb-1">
     <img src="/img/statusbot/swconfigadminrole.png" width="300px" />
   <p class="m-0">
-  <span class="statusbot-title">Admin Role</span> - Users with this role can configure the bot <span class="text-muted">(If there is no value, only users with the administrator permission can edit the bot).</span><br/>
-  To set the admin role: <span class="code-text">/config adminrole <code>role:<span class="discord-text">@role</span></code></span>
+  <span class="statusbot-title">Adminrolle</span> - Benutzer mit dieser Rolle können den Bot konfigurieren <span class="text-muted">(wenn kein Wert vorhanden ist, können nur Benutzer mit Administrator-Berechtigung den Bot bearbeiten).</span><br/>
+  Um die Adminrolle festzulegen: <span class="code-text">/config adminrole <code>Rolle:<span class="discord-text">@role</span></code></span>
   </p>
  </div>
 <div class="flex-vcenter mb-1">
     <img src="/img/statusbot/swconfigpinging.png" width="300px" />
   <p class="m-0">
-  <span class="statusbot-title">Offline DM</span> - Will DM admin role if any listed server is detected to be offline.<br/>
-  <span class="statusbot-title">Outdated DM</span> - Will DM the admin role if any listed server is detected to be out of date.<br/>
-  To set DM settings: <span class="code-text">/config pinging</span>
+  <span class="statusbot-title">Offline DM</span> - Sendet eine DM an die Admin-Rolle wenn ein gelisteter Server als offline erkannt wird.<br/>
+  <span class="statusbot-title">veralteter Server DM</span> - Sendet eine DM an die Admin-Rolle, wenn ein gelisteter Server als veraltet erkannt wurde.<br/>
+  Um DM-Einstellungen festzulegen: <span class="code-text">/config pinging</span>
   </p>
  </div>
 
-## Info Types
+## Informationstypen
 
-Info types are managed by the <span class="code-text">/config info</span> command.
+Info-Typen werden vom Befehl <span class="code-text">/config info</span> verwaltet.
 <div class="flex-vcenter mb-1">
   <p>
 
-| No. | Info Type       | Description                                |
-|-----|-----------------|--------------------------------------------|
-| 1   | players         | Shows the online player count.             |
-| 2   | version         | Shows the server version.                  |
-| 3   | TPS             | Shows the servers TPS.                     |
-| 4   | DLC             | Shows If Weapons or Arid DLC.              |
-| 5   | uptime          | Shows the uptime of the server.            |
-| 6   | operatingSystem | Shows the servers operating system.        |
-| 7   | hasPassword     | Shows if the server is password protected. |
-| 8   | owner           | Shows the owner of the server.             |
-| 9   | serverLocation  | Shows the server location.                 |
-| 10  | responseTimeMs  | Shows the response time (Ms).              |
-| 11  | globalPlayers   | Shows the number of players on stormworks. |
-| 12  | logo            | Shows the server logo in the embed.        |
+| Nein. | Info-Typ | Beschreibung |
+|-----|------------------------------------------------------------|
+| 1 | players | Zeigt die Anzahl der Online-Spieler an.             |
+| 2 | version | Zeigt die Server-Version.                  |
+| 3 | TPS | Zeigt die Server TPS.                     |
+| 4 | DLC | Zeigt Waffen oder Arid DLC an.              |
+| 5 | uptime | Zeigt die Laufzeit des Servers.            |
+| 6 | operatingSystem | Zeigt das Betriebssystem der Server.        |
+| 7 | hasPassword | Zeigt an, ob der Server passwortgeschützt ist. |
+| 8 | owner | Zeigt den Besitzer des Servers.             |
+| 9 | serverLocation | Zeigt den Serverstandort an.                 |
+| 10 | responseTimeMs | Zeigt die Antwortzeit (Ms).              |
+| 11 | globalPlayers | Zeigt die Anzahl der Spieler in Stormworks. |
+| 12 | logo | Zeigt das Server-Logo in der Einbettung.        |
 
   </p>
   <span class="ml-1" >
@@ -99,13 +99,13 @@ Info types are managed by the <span class="code-text">/config info</span> comman
   </span>
  </div>
 
-## Server Out Of Date
+## Server ist veraltet
 
 <div class="flex-vcenter mb-1">
     <img src="/img/statusbot/swoutofdatemsg.png" width="300px" />
   <p class="m-0">
-  <span class="statusbot-title">Server Out Of Date</span><br/>
-  If your server is out of date the status embed will look like this, You will also get a DM if they are enabled as shown in the alert embed example.
+  <span class="statusbot-title">Server veraltet</span><br/>
+  Wenn Ihr Server veraltet ist, sieht die Statuseinbettung wie folgt aus, Sie erhalten auch eine DM, wenn sie aktiviert sind, wie im Beispiel der Alarmeinbettung gezeigt.
   </p>
  </div>
 
@@ -114,22 +114,22 @@ Info types are managed by the <span class="code-text">/config info</span> comman
 <div class="flex-vcenter mb-1">
     <img src="/img/statusbot/swglobalping.png" width="300px" />
   <p class="m-0">
-  <span class="statusbot-title">PING</span> - Get the ping of a server from all over the world.<br/>
-    All users can use the <span class="code-text">/ping</span> command.
+  <span class="statusbot-title">PING</span> - Holen Sie sich den Ping eines Servers aus der ganzen Welt.<br/>
+    Alle Benutzer können den Befehl <span class="code-text">/ping</span> verwenden.
   </p>
  </div>
 
    <img src="/img/statusbot/swglobalpinginfo.png" />
 
-## Bots Permissions
-These are the bot's permissions:
+## Bot-Berechtigungen
+Dies sind die Berechtigungen des Bots:
 
-- Read Messages - Needed to read messages in server.
-- Send Messages - Needed to send messages in server.
-- Manage Messages - Needed to send & delete its own message in the channel specified.
-- Embed Links - Needed to embed links within the status embed.
-- Attach Files - Needed to attach files to status embed.
-- Read Message History - Needed to read message history.
-- Use External Emojis - Needed to access emojis used in the status embed.
-- Add Reactions - Needed as we might implement something in the future.
-- View Channel - Needed to view(see) channels.
+- Lesen von Nachrichten - Benötigt um Nachrichten auf dem Server zu lesen.
+- Nachrichten senden - Benötigt zum Senden von Nachrichten auf dem Server.
+- Nachrichten verwalten - Benötigt zum Senden & Löschen einer eigenen Nachricht im angegebenen Kanal.
+- Links einbetten - Benötigt um Links in den Status einzubetten.
+- Dateien anhängen - Benötigt um Dateien an den Status einzubinden.
+- Nachrichtenverlauf lesen - Benötigt um Nachrichtenverlauf zu lesen.
+- Externe Emojis verwenden - Benötigt um auf Emojis zuzugreifen, die in der Statuseinbettung verwendet werden.
+- Reaktionen hinzufügen - Benötigt, da wir wahrscheinlich in der Zukunft etwas neue implementieren möchten.
+- Kanal anzeigen - Benötigt zum Ansehen von Kanälen.
