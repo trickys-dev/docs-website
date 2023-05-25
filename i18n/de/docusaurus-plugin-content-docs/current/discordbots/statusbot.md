@@ -80,14 +80,14 @@ Info-Typen werden vom Befehl <span class="code-text">/config info</span> verwalt
 
 | Nein. | Info-Typ | Beschreibung |
 |-----|------------------------------------------------------------|
-| 1 | players | Zeigt die Anzahl der Online-Spieler an.             |
-| 2 | version | Zeigt die Server-Version.                  |
+| 1 | Spieler | Zeigt die Anzahl der Online-Spieler an.             |
+| 2 | Version | Zeigt die Server-Version.                  |
 | 3 | TPS | Zeigt die Server TPS.                     |
 | 4 | DLC | Zeigt Waffen oder Arid DLC an.              |
-| 5 | uptime | Zeigt die Laufzeit des Servers.            |
+| 5 | Uptime | Zeigt die Laufzeit des Servers.            |
 | 6 | operatingSystem | Zeigt das Betriebssystem der Server.        |
 | 7 | hasPassword | Zeigt an, ob der Server passwortgeschützt ist. |
-| 8 | owner | Zeigt den Besitzer des Servers.             |
+| 8 | Owner | Zeigt den Besitzer des Servers.             |
 | 9 | serverLocation | Zeigt den Serverstandort an.                 |
 | 10 | responseTimeMs | Zeigt die Antwortzeit (Ms).              |
 | 11 | globalPlayers | Zeigt die Anzahl der Spieler in Stormworks. |
