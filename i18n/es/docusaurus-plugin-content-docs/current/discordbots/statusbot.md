@@ -16,7 +16,7 @@ De manera resumida, el bot puede hacer lo siguiente;
 - Mostrar cuando el servidor está desactualizado.
 - Mostrar cuando el servidor está desconectado.
 - Permite a los usuarios hacer ping a un servidor desde más de 15 lugares diferentes en todo el mundo.
-- Envía un MD cuando un servidor está desconectado. (cuando está activado)
+- Envía un DM cuando un servidor está desconectado. (cuando está activado)
 - Envía un MD cuando un servidor está desactualizado. (cuando está activado)
 
 ## Primeros pasos
@@ -52,7 +52,7 @@ De manera resumida, el bot puede hacer lo siguiente;
     <img src="/img/statusbot/swconfigembed.png" width="300px" />
   <p class="m-0">
   <span class="statusbot-title">Título</span> - El título del mensaje.<br/>
-  <span class="statusbot-title">Color</span> - El color del mensaje en hexadecimal.<br/>
+  <span class="statusbot-title">Color</span> - El color del mensaje en el hex.<br/>
   Para establecer el título o color: <span class="code-text">/config embed</span>
   </p>
  </div>
