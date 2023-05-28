@@ -1,0 +1,33 @@
+on:
+  push:
+    branches:
+    - main
+
+jobs:
+  ftp:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v3
+
+    - name: Setup Node.js 
+      uses: actions/setup-node@v3
+      with:
+        node-version: '18.x'
+
+    - name: Install dependencies
+      run: npm ci
+
+    - name: Build website
+      run: npm run build --if-present
+
+    - name: FTP upload
+      uses: SamKirkland/FTP-Deploy-Action@v4.3.4
+      with:
+        server: ${{ secrets.ftp_server }}
+        username: ${{ secrets.ftp_user }}
+        password: ${{ secrets.ftp_password }}
+        local-dir: ./build/
+        server-dir: /docs.trickys.gg/
+        dry-run: true
