@@ -84,6 +84,12 @@ html {
 .d-supporter {
   color: #05d6ff;
 }
+.r-supporter {
+  color: #ee719a;
+}
+.t-supporter {
+  color: #9d51ee;
+}
 .g-supporter {
   color: #e9c716;
 }
@@ -98,6 +104,9 @@ html {
 }
 .staff-serverbuilder {
   color: #11806a;
+}
+.verified-text {
+  color: #7289da;
 }
 
 .request-bubble {
