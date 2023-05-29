@@ -1,43 +1,43 @@
 ---
 sidebar_position: 1
-description: Verified
+description: Vérifié
 ---
 
-# Verified
+# Vérifié
 
 ...
 
-## How Do I Get Verified
+## Comment puis-je être vérifié
 
-1. [Click Here](https://trickys.gg/login) to go our website.
-2. Sign-In with <i class="fa-brands fa-steam"></i> Steam, you will be asked to accept the rules and to connect your <i class="fa-brands fa-discord"></i> Discord account.
-3. Thats it!
+1. [Cliquez ici](https://trickys.gg/login) pour visiter notre site Web.
+2. Connectez-vous avec <i class="fa-brands fa-steam"></i> Steam, il vous sera demandé d'accepter les règles et de connecter votre compte Discord<i class="fa-brands fa-discord"></i>.
+3. C'est tout !
 
-:::info New Users
-You won't be able to login with <i class="fa-brands fa-discord"></i> Discord if you have never logged-in with <i class="fa-brands fa-steam"></i> Steam before
+:::info Nouveaux utilisateurs
+Vous ne pourrez pas vous connecter avec <i class="fa-brands fa-discord"></i> Discord si vous n'avez jamais connecté avec <i class="fa-brands fa-steam"></i> Steam avant
 :::
 
-## Being Verified
+## En cours de vérification
 
-Being <span class="verified-text">@Verified</span> allows you to do the following:
+Être <span class="verified-text">@Verified</span> vous permet de faire ce qui suit :
 
-- Post embedded links in discord.
-- Stream & screen share in voice channels.
-- Join & play on our game servers that require the verified role.
-- Get [Authorization](https://docs.trickys.gg/stormworks/auth#getting-auth) in stormworks.
-- Apply for [applications](https://trickys.gg/applications/new).
-- Have full access to website.
-- Use all <span class="discord-text">🤖︱bot-commands</span>.
-- Appeal all bans.
-- and much more....
+- Poster des liens intégrés dans le discord.
+- Diffuser & partager l'écran dans les canaux vocaux.
+- Rejoignez & jouez sur nos serveurs de jeu qui nécessitent le rôle vérifié.
+- Obtenez [Autorisation](https://docs.trickys.gg/stormworks/auth#getting-auth) dans Stormworks.
+- Priorité [Applications](https://trickys.gg/applications/new).
+- Avoir un accès complet au site Web.
+- Utilisez tous les <span class="discord-text">🤖—bot-commands</span>.
+- Faire des appels pour les bans.
+- et bien plus encore....
 
-:::info Automatic
-Once you are verified you will automatically be given the <span class="verified-text">@Verified</span> role & any "get-verified" channels will be hidden on <i class="fa-brands fa-discord"></i> Discord.
+:::info Automatique
+Une fois que vous serez vérifié, vous recevrez automatiquement le rôle <span class="verified-text">@Verified</span> & tous les canaux "get-verified" seront cachés sur <i class="fa-brands fa-discord"></i> Discord.
 :::
 
-## Check If I'm Verified
+## Vérifier si je suis vérifié
 
-There are a few ways to check to see if you are Verified.
+Il y a plusieurs façons de vérifier si vous êtes vérifié.
 
 
-## Manual Approval
+## Manuel De L'approbation
