@@ -33,7 +33,7 @@ Our Patreon will be used to fund
 <table>
 <thead>
     <tr>
-        <th scope="col">Perks</th>
+        <th scope="col">Fordeler</th>
         <th scope="col"><span class="n-supporter">@Nitro</span></th>
         <th scope="col"><span class="b-supporter">@Bronze</span></th>
         <th scope="col"><span class="s-supporter">@Silver</span></th>
@@ -159,7 +159,7 @@ Our Patreon will be used to fund
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
 </tr>
 <tr>
-    <th colspan="8" class="tricky-color">Stormworks Perks</th>
+    <th colspan="8" class="tricky-color">Stormworks fordeler</th>
 </tr>
 <tr>
     <th scope="row"><a href="" data-toggle="modal" data-target="#exampleModal">Custom Map Label + Custom Icon</a></th>
