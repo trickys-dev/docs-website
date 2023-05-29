@@ -20,7 +20,7 @@ jobs:
       run: npm ci
       
     - name: Build website
-      run: npm run build -- --locale en
+      run: npm run build --if-present
 
     - name: FTP upload
       uses: wangyucode/sftp-upload-action@v2.0.2
