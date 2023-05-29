@@ -1,33 +1,33 @@
 ---
 sidebar_position: 4
-description: Auth information for stormworks
+description: Authenticatie-informatie voor Stormworks
 ---
 
-# Authorization
-AKA: AutoAuth (Automatic Authorization)
+# Authenticatie
+Ook Bekend Als: AutoAuth (Automatische Authenticatie)
 
 ## Wat is AutoAuth?
 
 De "AutoAuth", of het automatisch autorisatiesysteem machtigt u op al onze servers zonder dat een beheerder of staf op hetzelfde moment als u in de server hoeft te zijn.
 
-## Getting Auth?
+## Authenticatie krijgen?
 
-To get auth which will allow you to use the workbenches on all of our servers you just need to do the following;
+Om authenticatie te krijgen waarmee je de werkbanken op al onze servers kunt gebruiken, moet je alleen het volgende doen;
 
-:::note New User
+::note Nieuwe Gebruiker
 
-You won't be able to login with Discord if you have never logged-in with steam before
+Je zult niet kunnen inloggen met Discord als je nog nooit eerder hebt ingelogd met Steam
 
 :::
 
-1. Go to https://trickys.gg/login
-2. [Sign-in/Register](https://trickys.gg/login) with <i class="fa-brands fa-steam"></i> Steam.
-3. You then will be asked to linked your <i class="fa-brands fa-discord"></i> Discord account.
-4. Thats it!
+1. Ga naar https://trickys.gg/login
+2. [Inloggen/Registreren](https://trickys.gg/login) met <i class="fa-brands fa-steam"></i> Steam.
+3. Vervolgens wordt je gevraagd je <i class="fa-brands fa-discord"></i> Discord-account te koppelen.
+4. Dat was het!
 
-:::note Verified
+:::note Geverifieerd
 
-Once you have linked your <i class="fa-brands fa-discord"></i> Discord & <i class="fa-brands fa-steam"></i> Steam account you will become [Verified](./), read more [here](./).
+Nadat je je <i class="fa-brands fa-discord"></i> Discord & <i class="fa-brands fa-steam"></i> Steam account hebt gekoppeld, word je [geverifieerd](./), lees meer [hier](./).
 
 :::
 
@@ -37,16 +37,16 @@ Zodra je lid bent van de website krijg je automatisch toegang tot al onze stormw
 
 Wanneer je de server joined, zal het systeem de volgende dingen aanvragen van onze website:
 
-- Checks if you are perm-banned or temp banned from the server you are joining.
-- Checks if you have an account on the website. (Steam & Discord linked)
+- Controleert of je permanent verbannen bent of tijdelijk verbannen bent van de server waar je in probeert te komen.
+- Controleert of u een account heeft op de website. (Steam & Discord verbonden)
 - Controleert of je geautoriseerd bent op de server die je hebt toegetreden, als je dat nog niet bent dan wordt je geautoriseerd.
-- Checks if you are authorized and have a valid boat license. Dit is alleen nodig als je een boot licentie hebt.
+- Controleert of je geautoriseerd bent en een geldige boot licentie hebt. Dit is alleen nodig als je een boot licentie hebt.
 
 ## Ik heb Auth Maar kan geen boten spawnen?
 
 Je hebt een vaartuiglicentie nodig voor het AutoAuth System om je toestemming te geven om boten te spawnen.
 
-Heeft u al een licentie? Check if its [valid](https://trickys.gg/account).
+Heeft u al een licentie? Controleer of deze [geldig](https://trickys.gg/account) is.
 
 ## Heb ik Auth?
 
