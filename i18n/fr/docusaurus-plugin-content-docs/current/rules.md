@@ -3,13 +3,7 @@ sidebar_position: 1
 description: Règlements
 ---
 
-import Accordion from '@mui/material/Accordion';
-import AccordionSummary from '@mui/material/AccordionSummary';
-import AccordionDetails from '@mui/material/AccordionDetails';
-import Typography from '@mui/material/Typography';
-import ExpandMoreIcon from '@mui/icons-material/ExpandMore';
-import Alert from '@mui/material/Alert';
-import AlertTitle from '@mui/material/AlertTitle';
+importer Accordion à partir de '@mui/material/Accordion'; importer AccordionSummary à partir de '@mui/material/AccordionSummary'; importer AccordionDetails de '@mui/material/AccordionDetails'; importer la typographie à partir de '@mui/material/Typography'; importer ExpandMoreIcon à partir de '@mui/icons-material/ExpandMore'; importer Alerte de '@mui/material/Alert'; importer AlertTitle de '@mui/material/AlertTitle';
 
 # Règlements
 
@@ -213,11 +207,11 @@ export default function ControlledAccordions() { const [expanded, setExpanded] =
         </AccordionSummary>
         <AccordionDetails>
         <Typography>
-          1. Police jobs are whitelisted, to be whitelisted apply <a href="https://trickys.gg/applications/new">here</a>.<br/>
-          2. Respect players and their jobs.<br/>
-          3. No modding, cheating or causing lag intentionally.<br/>
-          4. <a href="https://trickys.gg/staffteam">Staff</a> have final say.<br/><br/>
-          <Alert variant="outlined" severity="info"> If you find a player abusing his whitelisted perks, you can <a href="discord://discord.com/channels/710922135580835950/846373509470748722" class="discord-text">#submit a ticket</a> on Discord to report them.</Alert><br/>
+          1. Les travaux de police sont en liste blanche, pour être mis en liste blanche, appliquer <a href="https://trickys.gg/applications/new">ici</a>.<br/>
+          2. Respectez les joueurs et leurs emplois.<br/>
+          3. Pas de modding, de triche ou de causant intentionnellement du ralentissement.<br/>
+          4. <a href="https://trickys.gg/staffteam">Staff</a> ont le dernier mot.<br/><br/>
+          <Alert variant="outlined" severity="info"> Si vous trouvez un joueur qui abuse de ses avantages en liste blanche, vous pouvez <a href="discord://discord.com/channels/710922135580835950/846373509470748722" class="discord-text">#soumettre un ticket</a> sur Discord pour le signaler.</Alert><br/>
         </Typography>
         </AccordionDetails>
       </Accordion>
