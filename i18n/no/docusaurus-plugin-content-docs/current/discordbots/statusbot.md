@@ -7,25 +7,25 @@ description: SWStatus Bot Information
 
 This page explains how to use and setup the Stormworks Status Bot.
 
-## What Can The Bot Do
+## Hva kan Botten gjøre
 
-In brief the bot can do the following;
+I Forkortelse kan botten gjøre følgende;
 
 - Get stormworks server status and different types of stats.
 - Get total players playing stormworks.
 - Show when the server is out of date.
 - Show when the server is offline.
 - Allows users to ping a server from 15+ different locations around the world.
-- Sends a DM when a server is offline. (when enabled)
-- Sends a DM when a server is out-of-date. (when enabled)
+- Sends a DM when a server is offline. (når aktivert)
+- Sends a DM when a server is out-of-date. (når aktivert)
 
-## Getting Started
+## La oss Begynne
 1. To get started <a href="https://discord.com/oauth2/authorize?client_id=807750726205702176&scope=bot&permissions=388160">invite</a> the bot to your server.
 2. Create a <code class="discord-text">#server-status</code> channel or whatever you want to call the channel, this is where the bot will place the embed to show the server status.
 3. Use <span class="code-text">/config servers</span> command to set what servers you would like to display.
 4. Once you have created the channel, tell the bot to use the channel to show the status using:<br/><span class="code-text">/config channel <code>channel:&lt;span class="discord-text">#server-status&lt;/span></code></span>
 
-## Configuring The Bot
+## Konfigurering av botten
 
 <div class="flex-vcenter mb-1">
     <img src="/img/statusbot/swconfigchannel.png" width="300px" />
