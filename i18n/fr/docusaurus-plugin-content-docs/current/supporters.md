@@ -15,8 +15,8 @@ description: Informations sur les boosters Patreon & Serveur
 | Contributeur Bronze  | <span class="b-supporter">@Bronze Supporter</span>   |
 | Contributeur Argent  | <span class="s-supporter">@Silver Supporter</span>   |
 | Contributeur Or      | <span class="g-supporter">@Gold Supporter</span>     |
-| Titanium Supporter   | <span class="t-supporter">@Titanium Supporter</span> |
-| Ruby Supporter       | <span class="r-supporter">@Ruby Supporter</span>     |
+| Contributeur Titane  | <span class="t-supporter">@Titanium Supporter</span> |
+| Contributeur Ruby    | <span class="r-supporter">@Ruby Supporter</span>     |
 | Contributeur Diamant | <span class="d-supporter"> @Diamond Supporter</span> |
 
 ## À quoi servent nos fonds Patreon ?
@@ -219,8 +219,8 @@ Notre Patreon sera utilisé pour financer
     <td class="text-center"><i class="fa-fw text-success">4</i></td>
     <td class="text-center"><i class="fa-fw text-success">5</i></td>
     <td class="text-center"><i class="fa-fw text-success">10</i></td>
-    <td class="text-center"><i class="fa-fw text-success">TBD</i></td>
-    <td class="text-center"><i class="fa-fw text-success">TBD</i></td>
+    <td class="text-center"><i class="fa-fw text-success">À DÉTERMINER</i></td>
+    <td class="text-center"><i class="fa-fw text-success">À DÉTERMINER</i></td>
 </tr>
 <tr>
     <th scope="row">Limite de Véhicule (<a href="/stormworks/sw-servers">au dessus de</a>)</th>
@@ -229,8 +229,8 @@ Notre Patreon sera utilisé pour financer
     <td class="text-center"><i class="fa-fw text-success">+2</i></td>
     <td class="text-center"><i class="fa-fw text-success">+3</i></td>
     <td class="text-center"><i class="fa-fw text-success">+4</i></td>
-    <td class="text-center"><i class="fa-fw text-success">TBD</i></td>
-    <td class="text-center"><i class="fa-fw text-success">TBD</i></td>
+    <td class="text-center"><i class="fa-fw text-success">À DÉTERMINER</i></td>
+    <td class="text-center"><i class="fa-fw text-success">À DÉTERMINER</i></td>
 </tr>
 <tr>
     <th colspan="8" class="tricky-color">Minecraft (Vanilla)</th>
@@ -252,8 +252,8 @@ Notre Patreon sera utilisé pour financer
     <td class="text-center"><i class="fa-fw text-success">6</i></td>
     <td class="text-center"><i class="fa-fw text-success">8</i></td>
     <td class="text-center"><i class="fa-fw text-success">10</i></td>
-    <td class="text-center"><i class="fa-fw text-success">TBD</i></td>
-    <td class="text-center"><i class="fa-fw text-success">TBD</i></td>
+    <td class="text-center"><i class="fa-fw text-success">À DÉTERMINER</i></td>
+    <td class="text-center"><i class="fa-fw text-success">À DÉTERMINER</i></td>
 </tr>
 <tr>
     <th scope="row">Taille du sac à dos (par défaut: 1 rangée)</th>
@@ -262,8 +262,8 @@ Notre Patreon sera utilisé pour financer
     <td class="text-center"><i class="fa-fw text-success">4</i></td>
     <td class="text-center"><i class="fa-fw text-success">5</i></td>
     <td class="text-center"><i class="fa-fw text-success">6</i></td>
-    <td class="text-center"><i class="fa-fw text-success">TBD</i></td>
-    <td class="text-center"><i class="fa-fw text-success">TBD</i></td>
+    <td class="text-center"><i class="fa-fw text-success">À DÉTERMINER</i></td>
+    <td class="text-center"><i class="fa-fw text-success">À DÉTERMINER</i></td>
 </tr>
 <tr>
     <th scope="row">Garde l'inventaire du sac-à-dos après la mort (par défaut : Non)</th>
@@ -302,8 +302,8 @@ Notre Patreon sera utilisé pour financer
     <td class="text-center"><i class="fa-fw text-success">45</i></td>
     <td class="text-center"><i class="fa-fw text-success">50</i></td>
     <td class="text-center"><i class="fa-fw text-success">60</i></td>
-    <td class="text-center"><i class="fa-fw text-success">TBD</i></td>
-    <td class="text-center"><i class="fa-fw text-success">TBD</i></td>
+    <td class="text-center"><i class="fa-fw text-success">À DÉTERMINER</i></td>
+    <td class="text-center"><i class="fa-fw text-success">À DÉTERMINER</i></td>
 </tr>
 <tr>
     <th scope="row">Voler à l'intérieur de la terre possédé</th>
@@ -325,8 +325,8 @@ Notre Patreon sera utilisé pour financer
     <td class="text-center"><i class="fa-fw text-success">6</i></td>
     <td class="text-center"><i class="fa-fw text-success">8</i></td>
     <td class="text-center"><i class="fa-fw text-success">10</i></td>
-    <td class="text-center"><i class="fa-fw text-success">TBD</i></td>
-    <td class="text-center"><i class="fa-fw text-success">TBD</i></td>
+    <td class="text-center"><i class="fa-fw text-success">À DÉTERMINER</i></td>
+    <td class="text-center"><i class="fa-fw text-success">À DÉTERMINER</i></td>
 </tr>
 <tr>
     <th scope="row">Morceaux Forceloadés (25)</th>
@@ -335,8 +335,8 @@ Notre Patreon sera utilisé pour financer
     <td class="text-center"><i class="fa-fw text-success">35</i></td>
     <td class="text-center"><i class="fa-fw text-success">40</i></td>
     <td class="text-center"><i class="fa-fw text-success">50</i></td>
-    <td class="text-center"><i class="fa-fw text-success">TBD</i></td>
-    <td class="text-center"><i class="fa-fw text-success">TBD</i></td>
+    <td class="text-center"><i class="fa-fw text-success">À DÉTERMINER</i></td>
+    <td class="text-center"><i class="fa-fw text-success">À DÉTERMINER</i></td>
 </tr>
 <tr>
     <th scope="row">Pas de délais pour la téléportation</th>
