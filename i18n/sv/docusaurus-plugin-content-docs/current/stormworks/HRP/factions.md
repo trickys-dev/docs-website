@@ -17,7 +17,7 @@ Information som du behöver att ge för att skapa en faktion:
     - Små - `max roller: 5, max användare: 10, kostar: 200`
     - Medium - `max roller: 10, max användare: 25, kostar: 400`
     - Stor - `max roller: 15, max användare: 50, kostar: 1000`
-    - Enterprise - `max roller: 15, max användare: 100, kostar: 2500⎈`
+    - Enterprise - `max roller: 15, max användare: 100, kostnad: 2500⎈`
 2. Namnet på din faktion.
 3. Beskrivning av faktionen.
 4. Faktions förkortning, minst 2 eller mer tecken (exempel: Government är GOV).
