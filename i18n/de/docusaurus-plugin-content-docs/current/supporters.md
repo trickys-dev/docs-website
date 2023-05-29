@@ -10,14 +10,14 @@ description: Patreon & Server-Booster Informationen
 
 ## Patreon Stufen
 
-| Stufe                | Discord Rollen                                       |
-| -------------------- | ---------------------------------------------------- |
-| Bronze Unterstützer  | <span class="b-supporter">@Bronze Supporter</span>   |
-| Silber Unterstützer  | <span class="s-supporter">@Silver Supporter</span>   |
-| Gold Unterstützer    | <span class="g-supporter">@Gold Supporter</span>     |
-| Titanium Supporter   | <span class="t-supporter">@Titanium Supporter</span> |
-| Ruby Supporter       | <span class="r-supporter">@Ruby Supporter</span>     |
-| Diamant Unterstützer | <span class="d-supporter"> @Diamond Supporter</span> |
+| Stufe                 | Discord Rollen                                       |
+| --------------------- | ---------------------------------------------------- |
+| Bronze Unterstützer   | <span class="b-supporter">@Bronze Supporter</span>   |
+| Silber Unterstützer   | <span class="s-supporter">@Silver Supporter</span>   |
+| Gold Unterstützer     | <span class="g-supporter">@Gold Supporter</span>     |
+| Titanium Unterstützer | <span class="t-supporter">@Titanium Supporter</span> |
+| Rubin Unterstützer    | <span class="r-supporter">@Ruby Supporter</span>     |
+| Diamant Unterstützer  | <span class="d-supporter"> @Diamond Supporter</span> |
 
 ## Wofür werden unsere Patreon-Einnahmen verwendet?
 
