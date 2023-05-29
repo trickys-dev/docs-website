@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-description: Stormworks NFZ Information
+description: Stormworks Wapen vrije Zone Informatie
 ---
 
 # Wapen vrije zone
@@ -13,7 +13,7 @@ Doe het volgende niet:
 
 :::info vuren in NFZ
 
-Firing inside or into the zone will get you temporarily banned.
+Als je op iets in de zone schiet of schiet terwijl je in de zone bent, krijg je een tijdelijke verbanning.
 
 :::  
 
