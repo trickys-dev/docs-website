@@ -10,12 +10,14 @@ description: Informacje o Patreon i Boosterach serwera
 
 ## Rangi Patronów
 
-| Ranga             | Rola na Discordzie                                   |
-| ----------------- | ---------------------------------------------------- |
-| Brązowy Patron    | <span class="b-supporter">@Bronze Supporter</span>   |
-| Srebrny Patron    | <span class="s-supporter">@Silver Supporter</span>   |
-| Złoty Patron      | <span class="g-supporter">@Gold Supporter</span>     |
-| Diamentowy Patron | <span class="d-supporter"> @Diamond Supporter</span> |
+| Ranga              | Rola na Discordzie                                   |
+| ------------------ | ---------------------------------------------------- |
+| Brązowy Patron     | <span class="b-supporter">@Bronze Supporter</span>   |
+| Srebrny Patron     | <span class="s-supporter">@Silver Supporter</span>   |
+| Złoty Patron       | <span class="g-supporter">@Gold Supporter</span>     |
+| Titanium Supporter | <span class="t-supporter">@Titanium Supporter</span> |
+| Ruby Supporter     | <span class="r-supporter">@Ruby Supporter</span>     |
+| Diamentowy Patron  | <span class="d-supporter"> @Diamond Supporter</span> |
 
 ## Do Czego Są Używane Datki Naszych Patronów?
 
@@ -36,16 +38,20 @@ Nasz Patreon będzie używany do płacenia za
         <th scope="col"><span class="b-supporter">@Bronze</span></th>
         <th scope="col"><span class="s-supporter">@Silver</span></th>
         <th scope="col"><span class="g-supporter">@Gold</span></th>
+        <th scope="col"><span class="t-supporter">@Titanium</span></th>
+        <th scope="col"><span class="r-supporter">@Ruby</span></th>
         <th scope="col"><span class="d-supporter">@Diamond</span></th>
     </tr>
 </thead>
 <tbody>
 
 <tr>
-    <th colspan="6" class="tricky-color">Bonusy na Discordzie i Stronie Internetowej</th>
+    <th colspan="8" class="tricky-color">Bonusy na Discordzie i Stronie Internetowej</th>
 </tr>
 <tr>
     <th scope="row">Kolorowa Nazwa na Stronie</th>
+    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
+    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
@@ -59,10 +65,14 @@ Nasz Patreon będzie używany do płacenia za
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
+    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
+    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
 </tr>
 <tr>
     <th scope="row">Nazwa na <a href="https://trickys.gg/awards">Stronie Nagród</a></th>
     <td></td>
+    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
+    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
@@ -75,10 +85,14 @@ Nasz Patreon będzie używany do płacenia za
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
+    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
+    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
 </tr>
 <tr>
     <th scope="row">Pełny dostęp do <a href="/category/api">API</a></th>
     <td></td>
+    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
+    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
@@ -91,10 +105,14 @@ Nasz Patreon będzie używany do płacenia za
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
+    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
+    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
 </tr>
 <tr>
     <th scope="row">Niestandardowy link URL do Profilu</th>
     <td></td>
+    <td></td>
+    <td class="text-center"><i class="fas fa-fw fa-pause-circle text-danger"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-pause-circle text-danger"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-pause-circle text-danger"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-pause-circle text-danger"></i></td>
@@ -103,6 +121,8 @@ Nasz Patreon będzie używany do płacenia za
 <tr>
     <th scope="row">Galeria Profilu</th>
     <td></td>
+    <td></td>
+    <td class="text-center"><i class="fas fa-fw fa-pause-circle text-danger"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-pause-circle text-danger"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-pause-circle text-danger"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-pause-circle text-danger"></i></td>
@@ -115,11 +135,15 @@ Nasz Patreon będzie używany do płacenia za
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
+    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
+    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
 </tr>
 <tr>
     <th scope="row">Priorytetowe <a href="https://trickys.gg/applications">Zgłoszenia</a></th>
     <td></td>
     <td></td>
+    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
+    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
@@ -131,9 +155,11 @@ Nasz Patreon będzie używany do płacenia za
     <td></td>
     <td class="text-center"><i class="fas fa-fw fa-pause-circle text-warning"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-pause-circle text-warning"></i></td>
+    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
+    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
 </tr>
 <tr>
-    <th colspan="6" class="tricky-color">Korzyści w Stormworks</th>
+    <th colspan="8" class="tricky-color">Korzyści w Stormworks</th>
 </tr>
 <tr>
     <th scope="row"><a href="" data-toggle="modal" data-target="#exampleModal">Własna etykieta mapy + Własna ikona</a></th>
@@ -142,9 +168,13 @@ Nasz Patreon będzie używany do płacenia za
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
+    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
+    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
 </tr>
 <tr>
     <th scope="row"><a href="/stormworks/boats#custom-license-id">Niestandardowy identyfikator łodzi</a></th>
+    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
+    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
@@ -159,11 +189,15 @@ Nasz Patreon będzie używany do płacenia za
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
+    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
+    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
 </tr>
 <tr>
     <th scope="row"><a href="/stormworks/commands#vehicle-manager-commands">Polecenie</a> naprawy pojazdów</th>
     <td></td>
     <td></td>
+    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
+    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
@@ -175,6 +209,8 @@ Nasz Patreon będzie używany do płacenia za
     <td></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
+    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
+    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
 </tr>
 <tr>
     <th scope="row">Limit <a href="/stormworks/commands">domów</a></th>
@@ -183,6 +219,8 @@ Nasz Patreon będzie używany do płacenia za
     <td class="text-center"><i class="fa-fw text-success">4</i></td>
     <td class="text-center"><i class="fa-fw text-success">5</i></td>
     <td class="text-center"><i class="fa-fw text-success">10</i></td>
+    <td class="text-center"><i class="fa-fw text-success">TBD</i></td>
+    <td class="text-center"><i class="fa-fw text-success">TBD</i></td>
 </tr>
 <tr>
     <th scope="row">Vehicle limit (<a href="/stormworks/sw-servers">Above Limit</a>)</th>
@@ -191,12 +229,16 @@ Nasz Patreon będzie używany do płacenia za
     <td class="text-center"><i class="fa-fw text-success">+2</i></td>
     <td class="text-center"><i class="fa-fw text-success">+3</i></td>
     <td class="text-center"><i class="fa-fw text-success">+4</i></td>
+    <td class="text-center"><i class="fa-fw text-success">TBD</i></td>
+    <td class="text-center"><i class="fa-fw text-success">TBD</i></td>
 </tr>
 <tr>
-    <th colspan="6" class="tricky-color">Minecraft (Vanilla)</th>
+    <th colspan="8" class="tricky-color">Minecraft (Vanilla)</th>
 </tr>
 <tr>
     <th scope="row">Kolorowa nazwa w Minecraft + Tag</th>
+    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
+    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
@@ -210,6 +252,8 @@ Nasz Patreon będzie używany do płacenia za
     <td class="text-center"><i class="fa-fw text-success">6</i></td>
     <td class="text-center"><i class="fa-fw text-success">8</i></td>
     <td class="text-center"><i class="fa-fw text-success">10</i></td>
+    <td class="text-center"><i class="fa-fw text-success">TBD</i></td>
+    <td class="text-center"><i class="fa-fw text-success">TBD</i></td>
 </tr>
 <tr>
     <th scope="row">Rozmiar Plecaka (domyślnie: 1 wiersz)</th>
@@ -218,9 +262,13 @@ Nasz Patreon będzie używany do płacenia za
     <td class="text-center"><i class="fa-fw text-success">4</i></td>
     <td class="text-center"><i class="fa-fw text-success">5</i></td>
     <td class="text-center"><i class="fa-fw text-success">6</i></td>
+    <td class="text-center"><i class="fa-fw text-success">TBD</i></td>
+    <td class="text-center"><i class="fa-fw text-success">TBD</i></td>
 </tr>
 <tr>
     <th scope="row">Zatrzymanie plecaka po śmierci (domyślnie: Nie)</th>
+    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
+    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
@@ -234,10 +282,14 @@ Nasz Patreon będzie używany do płacenia za
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
+    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
+    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
 </tr>
 <tr>
     <th scope="row">Brak czasu odnowienia teleportacji (domyślnie: 5s)</th>
     <td></td>
+    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
+    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
@@ -250,6 +302,8 @@ Nasz Patreon będzie używany do płacenia za
     <td class="text-center"><i class="fa-fw text-success">45</i></td>
     <td class="text-center"><i class="fa-fw text-success">50</i></td>
     <td class="text-center"><i class="fa-fw text-success">60</i></td>
+    <td class="text-center"><i class="fa-fw text-success">TBD</i></td>
+    <td class="text-center"><i class="fa-fw text-success">TBD</i></td>
 </tr>
 <tr>
     <th scope="row">Latanie w obrębie własnego terenu</th>
@@ -258,9 +312,11 @@ Nasz Patreon będzie używany do płacenia za
     <td></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
+    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
+    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
 </tr>
 <tr>
-    <th colspan="6" class="tricky-color">Minecraft (Zmodyfikowany)</th>
+    <th colspan="8" class="tricky-color">Minecraft (Zmodyfikowany)</th>
 </tr>
 <tr>
     <th scope="row">Domy (3)</th>
@@ -269,6 +325,8 @@ Nasz Patreon będzie używany do płacenia za
     <td class="text-center"><i class="fa-fw text-success">6</i></td>
     <td class="text-center"><i class="fa-fw text-success">8</i></td>
     <td class="text-center"><i class="fa-fw text-success">10</i></td>
+    <td class="text-center"><i class="fa-fw text-success">TBD</i></td>
+    <td class="text-center"><i class="fa-fw text-success">TBD</i></td>
 </tr>
 <tr>
     <th scope="row">Zawsze załadowane Chunki (25)</th>
@@ -277,6 +335,8 @@ Nasz Patreon będzie używany do płacenia za
     <td class="text-center"><i class="fa-fw text-success">35</i></td>
     <td class="text-center"><i class="fa-fw text-success">40</i></td>
     <td class="text-center"><i class="fa-fw text-success">50</i></td>
+    <td class="text-center"><i class="fa-fw text-success">TBD</i></td>
+    <td class="text-center"><i class="fa-fw text-success">TBD</i></td>
 </tr>
 <tr>
     <th scope="row">Brak czasu odnowienia TP</th>
@@ -285,9 +345,13 @@ Nasz Patreon będzie używany do płacenia za
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
+    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
+    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
 </tr>
 <tr>
     <th scope="row">Przenośna skrzynia Kresu</th>
+    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
+    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
