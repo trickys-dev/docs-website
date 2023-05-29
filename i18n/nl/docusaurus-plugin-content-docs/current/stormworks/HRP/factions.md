@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-description: HRP Factions information
+description: HRP Facties informatie
 ---
 
 # Facties
@@ -124,19 +124,19 @@ Om rollen te beheren ga je naar het tabblad `rollen` op je eigen factie.
 
 :::tip
 
-Regardless of permissions roles cannot edit their own role or roles above them.
+Mensen kunnen hun eigen rol of de rollen daarboven niet bewerken, ongeacht permissies.
 
 :::
 
-:::note Owner Role
+::note Eigenaarsrol
 
-The owner role of a faction cannot edit their own role order or permissions.
+De eigenaar van een factie kan de volgorde of permissies van hun eigen rol niet bewerken.
 
 :::
 
 ## Voorbeeld
 
-Below we have an example of what the outcome would look like if you customize everything.
+Hieronder hebben we een voorbeeld van hoe de resultaten eruit zouden zien als je alles zou aanpassen.
 
 ### Aangepaste Factie voorbeeld
 
