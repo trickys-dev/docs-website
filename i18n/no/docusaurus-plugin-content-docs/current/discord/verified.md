@@ -1,17 +1,17 @@
 ---
 sidebar_position: 1
-description: Verified
+description: Verifisert
 ---
 
-# Verified
+# Verifisert
 
 ...
 
-## How Do I Get Verified
+## Hvordan blir jeg verifisert
 
-1. [Click Here](https://trickys.gg/login) to go our website.
-2. Sign-In with <i class="fa-brands fa-steam"></i> Steam, you will be asked to accept the rules and to connect your <i class="fa-brands fa-discord"></i> Discord account.
-3. Thats it!
+1. [ Trykk her ](https://trickys.gg/login) for å gå til nettsiden vår.
+2. Logg in med <i class="fa-brands fa-steam"></i> Steam, Du kommer til og bli spurt om å godta reglene og koble til din<i class="fa-brands fa-discord"></i> Discord bruker.
+3. Det var det!
 
 :::info New Users
 You won't be able to login with <i class="fa-brands fa-discord"></i> Discord if you have never logged-in with <i class="fa-brands fa-steam"></i> Steam before
