@@ -19,10 +19,10 @@ Tilpass dine personlige & Fraction profiler
 Personal profiles are referring to public profiles which all members have.
 
 - Avatar to display.
-- Bio. **You are limited to 200 characters in bios & descriptions.**
+- Om meg. **You are limited to 200 characters in bios & descriptions.**
 - Avatar outline colour.
 
-### Avatar To Display
+### Profilbilde for visning
 
 <div class="flex-vcenter mb-1">
     <img src="/img/customprofiles/profileavatardisplay.png"/>
@@ -45,7 +45,7 @@ The selected avatar will also show in a Discord embed when you post your profile
   </p>
 </div>
 
-## Example
+## Eksempel
 
 Below we have have exmaple of what the outcome would look like if you customised everything.
 
