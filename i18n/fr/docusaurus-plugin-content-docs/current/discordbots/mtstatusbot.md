@@ -1,84 +1,84 @@
 ---
 sidebar_position: 3
-description: MT Status Bot Information
+description: Informations sur le bot SWStatus
 ---
 
-# MT Status Bot
+# Status Du Bots Dans Stormworks
 
 <span class="request-bubble request-get">BETA</span>
 <br/>
 <br/>
-This page explains how to use and setup the MT Status Bot.
+Cette page explique comment utiliser et configurer le Bot ScamWatch.
 
-## What Can The Bot Do
+## Que Peut Faire Le Bot
 
-In brief the bot can do the following;
-- Get MotorTown server status.
-- Get player count for servers.
-- Get total players playing MotorTown.
-- Sync in-game to discord. (chats, joins & leaves) - [ChatLogger](/discordbots/mtstatusbot#chat-logger)
+En bref, le bot peut faire ce qui suit ;
+- Obtenir le statut du serveur Stormworks.
+- Obtenir le nombre de joueurs pour les serveurs.
+- Obtenez le nombre total de joueurs qui jouent à stormworks.
+- Synchroniser dans le jeu avec le discord. (chats, rejoint & feuilles) - [ChatLogger](/discordbots/mtstatusbot#chat-logger)
 
-## Quick Setup
+## Configuration Rapide
 
-<span class="statusbot-title">Step 1.</span> <a href="#">Invite</a> the bot to your server.<br/><br/>
+<span class="statusbot-title">Étape 1.</span> <a href="#">Invitez</a> le bot sur votre serveur.<br/><br/>
 
 <div class="flex-vcenter mb-1">
     <img src="/img/mtstatusbot/mtstatusbot1.png" width="300px" />
   <p class="m-0">
-  <span class="statusbot-title">Step 2.</span> - use the <span class="code-text">/mt servers add <code>server:<span class="discord-text">server-name</span></code> </span>
-command and select a server from the list.
+  <span class="statusbot-title">Étape 2.</span> - utilisez la commande <span class="code-text">/mt servers add <code>server :<span class="discord-text">server-name</span></code> </span>
+et sélectionnez un serveur dans la liste.
   </p>
  </div>
  <div class="flex-vcenter mb-1">
     <img src="/img/mtstatusbot/mtstatusbot2.png" width="300px" />
   <p class="m-0">
- <span class="statusbot-title">Step 3.</span> - Set the channel which the status embed will be sent and updated<br/>
-  To set the channel: <span class="code-text">/mt channel <code>channel:<span class="discord-text">#channel</span></code></span>
+ <span class="statusbot-title">Channel</span> - Le canal que le bot utilisera pour les logs.<br/>
+  Pour définir le canal : <span class="code-text">/config logchannel<code> <span class="discord-text">#channel</span>
   </p>
  </div>
 
-## Configuring The Bot
+## Configuration du Bot
 
-:::caution Default Permissions
+:::caution Permissions par Défaut
 
-These commands by default will only be accessible by users with the administrator permission.
+Ces commandes par défaut ne seront accessibles que par les utilisateurs ayant la permission d'administrateur.
 
 :::
 
-### Title
+### Titre
 <div class="flex-vcenter mb-1">
     <img src="/img/mtstatusbot/mtstatusbottitle.png" width="300px" />
   <p class="m-0">
-  <span class="statusbot-title">Title</span> - The title of the embed.<br/>
-  To set the title: <span class="code-text">/mt embed title<code>title:<span class="discord-text">title-here</span></code></span>
+  <span class="statusbot-title">Title</span> - Le titre de l’embed.<br/>
+  Pour définir le titre : <span class="code-text">/mt embed titre<code>titre :<span class="discord-text">title-ici</span></code></span>
   </p>
  </div>
 
-### Colour
+### Couleur
 <div class="flex-vcenter mb-1">
     <img src="/img/mtstatusbot/mtstatusbotcolour.png" width="300px" />
   <p class="m-0">
-  <span class="statusbot-title">Colour</span> - The color of the embed.<br/>
-  To set the color: <span class="code-text">/mt embed colour<code>colour:<span class="discord-text">Hex-colour</span></code></span>
+  <span class="statusbot-title">Title</span> - Le titre de l’embed.<br/>
+  Pour définir le titre : <span class="code-text">/mt embed titre<code>titre :<span class="discord-text">title-ici</span></code></span>
   </p>
  </div>
 
-### Set Channel
+### Définir la chaine
 
  <div class="flex-vcenter mb-1">
     <img src="/img/mtstatusbot/mtstatusbot2.png" width="300px" />
   <p class="m-0">
- <span class="statusbot-title">Channel</span> - Set the channel where you want the embed to be<br/>
-  To set the channel: <span class="code-text">/mt channel <code>channel:<span class="discord-text">#channel</span></code></span>
+ <span class="statusbot-title">Channel</span> - Le canal que le bot utilisera pour les logs.<br/>
+  Pour définir le canal : <span class="code-text">/config logchannel<code> <span class="discord-text">#channel</span>
   </p>
  </div>
 
-### Set Embed Info
+### Information du Type de Set
 <div class="flex-vcenter mb-1">
     <img src="/img/mtstatusbot/mtstatusbotinfo.png" width="300px" />
   <p class="m-0">
-  <span class="statusbot-title">Set Embed Info</span> - Icon, Global Players, Game Logo In Title.<br/>
-  To show the embed settings: <span class="code-text">/mt info</span>
+  <span class="statusbot-title">Set Embed Info</span> - Icône, Joueurs Globaux, Logo du Jeu dans le Titre.<br/>
+  Pour afficher les paramètres d'intégration : <span class="code-text">/mt info</span>
   </p>
  </div>
 
@@ -87,136 +87,136 @@ These commands by default will only be accessible by users with the administrato
 
   <span class="ml-1" >
 
-| No. | Info Type          | Description                                |
-|-----|--------------------|--------------------------------------------|
-| 1   | Icon               | Shows server icon in embed.                |
-| 2   | Global Players     | Shows the number of players on MotorTown.  |
-| 3   | Game Logo In Title | Shows title in embed.                      |
+| Non. | Type d'info | Description |
+|-----|--------------------------------------------|
+| 1 | joueurs | Affiche le nombre de joueurs en ligne.                |
+| 2 | GlobalPlayers | Affiche le nombre de joueurs dans stormworks.  |
+| 3 | Logo du jeu dans le titre | Montre le titre en intégré.                      |
 
   </span>
  </div>
 
-### Manage Servers
+### Gérer les Serveurs
 <div class="flex-vcenter mb-1">
     <img src="/img/mtstatusbot/mtstatusbotaddserver.png" width="300px" />
   <p class="m-0">
-  <span class="statusbot-title">Add Server</span> - Add a server to the embed.<br/>
-  To add a server use: <span class="code-text">/mt servers add <code>server:<span class="discord-text">server-name</span></code></span>
+  <span class="statusbot-title">Title</span> - Le titre de l’embed.<br/>
+  Pour définir le titre : <span class="code-text">/mt embed titre<code>titre :<span class="discord-text">title-ici</span></code></span>
   </p>
  </div>
  <div class="flex-vcenter mb-1">
     <img src="/img/mtstatusbot/mtstatusbotremoveserver.png" width="300px" />
   <p class="m-0">
-  <span class="statusbot-title">Remove Server</span> - Remove a server from the embed.<br/>
-  To remove a server use: <span class="code-text">/mt servers remove <code>displayedserver:<span class="discord-text">server-name</span></code></span>
+  <span class="statusbot-title">Supprimer le serveur</span> - Supprimer un serveur de l’embed.<br/>
+  Pour supprimer une utilisation du serveur : <span class="code-text">/mt serveurs enlèvent <code>displayedserver :<span class="discord-text">nom du serveur</span></code></span>
   </p>
  </div>
   <div class="flex-vcenter mb-1">
     <img src="/img/mtstatusbot/mtstatusbotlistservers.png" width="300px" />
   <p class="m-0">
-  <span class="statusbot-title">List Servers</span> - Shows current servers on embed.<br/>
-  To show current servers use: <span class="code-text">/mt servers list</span>
+  <span class="statusbot-title">Liste des serveurs</span> - Affiche les serveurs actuels sur embed.<br/>
+  Pour afficher les serveurs actuels utiliser : <span class="code-text">liste /mt serveurs</span>
   </p>
  </div>
 
-## Chat Logger
+## Journal de chat
 
-:::caution Server Owners
+:::caution Propriétaires du serveur
 
-You must own a MT server & be [Verified](/discord/verified) to gain access to the chat logger. If you are a MT server owner then <a href="discord://discord.com/channels/710922135580835950/846373509470748722" class="discord-text">#submit a ticket</a> on discord requesting access to the MT Chat Logger.
+Vous devez posséder un serveur MT & être [Vérifié](/discord/verified) pour avoir accès à l'enregistreur de chat. Si vous êtes propriétaire du serveur MT, alors <a href="discord://discord.com/channels/710922135580835950/846373509470748722" class="discord-text">#soumettre un ticket</a> sur discord demandant l'accès à l'enregistreur de chat MT.
 
 :::
 
-### Token
+### Jeton
 
   <div class="flex-vcenter mb-1">
     <img src="/img/mtstatusbot/mtstatusbottoken.png" width="300px" />
   <p class="m-0">
-  <span class="statusbot-title">Step 1. </span> - Get Token.<br/>
-  To get token use: <span class="code-text">/chatlogger viewtokens</span>, keep this as you will need this later.
+  <span class="statusbot-title">Étape 1. </span> - Obtenir le jeton.<br/>
+  Pour obtenir le jeton, utilisez : <span class="code-text">/chatlogger viewtokens</span>, gardez ceci comme vous en aurez besoin plus tard.
   </p>
  </div>
 
-<span class="statusbot-title">Step 2.</span> Download the chat logger which will be provided when you contact us.<br/><br/>
+<span class="statusbot-title">Étape 2.</span> Téléchargez l'enregistreur de chat qui sera fourni lorsque vous nous contactez.<br/><br/>
   <div class="flex-vcenter mb-1">
     <img src="/img/mtstatusbot/mtstatusbotrootfolder.png" width="300px" />
   <p class="m-0">
-  <span class="statusbot-title">Step 3.</span> - Place the chat logger inside the root MT server folder<br/>
+  <span class="statusbot-title">Étape 3.</span> - Placez le logger de chat à l'intérieur du dossier MT serveur racine<br/>
   </p>
  </div>
 
   <div class="flex-vcenter mb-1">
     <img src="/img/mtstatusbot/mtstatusbotconfigfile.png" width="300px" />
   <p class="m-0">
-  <span class="statusbot-title">Step 4.</span> - Run the chat logger to generate <code>config.json</code> file.<br/>
+  <span class="statusbot-title">Étape 4.</span> - Lancer le logger de chat pour générer le fichier <code>config.json</code>.<br/>
   </p>
  </div>
 
-### Config File
+### Fichier de configuration
 ```json
 {
-    "_token": "Enter the token from the discord bot below",
+    "_token": "Entrez le jeton du bot discord ci-dessous",
     "token": "",
 
-    "_serverPath": "Enter the path to the root folder of the server below (leave blank if the exe is in the root folder)",
+    "_serverPath": "Entrez le chemin vers le dossier racine du serveur ci-dessous (laissez vide si le exe est dans le dossier racine)",
     "serverPath": "",
 
-    "_createStartBat": "When true a start.bat file will be created which will start this script and the MT server",
+    "_createStartBat": "Quand vrai un démarrage. au fichier sera créé qui démarrera ce script et le serveur MT",
     "createStartBat": false
 }
 ```
-<span class="statusbot-title">Step 5.</span> - Configuring the <code>config.json</code> file.<br/>
-1. Place your <code>token</code> inside the token field.<br/>
-2. Leave the <code>serverPath</code> blank if you have placed the chatlogger in the root folder.<br/>
-3. (optional) Set <code>createStartBat</code> to true which will create a batch file that will start the MT server and the chat logger at the same time.<br/><br/>
+<span class="statusbot-title">Étape 5.</span> - configurer le <code>config.json</code> fichier.<br/>
+1. Placez votre jeton <code></code> dans le champ de jeton.<br/>
+2. Laissez le <code>serverPath</code> vide si vous avez placé le chatlogger dans le dossier racine.<br/>
+3. (optionnel) Set <code>createStartBat</code> à "true" ce qui va crée un fichier batch et qui va démarrer le serveur MT ainsi que l'enregistreur de chat en même temps.<br/><br/>
 
   <div class="flex-vcenter mb-1">
     <img src="/img/mtstatusbot/mtstatusbotchatloggerconsole1.png" width="300px" />
   <p class="m-0">
-  <span class="statusbot-title">Step 6.</span> - Run the chat logger which should now open a console window and you should see a <span class="code-text">Success!</span> message, if not view the <a href="/discordbots/mtstatusbot#errors--warnings">Errors & Warnings</a> below.<br/>
+  <span class="statusbot-title">Étape 6.</span> - Lancer le logger de chat qui devrait maintenant ouvrir une fenêtre de console et vous devriez voir un <span class="code-text">Succès !</span> , si vous ne voyez pas les <a href="/discordbots/mtstatusbot#errors--warnings">Erreurs & Avertissements</a> ci-dessous.<br/>
   </p>
  </div>
 
 ### Webhooks
 
-<span class="statusbot-title">Step 7.</span> Its now time to link a token to a channel. There are two options<br/>
+<span class="statusbot-title">Étape 7.</span> Il est maintenant temps de lier un jeton à un canal. 2 options sont possibles<br/>
 
   <div class="flex-vcenter mb-1">
     <img src="/img/mtstatusbot/mtstatusbotwebhookop1.png" width="450px" />
   <p class="m-0">
-  <span class="statusbot-title">Option 1 (<span class="statusbot-title">Recommended</span>).</span> - Auto generate webhook by channel.<br/>
-  <span class="statusbot-title">token</span> - Select token.<br/>
-  <span class="statusbot-title">channel</span> - Where to send the in-game messages.<br/>
-  <span class="statusbot-title">webhookname</span> - (optional) Set the display name of the webhook.<br/>
+  <span class="statusbot-title">Option 1 (<span class="statusbot-title">Recommandée</span>).</span> - Générer automatiquement le webhook par canal.<br/>
+  <span class="statusbot-title">jeton</span> - Sélectionnez un jeton.<br/>
+  <span class="statusbot-title">Canal</span> - Où envoyer les messages en jeu.<br/>
+  <span class="statusbot-title">webhookname</span> - (facultatif) Définit le nom d'affichage du webhook.<br/>
   </p>
  </div>
 
   <div class="flex-vcenter mb-1">
     <img src="/img/mtstatusbot/mtstatusbotwebhookop2.png" width="450px" />
   <p class="m-0">
-  <span class="statusbot-title">Option 2.</span> - Give existing webhook URL.
+  <span class="statusbot-title">Option 2.</span> - Donner des URL de webhook existantes.
   </p>
  </div>
 
-### Errors & Warnings
+### Erreurs & avertissements
 
-| Message                                                                                                | Description                                                                                                      |
-| ------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------- |
-| <span class="update-removed">No token found!</span>                                                    | Token is not specified in the [config.json](/discordbots/mtstatusbot#config-file) file.                          |
-| <span class="update-removed">Invalid token!</span>                                                     | Token is not vaild, copy valid [token](/discordbots/mtstatusbot#token) from the bot.                             |
-| <span class="update-removed">Config file is not valid JSON!</span>                                     | [config.json](/discordbots/mtstatusbot#config-file) file is invalid asdasds                                      |
-| <span class="update-removed">No valid motortown server path found!</span>                              | Chatlogger is not in the root folder or [specified folder](/discordbots/mtstatusbot#config-file) is not correct. |
-| <span class="update-removed">Error connecting to API!</span>                                           | Script cannot connect to our API. <a href="discord://discord.com/channels/710922135580835950/846373509470748722" class="discord-text">#submit a ticket</a> for help.                                             |
-| <span class="update-removed">Unable to attach to server!</span>                                        | Script cannot read files.                                                                                        |
-| <span class="update-removed">Your version of the logger is too old!</span>                             | Chat logger out of date.                                                                                         |
-| <span class="update-removed">Asset files not found!</span>                                             | Chat logger is corrupt, re-download.                                                                             |
-| <span class="update-updated">New version available! </span>                                            | New version available for download.                                                                              |
-| <span class="update-updated">You didn't use the start.bat file and it is enabled in the config!</span> | <code>createStartBat</code> enabled in [config.json](/discordbots/mtstatusbot#config-file), but wasn't used.       |
+| Message                                                                                                                   | Descriptions                                                                                                                  |
+| ------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| <span class="update-removed">Aucun jeton trouvé!</span>                                                                   | Le jeton n'est pas spécifié dans le fichier [config.json](/discordbots/mtstatusbot#config-file).                              |
+| <span class="update-removed">Jeton non valide!</span>                                                                     | Le jeton n'est pas vaild, copiez le jeton [valide](/discordbots/mtstatusbot#token) depuis le bot.                             |
+| <span class="update-removed">Le JSON de la liste des pays n'est pas valide!</span>                                        | [le fichier config.json](/discordbots/mtstatusbot#config-file) est un asdasds invalide                                        |
+| <span class="update-removed">Pas de chemin de serveur valide trouvé !</span>                                              | Chatlogger n'est pas dans le dossier racine ou [le dossier spécifié](/discordbots/mtstatusbot#config-file) n'est pas correct. |
+| <span class="update-removed">Erreur de connexion à l'API!</span>                                                          | Le script ne peut pas se connecter à notre API. <a href="discord://discord.com/channels/710922135580835950/846373509470748722" class="discord-text">#soumettre un ticket</a> pour obtenir de l'aide.                              |
+| <span class="update-removed">Erreur de connexion au serveur!</span>                                                       | Le script ne peut pas lire les fichiers.                                                                                      |
+| <span class="update-removed">Votre version de l'enregistreur est trop ancienne !</span>                                   | La journalisation du chat est obsolète.                                                                                       |
+| <span class="update-removed">Ce bien n’a pas été trouvé!</span>                                                           | L'enregistreur de chat est corrompu, re-télécharger.                                                                          |
+| <span class="update-updated">Nouvelle version disponible ! </span>                                                        | Nouvelle version disponible en téléchargement.                                                                                |
+| <span class="update-updated">Vous n'avez pas utilisé le fichier start.bat et il est activé dans la configuration !</span> | <code>createStartBat</code> activé dans [config.json](/discordbots/mtstatusbot#config-file), mais n'a pas été utilisé.          |
 
-## Bot Permissions
-These are the bot's permissions:
+## Permissions du bot
+Voici les permissions du bot:
 
-- Read Messages/View Channels - Needed to read messages & view channels in server.
-- Send Messages - Needed to send messages in server.
-- Read Message History - Needed to read message history.
-- Manage Webhooks - Needed to create webhook for [ChatLogger](/discordbots/mtstatusbot#chat-logger).
+- Lire les messages/Voir les canaux - Nécessaire pour lire les messages & voir les canaux sur le serveur.
+- Envoyer les messages - Nécessaire pour Envoyer les messages dans le serveur.
+- Lire les messages - Nécessaire pour lire les messages dans le serveur.
+- Gérer les Webhooks - Nécessaire de créer un webhook pour [ChatLogger](/discordbots/mtstatusbot#chat-logger).
