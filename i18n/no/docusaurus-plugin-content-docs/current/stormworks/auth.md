@@ -10,7 +10,7 @@ AKA: AutoAuth (Automatic Authorization)
 
 The "AutoAuth", or Automatic Authorization system authorizes you on all our servers automatically without any admins or staff needing to be on the server at the same time as you.
 
-## Getting Auth?
+## Skaffe seg Auth?
 
 To get auth which will allow you to use the workbenches on all of our servers you just need to do the following;
 
@@ -23,7 +23,7 @@ You won't be able to login with Discord if you have never logged-in with steam b
 1. Go to https://trickys.gg/login
 2. [Sign-in/Register](https://trickys.gg/login) with <i class="fa-brands fa-steam"></i> Steam.
 3. You then will be asked to linked your <i class="fa-brands fa-discord"></i> Discord account.
-4. Thats it!
+4. Det var det!
 
 :::note Verified
 
