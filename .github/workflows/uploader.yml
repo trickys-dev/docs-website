@@ -29,6 +29,6 @@ jobs:
         username: ${{ secrets.ftp_user }}
         password: ${{ secrets.ftp_password }}
         port: 22
-        localDir: './build/*'
+        localDir: './build/'
         remoteDir: '/docs.trickys.gg/'
         removeExtraFilesOnServer: true
