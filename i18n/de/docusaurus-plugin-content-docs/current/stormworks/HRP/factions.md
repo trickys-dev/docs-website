@@ -40,7 +40,7 @@ Sie können alle aktuellen Fraktionen sehen, indem Sie [hier klicken](https://tr
 
 ## Fraktionsprofile
 
-- Avatarbild.
+- Avatar-Bild.
 - Titelbild.
 - Beschreibung und Biografie.
 - Fraktions-Discord-Server Einladungslink.
