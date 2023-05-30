@@ -4,7 +4,7 @@ description: Authenticatie-informatie voor Stormworks
 ---
 
 # Authenticatie
-Ook Bekend Als: AutoAuth (Automatische Authenticatie)
+Ook Bekend Als: AutoAuth (Automatische Autorisatie)
 
 ## Wat is AutoAuth?
 
