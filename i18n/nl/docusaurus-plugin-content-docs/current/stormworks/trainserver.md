@@ -1,6 +1,6 @@
 ---
 sidebar_position: 3
-description: Stormworks Train Server Information
+description: Stormworks Trein Server Informatie
 ---
 
 # Trein Server
@@ -15,8 +15,8 @@ De spoorwegen worden verdeeld in vier gedeeltes, die worden beheerd door vier af
 
 :::caution Banned Components
 
-- Jet trains
-- Nuclear reactors
+- Jet treinen
+- Nucleaire reactoren
 
 :::
 
@@ -55,7 +55,7 @@ Alle signalen op deze spoorweg zijn bovenste quadrant semaphore signalen, Dit be
     Signaal uit = Clear<br/>
     Als je dit signaal ziet dan is het vrij om door te gaan naar het volgende signaal
   </div>
-<b>Distant Signal</b><br/> You will encounter these distant signals before home/starter signals to give you a warning whether they are at danger or clear. Je kunt dit zien als gele verkeerslichten op de weg.
+<b>Afstand Signalen</b><br/> Je zal deze Afstand Signalen tegenkomen voor thuis/start signalen om je te waarschuwen of ze verderop op gevaar of vrij staan. Je kunt dit zien als gele verkeerslichten op de weg.
   <div class="flex-vcenter mb-1">
     <img src="/img/trainsrv/trainsrvyellowsignal1.png" width="300px"/>
     Signaal On = Waarschuwing<br/>
@@ -81,9 +81,9 @@ Alle signalen op deze spoorweg zijn bovenste quadrant semaphore signalen, Dit be
 
 ## Signaleerders
 
-### Signal Codes
+### Signaal Codes
 
-- 3-1 Passenger
+- 3-1 Passagier
 - 2-3 Light Engine
 - 1-3-1 Freight
 - 2 Train Entering section

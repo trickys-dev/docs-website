@@ -8,6 +8,8 @@ import AccordionSummary from '@mui/material/AccordionSummary';
 import AccordionDetails from '@mui/material/AccordionDetails';
 import Typography from '@mui/material/Typography';
 import ExpandMoreIcon from '@mui/icons-material/ExpandMore';
+import Alert from '@mui/material/Alert';
+import AlertTitle from '@mui/material/AlertTitle';
 
 # Rules
 
@@ -210,13 +212,19 @@ export default function ControlledAccordions() { const [expanded, setExpanded] =
         </AccordionSummary>
         <AccordionDetails>
         <Typography>
-          1. Police jobs are limited to <a href="https://trickys.gg/staffteam">moderation staff</a> only.<br/>
+          1. Police jobs are whitelisted, to be whitelisted apply <a href="https://trickys.gg/applications/new">here</a>.<br/>
           2. Respect players and their jobs.<br/>
           3. No modding, cheating or causing lag intentionally.<br/>
-          4. <a href="https://trickys.gg/staffteam">Staff</a> have final say.<br/>
+          4. <a href="https://trickys.gg/staffteam">Staff</a> have final say.<br/><br/>
+          <Alert variant="outlined" severity="info"> If you find a player abusing his whitelisted perks, you can <a href="discord://discord.com/channels/710922135580835950/846373509470748722" class="discord-text">#submit a ticket</a> on Discord to report them.</Alert><br/>
         </Typography>
         </AccordionDetails>
       </Accordion>
     {/* #endregion */}
     </div>
   ); }
+
+
+
+
+

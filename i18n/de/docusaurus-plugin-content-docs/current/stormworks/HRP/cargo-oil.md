@@ -1,11 +1,11 @@
 ---
 sidebar_position: 0
-description: HRP Cargo & Oil information
+description: HRP Fracht & Öl Informationen
 ---
 
-# Cargo & Oil
+# Fracht & Öl
 
-## Definitions
+## Definitionen
 
 <!-- css for flex -->
   <div class="flex-vcenter">
@@ -14,7 +14,7 @@ description: HRP Cargo & Oil information
     </div>
 <p>
 
-- Land/Sea Cargo: This is defined as ISO Container.
+- Land/Seefracht: Dies wird als ISO Container definiert.
 
 </p>
   </div>
@@ -26,56 +26,56 @@ description: HRP Cargo & Oil information
     </div>
 <p>
 
-- Air Cargo: This is defined as an AirISO Container.
+- Luftfracht: Dies wird als AirISO Container definiert.
 
 </p>
   </div>
 
-## Cargo
+## Fracht
 
-1. First you must choose to do land/sea cargo or air. (For this guide we will choose land/sea)
+1. Zuerst müssen Sie wählen, ob Sie Land/See oder Luftfracht machen. (Für diese Anleitung wählen wir Land/See)
 
-:::note A couple of notes
+:::note ein paar Hinweise
 
-- Locations you can deliver are different between land/sea or air. For example, O’Neil (Air) can deliver to the Arctic, but North Harbor (Land/Sea) can not.
-- You can NOT take any land/sea cargo into the air, this is against HRP Laws and will result in a fine on the spot. (Unless you are loading it within 1km of terminal)
-- You are NOT allowed to take air cargo by land/sea, this is against [HRP Laws (2.2)](/hrplaws#23-airiso-container-mismanagement) and will result in a fine on the spot.
-- You are only allowed 2 of any type of cargo by [HRP Laws (2.4)](/hrplaws#24-player-container-limit).
+- Die Standorte, die Sie beliefern können, unterscheiden sich zwischen Land/See oder Luft. So kann beispielsweise O’Neil (Luft) in die Arktis liefern, aber der North Harbor (Land/Sea) nicht.
+- Sie können KEINE Land-/See Fracht in der Luft transportieren, dies ist gegen HRP Gesetze und führt zu einer Geldstrafe. (Sofern Sie diese unter 1 km zum Terminal laden)
+- Sie können KEINE Luftfracht an Land/See transportieren, dies ist gegen [HRP Gesetze (2.2)](/hrplaws#23-airiso-container-mismanagement) und führt zu einer Geldstrafe.
+- Es sind nur 2 Frachten von jeglicher Art nach [HRP Gesetz (2.4)](/hrplaws#24-player-container-limit) zugelassen.
 
 :::
 
-2. Figure out where you want to go using the `?listdst command` (deliver locations dependent on your location)
-3. Use the `?claimto [Number]` command to claim cargo to that destination. <img src="/img/hrp/cargooil/HRPClaimTo.png" />
+2. Finden Sie heraus, wohin Sie Frachten liefern können mit dem `?listdst Befehl` (Lieferziele abhängig von Ihrem Standort)
+3. Verwenden Sie den `?claimto [Number]` Befehl, um Fracht zu diesem Ziel in Anspruch zu nehmen. <img src="/img/hrp/cargooil/HRPClaimTo.png" />
 
-4. Go to the delivery location, for this guide we are going to Spycakes.
-5. Once you get there look at the cargo for the id then run `?deliver [cargo id]`. <img src="/img/hrp/cargooil/HRPDeliver.png" width="750px" />
+4. Bringen Sie die Fracht zum Lieferort, für diese Anleitung beliefern wir Spycakes.
+5. Sobald Sie angekommen sind, schauen Sie auf Fracht nach der ID und nutzen Sie `?deliver [Fracht ID]`. <img src="/img/hrp/cargooil/HRPDeliver.png" width="750px" />
 
 
-## Oil
+## Öl
 
-1. You must be in a [faction](https://trickys.gg/factions), you can either join one or [create](/stormworks/HRP/factions#create-a-faction) a new one.
-2. Find an oil point on the map. (This will give 30cr once captured)
+1. Sie müssen in einer [Fraktion](https://trickys.gg/factions)sein, Sie können entweder einer beitreten oder eine neue [erstellen](/stormworks/HRP/factions#create-a-faction).
+2. Finden Sie einen Öl-Punkt auf der Karte. (Dies gibt 30cr sobald eingenommen)
 
 <img src="/img/hrp/cargooil/HRPOilField.png" />
 
-3. Go to oil point and wait for capture.
+3. Gehen Sie zum Öl-Punkt und warten Sie, bis Sie ihn eingenommen haben.
 
 <img src="/img/hrp/cargooil/HRPOilPointcapture1.png" />
 
-4. Once captured you will get money, the point will be uncaptured, and will be on cooldown for 30mins so wait or find another point.
+4. Sobald der Punkt eingenommen ist, erhallten Sie Geld, der Punkt ist dann nicht mehr eingenommen und hat 30 min Abklingzeit, also warten Sie oder finden Sie einen weiteren.
 
 <img src="/img/hrp/cargooil/HRPOilPointcapture2.png" />
 
-## Sizes
+## Maßen
 
-ISO Containers:
-- Height: 11 Blocks - 2.75 meters.
-- Width: 11 Blocks - 2.74 meters.
-- Length: 29 Blocks - 7.25 meters.
-- Weight: 4 Metric Tonnes.
+ISO Container:
+- Höhe: 11 Blöcke - 2,75 Meter.
+- Breite: 11 Blöcke - 2,74 Meter.
+- Länge: 29 Blöcke - 7,25 Meter.
+- Gewicht: 4 Tonnen.
 
 AirISO:
-- Hight: 8 Blocks - 2 meters.
-- Width: 9 Blocks - 2.25 meters.
-- Length: 9 Blocks - 2.25 meters.
-- Weight: 318 Kg.
+- Höhe: 8 Blöcke - 2 Meter.
+- Breite: 9 Blocks - 2,25 Meter.
+- Länge: 9 Blöcke - 2,25 Meter.
+- Gewicht: 318 kg.

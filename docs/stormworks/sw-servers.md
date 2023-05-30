@@ -23,6 +23,8 @@ export const Icon = ({children, type}) => {
         <th scope="col">Server 4</th>
         <th scope="col">Server 5</th>
         <th scope="col">Server 6</th>
+        <th scope="col">Server NA1</th>
+        <th scope="col">Server NA2</th>
     </tr>
 </thead>
 <tbody>
@@ -34,6 +36,8 @@ export const Icon = ({children, type}) => {
     <td class="text-center"><a href="/category/hrp">RP</a></td>
     <td class="text-center"><a href="/category/hrp">RP</a></td>
     <td class="text-center"><a href="/stormworks/trainserver">Trains</a></td>
+    <td class="text-center">Normal</td>
+    <td class="text-center"><a href="/category/hrp">RP</a></td>
 </tr>
 <tr>
     <th scope="row">Vehicle Limit</th>
@@ -42,6 +46,8 @@ export const Icon = ({children, type}) => {
     <td class="text-center">2</td>
     <td class="text-center">2</td>
     <td class="text-center">3</td>
+    <td class="text-center">3</td>
+    <td class="text-center">2</td>
     <td class="text-center">3</td>
 </tr>
 <tr>
@@ -52,6 +58,8 @@ export const Icon = ({children, type}) => {
     <td class="text-center"></td>
     <td class="text-center"></td>
     <td class="text-center"></td>
+    <td class="text-center"></td>
+    <td class="text-center"><Icon type="dlcG"></Icon></td>
 </tr>
 <tr>
     <th scope="row">Fast Travel</th>
@@ -61,9 +69,13 @@ export const Icon = ({children, type}) => {
     <td class="text-center"><Icon type="cross"></Icon></td>
     <td class="text-center"><Icon type="cross"></Icon></td>
     <td class="text-center"><Icon type="cross"></Icon></td>
+    <td class="text-center"><Icon type="tick"></Icon></td>
+    <td class="text-center"><Icon type="cross"></Icon></td>
 </tr>
 <tr>
     <th scope="row">Player Damage</th>
+    <td class="text-center"><Icon type="tick"></Icon></td>
+    <td class="text-center"><Icon type="tick"></Icon></td>
     <td class="text-center"><Icon type="tick"></Icon></td>
     <td class="text-center"><Icon type="tick"></Icon></td>
     <td class="text-center"><Icon type="tick"></Icon></td>
@@ -79,6 +91,8 @@ export const Icon = ({children, type}) => {
     <td class="text-center"><Icon type="tick"></Icon></td>
     <td class="text-center"><Icon type="tick"></Icon></td>
     <td class="text-center"><Icon type="tick"></Icon></td>
+    <td class="text-center"><Icon type="cross"></Icon></td>
+    <td class="text-center"><Icon type="tick"></Icon></td>
 </tr>
 <tr>
     <th scope="row"><a href="/stormworks/topup-zone">Topup Zones</a></th>
@@ -87,6 +101,8 @@ export const Icon = ({children, type}) => {
     <td class="text-center"><Icon type="cross"></Icon></td>
     <td class="text-center"><Icon type="cross"></Icon></td>
     <td class="text-center"><Icon type="cross"></Icon></td>
+    <td class="text-center"><Icon type="cross"></Icon></td>
+    <td class="text-center"><Icon type="tick"></Icon></td>
     <td class="text-center"><Icon type="cross"></Icon></td>
 </tr>
 <tr>
@@ -97,6 +113,8 @@ export const Icon = ({children, type}) => {
     <td class="text-center"><Icon type="cross"></Icon></td>
     <td class="text-center"><Icon type="cross"></Icon></td>
     <td class="text-center"><Icon type="cross"></Icon></td>
+    <td class="text-center"><Icon type="cross"></Icon></td>
+    <td class="text-center"><Icon type="tick"></Icon></td>
 </tr>
 <tr>
     <th scope="row"><a href="/stormworks/boats">Boat License</a></th>
@@ -106,6 +124,8 @@ export const Icon = ({children, type}) => {
     <td class="text-center"><Icon type="cross"></Icon></td>
     <td class="text-center"><Icon type="cross"></Icon></td>
     <td class="text-center"><Icon type="cross"></Icon></td>
+    <td class="text-center"><Icon type="tick"></Icon></td>
+    <td class="text-center"><Icon type="tick"></Icon></td>
 </tr>
 <tr>
     <th scope="row"><a href="/stormworks/HRP/cargo-oil">Cargo</a></th>
@@ -115,6 +135,8 @@ export const Icon = ({children, type}) => {
     <td class="text-center"><Icon type="tick"></Icon></td>
     <td class="text-center"><Icon type="tick"></Icon></td>
     <td class="text-center"><Icon type="cross"></Icon></td>
+    <td class="text-center"><Icon type="cross"></Icon></td>
+    <td class="text-center"><Icon type="tick"></Icon></td>
 </tr>
 <tr>
     <th scope="row">Islands Unlocked</th>
@@ -124,9 +146,13 @@ export const Icon = ({children, type}) => {
     <td class="text-center"><Icon type="tick"></Icon></td>
     <td class="text-center"><Icon type="tick"></Icon></td>
     <td class="text-center"><Icon type="tick"></Icon></td>
+    <td class="text-center"><Icon type="tick"></Icon></td>
+    <td class="text-center"><Icon type="tick"></Icon></td>
 </tr>
 <tr>
-    <th scope="row"><a href="/stormworks/HRP/cargo-oil">AutoAuth</a></th>
+    <th scope="row"><a href="/stormworks/auth">AutoAuth</a></th>
+    <td class="text-center"><Icon type="tick"></Icon></td>
+    <td class="text-center"><Icon type="tick"></Icon></td>
     <td class="text-center"><Icon type="tick"></Icon></td>
     <td class="text-center"><Icon type="tick"></Icon></td>
     <td class="text-center"><Icon type="tick"></Icon></td>
@@ -142,9 +168,13 @@ export const Icon = ({children, type}) => {
     <td class="text-center"><Icon type="tick"></Icon></td>
     <td class="text-center"><Icon type="tick"></Icon></td>
     <td class="text-center"><Icon type="tick"></Icon></td>
+    <td class="text-center"><Icon type="tick"></Icon></td>
+    <td class="text-center"><Icon type="tick"></Icon></td>
 </tr>
 <tr>
     <th scope="row">Anti-Lag</th>
+    <td class="text-center"><Icon type="tick"></Icon></td>
+    <td class="text-center"><Icon type="tick"></Icon></td>
     <td class="text-center"><Icon type="tick"></Icon></td>
     <td class="text-center"><Icon type="tick"></Icon></td>
     <td class="text-center"><Icon type="tick"></Icon></td>

@@ -1,16 +1,12 @@
 ---
 sidebar_position: 10
-description: Info about SW servers
+description: Informatie over SW servers
 ---
 
 
-# SW Server Info
+# SW Server Informatie
 
-export const Icon = ({children, type}) => {
-if (type=="dlcG") return (<i class="fa-solid fa-gun text-warning" title="Weapon DLC"></i>)
-if (type=="dlcI") return (<i class="fa-solid fa-industry text-warning" title="Industrial DLC"></i>)
-if (type=="tick") return (<i class="fas fa-fw fa-check-circle text-success" title="Yes"></i>)
-if (type=="cross") return (<i class="fas fa-times-circle text-danger" title="No"></i>) }
+export const Icon = ({children, type}) => { if (type=="dlcG") return (<i class="fa-solid fa-gun text-warning" title="Weapon DLC"></i>) if (type=="dlcI") return (<i class="fa-solid fa-industry text-warning" title="Industrial DLC"></i>) if (type=="tick") return (<i class="fas fa-fw fa-check-circle text-success" title="Yes"></i>) if (type=="cross") return (<i class="fas fa-times-circle text-danger" title="No"></i>) }
 
 <table>
 <thead>
@@ -26,16 +22,16 @@ if (type=="cross") return (<i class="fas fa-times-circle text-danger" title="No"
 </thead>
 <tbody>
 <tr>
-    <th scope="row">Type</th>
-    <td class="text-center">Normal</td>
-    <td class="text-center">Normal</td>
-    <td class="text-center"><a href="/category/hrp">RP</a></td>
-    <td class="text-center"><a href="/category/hrp">RP</a></td>
-    <td class="text-center"><a href="/category/hrp">RP</a></td>
-    <td class="text-center"><a href="/stormworks/trainserver">Trains</a></td>
+    <th scope="row">Soort</th>
+    <td class="text-center">Normaal</td>
+    <td class="text-center">Normaal</td>
+    <td class="text-center"><a href="/category/hrp">Rollenspel</a></td>
+    <td class="text-center"><a href="/category/hrp">Rollenspel</a></td>
+    <td class="text-center"><a href="/category/hrp">Rollenspel</a></td>
+    <td class="text-center"><a href="/stormworks/trainserver">Treinen</a></td>
 </tr>
 <tr>
-    <th scope="row">Vehicle Limit</th>
+    <th scope="row">Voertuig limiet</th>
     <td class="text-center">2</td>
     <td class="text-center">2</td>
     <td class="text-center">2</td>
@@ -53,7 +49,7 @@ if (type=="cross") return (<i class="fas fa-times-circle text-danger" title="No"
     <td class="text-center"></td>
 </tr>
 <tr>
-    <th scope="row">Fast Travel</th>
+    <th scope="row">Snel reizen</th>
     <td class="text-center"><Icon type="tick"></Icon></td>
     <td class="text-center"><Icon type="tick"></Icon></td>
     <td class="text-center"><Icon type="cross"></Icon></td>
@@ -62,7 +58,7 @@ if (type=="cross") return (<i class="fas fa-times-circle text-danger" title="No"
     <td class="text-center"><Icon type="cross"></Icon></td>
 </tr>
 <tr>
-    <th scope="row">Player Damage</th>
+    <th scope="row">Speler Schade</th>
     <td class="text-center"><Icon type="tick"></Icon></td>
     <td class="text-center"><Icon type="tick"></Icon></td>
     <td class="text-center"><Icon type="tick"></Icon></td>
@@ -71,7 +67,7 @@ if (type=="cross") return (<i class="fas fa-times-circle text-danger" title="No"
     <td class="text-center"><Icon type="tick"></Icon></td>
 </tr>
 <tr>
-    <th scope="row">Vehicle Damage</th>
+    <th scope="row">Voertuig Schade</th>
     <td class="text-center"><Icon type="cross"></Icon></td>
     <td class="text-center"><Icon type="tick"></Icon></td>
     <td class="text-center"><Icon type="tick"></Icon></td>
@@ -80,7 +76,7 @@ if (type=="cross") return (<i class="fas fa-times-circle text-danger" title="No"
     <td class="text-center"><Icon type="tick"></Icon></td>
 </tr>
 <tr>
-    <th scope="row"><a href="/stormworks/topup-zone">Topup Zones</a></th>
+    <th scope="row"><a href="/stormworks/topup-zone">Top-up Zones</a></th>
     <td class="text-center"><Icon type="tick"></Icon></td>
     <td class="text-center"><Icon type="tick"></Icon></td>
     <td class="text-center"><Icon type="cross"></Icon></td>
@@ -89,7 +85,7 @@ if (type=="cross") return (<i class="fas fa-times-circle text-danger" title="No"
     <td class="text-center"><Icon type="cross"></Icon></td>
 </tr>
 <tr>
-    <th scope="row"><a href="/stormworks/no-fire-zone">NFZ</a></th>
+    <th scope="row"><a href="/stormworks/no-fire-zone">Wapen Vrije Zone</a></th>
     <td class="text-center"><Icon type="cross"></Icon></td>
     <td class="text-center"><Icon type="tick"></Icon></td>
     <td class="text-center"><Icon type="tick"></Icon></td>
@@ -98,7 +94,7 @@ if (type=="cross") return (<i class="fas fa-times-circle text-danger" title="No"
     <td class="text-center"><Icon type="cross"></Icon></td>
 </tr>
 <tr>
-    <th scope="row"><a href="/stormworks/boats">Boat License</a></th>
+    <th scope="row"><a href="/stormworks/boats">Boot Licentie</a></th>
     <td class="text-center"><Icon type="tick"></Icon></td>
     <td class="text-center"><Icon type="tick"></Icon></td>
     <td class="text-center"><Icon type="tick"></Icon></td>
@@ -107,7 +103,7 @@ if (type=="cross") return (<i class="fas fa-times-circle text-danger" title="No"
     <td class="text-center"><Icon type="cross"></Icon></td>
 </tr>
 <tr>
-    <th scope="row"><a href="/stormworks/HRP/cargo-oil">Cargo</a></th>
+    <th scope="row"><a href="/stormworks/HRP/cargo-oil">Vracht</a></th>
     <td class="text-center"><Icon type="cross"></Icon></td>
     <td class="text-center"><Icon type="cross"></Icon></td>
     <td class="text-center"><Icon type="tick"></Icon></td>
@@ -116,7 +112,7 @@ if (type=="cross") return (<i class="fas fa-times-circle text-danger" title="No"
     <td class="text-center"><Icon type="cross"></Icon></td>
 </tr>
 <tr>
-    <th scope="row">Islands Unlocked</th>
+    <th scope="row">Eilanden Ontgrendeld</th>
     <td class="text-center"><Icon type="tick"></Icon></td>
     <td class="text-center"><Icon type="tick"></Icon></td>
     <td class="text-center"><Icon type="tick"></Icon></td>
@@ -134,7 +130,7 @@ if (type=="cross") return (<i class="fas fa-times-circle text-danger" title="No"
     <td class="text-center"><Icon type="tick"></Icon></td>
 </tr>
 <tr>
-    <th scope="row">Anti-Steal</th>
+    <th scope="row">Anti-Diefstal</th>
     <td class="text-center"><Icon type="tick"></Icon></td>
     <td class="text-center"><Icon type="tick"></Icon></td>
     <td class="text-center"><Icon type="tick"></Icon></td>
