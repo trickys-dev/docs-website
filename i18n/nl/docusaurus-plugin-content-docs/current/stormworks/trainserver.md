@@ -13,7 +13,7 @@ De spoorwegen worden verdeeld in vier gedeeltes, die worden beheerd door vier af
 
 :::
 
-::caution Verboden Onderdelen
+:::caution Banned Components
 
 - Jet treinen
 - Nucleaire reactoren
