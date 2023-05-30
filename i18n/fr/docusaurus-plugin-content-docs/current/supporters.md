@@ -8,6 +8,13 @@ description: Informations sur les boosters Patreon & Serveur
 - Ce guide explique ce que vous obtenez pour être un membre de Patreon.
 - En devenant patreon, vous soutenez la communauté.
 
+:::info Out Of Date
+
+We have added some new tiers, some of the information below is not up to date.
+
+:::
+
+
 ## Paliers Patreon
 
 | Niveaux              | Rôles Discord                                        |
