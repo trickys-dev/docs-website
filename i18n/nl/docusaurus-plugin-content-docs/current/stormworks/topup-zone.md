@@ -1,6 +1,6 @@
 ---
 sidebar_position: 2
-description: Top-Up Zone Information
+description: Top-Up Zone Informatie
 ---
 
 # Top-up zone

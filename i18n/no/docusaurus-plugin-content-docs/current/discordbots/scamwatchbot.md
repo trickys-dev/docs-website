@@ -165,8 +165,8 @@ Disse kommandoene vil som standard bare være tilgjengelig for brukere med admin
   </p>
 </div>
 
-## Bot Permissions
-These are the bot's permissions:
+## Bot Tillatelser
+Dette er bottens tillatelser:
 
 - Read Messages - Needed to read messages in server.
 - Send Messages - Needed to send messages in server.

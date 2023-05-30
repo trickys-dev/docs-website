@@ -3,13 +3,13 @@ sidebar_position: 1
 description: HRP Factions information
 ---
 
-# Factions
+# Faksjoner
 
-## Create A Faction
+## Opprett en faksjon
 
 We are still working on creating an application that automatically creates your faction, until then you can create a ticket on discord.
 
-- You can only own one faction.
+- Du kan bare eie en faksjon.
 - Changing the name of a faction (including the TAG) or to transfer ownership will cost `500⎈`
 
 Information you need to provide to create a faction:
@@ -38,11 +38,11 @@ You can view all the current factions by [Clicking Here](https://trickys.gg/fact
 
 :::
 
-## Faction Profiles
+## Faksjon profiler
 
-- Avatar image.
-- Cover image.
-- Bio/description.
+- Avatar bilde.
+- Bakgrunnsbilde.
+- Beskrivelse.
 - Faction Discrd server invite link.
 - Faction avatar outline colour.
 
@@ -70,7 +70,7 @@ You can view all the current factions by [Clicking Here](https://trickys.gg/fact
     </p>
  </div>
 
-### Faction Bio
+### Faksjon Beskrivelse
 
   <div class="flex-vcenter mb-1">
     <img src="/img/customprofiles/factions/factionbio.png"/>
@@ -107,18 +107,18 @@ You are able to use BBCode in your factions bio, heres whats allowed:
   </p>
  </div>
 
-## Role Management
+## Rollebehandling
 
 To manage roles head to the `Roles` tab on a faction your own.
 
 <img src="/img/hrp/factions/factionrolestab.png" />
 
   One you click on roles you will be able to do the following:
-- Create a new role
+- Opprett ny rolle
 - Reorder the roles
 - Edit the role permissions
-- Rename roles
-- Delete roles
+- Endre navn på rollen
+- Fjern roller
 
 <img src="/img/hrp/factions/factionsroleviewpage.png" />
 

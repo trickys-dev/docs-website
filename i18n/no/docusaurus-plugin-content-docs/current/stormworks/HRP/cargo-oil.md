@@ -66,7 +66,7 @@ description: HRP Cargo & Oil information
 
 <img src="/img/hrp/cargooil/HRPOilPointcapture2.png" />
 
-## Sizes
+## Størrelser
 
 ISO Containers:
 - Height: 11 Blocks - 2.75 meters.

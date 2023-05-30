@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-description: Stormworks NFZ Information
+description: Stormworks NFZ Informationen
 ---
 
 # Schießfreie Zone (NFZ)
@@ -13,7 +13,7 @@ Tun Sie Folgendes nicht:
 
 :::info Schießen in NFZ
 
-Firing inside or into the zone will get you temporarily banned.
+Wenn Sie in der Zone Schießen oder in die Zone hineinschießen, werden Sie temporär gebannt.
 
 :::  
 

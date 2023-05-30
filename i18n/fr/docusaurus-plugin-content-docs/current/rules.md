@@ -8,6 +8,8 @@ import AccordionSummary from '@mui/material/AccordionSummary';
 import AccordionDetails from '@mui/material/AccordionDetails';
 import Typography from '@mui/material/Typography';
 import ExpandMoreIcon from '@mui/icons-material/ExpandMore';
+import Alert from '@mui/material/Alert';
+import AlertTitle from '@mui/material/AlertTitle';
 
 # Règlements
 
@@ -211,13 +213,19 @@ export default function ControlledAccordions() { const [expanded, setExpanded] =
         </AccordionSummary>
         <AccordionDetails>
         <Typography>
-          1. Les postes de police sont limités à <a href="https://trickys.gg/staffteam">personnel de modération</a> seulement.<br/>
+          1. Les travaux de police sont en liste blanche, pour être mis en liste blanche, appliquer <a href="https://trickys.gg/applications/new">ici</a>.<br/>
           2. Respectez les joueurs et leurs emplois.<br/>
           3. Pas de modding, de triche ou de causant intentionnellement du ralentissement.<br/>
-          4. <a href="https://trickys.gg/staffteam">Staff</a> ont le dernier mot.<br/>
+          4. <a href="https://trickys.gg/staffteam">Staff</a> ont le dernier mot.<br/><br/>
+          <Alert variant="outlined" severity="info"> Si vous trouvez un joueur qui abuse de ses avantages en liste blanche, vous pouvez <a href="discord://discord.com/channels/710922135580835950/846373509470748722" class="discord-text">#soumettre un ticket</a> sur Discord pour le signaler.</Alert><br/>
         </Typography>
         </AccordionDetails>
       </Accordion>
     {/* #endregion */}
     </div>
   ); }
+
+
+
+
+

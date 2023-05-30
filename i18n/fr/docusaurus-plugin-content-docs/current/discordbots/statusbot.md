@@ -31,7 +31,7 @@ En bref, le bot peut faire ce qui suit ;
     <img src="/img/statusbot/swconfigchannel.png" width="300px" />
   <p class="m-0">
   <span class="statusbot-title">Channel</span> - Le canal que le bot utilisera pour les logs.<br/>
-  Pour définir le canal : <span class="code-text">/config logchannel</span> <span class="discord-text">#channel</span>
+  Pour définir le canal : <span class="code-text">/config logchannel<code> <span class="discord-text">#channel</span>
   </p>
  </div>
 <div class="flex-vcenter mb-1">

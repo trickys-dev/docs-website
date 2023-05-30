@@ -9,15 +9,15 @@ description: HRP Faktions information
 
 Vi fortfarande arbetar på en automatisk ansökan som skapar din faktion, tills dess behöver man göra en ticket på vår discord.
 
-- You can only own one faction.
-- Changing the name of a faction (including the TAG) or to transfer ownership will cost `500⎈`
+- Du får bara äga en faktion.
+- För att ändra namnet (inklusive TAG) eller för att överföra ägarskap så kostar det `500⎈`
 
 Information som du behöver att ge för att skapa en faktion:
 1. Typ av faktion:
-    - Small - `max roles: 5, max users: 10, cost to create: 200⎈`
-    - Medium - `max roles: 10, max users: 25, cost to create: 400⎈`
-    - Large - `max roles: 15, max users: 50, cost to create: 1000⎈`
-    - Enterprise - `max roles: 15, max users: 100, cost to create: 2500⎈`
+    - Små - `max roller: 5, max användare: 10, kostar: 200`
+    - Medium - `max roller: 10, max användare: 25, kostar: 400`
+    - Stor - `max roller: 15, max användare: 50, kostar: 1000`
+    - Enterprise - `max roller: 15, max användare: 100, kostnad: 2500⎈`
 2. Namnet på din faktion.
 3. Beskrivning av faktionen.
 4. Faktions förkortning, minst 2 eller mer tecken (exempel: Government är GOV).
@@ -28,7 +28,7 @@ Information som du behöver att ge för att skapa en faktion:
 
 - Ägare som har en Discord server för faktionen som de leder behöver ha minst en admin från huvudservern med administrator permissioner.
 - Ägaren av faktionen måste vara ägaren till Discord servern.
-- Servers must have 2FA enabled `(Server Settings -> Safety Setup -> Permissions -> Enable 2FA)`.
+- Servrar behöver ha 2FA aktiverat `(Server Settings -> Safety Setup -> Permissions -> Enable 2FA)`.
 
 :::
 
