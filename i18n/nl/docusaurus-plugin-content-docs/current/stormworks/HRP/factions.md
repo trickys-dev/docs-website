@@ -128,7 +128,7 @@ Mensen kunnen hun eigen rol of de rollen daarboven niet bewerken, ongeacht permi
 
 :::
 
-::note Eigenaarsrol
+:::note Owner Role
 
 De eigenaar van een factie kan de volgorde of permissies van hun eigen rol niet bewerken.
 
