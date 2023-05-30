@@ -3,7 +3,13 @@ sidebar_position: 1
 description: Règlements
 ---
 
-importer Accordion à partir de '@mui/material/Accordion'; importer AccordionSummary à partir de '@mui/material/AccordionSummary'; importer AccordionDetails de '@mui/material/AccordionDetails'; importer la typographie à partir de '@mui/material/Typography'; importer ExpandMoreIcon à partir de '@mui/icons-material/ExpandMore'; importer Alerte de '@mui/material/Alert'; importer AlertTitle de '@mui/material/AlertTitle';
+import Accordion from '@mui/material/Accordion';
+import AccordionSummary from '@mui/material/AccordionSummary';
+import AccordionDetails from '@mui/material/AccordionDetails';
+import Typography from '@mui/material/Typography';
+import ExpandMoreIcon from '@mui/icons-material/ExpandMore';
+import Alert from '@mui/material/Alert';
+import AlertTitle from '@mui/material/AlertTitle';
 
 # Règlements
 
