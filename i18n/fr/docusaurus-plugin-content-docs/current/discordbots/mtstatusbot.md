@@ -33,7 +33,7 @@ et sélectionnez un serveur dans la liste.
     <img src="/img/mtstatusbot/mtstatusbot2.png" width="300px" />
   <p class="m-0">
  <span class="statusbot-title">Channel</span> - Le canal que le bot utilisera pour les logs.<br/>
-  Pour définir le canal : <span class="code-text">/config logchannel<code> <span class="discord-text">#channel</span>
+  Pour définir le canal : <span class="code-text">/mt channel <code>channel:<span class="discord-text">#channel</span></code></span>
   </p>
  </div>
 
@@ -91,9 +91,7 @@ Ces commandes par défaut ne seront accessibles que par les utilisateurs ayant l
 |-----|--------------------------------------------|
 | 1 | joueurs | Affiche le nombre de joueurs en ligne.                |
 | 2 | GlobalPlayers | Affiche le nombre de joueurs dans stormworks.  |
-| 3 | Logo du jeu dans le titre | Montre le titre en intégré.                      |
-
-  </span>
+| 3 | Logo du jeu dans le titre | Montre le titre en intégré.                      | </span>
  </div>
 
 ### Gérer les Serveurs
