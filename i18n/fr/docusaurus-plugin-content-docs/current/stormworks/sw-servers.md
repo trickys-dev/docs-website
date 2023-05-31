@@ -18,8 +18,8 @@ export const Icon = ({children, type}) => { if (type=="dlcG") return (<i class="
         <th scope="col">Serveur 4</th>
         <th scope="col">Serveur 5</th>
         <th scope="col">Serveur 6</th>
-        <th scope="col">Server NA1</th>
-        <th scope="col">Server NA2</th>
+        <th scope="col">Serveur NA1</th>
+        <th scope="col">Serveur NA2</th>
     </tr>
 </thead>
 <tbody>
