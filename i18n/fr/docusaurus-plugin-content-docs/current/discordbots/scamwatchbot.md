@@ -120,7 +120,7 @@ Ces commandes par défaut ne seront accessibles que par les utilisateurs ayant l
   <p class="m-0">
   <span class="statusbot-title">Auto TimeOut</span> - Définit l'heure à laquelle un utilisateur sera expiré en jours.<br/>
   <span class="statusbot-title">Activer</span> - Activer ou désactiver le délai d'expiration automatique.<br/>
-  Pour définir ceci: <span class="code-text">/config autotimeout Vrai / Faux jours</span>
+  Pour définir ceci: <span class="code-text">/config autotimeout Vrai / Faux jours</span>  <span class="discord-text">@role</span>
   </p>
  </div>
   <div class="flex-vcenter mb-1">
