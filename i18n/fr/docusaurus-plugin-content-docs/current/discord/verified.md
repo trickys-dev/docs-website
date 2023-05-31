@@ -1,18 +1,18 @@
 ---
 sidebar_position: 1
-description: Verified Information
+description: Information vérifiée
 ---
 
 # Vérifié
 
-Information on being verified and how to get verified.
+Informations sur la vérification et comment être vérifié.
 
 ## En cours de vérification
 
 Être <span class="verified-text">@Verified</span> vous permet de faire ce qui suit :
 
 - Poster des liens intégrés dans le discord.
-- Gain access to channels on discord that require the <span class="verified-text">@Verified</span> role.
+- Obtenez un accès aux canaux sur discord qui nécessite le rôle <span class="verified-text">@Verified</span>.
 - Diffuser & partager l'écran dans les canaux vocaux.
 - Rejoignez & jouez sur nos serveurs de jeu qui nécessitent le rôle vérifié.
 - Obtenez [Autorisation](https://docs.trickys.gg/stormworks/auth#getting-auth) dans Stormworks.
@@ -40,34 +40,34 @@ Vous ne pourrez pas vous connecter avec <i class="fa-brands fa-discord"></i> Dis
 
 Il y a plusieurs façons de vérifier si vous êtes vérifié.
 
-- Via Website, go to My Account and check if you have discord connected. If you have Discord connected then you will be verified.
-- Via Discord 1, go to <span class="discord-text">🤖︱bot-commands</span> and use the `/account` command. If the bot replies with account account info then you are verified.
-- Via Discord 2, look at your roles if you have the Verified role then you are verified.
+- Via le site Web, allez à Mon compte et vérifiez si vous avez discord connecté. Si vous avez Discord connecté, vous serez vérifié.
+- Via Discord 1, allez à <span class="discord-text">🤖—bot-commands</span> et utilisez la commande `/account`. Si le bot répond avec les informations du compte de compte, alors vous êtes vérifié.
+- Via Discord 2, regardez vos rôles si vous avez le rôle vérifié alors vous êtes vérifié.
 
 ## Manuel De L'approbation
 
-When registering for the very first time your account may be selected for manual approval, for most accounts this process is automatic and don't need manual approval.
+Lors de l'inscription pour la première fois, votre compte peut être sélectionné pour approbation manuelle, pour la plupart des comptes, ce processus est automatique et n'a pas besoin d'approbation manuelle.
 
-There are many reasons why our system could select an account for manual approval, there is nothing to worry about if you get selected its just another step that you have to go though which many other users have done without any issues.
+Il y a de nombreuses raisons pour lesquelles notre système pourrait sélectionner un compte pour approbation manuelle, il n'y a rien à craindre si vous êtes sélectionné c'est juste une autre étape que vous devez franchir bien que beaucoup d'autres utilisateurs ont fait sans problème.
 
-:::caution Waiting For Approval
+:::prudence en Attente d'Approbation
 
-If you have been selected for manual approval make sure to create a ticket on our discord server stating that you need manual approval and a admin will deal with it, your account wont be approved until you have done this.
+Si vous avez été sélectionné pour approbation manuelle, assurez-vous de créer un ticket sur notre serveur discord indiquant que vous avez besoin d'une approbation manuelle et qu'un administrateur s'en occupera, votre compte ne sera pas approuvé jusqu'à ce que vous l'ayez fait.
 
 :::
 
-## Errors & Warnings
+## Erreurs & Avertissements
 
-These are some of the messages you may see when trying to register or logging-in.
+Ce sont certains des messages que vous pouvez voir lorsque vous essayez de vous inscrire ou de vous connecter.
 
-| Message                                                                                     | Description                                                                 |
-| ------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
-| <span class="update-updated">Your account has been selected for manual approval</span>      | <a href="discord://discord.com/channels/710922135580835950/846373509470748722" class="discord-text">#submit a ticket</a> for approval                                       |
-| <span class="update-updated">Your account has been denied by the system</span>              | <a href="discord://discord.com/channels/710922135580835950/846373509470748722" class="discord-text">#submit a ticket</a> and a admin will sort this out                     |
-| <span class="update-updated">Invalid login state</span>                                     | There was a error logging you in, just try again                            |
-| <span class="update-updated">Account with this Discord account is already registered</span> | You cannot register with this discord account as its already registered     |
-| <span class="update-updated">Steam user already exists</span>                               | You already have a steam account linked, just sign-in                       |
-| <span class="update-updated">Discord user already exists</span>                             | You already have a discord account linked, just sign-in                     |
-| <span class="update-removed">Your account has been permanently banned</span>                | You are permanently banned from the network appeal <a href="https://support.trickys.gg" class="discord-text">here</a> |
+| Messages                                                                                     | Descriptions                                                                                           |
+| -------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| <span class="update-updated">Votre compte a été sélectionné pour approbation manuelle</span> | <a href="discord://discord.com/channels/710922135580835950/846373509470748722" class="discord-text">#submit a ticket</a> pour obtenir de l'aide                                                        |
+| <span class="update-updated">Votre compte a été supprimé du système</span>                   | <a href="discord://discord.com/channels/710922135580835950/846373509470748722" class="discord-text">#submit a ticket</a> pour obtenir de l'aide                                                        |
+| <span class="update-updated">État de connexion invalide</span>                               | Nous avons détecté une erreur pour vous permettre, accéder a votre compte. Éssayez à nouveau plus tard |
+| <span class="update-updated">Le compte avec ce compte Discord est déjà enregistré</span>     | Vous ne pouvez pas vous inscrire avec ce compte discord car il est déjà enregistré                     |
+| <span class="update-updated">Cet utilisateur existe déja</span>                              | Vous avez déjà un compte Steam lié, connectez-vous simplement                                          |
+| <span class="update-updated">L'utilisateur Discord existe déjà</span>                        | Vous avez déjà un compte Steam lié, connectez-vous simplement                                          |
+| <span class="update-removed">Votre compte a été supprimé de façon permanente</span>          | Vous êtes définitivement banni de la requête réseau <a href="https://support.trickys.gg" class="discord-text">ici</a>                           |
 
 
