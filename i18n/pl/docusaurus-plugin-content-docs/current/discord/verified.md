@@ -9,7 +9,7 @@ Information on being verified and how to get verified.
 
 ## Being Verified
 
-Being <span class="verified-text">@Verified</span> allows you to do the following:
+Bycie <span class="verified-text">@Verified</span> pozwala na wykonanie następujących czynności:
 
 - Post embedded links in discord.
 - Gain access to channels on discord that require the <span class="verified-text">@Verified</span> role.
