@@ -1,20 +1,20 @@
 ---
 sidebar_position: 3
-description: MT Status Bot Information
+description: Informacje o Bocie MT Status
 ---
 
-# MT Status Bot
+# Bot Statusu MT
 
 <span class="request-bubble request-get">BETA</span>
 <br/>
 <br/>
-This page explains how to use and setup the MT Status Bot.
+Ta strona wyjaśnia, jak używać i skonfigurować bota MT Status.
 
-## What Can The Bot Do
+## Co Bot potrafi zrobić
 
-In brief the bot can do the following;
-- Get MotorTown server status.
-- Get player count for servers.
+Krótko mówiąc, bot może zrobić następujące działania;
+- Uzyskać status serwera MotorTown.
+- Uzyskać liczbę graczy na serwerach.
 - Get total players playing MotorTown.
 - Sync in-game to discord. (chats, joins & leaves) - [ChatLogger](/discordbots/mtstatusbot#chat-logger)
 
