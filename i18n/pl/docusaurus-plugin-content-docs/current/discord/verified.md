@@ -1,13 +1,13 @@
 ---
 sidebar_position: 1
-description: Verified Information
+description: Informacje o Weryfikacji
 ---
 
-# Verified
+# Weryfikacja
 
-Information on being verified and how to get verified.
+Informacje o weryfikacji i jak zostać zweryfikowanym.
 
-## Being Verified
+## Zostanie Zweryfikowanym
 
 Bycie <span class="verified-text">@Verified</span> pozwala na wykonanie następujących czynności:
 
