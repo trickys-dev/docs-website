@@ -1,10 +1,10 @@
 ---
 sidebar_position: 10
-description: Info about SW servers
+description: Informacje o serwerach SW
 ---
 
 
-# SW Server Info
+# Informacje o serwerach SW
 
 export const Icon = ({children, type}) => { if (type=="dlcG") return (<i class="fa-solid fa-gun text-warning" title="Weapon DLC"></i>); if (type=="dlcI") return (<i class="fa-solid fa-industry text-warning" title="Industrial DLC"></i>); if (type=="tick") return (<i class="fas fa-fw fa-check-circle text-success" title="Yes"></i>); if (type=="cross") return (<i class="fas fa-times-circle text-danger" title="No"></i>); }
 
@@ -12,9 +12,9 @@ export const Icon = ({children, type}) => { if (type=="dlcG") return (<i class="
 <thead>
     <tr>
         <th scope="col"></th>
-        <th scope="col">Server 1</th>
-        <th scope="col">Server 2</th>
-        <th scope="col">Server 3</th>
+        <th scope="col">Serwer 1</th>
+        <th scope="col">Serwer 2</th>
+        <th scope="col">Serwer 3</th>
         <th scope="col">Server 4</th>
         <th scope="col">Server 5</th>
         <th scope="col">Server 6</th>
