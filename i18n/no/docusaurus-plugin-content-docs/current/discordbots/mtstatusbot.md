@@ -1,6 +1,6 @@
 ---
 sidebar_position: 3
-description: MT Status Bot Information
+description: MT status bot informasjon
 ---
 
 # MT Status Bot
@@ -8,25 +8,25 @@ description: MT Status Bot Information
 <span class="request-bubble request-get">BETA</span>
 <br/>
 <br/>
-This page explains how to use and setup the MT Status Bot.
+Denne siden forklarer hvordan du bruker og setter opp MT Status Botten.
 
-## What Can The Bot Do
+## Hva kan Botten gjøre
 
-In brief the bot can do the following;
-- Get MotorTown server status.
-- Get player count for servers.
-- Get total players playing MotorTown.
-- Sync in-game to discord. (chats, joins & leaves) - [ChatLogger](/discordbots/mtstatusbot#chat-logger)
+I form av en kort beskrivelse kan botten gjøre følgende;
+- Få MotorTown server status.
+- Få spillerantall for servere.
+- Få totale spillere som spiller MotorTown.
+- Synkroniser spillet med discord. (Chatter, innlogginger & utlogginger) - [ChatLogger](/discordbots/mtstatusbot#chat-logger)
 
-## Quick Setup
+## Hurtig oppsett
 
-<span class="statusbot-title">Step 1.</span> <a href="#">Invite</a> the bot to your server.<br/><br/>
+<span class="statusbot-title">Trinn 1.</span> <a href="#">Inviter</a> botten til serveren din.<br/><br/>
 
 <div class="flex-vcenter mb-1">
     <img src="/img/mtstatusbot/mtstatusbot1.png" width="300px" />
   <p class="m-0">
-  <span class="statusbot-title">Step 2.</span> - use the <span class="code-text">/mt servers add <code>server:<span class="discord-text">server-name</span></code> </span>
-command and select a server from the list.
+  <span class="statusbot-title">Trinn 2.</span> - bruk <span class="code-text">/mt servers add <code>server:<span class="discord-text">server-navn</span></code> </span>
+kommando og velg en server fra listen.
   </p>
  </div>
  <div class="flex-vcenter mb-1">
