@@ -121,9 +121,9 @@ Disse kommandoene vil som standard bare være tilgjengelig for brukere med admin
   <div class="flex-vcenter mb-1">
     <img src="/img/scamwatchbot/configbuttonsban.png" width="300px" />
   <p class="m-0">
-  <span class="statusbot-title">Ban Button</span> - Set the role that can use the ban button.<br/>
-  <span class="statusbot-title">Toggle</span> - Enable or Disable the button.<br/>
-  To set this: <span class="code-text">/config buttons ban True/False</span> <span class="discord-text">@role</span>
+  <span class="statusbot-title">Utestengingsknapp</span> - Sett rollen som kan bruke utesteng-knappen.<br/>
+  <span class="statusbot-title">Bryter</span> - Aktiver eller deaktiver knappen.<br/>
+  For å angi dette: <span class="code-text">/config buttons ban True/False</span> <span class="discord-text">@rolle</span>
   </p>
  </div>
   <div class="flex-vcenter mb-1">
