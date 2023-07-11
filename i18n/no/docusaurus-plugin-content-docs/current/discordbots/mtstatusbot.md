@@ -8,7 +8,7 @@ description: MT status bot informasjon
 <span class="request-bubble request-get">BETA</span>
 <br/>
 <br/>
-Denne siden forklarer hvordan du bruker og setter opp MT Status Botten.
+Denne siden forklarer hvordan du kan bruke og sette opp MT Status Botten.
 
 ## Hva kan Botten gjøre
 
@@ -20,7 +20,7 @@ I form av en kort beskrivelse kan botten gjøre følgende;
 
 ## Hurtig oppsett
 
-<span class="statusbot-title">Trinn 1.</span> <a href="#">Inviter</a> botten til serveren din.<br/><br/>
+<span class="statusbot-title">Steg 1.</span> <a href="#">Inviter</a> botten til serveren din.<br/><br/>
 
 <div class="flex-vcenter mb-1">
     <img src="/img/mtstatusbot/mtstatusbot1.png" width="300px" />
