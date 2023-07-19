@@ -37,7 +37,7 @@ kommando og velg en server fra listen.
   </p>
  </div>
 
-## Configuring The Bot
+## Konfigurasjon av botten
 
 :::caution Default Permissions
 
@@ -54,7 +54,7 @@ These commands by default will only be accessible by users with the administrato
   </p>
  </div>
 
-### Colour
+### Farge
 <div class="flex-vcenter mb-1">
     <img src="/img/mtstatusbot/mtstatusbotcolour.png" width="300px" />
   <p class="m-0">
@@ -63,7 +63,7 @@ These commands by default will only be accessible by users with the administrato
   </p>
  </div>
 
-### Set Channel
+### Angi kanal
 
  <div class="flex-vcenter mb-1">
     <img src="/img/mtstatusbot/mtstatusbot2.png" width="300px" />
@@ -73,7 +73,7 @@ These commands by default will only be accessible by users with the administrato
   </p>
  </div>
 
-### Set Embed Info
+### Angi Embed info
 <div class="flex-vcenter mb-1">
     <img src="/img/mtstatusbot/mtstatusbotinfo.png" width="300px" />
   <p class="m-0">
@@ -96,7 +96,7 @@ These commands by default will only be accessible by users with the administrato
   </span>
  </div>
 
-### Manage Servers
+### Administrer servere
 <div class="flex-vcenter mb-1">
     <img src="/img/mtstatusbot/mtstatusbotaddserver.png" width="300px" />
   <p class="m-0">
@@ -177,7 +177,7 @@ You must own a MT server & be [Verified](/discord/verified) to gain access to th
   </p>
  </div>
 
-### Webhooks
+### Webhooker
 
 <span class="statusbot-title">Step 7.</span> Its now time to link a token to a channel. There are two options<br/>
 
@@ -198,9 +198,9 @@ You must own a MT server & be [Verified](/discord/verified) to gain access to th
   </p>
  </div>
 
-### Errors & Warnings
+### Feil & Advarsler
 
-| Message                                                                                                | Description                                                                                                      |
+| Melding                                                                                                | Beskrivelse                                                                                                      |
 | ------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------- |
 | <span class="update-removed">No token found!</span>                                                    | Token is not specified in the [config.json](/discordbots/mtstatusbot#config-file) file.                          |
 | <span class="update-removed">Invalid token!</span>                                                     | Token is not vaild, copy valid [token](/discordbots/mtstatusbot#token) from the bot.                             |
@@ -213,7 +213,7 @@ You must own a MT server & be [Verified](/discord/verified) to gain access to th
 | <span class="update-updated">New version available! </span>                                            | New version available for download.                                                                              |
 | <span class="update-updated">You didn't use the start.bat file and it is enabled in the config!</span> | <code>createStartBat</code> enabled in [config.json](/discordbots/mtstatusbot#config-file), but wasn't used.       |
 
-## Bot Permissions
+## Bot Tillatelser
 These are the bot's permissions:
 
 - Read Messages/View Channels - Needed to read messages & view channels in server.
