@@ -8,6 +8,13 @@ description: Informacje o Patreon i Boosterach serwera
 - Ten poradnik wyjaśni Ci, co dostaniesz jako nasz Patron.
 - Bycie Patronem wspiera naszą społeczność.
 
+:::info Out Of Date
+
+We have added some new tiers, some of the information below is not up to date.
+
+:::
+
+
 ## Rangi Patronów
 
 | Ranga              | Rola na Discordzie                                   |
