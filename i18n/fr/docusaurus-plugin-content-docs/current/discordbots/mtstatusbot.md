@@ -69,7 +69,7 @@ Ces commandes par défaut ne seront accessibles que par les utilisateurs ayant l
     <img src="/img/mtstatusbot/mtstatusbot2.png" width="300px" />
   <p class="m-0">
  <span class="statusbot-title">Channel</span> - Le canal que le bot utilisera pour les logs.<br/>
-  Pour définir le canal : <span class="code-text">/config logchannel<code> <span class="discord-text">#channel</span>
+  Pour définir le canal :  <span class="code-text">/mt channel <code>channel:<span class="discord-text">#channel</span></code></span>
   </p>
  </div>
 
