@@ -8,6 +8,13 @@ description: Patreon & Server boosters information
 - Guide for hva mann får av å bli et Patreon-Medlem.
 - Ved å bli en Patreon-Supporter støtter du samfunnet.
 
+:::info Out Of Date
+
+We have added some new tiers, some of the information below is not up to date.
+
+:::
+
+
 ## Patreon Nivåer
 
 | Nivå               | Discord roller                                       |
