@@ -91,7 +91,9 @@ Ces commandes par défaut ne seront accessibles que par les utilisateurs ayant l
 |-----|--------------------------------------------|
 | 1 | joueurs | Affiche le nombre de joueurs en ligne.                |
 | 2 | GlobalPlayers | Affiche le nombre de joueurs dans stormworks.  |
-| 3 | Logo du jeu dans le titre | Montre le titre en intégré.                      | </span>
+| 3 | Logo du jeu dans le titre | Montre le titre en intégré.                      |
+
+  </span>
  </div>
 
 ### Gérer les Serveurs
