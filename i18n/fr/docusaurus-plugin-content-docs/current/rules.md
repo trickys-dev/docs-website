@@ -222,6 +222,28 @@ export default function ControlledAccordions() { const [expanded, setExpanded] =
         </AccordionDetails>
       </Accordion>
     {/* #endregion */}
+    {/* #region Ats/Ets Rules */}
+      <Accordion expanded={expanded === 'wtpanel'} onChange={handleChange('wtpanel')}>
+        <AccordionSummary expandIcon={<ExpandMoreIcon />}>
+          <Typography><i class="fas fa-fighter-jet"></i> Règles du serveur WarThunder</Typography>
+        </AccordionSummary>
+        <AccordionDetails>
+        <Typography>
+          Règles générales<br/><br/>
+          1. Pas d'apparition du camp d'apparition <span class="text-muted">(3 règle de frappe, si les équipes ennemies utilisent les trois frappes, alors elles perdent le round).</span><br/>
+          2. Aucune équipe ne tuera <span class="text-muted">(un incident non résolu doit être ignoré mais les tueurs d'équipe persistants se traduiront par une punition à la discrétion du gestionnaire de jeu).</span><br/>
+          3. The use of "Vaulted Vehicles" is forbidden <span class="text-muted">(timed exclusive and vehicles that have been removed from the tech tree, a brief exemption can be made if the vehicle has been made available for a short period of time at around the time of an upcoming event).</span><br/><br/>
+          Rewards<br/><br/>
+          Lord Of Steel - MVP player during the whole event, top of leaderboard on all rounds (hard reward).<br/>
+          Nuker - 25 plus kills & no death in single round (hard reward).<br/>
+          Landlord - Most points captured/held.<br/>
+          Invincible - No deaths in the entire event (hard reward).<br/>
+          Fly Swatter - Most aircraft killed (plane v. plane or Anti air).<br/>
+          Steel Shower - Artilery multikill, 2 or more in one strike.<br/>
+        </Typography>
+        </AccordionDetails>
+      </Accordion>
+    {/* #endregion */}
     </div>
   ); }
 
