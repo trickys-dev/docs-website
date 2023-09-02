@@ -232,7 +232,7 @@ export default function ControlledAccordions() { const [expanded, setExpanded] =
           Règles générales<br/><br/>
           1. Pas d'apparition du camp d'apparition <span class="text-muted">(3 règle de frappe, si les équipes ennemies utilisent les trois frappes, alors elles perdent le round).</span><br/>
           2. Aucune équipe ne tuera <span class="text-muted">(un incident non résolu doit être ignoré mais les tueurs d'équipe persistants se traduiront par une punition à la discrétion du gestionnaire de jeu).</span><br/>
-          3. The use of "Vaulted Vehicles" is forbidden <span class="text-muted">(timed exclusive and vehicles that have been removed from the tech tree, a brief exemption can be made if the vehicle has been made available for a short period of time at around the time of an upcoming event).</span><br/><br/>
+          3. L'utilisation d' "Vaulted Vehicles" est interdit <span class="text-muted">(Temp limité et vehicule qui ont été retirer de l'arbre technologique, un bref exemption peux être fait si le véhicule a été disponible sur un court moment d'un évènement.)</span><br/><br/>
           Rewards<br/><br/>
           Lord Of Steel - MVP player during the whole event, top of leaderboard on all rounds (hard reward).<br/>
           Nuker - 25 plus kills & no death in single round (hard reward).<br/>
