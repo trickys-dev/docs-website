@@ -225,9 +225,9 @@ Our Patreon will be used to fund
     <td class="text-center"><i class="fa-fw text-success">3</i></td>
     <td class="text-center"><i class="fa-fw text-success">4</i></td>
     <td class="text-center"><i class="fa-fw text-success">5</i></td>
+    <td class="text-center"><i class="fa-fw text-success">7</i></td>
     <td class="text-center"><i class="fa-fw text-success">10</i></td>
-    <td class="text-center"><i class="fa-fw text-success">TBD</i></td>
-    <td class="text-center"><i class="fa-fw text-success">TBD</i></td>
+    <td class="text-center"><i class="fa-fw text-success">15</i></td>
 </tr>
 <tr>
     <th scope="row">Vehicle limit (<a href="/stormworks/sw-servers">Above Limit</a>)</th>
@@ -235,9 +235,9 @@ Our Patreon will be used to fund
     <td class="text-center"><i class="fa-fw text-success">+2</i></td>
     <td class="text-center"><i class="fa-fw text-success">+2</i></td>
     <td class="text-center"><i class="fa-fw text-success">+3</i></td>
+    <td class="text-center"><i class="fa-fw text-success">+3</i></td>
     <td class="text-center"><i class="fa-fw text-success">+4</i></td>
-    <td class="text-center"><i class="fa-fw text-success">TBD</i></td>
-    <td class="text-center"><i class="fa-fw text-success">TBD</i></td>
+    <td class="text-center"><i class="fa-fw text-success">+5</i></td>
 </tr>
 <tr>
     <th colspan="8" class="tricky-color">Minecraft (Vanilla)</th>
