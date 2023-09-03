@@ -46,7 +46,7 @@ export default function ControlledAccordions() { const [expanded, setExpanded] =
         <Typography>
           <b>Les règles suivantes s'appliquent à tous les serveurs :</b><br/>
           1. Utilisez le bon sens.<br/>
-          2. N'apparaissez pas de gros véhicules ou de complexes.<br/>
+          2. N'apparaissez pas de gros véhicules ou complexes.<br/>
           3. Pas de véhicules d'apparition dans la <a href="https://trickys.gg/vehiclebans">Liste d'interdiction de véhicule</a>.<br/>
           4. Faire disparaître les véhicules non utilisés ou brisés. (<a href="/stormworks/commands">?clean ou ?c</a>)<br/>
           5. Pas de publicité dans le jeu.<br/>

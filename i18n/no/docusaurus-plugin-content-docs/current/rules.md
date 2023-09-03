@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-description: Rules
+description: Regler
 ---
 
 import Accordion from '@mui/material/Accordion';
@@ -11,7 +11,7 @@ import ExpandMoreIcon from '@mui/icons-material/ExpandMore';
 import Alert from '@mui/material/Alert';
 import AlertTitle from '@mui/material/AlertTitle';
 
-# Rules
+# Regler
 
 export default function ControlledAccordions() { const [expanded, setExpanded] = React.useState(false); const handleChange =(panel) => (event, isExpanded) => { setExpanded(isExpanded ? panel : false); }; return (
     <div>
