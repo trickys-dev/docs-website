@@ -231,15 +231,8 @@ export default function ControlledAccordions() { const [expanded, setExpanded] =
         <Typography>
           Règles générales<br/><br/>
           1. Pas d'apparition du camp d'apparition <span class="text-muted">(3 règle de frappe, si les équipes ennemies utilisent les trois frappes, alors elles perdent le round).</span><br/>
-          2. Aucune équipe ne tuera <span class="text-muted">(un incident non résolu doit être ignoré mais les tueurs d'équipe persistants se traduiront par une punition à la discrétion du gestionnaire de jeu).</span><br/>
-          3. L'utilisation  "Véhicule Voûté" est interdit <span class="text-muted">(Temp limité et vehicule qui ont été retirer de l'arbre technologique, un bref exemption peux être fait si le véhicule a été disponible sur un court moment lors d'un évènement.)</span><br/><br/>
-          Récompense<br/><br/>
-          Lord Of Steel - Le joueur MVP durant l'évènement complet, le meilleur du classement sur tout les tours (Récompense dur).<br/>
-          Nuker - 25 morts et plus et aucune mort dans un seul tour (Récompense dur ).<br/>
-          Landlord - Le plus de points capturé/ Garder.<br/>
-          Invincible - Aucune mort dans l'évènement complet (Récompense dur).<br/>
-          Fly Swatter - Le plus d'avion abbatu (avion v. avion or Anti aérien).<br/>
-          Steel Shower - Artilerie plusieurs morts, 2 répétition ou plus.<br/>
+          2. No teamkilling <span class="text-muted">(one off incidents are to be looked over but persistent teamkills will result in punishment dealt by the game manager).</span><br/>
+          3. The use of "Vaulted Vehicles" is forbidden <span class="text-muted">(vehicles that are removed from tech tree's for balancing reasons or are event exclusive, a brief exemption can be made if the vehicle has been made available for a short period of time at around the time of an upcoming event).</span>
         </Typography>
         </AccordionDetails>
       </Accordion>
