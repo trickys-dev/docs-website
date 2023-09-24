@@ -39,6 +39,6 @@ Montrez que la création de votre atelier est compatible avec la zone de recharg
 
 <pre>
 
-[url=https://trickys.gg/guides/topup][img]https://trickys.gg/img/hotlink-ok/tserver-topup-badge.png[/img][/url]
+[url=https://docs.trickys.gg/stormworks/topup-zone][img]https://trickys.gg/img/hotlink-ok/tserver-topup-badge.png[/img][/url]
 
 </pre>
