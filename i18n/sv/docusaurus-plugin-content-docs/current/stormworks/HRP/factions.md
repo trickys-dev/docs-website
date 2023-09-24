@@ -13,16 +13,16 @@ Vi fortfarande arbetar på en automatisk ansökan som skapar din faktion, tills 
 - För att ändra namnet (inklusive TAG) eller för att överföra ägarskap så kostar det `500⎈`
 
 Information som du behöver att ge för att skapa en faktion:
-1. Typ av faktion:
-    - Små - `max roller: 5, max användare: 10, kostar: 200`
-    - Medium - `max roller: 10, max användare: 25, kostar: 400`
-    - Stor - `max roller: 15, max användare: 50, kostar: 1000`
-    - Enterprise - `max roller: 15, max användare: 100, kostnad: 2500⎈`
-2. Namnet på din faktion.
-3. Beskrivning av faktionen.
-4. Faktions förkortning, minst 2 eller mer tecken (exempel: Government är GOV).
-5. Rollernas namn `Du får inte ha roller som heter: admin, staff, coastguard`.
-6. Ge en discordsserver länk (ej obligatoriskt) Du behöver inte ha en discord server för att skapa en faktion.
+1. Type of faction:
+    - Small - `max roles: 5, max users: 10, cost to create: 200⎈`
+    - Medium - `max roles: 10, max users: 25, cost to create: 400⎈`
+    - Large - `max roles: 15, max users: 50, cost to create: 1000⎈`
+    - Enterprise - `max roles: 15, max users: 100, cost to create: 2500⎈`
+2. Name of your faction.
+3. Faction description.
+4. Faction abbreviation, has to be at least 2 or more characters (example: Government is GOV).
+5. Roles names `You cannot have roles named: admin, staff, coastguard`.
+6. Provide discord (this is not requried) You dont have to have a discord to create a faction.
 
 :::caution Har en discord server?
 
@@ -133,6 +133,20 @@ Oavsett behörigheten rollen, kan rollen inte redigera sin egen roll eller rolle
 Ägar rollen av en faktion kan inte redigera sin egen rolls ordning eller behörigheter.
 
 :::
+
+## Faction Deletion
+
+To initiate a faction deletion request, you must meet the following criteria:
+1. Be the designated owner of the faction.
+2. Possess ownership of the Discord server associated with the faction.
+
+If the above requirements are meet then you can submit a ticket on discord and request to have your faction removed. After you have confirmed you wish to delete the faction the following will be permanently deleted.
+- Faction Name, Faction Abbrv, Faction Roles, Faction Members, Faction Settings (Bio, Avatar, Banners).
+- Any remaining credits left in the faction at the time of deletion will be transferred to the Treasury.
+
+Prior to commencing the deletion process, individuals overseeing a Faction Discord server must ensure its removal.
+
+A faction that remains undeleted retains its active status, with the faction owner retaining responsibility for both the faction's upkeep and adherence to existing and future faction rules and requirements, until its deletion, irrespective of any other considerations.
 
 ## Exempel
 
