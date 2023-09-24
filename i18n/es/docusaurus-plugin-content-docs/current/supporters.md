@@ -225,9 +225,9 @@ Nuestro Patreon se utilizará para financiar
     <td class="text-center"><i class="fa-fw text-success">3</i></td>
     <td class="text-center"><i class="fa-fw text-success">4</i></td>
     <td class="text-center"><i class="fa-fw text-success">5</i></td>
+    <td class="text-center"><i class="fa-fw text-success">7</i></td>
     <td class="text-center"><i class="fa-fw text-success">10</i></td>
-    <td class="text-center"><i class="fa-fw text-success">TBD</i></td>
-    <td class="text-center"><i class="fa-fw text-success">TBD</i></td>
+    <td class="text-center"><i class="fa-fw text-success">15</i></td>
 </tr>
 <tr>
     <th scope="row">Vehicle limit (<a href="/stormworks/sw-servers">Above Limit</a>)</th>
@@ -235,9 +235,9 @@ Nuestro Patreon se utilizará para financiar
     <td class="text-center"><i class="fa-fw text-success">+2</i></td>
     <td class="text-center"><i class="fa-fw text-success">+2</i></td>
     <td class="text-center"><i class="fa-fw text-success">+3</i></td>
+    <td class="text-center"><i class="fa-fw text-success">+3</i></td>
     <td class="text-center"><i class="fa-fw text-success">+4</i></td>
-    <td class="text-center"><i class="fa-fw text-success">TBD</i></td>
-    <td class="text-center"><i class="fa-fw text-success">TBD</i></td>
+    <td class="text-center"><i class="fa-fw text-success">+5</i></td>
 </tr>
 <tr>
     <th colspan="8" class="tricky-color">Minecraft (Vanilla)</th>
@@ -252,26 +252,7 @@ Nuestro Patreon se utilizará para financiar
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
 </tr>
-<tr>
-    <th scope="row">Home Points (default: 3)</th>
-    <td class="text-center"><i class="fa-fw text-success">4</i></td>
-    <td class="text-center"><i class="fa-fw text-success">5</i></td>
-    <td class="text-center"><i class="fa-fw text-success">6</i></td>
-    <td class="text-center"><i class="fa-fw text-success">8</i></td>
-    <td class="text-center"><i class="fa-fw text-success">10</i></td>
-    <td class="text-center"><i class="fa-fw text-success">TBD</i></td>
-    <td class="text-center"><i class="fa-fw text-success">TBD</i></td>
-</tr>
-<tr>
-    <th scope="row">Back-pack Size (default: 1 row)</th>
-    <td class="text-center"><i class="fa-fw text-success">2</i></td>
-    <td class="text-center"><i class="fa-fw text-success">3</i></td>
-    <td class="text-center"><i class="fa-fw text-success">4</i></td>
-    <td class="text-center"><i class="fa-fw text-success">5</i></td>
-    <td class="text-center"><i class="fa-fw text-success">6</i></td>
-    <td class="text-center"><i class="fa-fw text-success">TBD</i></td>
-    <td class="text-center"><i class="fa-fw text-success">TBD</i></td>
-</tr>
+
 <tr>
     <th scope="row">Back-pack Keep On Death (default: No)</th>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
@@ -303,16 +284,6 @@ Nuestro Patreon se utilizará para financiar
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
 </tr>
 <tr>
-    <th scope="row">Chunks Per Land (default: 30)</th>
-    <td class="text-center"><i class="fa-fw text-success">35</i></td>
-    <td class="text-center"><i class="fa-fw text-success">40</i></td>
-    <td class="text-center"><i class="fa-fw text-success">45</i></td>
-    <td class="text-center"><i class="fa-fw text-success">50</i></td>
-    <td class="text-center"><i class="fa-fw text-success">60</i></td>
-    <td class="text-center"><i class="fa-fw text-success">TBD</i></td>
-    <td class="text-center"><i class="fa-fw text-success">TBD</i></td>
-</tr>
-<tr>
     <th scope="row">Fly Within Own Land</th>
     <td></td>
     <td></td>
@@ -323,10 +294,17 @@ Nuestro Patreon se utilizará para financiar
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
 </tr>
 <tr>
-    <th colspan="8" class="tricky-color">Minecraft (Modded)</th>
+    <th scope="row">Chunks Per Land (default: 30)</th>
+    <td class="text-center"><i class="fa-fw text-success">35</i></td>
+    <td class="text-center"><i class="fa-fw text-success">40</i></td>
+    <td class="text-center"><i class="fa-fw text-success">45</i></td>
+    <td class="text-center"><i class="fa-fw text-success">50</i></td>
+    <td class="text-center"><i class="fa-fw text-success">60</i></td>
+    <td class="text-center"><i class="fa-fw text-success">TBD</i></td>
+    <td class="text-center"><i class="fa-fw text-success">TBD</i></td>
 </tr>
 <tr>
-    <th scope="row">Homes (3)</th>
+    <th scope="row">Home Points (default: 3)</th>
     <td class="text-center"><i class="fa-fw text-success">4</i></td>
     <td class="text-center"><i class="fa-fw text-success">5</i></td>
     <td class="text-center"><i class="fa-fw text-success">6</i></td>
@@ -336,14 +314,27 @@ Nuestro Patreon se utilizará para financiar
     <td class="text-center"><i class="fa-fw text-success">TBD</i></td>
 </tr>
 <tr>
-    <th scope="row">Forceloaded Chunks (25)</th>
-    <td class="text-center">-</td>
-    <td class="text-center"><i class="fa-fw text-success">30</i></td>
-    <td class="text-center"><i class="fa-fw text-success">35</i></td>
-    <td class="text-center"><i class="fa-fw text-success">40</i></td>
-    <td class="text-center"><i class="fa-fw text-success">50</i></td>
+    <th scope="row">Back-pack Size (default: 1 row)</th>
+    <td class="text-center"><i class="fa-fw text-success">2</i></td>
+    <td class="text-center"><i class="fa-fw text-success">3</i></td>
+    <td class="text-center"><i class="fa-fw text-success">4</i></td>
+    <td class="text-center"><i class="fa-fw text-success">5</i></td>
+    <td class="text-center"><i class="fa-fw text-success">6</i></td>
     <td class="text-center"><i class="fa-fw text-success">TBD</i></td>
     <td class="text-center"><i class="fa-fw text-success">TBD</i></td>
+</tr>
+<tr>
+    <th colspan="8" class="tricky-color">Minecraft (Modded)</th>
+</tr>
+<tr>
+    <th scope="row">Portable Enderchest</th>
+    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
+    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
+    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
+    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
+    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
+    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
+    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
 </tr>
 <tr>
     <th scope="row">No TP Cooldown</th>
@@ -356,14 +347,34 @@ Nuestro Patreon se utilizará para financiar
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
 </tr>
 <tr>
-    <th scope="row">Portable Enderchest</th>
+    <th scope="row">Offline Forceloading</th>
+    <td class="text-center">-</td>
+    <td class="text-center">-</td>
+    <td class="text-center">-</td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
-    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
-    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
-    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
+</tr>
+<tr>
+    <th scope="row">Homes (3)</th>
+    <td class="text-center"><i class="fa-fw text-success">4</i></td>
+    <td class="text-center"><i class="fa-fw text-success">5</i></td>
+    <td class="text-center"><i class="fa-fw text-success">6</i></td>
+    <td class="text-center"><i class="fa-fw text-success">8</i></td>
+    <td class="text-center"><i class="fa-fw text-success">10</i></td>
+    <td class="text-center"><i class="fa-fw text-success">12</i></td>
+    <td class="text-center"><i class="fa-fw text-success">14</i></td>
+</tr>
+<tr>
+    <th scope="row">Forceloaded Chunks (25)</th>
+    <td class="text-center">25</td>
+    <td class="text-center"><i class="fa-fw text-success">30</i></td>
+    <td class="text-center"><i class="fa-fw text-success">35</i></td>
+    <td class="text-center"><i class="fa-fw text-success">40</i></td>
+    <td class="text-center"><i class="fa-fw text-success">50</i></td>
+    <td class="text-center"><i class="fa-fw text-success">55</i></td>
+    <td class="text-center"><i class="fa-fw text-success">60</i></td>
 </tr>
 </tbody>
 </table>
