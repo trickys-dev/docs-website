@@ -236,14 +236,7 @@ export default function ControlledAccordions() {
           General Rules<br/><br/>
           1. No spawn camping <span class="text-muted">(3 strike rule, if enemy teams uses all three strikes then they forfeit the round).</span><br/>
           2. No teamkilling <span class="text-muted">(one off incidents are to be looked over but persistent teamkills will result in punishment dealt by the game manager).</span><br/>
-          3. The use of "Vaulted Vehicles" is forbidden <span class="text-muted">(vehicles that are removed from tech tree's for balancing reasons or are event exclusive, a brief exemption can be made if the vehicle has been made available for a short period of time at around the time of an upcoming event).</span><br/><br/>
-          Rewards<br/><br/>
-          Lord Of Steel - MVP player during the whole event, top of leaderboard on all rounds <span class="text-muted">(hard reward).</span><br/>
-          Nuker - 25 plus kills & no death in single round <span class="text-muted">(hard reward).</span><br/>
-          Landlord - Most points captured/held.<br/>
-          Invincible - No deaths in the entire event <span class="text-muted">(hard reward).</span><br/>
-          Fly Swatter - Most aircraft killed <span class="text-muted">(plane v. plane or Anti air).</span><br/>
-          Steel Shower - Artilery multikill, 2 or more in one strike. <br/>
+          3. The use of "Vaulted Vehicles" is forbidden <span class="text-muted">(vehicles that are removed from tech tree's for balancing reasons or are event exclusive, a brief exemption can be made if the vehicle has been made available for a short period of time at around the time of an upcoming event).</span>
         </Typography>
         </AccordionDetails>
       </Accordion>
