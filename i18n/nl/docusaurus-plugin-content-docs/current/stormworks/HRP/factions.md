@@ -13,16 +13,16 @@ Wij zijn nog bezig met het maken van een applicatie die automatisch je factie aa
 - Het veranderen van de naam van een factie (inclusief de TAG) of het overdragen van eigendom kost `500fting`
 
 Informatie die je moet opgeven om een factie te maken:
-1. Type factie:
-    - Klein - `max rollen: 5, max gebruikers: 10, kosten om te maken: 200`
-    - Gemiddeld - `max rollen: 10, max gebruikers: 25, kosten om te maken: 400`
-    - Groot - `max rollen: 15, max gebruikers: 50, kosten om te maken: 1000~`
-    - Bedrijf - `max rollen: 15, max gebruikers: 100, kosten om te maken: 2500`
-2. Naam van je factie.
-3. Omschrijving factie.
-4. Factie afkorting, moet ten minste 2 of meer tekens bevatten (bijvoorbeeld: overheid is GOV).
-5. Rolnamen `Je kunt geen rollen zoals: ''admin, medewerker, kustwacht'' zelf benoemen`.
-6. Geef een discord op (dit is niet per se nodig) Je hoeft geen discord te hebben om een factie te maken.
+1. Type of faction:
+    - Small - `max roles: 5, max users: 10, cost to create: 200⎈`
+    - Medium - `max roles: 10, max users: 25, cost to create: 400⎈`
+    - Large - `max roles: 15, max users: 50, cost to create: 1000⎈`
+    - Enterprise - `max roles: 15, max users: 100, cost to create: 2500⎈`
+2. Name of your faction.
+3. Faction description.
+4. Faction abbreviation, has to be at least 2 or more characters (example: Government is GOV).
+5. Roles names `You cannot have roles named: admin, staff, coastguard`.
+6. Provide discord (this is not requried) You dont have to have a discord to create a faction.
 
 :::caution Heb je een Discord server?
 
@@ -133,6 +133,20 @@ Mensen kunnen hun eigen rol of de rollen daarboven niet bewerken, ongeacht permi
 De eigenaar van een factie kan de volgorde of permissies van hun eigen rol niet bewerken.
 
 :::
+
+## Faction Deletion
+
+To initiate a faction deletion request, you must meet the following criteria:
+1. Be the designated owner of the faction.
+2. Possess ownership of the Discord server associated with the faction.
+
+If the above requirements are meet then you can submit a ticket on discord and request to have your faction removed. After you have confirmed you wish to delete the faction the following will be permanently deleted.
+- Faction Name, Faction Abbrv, Faction Roles, Faction Members, Faction Settings (Bio, Avatar, Banners).
+- Any remaining credits left in the faction at the time of deletion will be transferred to the Treasury.
+
+Prior to commencing the deletion process, individuals overseeing a Faction Discord server must ensure its removal.
+
+A faction that remains undeleted retains its active status, with the faction owner retaining responsibility for both the faction's upkeep and adherence to existing and future faction rules and requirements, until its deletion, irrespective of any other considerations.
 
 ## Voorbeeld
 
