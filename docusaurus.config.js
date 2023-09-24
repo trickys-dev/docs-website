@@ -241,13 +241,13 @@ const config = {
         {name: 'theme-color', content: '#375a7f'},
         {property: 'og:site_name', content: 'docs.trickys.gg'},
       ],
-      //  announcementBar: {
-      //   id: 'beta',
-      //   content: '',
-      //   backgroundColor: '#375a7f',
+      announcementBar: {
+      id: 'steamwarning',
+      content: 'Steam Support does not reach out to people by Steam chat or Discord. Anyone approaching you that says they\'re from Steam Support (or Trickys) and asks for your account information or items is a scammer.',
+      backgroundColor: '#375a7f',
         textColor: '#fff',
-      //   isCloseable: false,
-      // },
+      isCloseable: false,
+      },
       colorMode: {
         defaultMode: 'dark',
         disableSwitch: false,
@@ -259,20 +259,20 @@ const config = {
         appId: 'YUKMLE6VK3',
 
         // Public API key: it is safe to commit it
-        apiKey: 'da5b5144913e45c2ccf9f1d2948714e7',
+        apiKey: '99b616e3c75e65347301204f0ee5e0c5',
 
-        indexName: 'trickys',
+        indexName: 'trickystrickys',
 
         // Optional: see doc section below
         contextualSearch: true,
-
+        //ef376cc7bf02051d179a4932e5fdafa0
         // Optional: Specify domains where the navigation should occur through window.location instead on history.push. Useful when our Algolia config crawls multiple documentation sites and we want to navigate with window.location.href to them.
         // externalUrlRegex: 'external\\.com|domain\\.com',
 
         // Optional: Replace parts of the item URLs from Algolia. Useful when using the same search index for multiple deployments using a different baseUrl. You can use regexp or string in the `from` param. For example: localhost:3000 vs myCompany.com/docs
         //replaceSearchResultPathname: {
-        //  from: '/docs/', // or as RegExp: /\/docs\//
-        // to: '/',
+        //from: '/docs/', // or as RegExp: /\/docs\//
+        //to: '/',
         //},
 
         // Optional: Algolia search parameters
