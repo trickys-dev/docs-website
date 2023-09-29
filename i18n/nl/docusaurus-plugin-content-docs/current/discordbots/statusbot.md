@@ -78,7 +78,7 @@ Info types are managed by the <span class="code-text">/config info</span> comman
 <div class="flex-vcenter mb-1">
   <p>
 
-| No. | No. | Info Type       | Description                                |
+| No. | Info Type       | Description                                |
 |-----|-----------------|--------------------------------------------|
 | 1   | players         | Shows the online player count.             |
 | 2   | version         | Shows the server version.                  |
