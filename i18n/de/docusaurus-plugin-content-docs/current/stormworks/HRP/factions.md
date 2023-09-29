@@ -13,16 +13,16 @@ Wir arbeiten noch daran, eine Anwendung zu erstellen, die Ihre Fraktion automati
 - Das Ändern des Namens einer Fraktion (einschließlich des TAG) oder die Übertragung des Eigentums kostet `500⎈`
 
 Informationen, die Sie zur Erstellung einer Fraktion benötigen:
-1. Type of faction:
-    - Small - `max roles: 5, max users: 10, cost to create: 200⎈`
-    - Medium - `max roles: 10, max users: 25, cost to create: 400⎈`
-    - Large - `max roles: 15, max users: 50, cost to create: 1000⎈`
-    - Enterprise - `max roles: 15, max users: 100, cost to create: 2500⎈`
-2. Name of your faction.
-3. Faction description.
-4. Faction abbreviation, has to be at least 2 or more characters (example: Government is GOV).
-5. Roles names `You cannot have roles named: admin, staff, coastguard`.
-6. Provide discord (this is not requried) You dont have to have a discord to create a faction.
+1. Fraktionstyp:
+    - Klein - `max. Rollen: 5, max Benutzer: 10, Kosten zum Erstellen: 200⎈`
+    - Mittel - `max. Rollen: 10, max. Benutzer: 25, Kosten zum Erstellen: 400⎈`
+    - Groß - `max. Rollen: 15, max. Benutzer: 50, Kosten zum Erstellen: 1000⎈`
+    - Enterprise - `max. Rollen: 15, max. Benutzer: 100, Kosten zum Erstellen: 2500⎈`
+2. Name Ihrer Fraktion.
+3. Beschreibung der Fraktion.
+4. Fraktionsabkürzung, muss mindestens 2 oder mehr Zeichen haben (Beispiel: Regierung ist GOV).
+5. Rollennamen `Sie können folgende Rollen nicht benennen: Admin, Staff, Coastguard`.
+6. Bieten Sie Discord an (dies ist nicht erforderlich) Sie brauchen kein Discord, um eine Fraktion zu bilden.
 
 :::caution Einen Discord Server haben?
 
