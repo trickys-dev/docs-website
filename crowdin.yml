@@ -2,7 +2,7 @@ files:
   - source: /i18n/en/**/*
     ignore:
       - /i18n/en/docusaurus-plugin-content-blog
-      - /i18n/**/docs/safety
+      - /i18n/en/docusaurus-plugin-content-docs/current/safety
     translation: /i18n/%two_letters_code%/**/%original_file_name%
   - source: /docs/**/*.md
     translation: /i18n/%two_letters_code%/docusaurus-plugin-content-docs/current/**/%original_file_name%
