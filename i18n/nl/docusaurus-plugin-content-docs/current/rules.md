@@ -26,7 +26,6 @@ export default function ControlledAccordions() { const [expanded, setExpanded] =
           1. This is an English server, please keep it that way.<br/>
           2. Respect everyone. Do not antagonise/harass others or create a hostile environment.<br/>
           3. NSFW content is not allowed.<br/>
-          4. NSFW content is not allowed.<br/>
           4. No self-advertising without permission.<br/>
           5. Malicious or exploitative use of alternate discord accounts will be met with proper punishments.<br/>
           6. Use common sense, your account is responsible for anything posted by it.<br/>
