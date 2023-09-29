@@ -87,8 +87,6 @@ These commands by default will only be accessible by users with the administrato
 
   <span class="ml-1" >
 
-| No. <span class="ml-1" >
-
 | No. | Info Type          | Description                                |
 |-----|--------------------|--------------------------------------------|
 | 1   | Icon               | Shows server icon in embed.                |
