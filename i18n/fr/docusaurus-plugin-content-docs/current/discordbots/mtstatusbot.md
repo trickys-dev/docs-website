@@ -100,6 +100,14 @@ Ces commandes par défaut ne seront accessibles que par les utilisateurs ayant l
   <p class="m-0">
   <span class="statusbot-title">Title</span> - Le titre de l’embed.<br/>
   Pour définir le titre : <span class="code-text">/mt embed titre<code>titre :<span class="discord-text">title-ici</span></code></span>
+ </div>
+
+### Gérer les Serveurs
+<div class="flex-vcenter mb-1">
+    <img src="/img/mtstatusbot/mtstatusbotaddserver.png" width="300px" />
+  <p class="m-0">
+  <span class="statusbot-title">Title</span> - Le titre de l’embed.<br/>
+  Pour définir le titre : <span class="code-text">/mt embed titre<code>titre :<span class="discord-text">title-ici</span></code></span>
   </p>
  </div>
  <div class="flex-vcenter mb-1">
