@@ -5,7 +5,7 @@ description: Informations sur le serveur de Train Stormworks
 
 # Serveur de train
 
-:::Attention serveur fermé
+:::caution serveur fermé
 
 Le serveur du train est actuellement fermé et il n'y a pas de date de retour.
 
