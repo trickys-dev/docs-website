@@ -40,7 +40,7 @@ When you join the server, the system will check the following things from our we
 - Checks if you are perm-banned or temp banned from the server you are joining.
 - Checks if you have an account on the website. (Steam & Discord linked)
 - Checks if you are authorized on the server you joined, if not then you will be AutoAuthed.
-- This is only needed if you have a boat license. Checks if you are authorized and have a valid boat license.
+- Checks if you are authorized and have a valid boat license. This is only needed if you have a boat license.
 
 ## I have Auth But can't Spawn Boats?
 

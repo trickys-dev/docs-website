@@ -222,7 +222,7 @@ export default function ControlledAccordions() { const [expanded, setExpanded] =
         </AccordionDetails>
       </Accordion>
     {/* #endregion */}
-    {/* #region Ats/Ets Rules */}
+    {/* #region WarThunder Rules */}
       <Accordion expanded={expanded === 'wtpanel'} onChange={handleChange('wtpanel')}>
         <AccordionSummary expandIcon={<ExpandMoreIcon />}>
           <Typography><i class="fas fa-fighter-jet"></i> Règles du serveur WarThunder</Typography>

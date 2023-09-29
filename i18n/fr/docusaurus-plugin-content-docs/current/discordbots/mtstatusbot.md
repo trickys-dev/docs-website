@@ -91,7 +91,9 @@ Ces commandes par défaut ne seront accessibles que par les utilisateurs ayant l
 |-----|--------------------------------------------|
 | 1 | joueurs | Affiche le nombre de joueurs en ligne.                |
 | 2 | GlobalPlayers | Affiche le nombre de joueurs dans stormworks.  |
-| 3 | Logo du jeu dans le titre | Montre le titre en intégré.                      | </span>
+| 3 | Logo du jeu dans le titre | Montre le titre en intégré.                      |
+
+  </span>
  </div>
 
 ### Gérer les Serveurs
@@ -153,13 +155,13 @@ Vous devez posséder un serveur MT & être [Vérifié](/discord/verified) pour a
 ### Fichier de configuration
 ```json
 {
-    "_token": "Entrez le jeton du bot discord ci-dessous",
+    "_token": "Enter the token from the discord bot below",
     "token": "",
 
-    "_serverPath": "Entrez le chemin vers le dossier racine du serveur ci-dessous (laissez vide si le exe est dans le dossier racine)",
+    "_serverPath": "Enter the path to the root folder of the server below (leave blank if the exe is in the root folder)",
     "serverPath": "",
 
-    "_createStartBat": "Quand vrai un démarrage. au fichier sera créé qui démarrera ce script et le serveur MT",
+    "_createStartBat": "When true a start.bat file will be created which will start this script and the MT server",
     "createStartBat": false
 }
 ```
