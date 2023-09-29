@@ -4,12 +4,20 @@ description: Carrier Command 2 Mods
 ---
 
 # Moddar
-Moddar som vi använder på våra servrar
+Below is a list of mods we use on our CC2 servers, to suggest a mod for the server contact the <a href="https://trickys.gg/staffteam">CC2 Game Manager</a>.
 
-| Mod Namn                         | File ID    | Länk                                                                      |
-| -------------------------------- | ---------- | ------------------------------------------------------------------------- |
-| Captains Controls                | 2824746567 | [Visa](https://steamcommunity.com/sharedfiles/filedetails/?id=2824746567) |
-| Turbo Barges                     | 2769055606 | [Visa](https://steamcommunity.com/sharedfiles/filedetails/?id=2769055606) |
-| Gentle Missile Speed Buff        | 2937532682 | [Visa](https://steamcommunity.com/sharedfiles/filedetails/?id=2937532682) |
-| AA/TV Missile Rebalance          | 2878616785 | [Visa](https://steamcommunity.com/sharedfiles/filedetails/?id=2878616785) |
-| Albatross AWACS with UI enhancer | 2892401880 | [Visa](https://steamcommunity.com/sharedfiles/filedetails/?id=2892401880) |
+:::note Automatic Download
+
+You do not need to download these mods as they will automatically download when you join our servers.
+
+:::
+
+| Mod Namn                         | File ID    | Added To Server | Länk                                                                      |
+| -------------------------------- | ---------- | --------------- | ------------------------------------------------------------------------- |
+| Captains Controls                | 2824746567 | 10/12/2022      | [Visa](https://steamcommunity.com/sharedfiles/filedetails/?id=2824746567) |
+| Turbo Barges                     | 2769055606 | 10/12/2022      | [Visa](https://steamcommunity.com/sharedfiles/filedetails/?id=2769055606) |
+| Gentle Missile Speed Buff        | 2937532682 | 10/12/2022      | [Visa](https://steamcommunity.com/sharedfiles/filedetails/?id=2937532682) |
+| Albatross AWACS with UI enhancer | 2892401880 | 10/12/2022      | [Visa](https://steamcommunity.com/sharedfiles/filedetails/?id=2892401880) |
+| 2x Vehicle Water Speed           | 2824714936 | 27/09/2023      | [Visa](https://steamcommunity.com/sharedfiles/filedetails/?id=2824714936) |
+
+Last Updated: 27/09/2023<!-- AA/TV Missile Rebalance    \[View\](https://steamcommunity.com/sharedfiles/filedetails/?id=2878616785) -->

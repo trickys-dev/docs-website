@@ -8,7 +8,6 @@ description: Info about SW servers
 
 export const Icon = ({children, type}) => { if (type=="dlcG") return (<i class="fa-solid fa-gun text-warning" title="Weapon DLC"></i>); if (type=="dlcI") return (<i class="fa-solid fa-industry text-warning" title="Industrial DLC"></i>); if (type=="tick") return (<i class="fas fa-fw fa-check-circle text-success" title="Yes"></i>); if (type=="cross") return (<i class="fas fa-times-circle text-danger" title="No"></i>); }
 
-
 <table>
 <thead>
     <tr>

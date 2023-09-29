@@ -5,6 +5,12 @@ description: Stormworks Train Server Information
 
 # Train Server
 
+:::caution Server Closed
+
+The train server is currently closed and there is no date when it will be back.
+
+:::
+
 This server is intended for roleplay railway operations. The section of railway from Spycakes to Camodo recreates absolute block signalling for roleplay between signalling and train drivers in a realistic railway setting.
 
 :::note Absolute Block Signalling Summary

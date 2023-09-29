@@ -5,6 +5,12 @@ description: Stormworks Trein Server Informatie
 
 # Trein Server
 
+:::caution Server Closed
+
+The train server is currently closed and there is no date when it will be back.
+
+:::
+
 Deze server is bedoeld voor Rollenspel op de spoorwegen. Het deel van de spoorwegen, van Spycakes tot Camodo maakt een volledig bloksignaal voor rollenspel tussen signalering en machinisten in een realistische spoorwegomgeving.
 
 :::note Absolute Block Signaal Samenvatting

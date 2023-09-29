@@ -26,6 +26,7 @@ export default function ControlledAccordions() { const [expanded, setExpanded] =
           1. This is an English server, please keep it that way.<br/>
           2. Respect everyone. Do not antagonise/harass others or create a hostile environment.<br/>
           3. NSFW content is not allowed.<br/>
+          4. NSFW content is not allowed.<br/>
           4. No self-advertising without permission.<br/>
           5. Malicious or exploitative use of alternate discord accounts will be met with proper punishments.<br/>
           6. Use common sense, your account is responsible for anything posted by it.<br/>
@@ -217,6 +218,21 @@ export default function ControlledAccordions() { const [expanded, setExpanded] =
           3. No modding, cheating or causing lag intentionally.<br/>
           4. <a href="https://trickys.gg/staffteam">Staff</a> have final say.<br/><br/>
           <Alert variant="outlined" severity="info"> If you find a player abusing his whitelisted perks, you can <a href="discord://discord.com/channels/710922135580835950/846373509470748722" class="discord-text">#submit a ticket</a> on Discord to report them.</Alert><br/>
+        </Typography>
+        </AccordionDetails>
+      </Accordion>
+    {/* #endregion */}
+    {/* #region WarThunder Rules */}
+      <Accordion expanded={expanded === 'wtpanel'} onChange={handleChange('wtpanel')}>
+        <AccordionSummary expandIcon={<ExpandMoreIcon />}>
+          <Typography><i class="fas fa-fighter-jet"></i> WarThunder Server Rules</Typography>
+        </AccordionSummary>
+        <AccordionDetails>
+        <Typography>
+          General Rules<br/><br/>
+          1. No spawn camping <span class="text-muted">(3 strike rule, if enemy teams uses all three strikes then they forfeit the round).</span><br/>
+          2. No teamkilling <span class="text-muted">(one off incidents are to be looked over but persistent teamkills will result in punishment dealt by the game manager).</span><br/>
+          3. The use of "Vaulted Vehicles" is forbidden <span class="text-muted">(vehicles that are removed from tech tree's for balancing reasons or are event exclusive, a brief exemption can be made if the vehicle has been made available for a short period of time at around the time of an upcoming event).</span>
         </Typography>
         </AccordionDetails>
       </Accordion>

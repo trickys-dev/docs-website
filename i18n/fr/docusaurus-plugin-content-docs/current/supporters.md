@@ -225,9 +225,9 @@ Notre Patreon sera utilisé pour financer
     <td class="text-center"><i class="fa-fw text-success">3</i></td>
     <td class="text-center"><i class="fa-fw text-success">4</i></td>
     <td class="text-center"><i class="fa-fw text-success">5</i></td>
+    <td class="text-center"><i class="fa-fw text-success">7</i></td>
     <td class="text-center"><i class="fa-fw text-success">10</i></td>
-    <td class="text-center"><i class="fa-fw text-success">TBD</i></td>
-    <td class="text-center"><i class="fa-fw text-success">TBD</i></td>
+    <td class="text-center"><i class="fa-fw text-success">15</i></td>
 </tr>
 <tr>
     <th scope="row">Limite de Véhicule (<a href="/stormworks/sw-servers">au dessus de</a>)</th>
@@ -235,9 +235,9 @@ Notre Patreon sera utilisé pour financer
     <td class="text-center"><i class="fa-fw text-success">+2</i></td>
     <td class="text-center"><i class="fa-fw text-success">+2</i></td>
     <td class="text-center"><i class="fa-fw text-success">+3</i></td>
+    <td class="text-center"><i class="fa-fw text-success">+3</i></td>
     <td class="text-center"><i class="fa-fw text-success">+4</i></td>
-    <td class="text-center"><i class="fa-fw text-success">TBD</i></td>
-    <td class="text-center"><i class="fa-fw text-success">TBD</i></td>
+    <td class="text-center"><i class="fa-fw text-success">+5</i></td>
 </tr>
 <tr>
     <th colspan="8" class="tricky-color">Minecraft (Vanilla)</th>
@@ -252,26 +252,7 @@ Notre Patreon sera utilisé pour financer
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
 </tr>
-<tr>
-    <th scope="row">Points de la maison (par défaut: 3)</th>
-    <td class="text-center"><i class="fa-fw text-success">4</i></td>
-    <td class="text-center"><i class="fa-fw text-success">5</i></td>
-    <td class="text-center"><i class="fa-fw text-success">6</i></td>
-    <td class="text-center"><i class="fa-fw text-success">8</i></td>
-    <td class="text-center"><i class="fa-fw text-success">10</i></td>
-    <td class="text-center"><i class="fa-fw text-success">TBD</i></td>
-    <td class="text-center"><i class="fa-fw text-success">TBD</i></td>
-</tr>
-<tr>
-    <th scope="row">Taille du sac à dos (par défaut: 1 rangée)</th>
-    <td class="text-center"><i class="fa-fw text-success">2</i></td>
-    <td class="text-center"><i class="fa-fw text-success">3</i></td>
-    <td class="text-center"><i class="fa-fw text-success">4</i></td>
-    <td class="text-center"><i class="fa-fw text-success">5</i></td>
-    <td class="text-center"><i class="fa-fw text-success">6</i></td>
-    <td class="text-center"><i class="fa-fw text-success">TBD</i></td>
-    <td class="text-center"><i class="fa-fw text-success">TBD</i></td>
-</tr>
+
 <tr>
     <th scope="row">Garde l'inventaire du sac-à-dos après la mort (par défaut : Non)</th>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
@@ -303,16 +284,6 @@ Notre Patreon sera utilisé pour financer
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
 </tr>
 <tr>
-    <th scope="row">Blocs de terrain (par défaut: 30)</th>
-    <td class="text-center"><i class="fa-fw text-success">35</i></td>
-    <td class="text-center"><i class="fa-fw text-success">40</i></td>
-    <td class="text-center"><i class="fa-fw text-success">45</i></td>
-    <td class="text-center"><i class="fa-fw text-success">50</i></td>
-    <td class="text-center"><i class="fa-fw text-success">60</i></td>
-    <td class="text-center"><i class="fa-fw text-success">TBD</i></td>
-    <td class="text-center"><i class="fa-fw text-success">TBD</i></td>
-</tr>
-<tr>
     <th scope="row">Voler à l'intérieur de la terre possédé</th>
     <td></td>
     <td></td>
@@ -323,10 +294,17 @@ Notre Patreon sera utilisé pour financer
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
 </tr>
 <tr>
-    <th colspan="8" class="tricky-color">Minecraft (Moddé)</th>
+    <th scope="row">Blocs de terrain (par défaut: 30)</th>
+    <td class="text-center"><i class="fa-fw text-success">35</i></td>
+    <td class="text-center"><i class="fa-fw text-success">40</i></td>
+    <td class="text-center"><i class="fa-fw text-success">45</i></td>
+    <td class="text-center"><i class="fa-fw text-success">50</i></td>
+    <td class="text-center"><i class="fa-fw text-success">60</i></td>
+    <td class="text-center"><i class="fa-fw text-success">TBD</i></td>
+    <td class="text-center"><i class="fa-fw text-success">TBD</i></td>
 </tr>
 <tr>
-    <th scope="row">Maisons (3)</th>
+    <th scope="row">Points de la maison (par défaut: 3)</th>
     <td class="text-center"><i class="fa-fw text-success">4</i></td>
     <td class="text-center"><i class="fa-fw text-success">5</i></td>
     <td class="text-center"><i class="fa-fw text-success">6</i></td>
@@ -336,14 +314,27 @@ Notre Patreon sera utilisé pour financer
     <td class="text-center"><i class="fa-fw text-success">TBD</i></td>
 </tr>
 <tr>
-    <th scope="row">Morceaux Forceloadés (25)</th>
-    <td class="text-center">-</td>
-    <td class="text-center"><i class="fa-fw text-success">30</i></td>
-    <td class="text-center"><i class="fa-fw text-success">35</i></td>
-    <td class="text-center"><i class="fa-fw text-success">40</i></td>
-    <td class="text-center"><i class="fa-fw text-success">50</i></td>
+    <th scope="row">Taille du sac à dos (par défaut: 1 rangée)</th>
+    <td class="text-center"><i class="fa-fw text-success">2</i></td>
+    <td class="text-center"><i class="fa-fw text-success">3</i></td>
+    <td class="text-center"><i class="fa-fw text-success">4</i></td>
+    <td class="text-center"><i class="fa-fw text-success">5</i></td>
+    <td class="text-center"><i class="fa-fw text-success">6</i></td>
     <td class="text-center"><i class="fa-fw text-success">TBD</i></td>
     <td class="text-center"><i class="fa-fw text-success">TBD</i></td>
+</tr>
+<tr>
+    <th colspan="8" class="tricky-color">Minecraft (Moddé)</th>
+</tr>
+<tr>
+    <th scope="row">Coffre de l'Ender Portatif</th>
+    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
+    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
+    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
+    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
+    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
+    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
+    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
 </tr>
 <tr>
     <th scope="row">Pas de délais pour la téléportation</th>
@@ -356,14 +347,34 @@ Notre Patreon sera utilisé pour financer
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
 </tr>
 <tr>
-    <th scope="row">Coffre de l'Ender Portatif</th>
+    <th scope="row">Offline Forceloading</th>
+    <td class="text-center">-</td>
+    <td class="text-center">-</td>
+    <td class="text-center">-</td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
-    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
-    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
-    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
+</tr>
+<tr>
+    <th scope="row">Maisons (3)</th>
+    <td class="text-center"><i class="fa-fw text-success">4</i></td>
+    <td class="text-center"><i class="fa-fw text-success">5</i></td>
+    <td class="text-center"><i class="fa-fw text-success">6</i></td>
+    <td class="text-center"><i class="fa-fw text-success">8</i></td>
+    <td class="text-center"><i class="fa-fw text-success">10</i></td>
+    <td class="text-center"><i class="fa-fw text-success">12</i></td>
+    <td class="text-center"><i class="fa-fw text-success">14</i></td>
+</tr>
+<tr>
+    <th scope="row">Morceaux Forceloadés (25)</th>
+    <td class="text-center">25</td>
+    <td class="text-center"><i class="fa-fw text-success">30</i></td>
+    <td class="text-center"><i class="fa-fw text-success">35</i></td>
+    <td class="text-center"><i class="fa-fw text-success">40</i></td>
+    <td class="text-center"><i class="fa-fw text-success">50</i></td>
+    <td class="text-center"><i class="fa-fw text-success">55</i></td>
+    <td class="text-center"><i class="fa-fw text-success">60</i></td>
 </tr>
 </tbody>
 </table>

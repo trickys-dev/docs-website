@@ -5,6 +5,12 @@ description: Informacje o Serwerze Pociągów
 
 # Serwer pociągów
 
+:::caution Server Closed
+
+The train server is currently closed and there is no date when it will be back.
+
+:::
+
 Ten serwer jest przeznaczony do wykonywania zadań związanych z koleją. Sekcja pomiędzy Spycakes i Camodo odtwarza blokadę liniową dla ról między sygnalizacją a maszynistami pociągu w realistycznym otoczeniu kolejowym.
 
 :::note Podsumowanie Blokady Liniowej

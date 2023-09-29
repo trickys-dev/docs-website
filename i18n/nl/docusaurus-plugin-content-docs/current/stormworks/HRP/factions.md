@@ -134,6 +134,20 @@ De eigenaar van een factie kan de volgorde of permissies van hun eigen rol niet 
 
 :::
 
+## Faction Deletion
+
+To initiate a faction deletion request, you must meet the following criteria:
+1. Be the designated owner of the faction.
+2. Possess ownership of the Discord server associated with the faction.
+
+If the above requirements are meet then you can submit a ticket on discord and request to have your faction removed. After you have confirmed you wish to delete the faction the following will be permanently deleted.
+- Faction Name, Faction Abbrv, Faction Roles, Faction Members, Faction Settings (Bio, Avatar, Banners).
+- Any remaining credits left in the faction at the time of deletion will be transferred to the Treasury.
+
+Prior to commencing the deletion process, individuals overseeing a Faction Discord server must ensure its removal.
+
+A faction that remains undeleted retains its active status, with the faction owner retaining responsibility for both the faction's upkeep and adherence to existing and future faction rules and requirements, until its deletion, irrespective of any other considerations.
+
 ## Voorbeeld
 
 Hieronder hebben we een voorbeeld van hoe de resultaten eruit zouden zien als je alles zou aanpassen.
