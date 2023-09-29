@@ -13,16 +13,16 @@ Wij zijn nog bezig met het maken van een applicatie die automatisch je factie aa
 - Het veranderen van de naam van een factie (inclusief de TAG) of het overdragen van eigendom kost `500fting`
 
 Informatie die je moet opgeven om een factie te maken:
-1. Type of faction:
-    - Small - `max roles: 5, max users: 10, cost to create: 200⎈`
-    - Medium - `max roles: 10, max users: 25, cost to create: 400⎈`
-    - Large - `max roles: 15, max users: 50, cost to create: 1000⎈`
-    - Enterprise - `max roles: 15, max users: 100, cost to create: 2500⎈`
-2. Name of your faction.
-3. Faction description.
-4. Faction abbreviation, has to be at least 2 or more characters (example: Government is GOV).
-5. Roles names `You cannot have roles named: admin, staff, coastguard`.
-6. Provide discord (this is not requried) You dont have to have a discord to create a faction.
+1. Type factie:
+    - Klein - `max rollen: 5, max gebruikers: 10, kosten om te maken: 200`
+    - Gemiddeld - `max rollen: 10, max gebruikers: 25, kosten om te maken: 400`
+    - Groot - `max rollen: 15, max gebruikers: 50, kosten om te maken: 1000~`
+    - Bedrijf - `max rollen: 15, max gebruikers: 100, kosten om te maken: 2500`
+2. Naam van je factie.
+3. Omschrijving factie.
+4. Factie afkorting, moet ten minste 2 of meer tekens bevatten (bijvoorbeeld: overheid is GOV).
+5. Rolnamen `Je kunt geen rollen zoals: ''admin, medewerker, kustwacht'' zelf benoemen`.
+6. Geef een discord op (dit is niet per se nodig) Je hoeft geen discord te hebben om een factie te maken.
 
 :::caution Heb je een Discord server?
 
