@@ -13,7 +13,7 @@ Wij zijn nog bezig met het maken van een applicatie die automatisch je factie aa
 - Het veranderen van de naam van een factie (inclusief de TAG) of het overdragen van eigendom kost `500fting`
 
 Informatie die je moet opgeven om een factie te maken:
-1. Type factie:
+1. Type of faction:
     - Klein - `max rollen: 5, max gebruikers: 10, kosten om te maken: 200`
     - Gemiddeld - `max rollen: 10, max gebruikers: 25, kosten om te maken: 400`
     - Groot - `max rollen: 15, max gebruikers: 50, kosten om te maken: 1000~`
