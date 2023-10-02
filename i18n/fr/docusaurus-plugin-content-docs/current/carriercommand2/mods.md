@@ -4,7 +4,7 @@ description: Carrier Command 2 Mods
 ---
 
 # Mods
-Below is a list of mods we use on our CC2 servers, to suggest a mod for the server contact the <a href="https://trickys.gg/staffteam">CC2 Game Manager</a>.
+Voici une liste des mods que nous utilisons sur nos serveurs CC2, pour suggérer un mod pour le serveur, contactez le <a href="https://trickys.gg/staffteam">Gestionnaire de Jeu CC2</a>.
 
 :::note Automatic Download
 
