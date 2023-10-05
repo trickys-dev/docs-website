@@ -141,7 +141,7 @@ Um einen Antrag auf Löschung einer Fraktion einzuleiten, müssen Sie folgende K
 2. Sie müssen der Besitzer des mit der Fraktion verknüpften Discord Servers sein.
 
 Wenn die oben genannten Anforderungen erfüllt sind, können Sie auf Discord ein Ticket einreichen und Ihre Fraktion entfernen. Nachdem Sie zugestimmt haben, die Fraktion zu entfernen, wird Folgendes gelöscht.
-- Faction Name, Faction Abbrv, Faction Roles, Faction Members, Faction Settings (Bio, Avatar, Banners).
+- Fraktionsname, Fraktionsabkürzung, Fraktionsrollen, Fraktionsmitglieder, Fraktionseinstellungen (Bio, Avatar, Banner).
 - Alle verbleibenden Credits, die zum Zeitpunkt der Löschung in der Fraktion übrig sind, werden an das Finanzministerium überwiesen.
 
 Bevor der Löschprozess beginnt, müssen Personen, die einen Discord-Server beaufsichtigen, dessen Entfernung sicherstellen.
