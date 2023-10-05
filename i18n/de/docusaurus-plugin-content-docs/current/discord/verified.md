@@ -5,14 +5,14 @@ description: Verified Information
 
 # Verifiziert
 
-Information on being verified and how to get verified.
+Informationen über die Überprüfung und wie man überprüft wird.
 
 ## Verifiziert werden
 
 Als <span class="verified-text">@Verified</span> können Sie Folgendes tun:
 
 - Posten Sie eingebettete Links auf Discord.
-- Gain access to channels on discord that require the <span class="verified-text">@Verified</span> role.
+- Erhalten Sie Zugriff auf Discordkanäle die die Rolle <span class="verified-text">@Verified</span> erfordern.
 - Streamen & Bildschirm spiegeln in Sprachkanälen.
 - Trete unseren Spielservern bei, die die verifizierte Rolle erfordern.
 - Erhalte eine [Authorisierung](https://docs.trickys.gg/stormworks/auth#getting-auth) in Stormworks.
@@ -40,34 +40,34 @@ Sie können sich nicht mit <i class="fa-brands fa-discord"></i> Discord anmelden
 
 Es gibt einige Wege, um zu überprüfen, ob Sie verifiziert sind.
 
-- Via Website, go to My Account and check if you have discord connected. If you have Discord connected then you will be verified.
-- Via Discord 1, go to <span class="discord-text">🤖︱bot-commands</span> and use the `/account` command. If the bot replies with account account info then you are verified.
-- Via Discord 2, look at your roles if you have the Verified role then you are verified.
+- Gehen Sie über die Webseite zu Mein Account und überprüfen Sie, ob Sie Discord verbunden haben. Wenn Sie Discord verbunden haben, werden Sie verifiziert.
+- Über Discord 1 gehen Sie zu <span class="discord-text">🤖 | bot-commands</span> und verwenden Sie den Befehl `/account`. Wenn der Bot mit Kontoinformationen antwortet, sind Sie verifiziert.
+- Über Discord 2 schauen Sie sich ihre Rollen an, wenn Sie die verifizierte Rolle haben, dann sind Sie verifiziert.
 
 ## Manuelle Freigabe
 
-When registering for the very first time your account may be selected for manual approval, for most accounts this process is automatic and don't need manual approval.
+Bei der ersten Registrierung kann Ihr Konto zur manuellen Freigabe ausgewählt werden, für die meisten Konten ist dieser Prozess automatisch und benötigt keine manuelle Genehmigung.
 
-There are many reasons why our system could select an account for manual approval, there is nothing to worry about if you get selected its just another step that you have to go though which many other users have done without any issues.
+Es gibt viele Gründe, warum unser System ein Konto zur manuellen Genehmigung auswählen könnte, es gibt keinen Grund zur Sorge, es ist nur ein weiterer Schritt für Sie, den viele andere Benutzer ohne Probleme gemacht haben.
 
-:::caution Waiting For Approval
+:::caution Warten auf Freigabe
 
-If you have been selected for manual approval make sure to create a ticket on our discord server stating that you need manual approval and a admin will deal with it, your account wont be approved until you have done this.
+Falls Sie zur manuellen Freigabe ausgewählt wurden, stellen Sie sicher, dass Sie auf unserem Discord Server ein Ticket erstellen, das besagt, dass Sie eine manuelle Genehmigung benötigen, ein Admin wird sich damit befassen. Ihr Konto wird erst genehmigt, wenn Sie dies getan haben.
 
 :::
 
-## Errors & Warnings
+## Fehler & Warnungen
 
-These are some of the messages you may see when trying to register or logging-in.
+Dies sind einige der Nachrichten, die Sie beim Registrieren oder Einloggen sehen können.
 
-| Message                                                                                     | Description                                                                 |
-| ------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
-| <span class="update-updated">Your account has been selected for manual approval</span>      | <a href="discord://discord.com/channels/710922135580835950/846373509470748722" class="discord-text">#submit a ticket</a> for approval                                       |
-| <span class="update-updated">Your account has been denied by the system</span>              | <a href="discord://discord.com/channels/710922135580835950/846373509470748722" class="discord-text">#submit a ticket</a> and a admin will sort this out                     |
-| <span class="update-updated">Invalid login state</span>                                     | There was a error logging you in, just try again                            |
-| <span class="update-updated">Account with this Discord account is already registered</span> | You cannot register with this discord account as its already registered     |
-| <span class="update-updated">Steam user already exists</span>                               | You already have a steam account linked, just sign-in                       |
-| <span class="update-updated">Discord user already exists</span>                             | You already have a discord account linked, just sign-in                     |
-| <span class="update-removed">Your account has been permanently banned</span>                | You are permanently banned from the network appeal <a href="https://support.trickys.gg" class="discord-text">here</a> |
+| Nachricht                                                                                      | Beschreibung                                                                                     |
+| ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| <span class="update-updated">Ihr Account wurde zur manuellen Freigabe ausgewählt</span>        | <a href="discord://discord.com/channels/710922135580835950/846373509470748722" class="discord-text">#submit a ticket</a> zur Genehmigung                                                         |
+| <span class="update-updated">Ihr Account wurde vom System abgelehnt</span>                     | <a href="discord://discord.com/channels/710922135580835950/846373509470748722" class="discord-text">#submit a ticket</a> und ein Administrator wird dies lösen                                   |
+| <span class="update-updated">Ungültiger Login-Status</span>                                    | Es gab einen Fehler beim Anmelden, probieren Sie es erneut                                       |
+| <span class="update-updated">Account mit diesem Discord Account ist bereits registriert</span> | Sie können sich nicht mit diesem Discord Account registrieren, da dieser bereits registriert ist |
+| <span class="update-updated">Steam Benutzer existiert bereits</span>                           | Sie haben bereits ein Steam Account verknüpft, melden Sie sich an                                |
+| <span class="update-updated">Discord Benutzer existiert bereits</span>                         | Sie haben bereits ein Discord Account verknüpft, melden Sie sich an                              |
+| <span class="update-removed">Ihr Account wurde dauerhaft gesperrt</span>                       | Sie wurden dauerhaft vom Netzwerk gebannt, legen Sie <a href="https://support.trickys.gg" class="discord-text">hier</a> Einspruch ein       |
 
 
