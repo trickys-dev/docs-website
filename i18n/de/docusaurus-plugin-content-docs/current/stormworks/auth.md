@@ -1,56 +1,56 @@
 ---
 sidebar_position: 4
-description: Auth information for stormworks
+description: Authorisierungsinformation für Stormworks
 ---
 
-# Authorization
-AKA: AutoAuth (Automatic Authorization)
+# Autorisierung
+AKA: AutoAuth (Automatische Autorisierung)
 
-## What is AutoAuth?
+## Was ist AutoAuth?
 
-The "AutoAuth", or Automatic Authorization system authorizes you on all our servers automatically without any admins or staff needing to be on the server at the same time as you.
+Das "AutoAuth", oder automatisches Autorisierungssystem autorisiert Sie auf allen unseren Servern automatisch, ohne dass Administratoren oder Mitarbeiter gleichzeitig auf dem Server sein müssen.
 
-## Getting Auth?
+## Wie erhalte ich Autorisierung?
 
-To get auth which will allow you to use the workbenches on all of our servers you just need to do the following;
+Um autorisiert zu werden, damit Sie die Werkbänke auf allen unseren Servern benutzen können, müssen Sie nur Folgendes tun;
 
-:::note New User
+:::note Neuer Benutzer
 
-You won't be able to login with Discord if you have never logged-in with steam before
-
-:::
-
-1. Go to https://trickys.gg/login
-2. [Sign-in/Register](https://trickys.gg/login) with <i class="fa-brands fa-steam"></i> Steam.
-3. You then will be asked to linked your <i class="fa-brands fa-discord"></i> Discord account.
-4. Thats it!
-
-:::note Verified
-
-Once you have linked your <i class="fa-brands fa-discord"></i> Discord & <i class="fa-brands fa-steam"></i> Steam account you will become [Verified](./), read more [here](./).
+Sie können sich nicht mit Discord einloggen, wenn Sie sich noch nie mit Steam angemeldet haben
 
 :::
 
-## How Does AutoAuth Work?
+1. Gehen Sie auf https://trickys.gg/login
+2. [Anmelden/Registrieren](https://trickys.gg/login) mit <i class="fa-brands fa-steam"></i> Steam.
+3. Sie werden dann aufgefordert, Ihren <i class="fa-brands fa-discord"></i> Discord Account zu verknüpfen.
+4. Das wars!
 
-Once you join the website you will be authorized on all of our stormworks servers automatically.
+:::note Verifiziert
 
-When you join the server, the system will check the following things from our website:
+Sobald Sie ihren <i class="fa-brands fa-discord"></i> </i> Discord & <i class="fa-brands fa-steam"></i> Steam Account verlinkt haben, werden Sie [Verifiziert](./), Lesen Sie mehr [hier](./).
 
-- Checks if you are perm-banned or temp banned from the server you are joining.
-- Checks if you have an account on the website. (Steam & Discord linked)
-- Checks if you are authorized on the server you joined, if not then you will be AutoAuthed.
-- Checks if you are authorized and have a valid boat license. This is only needed if you have a boat license.
+:::
 
-## I have Auth But can't Spawn Boats?
+## Wie funktioniert AutoAuth?
 
-You need a boat license for the AutoAuth System to authorize you to spawn boats.
+Sobald Sie der Website beitreten, werden Sie automatisch auf allen unseren Stormworks Servern autorisiert.
 
-Already have a license? Check if its [valid](https://trickys.gg/account).
+Wenn Sie dem Server beitreten, prüft das System die folgenden Dinge von unserer Website:
 
-## Do I Have Auth?
+- Überprüft, ob Sie permanent oder temporär von dem Server, dem Sie beitreten wollen, gebannt sind.
+- Überprüft, ob Sie einen Account auf der Website haben. (Steam & Discord verknüpft)
+- Prüft, ob Sie auf dem Server, dem Sie beitreten, autorisiert sind, wenn nicht, werden Sie automatisch autorisiert.
+- Überprüft, ob Sie berechtigt sind und über eine gültige Bootslizenz verfügen. Dies ist nur erforderlich, wenn Sie eine Bootslizenz haben.
 
-One way of checking if you have auth is just to join one of our Stormworks servers and you will get one of the following pop-ups.
+## Ich autorisiert aber kann keine Boote spawnen?
+
+Sie benötigen eine Bootslizenz für das AutoAuth System, um Sie zum spawnen von Booten zu berechtigen.
+
+Sie haben bereits eine Lizenz? Überprüft, ob sie [gültig](https://trickys.gg/account) ist.
+
+## Bin ich autorisiert?
+
+Eine Möglichkeit zu überprüfen, ob Sie autorisiert sind, ist einem unserer Stormworks Server beizutreten und Sie erhalten einen der folgenden Pop-Ups.
 
 <!-- css for flex -->
   <div class="flex-vcenter">
@@ -59,7 +59,7 @@ One way of checking if you have auth is just to join one of our Stormworks serve
     </div>
 <p>
 
-This message will show if you are successfully authorized in-game when joining.
+Diese Nachricht wird angezeigt, wenn Sie beim Beitritt erfolgreich im Spiel autorisiert sind.
 
 </p>
   </div>
@@ -71,7 +71,7 @@ This message will show if you are successfully authorized in-game when joining.
     </div>
 <p>
 
-This message will show if you are not authorized in-game when joining.
+Diese Nachricht wird angezeigt, wenn Sie beim Beitreten nicht im Spiel autorisiert sind.
 
 </p>
   </div>
