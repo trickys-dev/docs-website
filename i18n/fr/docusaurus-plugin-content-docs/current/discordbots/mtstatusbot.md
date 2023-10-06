@@ -58,8 +58,8 @@ Ces commandes par défaut ne seront accessibles que par les utilisateurs ayant l
 <div class="flex-vcenter mb-1">
     <img src="/img/mtstatusbot/mtstatusbotcolour.png" width="300px" />
   <p class="m-0">
-  <span class="statusbot-title">Colour</span> - The color of the embed.<br/>
-  To set the color: <span class="code-text">/mt embed colour<code>colour:<span class="discord-text">Hex-colour</span></code></span>
+  <span class="statusbot-title">Title</span> - Le titre de l’embed.<br/>
+  Pour définir la couleur: <span class="code-text">/mt couleur de l'embed <code>couler:<span class="discord-text">couleur hex</span></code></span>
   </p>
  </div>
 
@@ -68,8 +68,8 @@ Ces commandes par défaut ne seront accessibles que par les utilisateurs ayant l
  <div class="flex-vcenter mb-1">
     <img src="/img/mtstatusbot/mtstatusbot2.png" width="300px" />
   <p class="m-0">
- <span class="statusbot-title">Channel</span> - Set the channel where you want the embed to be<br/>
-  To set the channel: <span class="code-text">/mt channel <code>channel:<span class="discord-text">#channel</span></code></span>
+ <span class="statusbot-title">Channel</span> - Le canal que le bot utilisera pour les logs.<br/>
+  Pour définir le canal : <span class="code-text">/mt channel <code>channel:<span class="discord-text">#channel</span></code></span>
   </p>
  </div>
 
@@ -100,8 +100,8 @@ Ces commandes par défaut ne seront accessibles que par les utilisateurs ayant l
 <div class="flex-vcenter mb-1">
     <img src="/img/mtstatusbot/mtstatusbotaddserver.png" width="300px" />
   <p class="m-0">
-  <span class="statusbot-title">Add Server</span> - Add a server to the embed.<br/>
-  To add a server use: <span class="code-text">/mt servers add <code>server:<span class="discord-text">server-name</span></code></span>
+  <span class="statusbot-title">Supprimer le serveur</span> - Supprimer un serveur de l’embed.<br/>
+  Pour supprimer une utilisation du serveur : <span class="code-text">/mt serveurs enlèvent <code>displayedserver :<span class="discord-text">nom du serveur</span></code></span>
   </p>
  </div>
  <div class="flex-vcenter mb-1">
