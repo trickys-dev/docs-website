@@ -12,17 +12,17 @@ Une liste de commandes pour notre serveur Minecraft Vanilla.
 | ---------------- | ---------------------------------------------------------- |
 | /sethome         | Définit la position actuelle à une maison peut être nommée |
 | /home            | Téléportation vers les maisons                             |
-| /listhomes       | List all homes ou have set                                 |
-| /backpack        | Opens backpack                                             |
-| /enderchest      | Opens supporter only enderchest                            |
-| /spawn           | teleports you to spawn                                     |
-| /tpa             | Player you want to tp to                                   |
-| /tpahere         | Player you want to tp to you                               |
-| /back            | Teleports you back to where you were                       |
-| /rtp             | Random teleport                                            |
+| /listhomes       | Liste de toutes les maisons ou toutes les maisons établie  |
+| /backpack        | Ouvrir le sac à dos                                        |
+| /enderchest      | Ouvre le supporteur seulement enderchest                   |
+| /spawn           | vous téléportent au point d'apparition                     |
+| /tpa             | Joueur auquel vous voulez tp                               |
+| /tpahere         | Joueur auquel vous voulez tp                               |
+| /back            | Vous téléporte à l'endroit où vous étiez                   |
+| /rtp             | Téléportation Aléatoire                                    |
 | AuctionHouse     |                                                            |
-| /ah              | Open the auction house                                     |
-| /ah menu         | Open the auction house in menu mode                        |
+| /ah              | Ouvrir la vente aux enchères                               |
+| /ah menu         | Ouvrir la vente aux enchères en mode menu                  |
 | /ah search       | View items matching search filter                          |
 | /ah help         | Show help for all the commands                             |
 | /ah sell         | Sell the item you are holding in hand                      |
