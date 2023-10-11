@@ -1,6 +1,6 @@
 ---
 sidebar_position: 3
-description: MT Status Bot Information
+description: MT Status Bot Informationen
 ---
 
 # MT Status Bot
@@ -8,77 +8,77 @@ description: MT Status Bot Information
 <span class="request-bubble request-get">BETA</span>
 <br/>
 <br/>
-This page explains how to use and setup the MT Status Bot.
+Diese Seite erklärt, wie Sie den MT Status Bot verwenden und einrichten.
 
-## What Can The Bot Do
+## Was kann der Bot tun
 
-In brief the bot can do the following;
-- Get MotorTown server status.
-- Get player count for servers.
-- Get total players playing MotorTown.
-- Sync in-game to discord. (chats, joins & leaves) - [ChatLogger](/discordbots/mtstatusbot#chat-logger)
+Kurz gesagt, der Bot kann folgendes tun;
+- Den MotorTown Serverstatus erhalten.
+- Erhalte die Spieleranzahl für Server.
+- Die Spieleranzahl der MotorTown Spieler erhalten.
+- Synchronisiere in-game mit Discord. (Chats, beitretende & verlassende Spieler) - [ChatLogger](/discordbots/mtstatusbot#chat-logger)
 
-## Quick Setup
+## Schnelleinrichtung
 
-<span class="statusbot-title">Step 1.</span> <a href="#">Invite</a> the bot to your server.<br/><br/>
+<span class="statusbot-title">Schritt 1.</span> <a href="#">Laden</a> Sie den Bot zu Ihrem Server ein.<br/><br/>
 
 <div class="flex-vcenter mb-1">
     <img src="/img/mtstatusbot/mtstatusbot1.png" width="300px" />
   <p class="m-0">
-  <span class="statusbot-title">Step 2.</span> - use the <span class="code-text">/mt servers add <code>server:<span class="discord-text">server-name</span></code> </span>
-command and select a server from the list.
+  <span class="statusbot-title">Schritt 2.</span> - verwenden Sie den <span class="code-text">/mt servers add <code>server:<span class="discord-text">Servername</span></code> </span>
+Befehl und wählen Sie einen Server aus der Liste.
   </p>
  </div>
  <div class="flex-vcenter mb-1">
     <img src="/img/mtstatusbot/mtstatusbot2.png" width="300px" />
   <p class="m-0">
- <span class="statusbot-title">Step 3.</span> - Set the channel which the status embed will be sent and updated<br/>
-  To set the channel: <span class="code-text">/mt channel <code>channel:<span class="discord-text">#channel</span></code></span>
+ <span class="statusbot-title">Schritt 3.</span> - Legen Sie den Kanal fest, in den die Status-Einbettung gesendet und aktualisiert wird<br/>
+  Um den Kanal festzulegen: <span class="code-text">/mt channel <code>channel:<span class="discord-text">#Kanal</span></code></span>
   </p>
  </div>
 
-## Configuring The Bot
+## Den Bot konfigurieren
 
-:::caution Default Permissions
+:::caution Standardberechtigungen
 
-These commands by default will only be accessible by users with the administrator permission.
+Diese Befehle sind standardmäßig nur für Benutzer mit Administratorberechtigung zugänglich.
 
 :::
 
-### Title
+### Titel
 <div class="flex-vcenter mb-1">
     <img src="/img/mtstatusbot/mtstatusbottitle.png" width="300px" />
   <p class="m-0">
-  <span class="statusbot-title">Title</span> - The title of the embed.<br/>
-  To set the title: <span class="code-text">/mt embed title<code>title:<span class="discord-text">title-here</span></code></span>
+  <span class="statusbot-title">Titel</span> - Der Titel der Einbettung.<br/>
+  Um den Titel zu setzen: <span class="code-text">/mt embed title<code>title:<span class="discord-text">Titel</span></code></span>
   </p>
  </div>
 
-### Colour
+### Farbe
 <div class="flex-vcenter mb-1">
     <img src="/img/mtstatusbot/mtstatusbotcolour.png" width="300px" />
   <p class="m-0">
-  <span class="statusbot-title">Colour</span> - The color of the embed.<br/>
-  To set the color: <span class="code-text">/mt embed colour<code>colour:<span class="discord-text">Hex-colour</span></code></span>
+  <span class="statusbot-title">Farbe</span> - Die Farbe der Einbettung.<br/>
+  Um die Farbe zu setzen: <span class="code-text">/mt embed colour<code>colour:<span class="discord-text">Hex-Farbe</span></code></span>
   </p>
  </div>
 
-### Set Channel
+### Kanal Einrichten
 
  <div class="flex-vcenter mb-1">
     <img src="/img/mtstatusbot/mtstatusbot2.png" width="300px" />
   <p class="m-0">
- <span class="statusbot-title">Channel</span> - Set the channel where you want the embed to be<br/>
-  To set the channel: <span class="code-text">/mt channel <code>channel:<span class="discord-text">#channel</span></code></span>
+ <span class="statusbot-title">Kanal</span> - Legen Sie den Kanal fest, in dem die Einbettung sein soll<br/>
+  Um den Kanal festzulegen: <span class="code-text">/mt channel <code>channel:<span class="discord-text">#Kanal</span></code></span>
   </p>
  </div>
 
-### Set Embed Info
+### Einbett-Info festlegen
 <div class="flex-vcenter mb-1">
     <img src="/img/mtstatusbot/mtstatusbotinfo.png" width="300px" />
   <p class="m-0">
-  <span class="statusbot-title">Set Embed Info</span> - Icon, Global Players, Game Logo In Title.<br/>
-  To show the embed settings: <span class="code-text">/mt info</span>
+  <span class="statusbot-title">Einbett-Info festlegen</span> - Icon, Globale Spieler, Spiellogo im Titel.<br/>
+  Um die Einbettungseinstellungen anzuzeigen: <span class="code-text">/mt info</span>
   </p>
  </div>
 
@@ -87,16 +87,16 @@ These commands by default will only be accessible by users with the administrato
 
   <span class="ml-1" >
 
-| No. | Info Type          | Description                                |
-|-----|--------------------|--------------------------------------------|
-| 1   | Icon               | Shows server icon in embed.                |
-| 2   | Global Players     | Shows the number of players on MotorTown.  |
-| 3   | Game Logo In Title | Shows title in embed.                      |
+| Nein. | Info Typ             | Beschreibung                         |
+|-----|---------------------|------------------------------------------|
+| 1    | Icon               | Zeigt das Servericon in der Einbettung.                |
+| 12   | Globale Spieler    | Zeigt die Zahl der Spieler von MotorTown.  |
+| 3   | Spiellogo im Titel | Zeigt den Titel in der Einbettung.                      |
 
   </span>
  </div>
 
-### Manage Servers
+### Server verwalten
 <div class="flex-vcenter mb-1">
     <img src="/img/mtstatusbot/mtstatusbotaddserver.png" width="300px" />
   <p class="m-0">

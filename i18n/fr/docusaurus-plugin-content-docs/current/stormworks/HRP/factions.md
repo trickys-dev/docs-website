@@ -134,19 +134,19 @@ Le rôle de propriétaire de chaque faction ne peut pas modifier son propre ordr
 
 :::
 
-## Faction Deletion
+## Suppression de faction
 
-To initiate a faction deletion request, you must meet the following criteria:
-1. Be the designated owner of the faction.
-2. Possess ownership of the Discord server associated with the faction.
+Pour lancer une demande de suppression de faction, vous devez répondre aux critères suivants :
+1. Être le propriétaire désigné de la faction.
+2. Posséder la propriété du serveur Discord associé à la faction.
 
-If the above requirements are meet then you can submit a ticket on discord and request to have your faction removed. After you have confirmed you wish to delete the faction the following will be permanently deleted.
-- Faction Name, Faction Abbrv, Faction Roles, Faction Members, Faction Settings (Bio, Avatar, Banners).
-- Any remaining credits left in the faction at the time of deletion will be transferred to the Treasury.
+Si les conditions ci-dessus sont remplies, vous pouvez soumettre un ticket sur discord et demander que votre faction soit supprimée. Une fois que vous avez confirmé que vous souhaitez supprimer la faction, les éléments suivants seront définitivement supprimés.
+- Nom de la faction, Abbréviation de la faction, Rôles de faction, Membres de la faction, Réglages de la faction (Bio, Avatar, Bannières).
+- Tous les crédits restants dans la faction au moment de la suppression seront transférés au Trésor.
 
-Prior to commencing the deletion process, individuals overseeing a Faction Discord server must ensure its removal.
+Avant de commencer le processus de suppression, les personnes qui supervisent un serveur Discord de faction doivent s'assurer de sa suppression.
 
-A faction that remains undeleted retains its active status, with the faction owner retaining responsibility for both the faction's upkeep and adherence to existing and future faction rules and requirements, until its deletion, irrespective of any other considerations.
+Une faction qui reste non supprimée conserve son statut actif, avec le propriétaire de la faction qui conserve la responsabilité de l'entretien et de l'adhésion de la faction aux règles et aux exigences existantes et futures de la faction, jusqu'à sa suppression, indépendamment de toute autre considération.
 
 ## Exemples
 

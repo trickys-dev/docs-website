@@ -134,19 +134,19 @@ Die Besitzerrolle einer Fraktion kann ihre eigene Rollenanordnung oder Berechtig
 
 :::
 
-## Faction Deletion
+## Fraktion löschen
 
-To initiate a faction deletion request, you must meet the following criteria:
-1. Be the designated owner of the faction.
-2. Possess ownership of the Discord server associated with the faction.
+Um einen Antrag auf Löschung einer Fraktion einzuleiten, müssen Sie folgende Kriterien erfüllen:
+1. Sie müssen berechtigte Besitzer der Fraktion sein.
+2. Sie müssen der Besitzer des mit der Fraktion verknüpften Discord Servers sein.
 
-If the above requirements are meet then you can submit a ticket on discord and request to have your faction removed. After you have confirmed you wish to delete the faction the following will be permanently deleted.
-- Faction Name, Faction Abbrv, Faction Roles, Faction Members, Faction Settings (Bio, Avatar, Banners).
-- Any remaining credits left in the faction at the time of deletion will be transferred to the Treasury.
+Wenn die oben genannten Anforderungen erfüllt sind, können Sie auf Discord ein Ticket einreichen und Ihre Fraktion entfernen. Nachdem Sie zugestimmt haben, die Fraktion zu entfernen, wird Folgendes gelöscht.
+- Fraktionsname, Fraktionsabkürzung, Fraktionsrollen, Fraktionsmitglieder, Fraktionseinstellungen (Bio, Avatar, Banner).
+- Alle verbleibenden Credits, die zum Zeitpunkt der Löschung in der Fraktion übrig sind, werden an das Finanzministerium überwiesen.
 
-Prior to commencing the deletion process, individuals overseeing a Faction Discord server must ensure its removal.
+Bevor der Löschprozess beginnt, müssen Personen, die einen Discord-Server beaufsichtigen, dessen Entfernung sicherstellen.
 
-A faction that remains undeleted retains its active status, with the faction owner retaining responsibility for both the faction's upkeep and adherence to existing and future faction rules and requirements, until its deletion, irrespective of any other considerations.
+Eine Fraktion, die wieder freigelassen wird, behält ihren aktiven Status mit dem Fraktionseigentümer die Verantwortung für die Aufrechterhaltung und Einhaltung bestehender und zukünftiger Fraktionsregeln behalten bis zu seiner Löschung, unabhängig von anderen Erwägungen.
 
 ## Beispiel
 

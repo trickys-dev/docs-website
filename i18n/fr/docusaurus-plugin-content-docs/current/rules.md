@@ -231,8 +231,8 @@ export default function ControlledAccordions() { const [expanded, setExpanded] =
         <Typography>
           <span class="tricky-color">Règles générales</span><br/>
           1. Pas d'apparition du camp d'apparition <span class="text-muted">(3 règle de frappe, si les équipes ennemies utilisent les trois frappes, alors elles perdent le round).</span><br/>
-          2. No teamkilling <span class="text-muted">(one off incidents are to be looked over but persistent teamkills will result in punishment dealt by the game manager).</span><br/>
-          3. The use of "Vaulted Vehicles" is forbidden <span class="text-muted">(vehicles that are removed from tech tree's for balancing reasons or are event exclusive, a brief exemption can be made if the vehicle has been made available for a short period of time at around the time of an upcoming event).</span>
+          2. Aucun teamkill <span class="text-muted">(un incident non résolu doit être ignoré mais les tueurs d'équipe persistants se traduiront par une punition à la discrétion du gestionnaire de jeu).</span><br/>
+          3. L'utilisation de "Véhicules Fortifier" est interdite <span class="text-muted">(les véhicules qui sont retirés de l'arbre technologique pour des raisons d'équilibrage ou sont exclusifs à l'événement, une brève exemption peut être accordée si le véhicule a été mis à disposition pour une courte période de temps à la date de l'événement à venir).</span>
         </Typography>
         </AccordionDetails>
       </Accordion>
