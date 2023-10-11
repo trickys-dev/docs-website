@@ -34,4 +34,4 @@ jobs:
         DISCORD_WEBHOOK: ${{ secrets.discordWebhook }}
       uses: Ilshidur/action-discord@master
       with:
-        args: 'Branch push to ${{ github.ref_name }} failed automatic test! <@288419514180173825><@394269481817341964>'
+        args: 'Branch push to \`${{ github.ref_name }}\` failed automatic test! <@288419514180173825><@394269481817341964>'
