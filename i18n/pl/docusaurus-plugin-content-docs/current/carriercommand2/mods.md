@@ -12,12 +12,12 @@ You do not need to download these mods as they will automatically download when 
 
 :::
 
-| Nazwa modyfikacji                | ID Pliku   | Added To Server | Odnośnik                                                                      |
-| -------------------------------- | ---------- | --------------- | ----------------------------------------------------------------------------- |
-| Captains Controls                | 2824746567 | 10/12/2022      | [Wyświetl](https://steamcommunity.com/sharedfiles/filedetails/?id=2824746567) |
-| Turbo Barges                     | 2769055606 | 10/12/2022      | [Wyświetl](https://steamcommunity.com/sharedfiles/filedetails/?id=2769055606) |
-| Gentle Missile Speed Buff        | 2937532682 | 10/12/2022      | [Wyświetl](https://steamcommunity.com/sharedfiles/filedetails/?id=2937532682) |
-| Albatross AWACS with UI enhancer | 2892401880 | 10/12/2022      | [Wyświetl](https://steamcommunity.com/sharedfiles/filedetails/?id=2892401880) |
-| 2x Vehicle Water Speed           | 2824714936 | 27/09/2023      | [Wyświetl](https://steamcommunity.com/sharedfiles/filedetails/?id=2824714936) |
+| Nazwa modyfikacji                       | ID Pliku   | Added To Server | Odnośnik                                                                      |
+| --------------------------------------- | ---------- | --------------- | ----------------------------------------------------------------------------- |
+| Repair Bay Terminals + Captain Controls | 2827559599 | 11/10/2023      | [Wyświetl](https://steamcommunity.com/sharedfiles/filedetails/?id=2827559599) |
+| Turbo Barges                            | 2769055606 | 10/12/2022      | [Wyświetl](https://steamcommunity.com/sharedfiles/filedetails/?id=2769055606) |
+| Gentle Missile Speed Buff               | 2937532682 | 10/12/2022      | [Wyświetl](https://steamcommunity.com/sharedfiles/filedetails/?id=2937532682) |
+| Albatross AWACS with UI enhancer        | 2892401880 | 10/12/2022      | [Wyświetl](https://steamcommunity.com/sharedfiles/filedetails/?id=2892401880) |
+| 2x Vehicle Water Speed                  | 2824714936 | 27/09/2023      | [Wyświetl](https://steamcommunity.com/sharedfiles/filedetails/?id=2824714936) |
 
-Last Updated: 27/09/2023<!-- AA/TV Missile Rebalance    \[View\](https://steamcommunity.com/sharedfiles/filedetails/?id=2878616785) -->
+Last Updated: 11/10/2023
