@@ -241,13 +241,13 @@ const config = {
         {name: 'theme-color', content: '#375a7f'},
         {property: 'og:site_name', content: 'docs.trickys.gg'},
       ],
-      announcementBar: {
-      id: 'steamwarning',
-      content: 'Steam Support does not reach out to people by Steam chat or Discord. Anyone approaching you that says they\'re from Steam Support (or Trickys) and asks for your account information or items is a scammer.',
-      backgroundColor: '#375a7f',
-        textColor: '#fff',
-      isCloseable: false,
-      },
+      // announcementBar: {
+      // id: 'steamwarning',
+      // content: 'Steam Support does not reach out to people by Steam chat or Discord. Anyone approaching you that says they\'re from Steam Support (or Trickys) and asks for your account information or items is a scammer.',
+      // backgroundColor: '#375a7f',
+      //   textColor: '#fff',
+      // isCloseable: false,
+      // },
       colorMode: {
         defaultMode: 'dark',
         disableSwitch: false,
