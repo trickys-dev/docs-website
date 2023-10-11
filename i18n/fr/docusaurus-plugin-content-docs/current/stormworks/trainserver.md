@@ -5,6 +5,12 @@ description: Informations sur le serveur de Train Stormworks
 
 # Serveur de train
 
+:::caution serveur fermé
+
+Le serveur du train est actuellement fermé et il n'y a pas de date de retour.
+
+:::
+
 Ce serveur est destiné aux opérations ferroviaires de jeux de rôles. Le tronçon de chemin de fer de Spycakes à Camodo recrée des panneaux de signalisation pour le jeu de rôles entre les conducteurs de signalisation et de train dans un cadre ferroviaire réaliste.
 
 :::note Absolute Block Signalling Summary

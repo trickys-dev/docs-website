@@ -13,7 +13,7 @@ Wij zijn nog bezig met het maken van een applicatie die automatisch je factie aa
 - Het veranderen van de naam van een factie (inclusief de TAG) of het overdragen van eigendom kost `500fting`
 
 Informatie die je moet opgeven om een factie te maken:
-1. Type factie:
+1. Type of faction:
     - Klein - `max rollen: 5, max gebruikers: 10, kosten om te maken: 200`
     - Gemiddeld - `max rollen: 10, max gebruikers: 25, kosten om te maken: 400`
     - Groot - `max rollen: 15, max gebruikers: 50, kosten om te maken: 1000~`
@@ -133,6 +133,20 @@ Mensen kunnen hun eigen rol of de rollen daarboven niet bewerken, ongeacht permi
 De eigenaar van een factie kan de volgorde of permissies van hun eigen rol niet bewerken.
 
 :::
+
+## Faction Deletion
+
+To initiate a faction deletion request, you must meet the following criteria:
+1. Be the designated owner of the faction.
+2. Possess ownership of the Discord server associated with the faction.
+
+If the above requirements are meet then you can submit a ticket on discord and request to have your faction removed. After you have confirmed you wish to delete the faction the following will be permanently deleted.
+- Faction Name, Faction Abbrv, Faction Roles, Faction Members, Faction Settings (Bio, Avatar, Banners).
+- Any remaining credits left in the faction at the time of deletion will be transferred to the Treasury.
+
+Prior to commencing the deletion process, individuals overseeing a Faction Discord server must ensure its removal.
+
+A faction that remains undeleted retains its active status, with the faction owner retaining responsibility for both the faction's upkeep and adherence to existing and future faction rules and requirements, until its deletion, irrespective of any other considerations.
 
 ## Voorbeeld
 

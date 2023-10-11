@@ -13,16 +13,16 @@ Nadal pracujemy nad stworzeniem aplikacji, która automatycznie tworzy frakcję,
 - Changing the name of a faction (including the TAG) or to transfer ownership will cost `500⎈`
 
 Informacje które musisz podać aby utworzyć frakcję:
-1. Typ frakcji:
+1. Type of faction:
     - Small - `max roles: 5, max users: 10, cost to create: 200⎈`
     - Medium - `max roles: 10, max users: 25, cost to create: 400⎈`
     - Large - `max roles: 15, max users: 50, cost to create: 1000⎈`
     - Enterprise - `max roles: 15, max users: 100, cost to create: 2500⎈`
-2. Nazwa twojej frakcji.
-3. Opis frakcji.
-4. Skrót nazwy frakcji, musi mieć przynajmniej 2 lub więcej znaków (na przykład: Rząd[Government] to GOV).
-5. Nazwy ról `Nie możesz mieć rol nazwanych: admin, staff, coastguard`.
-6. Podaj Discord (Nie jest wymagane) Nie musisz mieć Discord, aby utworzyć frakcję.
+2. Name of your faction.
+3. Faction description.
+4. Faction abbreviation, has to be at least 2 or more characters (example: Government is GOV).
+5. Roles names `You cannot have roles named: admin, staff, coastguard`.
+6. Provide discord (this is not requried) You dont have to have a discord to create a faction.
 
 :::caution Posiadasz serwer Discord?
 
@@ -133,6 +133,20 @@ Bez względu na uprawnienia, role nie mogą edytować własnej roli ani ról nad
 Rola właściciela każdej frakcji nie może edytować tam własnych kolejności ról lub uprawnień.
 
 :::
+
+## Faction Deletion
+
+To initiate a faction deletion request, you must meet the following criteria:
+1. Be the designated owner of the faction.
+2. Possess ownership of the Discord server associated with the faction.
+
+If the above requirements are meet then you can submit a ticket on discord and request to have your faction removed. After you have confirmed you wish to delete the faction the following will be permanently deleted.
+- Faction Name, Faction Abbrv, Faction Roles, Faction Members, Faction Settings (Bio, Avatar, Banners).
+- Any remaining credits left in the faction at the time of deletion will be transferred to the Treasury.
+
+Prior to commencing the deletion process, individuals overseeing a Faction Discord server must ensure its removal.
+
+A faction that remains undeleted retains its active status, with the faction owner retaining responsibility for both the faction's upkeep and adherence to existing and future faction rules and requirements, until its deletion, irrespective of any other considerations.
 
 ## Przykład
 
