@@ -14,10 +14,10 @@ Vous n'avez pas besoin de télécharger ces mods car, ils seront automatiquement
 
 | Nom du mod                                 | ID du fichier | Ajouté au serveur | Lien                                                                      |
 | ------------------------------------------ | ------------- | ----------------- | ------------------------------------------------------------------------- |
-| Captains Controls                          | 2824746567    | 10/12/2022        | [Voir](https://steamcommunity.com/sharedfiles/filedetails/?id=2824746567) |
+| Repair Bay Terminals + Captain Controls    | 2824746567    | 11/10/2023        | [Voir](https://steamcommunity.com/sharedfiles/filedetails/?id=2827559599) |
 | Turbo Barges                               | 2769055606    | 10/12/2022        | [Voir](https://steamcommunity.com/sharedfiles/filedetails/?id=2769055606) |
 | Gentle Missile Speed Buff                  | 2937532682    | 10/12/2022        | [Voir](https://steamcommunity.com/sharedfiles/filedetails/?id=2937532682) |
 | Albatross AWACS with UI enhancer           | 2892401880    | 10/12/2022        | [Voir](https://steamcommunity.com/sharedfiles/filedetails/?id=2892401880) |
 | 2 fois plus de Vitesse d'Eau des Véhicules | 2878616785    | 27/09/2023        | [Voir](https://steamcommunity.com/sharedfiles/filedetails/?id=2824714936) |
 
-Dernière mise à jour : 27/09/2023<!-- AA/TV Missile Rebalance    \[View\](https://steamcommunity.com/sharedfiles/filedetails/?id=2878616785) -->
+Last Updated: 27/09/2023
