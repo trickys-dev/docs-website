@@ -10,7 +10,7 @@ AKA: AutoAuth (Automatische Autorisierung)
 
 Das "AutoAuth", oder automatisches Autorisierungssystem autorisiert Sie auf allen unseren Servern automatisch, ohne dass Administratoren oder Mitarbeiter gleichzeitig auf dem Server sein müssen.
 
-## Wie erhalte ich Autorisierung?
+## Erhalte Autorisierung?
 
 Um autorisiert zu werden, damit Sie die Werkbänke auf allen unseren Servern benutzen können, müssen Sie nur Folgendes tun;
 
