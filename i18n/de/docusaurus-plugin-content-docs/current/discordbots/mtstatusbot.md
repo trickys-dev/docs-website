@@ -14,7 +14,7 @@ Diese Seite erklärt, wie Sie den MT Status Bot verwenden und einrichten.
 
 Kurz gesagt, der Bot kann folgendes tun;
 - Den MotorTown Serverstatus erhalten.
-- Die Spieleranzahl für Server erhalten.
+- Erhalte die Spieleranzahl für Server.
 - Die Spieleranzahl der MotorTown Spieler erhalten.
 - Synchronisiere in-game mit Discord. (Chats, beitretende & verlassende Spieler) - [ChatLogger](/discordbots/mtstatusbot#chat-logger)
 
