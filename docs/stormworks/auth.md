@@ -27,7 +27,7 @@ You won't be able to login with Discord if you have never logged-in with steam b
 
 :::note Verified
 
-Once you have linked your <i class="fa-brands fa-discord"></i> Discord & <i class="fa-brands fa-steam"></i> Steam account you will become [Verified](./), read more [here](./).
+Once you have linked your <i class="fa-brands fa-discord"></i></i> Discord & <i class="fa-brands fa-steam"></i> Steam account you will become [Verified](./), read more [here](./).
 
 :::
 
