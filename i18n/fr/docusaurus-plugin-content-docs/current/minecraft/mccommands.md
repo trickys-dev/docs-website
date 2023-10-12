@@ -23,27 +23,27 @@ Une liste de commandes pour notre serveur Minecraft Vanilla.
 | AuctionHouse     |                                                            |
 | /ah              | Ouvrir la vente aux enchères                               |
 | /ah menu         | Ouvrir la vente aux enchères en mode menu                  |
-| /ah search       | View items matching search filter                          |
-| /ah help         | Show help for all the commands                             |
-| /ah sell         | Sell the item you are holding in hand                      |
-| /ah list [count] | List the item as server                                    |
-| /ah selling      | View the items you are selling                             |
-| /ah sold         | View the items you have sold recently                      |
-| /ah expired      | View your expired items to return                          |
-| /ah cancel       | Cancel all your auctions                                   |
-| /ah return       | Return all your cancelled/expired items                    |
+| /ah search       | Voir les éléments correspondant au filtre de recherche     |
+| /ah help         | Afficher l'aide pour toutes les commandes                  |
+| /ah sell         | Vendez l'objet que vous tenez dans la main                 |
+| /ah list [count] | Lister l'élément en tant que serveur                       |
+| /ah selling      | Voir les articles que vous vendez                          |
+| /ah sold         | Voir les objets que vous avez vendus récemment             |
+| /ah expired      | Voir vos éléments expirés à retourner                      |
+| /ah cancel       | Annuler toutes vos enchères                                |
+| /ah return       | Retournez tous vos éléments annulés/expirés                |
 
-## Modded
-A list of commands for our Modded Minecraft Server.
+## Moddé
+Une liste de commandes pour notre serveur Minecraft Vanilla.
 
-| Command    | Description                                  |
-| ---------- | -------------------------------------------- |
-| /sethome   | Sets current postion to a home can be nammed |
-| /home      | Teleports to homes                           |
-| /listhomes | List all homes ou have set                   |
-| /spawn     | teleports you to spawn                       |
-| /home      | Teleports to homes                           |
-| /tpa       | Player you want to tp to                     |
-| /tpahere   | Player you want to tp to you                 |
-| /back      | Teleports you back to where you were         |
-| /rtp       | Random teleport                              |
+| Commandes  | Descriptions                                               |
+| ---------- | ---------------------------------------------------------- |
+| /sethome   | Définit la position actuelle à une maison peut être nommée |
+| /home      | Téléportation vers les maisons                             |
+| /listhomes | Liste de toutes les maisons ou toutes les maisons établie  |
+| /spawn     | vous téléportent au point d'apparition                     |
+| /home      | Téléporte vers les maisons                                 |
+| /tpa       | Joueur sur lequel vous voulez tp                           |
+| /tpahere   | Joueur que vous voulez vous tp                             |
+| /back      | Vous téléporte à l'endroit où vous étiez                   |
+| /rtp       | Téléportation Aléatoire                                    |
