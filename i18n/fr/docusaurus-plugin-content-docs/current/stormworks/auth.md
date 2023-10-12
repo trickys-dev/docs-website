@@ -27,7 +27,7 @@ Vous ne pourrez pas vous connecter avec Discord si vous ne vous êtes jamais con
 
 :::note vérifiée
 
-Once you have linked your <i class="fa-brands fa-discord"></i> Discord & <i class="fa-brands fa-steam"></i> Steam account you will become [Verified](./), read more [here](./).
+Une fois que vous aurez lié votre compte <i class="fa-brands fa-discord"></i> Discord & <i class="fa-brands fa-steam"></i> Steam vous deviendrez [vérifié](./), en savoir plus [ici](./).
 
 :::
 
