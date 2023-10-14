@@ -1,29 +1,29 @@
 ---
 sidebar_position: 1
-description: Verified Information
+description: Verifisert informasjon
 ---
 
 # Verifisert
 
-Information on being verified and how to get verified.
+Informasjon om å være verifisert og hvordan man blir verifisert.
 
-## Being Verified
+## Å være verifisert
 
-Being <span class="verified-text">@Verified</span> allows you to do the following:
+Å være <span class="verified-text">@Verified</span> tillater deg følgene:
 
-- Post embedded links in discord.
-- Gain access to channels on discord that require the <span class="verified-text">@Verified</span> role.
-- Stream & screen share in voice channels.
-- Join & play on our game servers that require the verified role.
-- Get [Authorization](https://docs.trickys.gg/stormworks/auth#getting-auth) in stormworks.
-- Apply for [applications](https://trickys.gg/applications/new).
-- Have full access to website.
-- Use all <span class="discord-text">🤖︱bot-commands</span>.
-- Appeal all bans.
-- and much more....
+- Sende innebygde lenker i discord.
+- Få tilgang til discord kanaler som krever <span class="verified-text">@Verified</span> rollen.
+- Streame & screen-share i talekaner.
+- Joine & spille på våre servere som krever den verifiserte rollen.
+- Få [Autorisasjon](https://docs.trickys.gg/stormworks/auth#getting-auth) i stormworks.
+- Søke etter [applikasjoner](https://trickys.gg/applications/new).
+- Ha full tilgang til nettsiden.
+- Bruke alle <span class="discord-text">🤖︱bot-commands</span>.
+- Anke alle bans.
+- og mye mer....
 
-:::info Automatic
-Once you are verified you will automatically be given the <span class="verified-text">@Verified</span> role & any "get-verified" channels will be hidden on <i class="fa-brands fa-discord"></i> Discord.
+:::info Automatisk
+Når du er verifisert blir du automatisk gitt <span class="verified-text">@Verified</span> rollen & alle "get-verified" kanaler vil bli skjult i <i class="fa-brands fa-discord"> </i>Discord.
 :::
 
 ## Hvordan blir jeg verifisert
