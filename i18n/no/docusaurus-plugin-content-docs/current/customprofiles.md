@@ -7,40 +7,40 @@ description: Nettside egendefinerte profiler
 
 Tilpass dine personlige & Fraction profiler
 
-:::note Faction Profiles
+:::note Firma profiler
 
-[Click Here](/stormworks/HRP/factions.md#faction-profiles) if you are looking for [Faction Profiles](/stormworks/HRP/factions.md#faction-profiles)
+[ Click Her](/stormworks/HRP/factions.md#faction-profiles) om du ser etter [Firma profiler](/stormworks/HRP/factions.md#faction-profiles)
 
 :::
 
 
-## Personal Profiles
+## Personlige profiler
 
-Personal profiles are referring to public profiles which all members have.
+Personlige profiler refererer til offentlige profiler som alle medlemmene har.
 
-- Avatar to display.
-- Om meg. **You are limited to 200 characters in bios & descriptions.**
-- Avatar outline colour.
+- Profilbilde for visning.
+- Om meg. **Du er begrenset til 200 tegn i bioer & beskrivelser.**
+- Farge på profilbilde kant.
 
 ### Profilbilde for visning
 
 <div class="flex-vcenter mb-1">
     <img src="/img/customprofiles/profileavatardisplay.png"/>
     <p>
-    You can choose which avatar you want to show on your profile, they are:<br/>
-- Steam Avatar. (Default)<br/>
+    Du kan velge hvilken avatar du vil vise på profilen din, de er:<br/>
+- Steam Avatar. (Standard)<br/>
 - Discord Avatar.
     </p>
  </div>
 
-The selected avatar will also show in a Discord embed when you post your profile URL, more about this is below.
+Den valgte avataren vil også vises i en Discord embed når du legger ut din profil URL, mer om dette er under.
 
-### Avatar Outline Colour
+### Farge på profilbilde kant
 
 <div class="flex-vcenter mb-1">
   <img src="/img/customprofiles/editavatarcolour.png"/>
   <p>
-  You can choose the outline colour that is around your avatar.
+  Du kan velge farge som er rundt avataren din.
   The selected colour will also show in a Discord embed when you post your profile URL, example below.
   </p>
 </div>

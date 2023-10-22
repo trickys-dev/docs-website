@@ -27,7 +27,7 @@ Sie können sich nicht mit Discord einloggen, wenn Sie sich noch nie mit Steam a
 
 :::note Verifiziert
 
-Sobald Sie ihren <i class="fa-brands fa-discord"></i> Discord & <i class="fa-brands fa-steam"></i> Steam Account verlinkt haben, werden Sie [Verifiziert](./), Lesen Sie mehr [hier](./).
+Once you have linked your <i class="fa-brands fa-discord"></i> Discord & <i class="fa-brands fa-steam"></i> Steam account you will become [Verified](./), read more [here](./).
 
 :::
 

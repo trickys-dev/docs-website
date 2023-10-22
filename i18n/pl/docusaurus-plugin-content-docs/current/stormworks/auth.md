@@ -27,7 +27,7 @@ Nie będziesz mógł zalogować się za pomocą Discord, jeśli nigdy wcześniej
 
 :::note Zweryfikowany Użytkownik
 
-Po połączeniu kont <i class="fa-brands fa-discord"></i> Discord i <i class="fa-brands fa-steam"></i> Steam, twoje konto zostanie [Zweryfikowane](./), możesz przeczytać więcej o tym [tutaj](./).
+Once you have linked your <i class="fa-brands fa-discord"></i> Discord & <i class="fa-brands fa-steam"></i> Steam account you will become [Verified](./), read more [here](./).
 
 :::
 

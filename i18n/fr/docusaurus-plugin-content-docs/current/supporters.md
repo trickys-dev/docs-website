@@ -347,7 +347,7 @@ Notre Patreon sera utilisé pour financer
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
 </tr>
 <tr>
-    <th scope="row">Offline Forceloading</th>
+    <th scope="row">Forceloading hors ligne</th>
     <td class="text-center">-</td>
     <td class="text-center">-</td>
     <td class="text-center">-</td>
