@@ -5,6 +5,12 @@ description: Informacje o ładunku i ropie na HRP
 
 # Towar i Ropa
 
+:::caution Not Active
+
+These are no longer in use since [v0.9.0](/updates/0.9.0)
+
+:::
+
 ## Definicje
 
 <!-- css for flex -->
