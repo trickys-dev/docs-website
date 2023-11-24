@@ -5,6 +5,12 @@ description: HRP Fracht & Öl Informationen
 
 # Fracht & Öl
 
+:::caution Not Active
+
+These are no longer in use since [v0.9.0](/updates/0.9.0)
+
+:::
+
 ## Definitionen
 
 <!-- css for flex -->
