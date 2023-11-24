@@ -5,6 +5,12 @@ description: HRP Fraktionsinformationen
 
 # Fraktionen
 
+:::caution Not Active
+
+These are no longer in use since [v0.9.0](/updates/0.9.0)
+
+:::
+
 ## Fraktion erstellen
 
 Wir arbeiten noch daran, eine Anwendung zu erstellen, die Ihre Fraktion automatisch erstellt, bis dahin können Sie ein Ticket auf Discord erstellen.
