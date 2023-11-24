@@ -3,6 +3,14 @@ title: HRP Game Laws
 ---
 
 ## Horizon RolePlay Game Laws
+
+:::caution Not Active
+
+These are no longer in use since [v0.9.0](/updates/0.9.0)
+
+:::
+
+
 This document is established to ensure the safety, preservation, and equal rights for all members in this community. In pursuit of a perfect democracy, the power of this document is regulated by the people. The responsibility of the preservation and protection of this document is to representatives; elected to administer and represent all citizens of this community.
 
 ## Title I: Criminal Law

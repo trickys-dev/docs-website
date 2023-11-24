@@ -181,10 +181,6 @@ const config = {
                 label: 'Discord',
                 href: 'https://discord.gg/trickys',
               },
-              {
-                label: 'SW Server List',
-                href: 'https://swservers.gg',
-              },
             ],
           },
           {

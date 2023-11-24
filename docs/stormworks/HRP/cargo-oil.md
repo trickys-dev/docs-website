@@ -5,6 +5,12 @@ description: HRP Cargo & Oil information
 
 # Cargo & Oil
 
+:::caution Not Active
+
+These are no longer in use since [v0.9.0](/updates/0.9.0)
+
+:::
+
 ## Definitions
 
 <!-- css for flex -->
