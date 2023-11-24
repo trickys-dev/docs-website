@@ -5,6 +5,12 @@ description: Informations sur les factions HRP
 
 # Factions
 
+:::caution Not Active
+
+These are no longer in use since [v0.9.0](/updates/0.9.0)
+
+:::
+
 ## Créer une Faction
 
 Nous sommes toujours en train de créer une application qui crée automatiquement votre faction, jusqu'à ce que vous puissiez créer un ticket sur discord.
