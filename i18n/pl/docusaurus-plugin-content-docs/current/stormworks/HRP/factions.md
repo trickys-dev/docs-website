@@ -5,6 +5,12 @@ description: Informacje o frakcjach HRP
 
 # Frakcje
 
+:::caution Not Active
+
+These are no longer in use since [v0.9.0](/updates/0.9.0)
+
+:::
+
 ## Tworzenie Frakcji
 
 Nadal pracujemy nad stworzeniem aplikacji, która automatycznie tworzy frakcję, aż do tego czasu możesz utworzyć zgłoszenie na serwerze Discord.
