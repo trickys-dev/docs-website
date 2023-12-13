@@ -27,7 +27,7 @@ description: Les commandes Stormworks en jeu
 | ?delhome {name}   | &nbsp;           | Supprimer une maison                                                            | ?delhome mp    |
 | ?topup or ?refill | &nbsp;           | Remplissez un véhicule compatible avec les recharges dans une zone de recharge. | ?topup         |
 
-## Commandes de Matériel HRP
+## HRP Cargo Commands
 
  | Commandes        | Descriptions                                                                                           | Exemples   |
  | ---------------- | ------------------------------------------------------------------------------------------------------ | ---------- |
@@ -39,30 +39,3 @@ description: Les commandes Stormworks en jeu
  | ?listdst         | Montre toutes les destinations de caisse depuis le terminal en cours de lecture                        | ?listdst   |
  | ?deliver {ID}    | Utilisez ceci lorsque vous vous trouvez dans une zone de livraison pour retourner dans votre cargaison | ?deliver 1 |
  | ?myclaims        | Montre vos cargaisons réclamées                                                                        | ?myclaims  |
-
-
-## Commandes du gestionnaire de véhicule
-
-| Commandes                                                               | Descriptions                                              | Exemples              |
-| ----------------------------------------------------------------------- | --------------------------------------------------------- | --------------------- |
-| ?v help                                                                 | Montre les sous-commandes                                 | ?v help               |
-| ?v info                                                                 | Voir les informations de votre véhicule                   | ?v info               |
-| ?v list                                                                 | Liste de tous les véhicules que vous avez fait apparaitre | ?v list               |
-| ?v {vid} help                                                           | Voir les sous-commandes pour ?v {id}                      | ?v 1 help             |
-| ?v {vid} info                                                           | Voir les informations sur le véhicule                     | ?v 1 info             |
-| ?v {vid} despawn                                                        | Faire disparaître un véhicule                             | ?v 1 despawn          |
-| ?v {vid} owner {id}                                                     | Transférer de propriétaire sur le véhicule                | ?v 1 owner 2          |
-| ?v {vid} tp                                                             | Téléporter à un siège dans le véhicule                    | ?v 1 tp               |
-| ?v {vid} kick {id}                                                      | Expulser un utilisateur d'un véhicule                     | ?v 1 kick 1           |
-| ?v {vid} kickall                                                        | Expulser tous les utilisateurs du véhicule                | ?v 1 kickall          |
-| ?v {vid} repair                                                         | Réparez un véhicule (<a href="/supporters#what-perks-are-there">Silver+</a>)           | ?v 1 repair           |
-| Mode de contrôle d'accès. Changer qui peut interagir avec vos véhicules |                                                           |                       |
-| ?v accessmode (all/whitelist/blacklist/none)                            | Changer qui peut interagir avec votre véhicule            | ?v accessmode all     |
-| ?v whitelist/blacklist add {id}                                         | Ajouter quelqu'un à votre liste blanche/noire             | ?v whitelist add 1    |
-| ?v whitelist/blacklist remove {id}                                      | Retirer quelqu'un de votre liste blanche/noire            | ?v whitelist remove 1 |
-| ?v whitelist/blacklist list                                             | Affiche votre liste blanche/noire actuelle                | ?v whitelist list     |
-| ?v whitelist/blacklist clear                                            | Efface la liste blanche/noire                             | ?v whitelist clear    |
-
-
-
-
