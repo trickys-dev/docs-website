@@ -5,7 +5,7 @@ description: Informacje o Licencji na Łódź
 
 # Łodzie
 
-1. Aby korzystać z łodzi i pojazdów ziemnowodnych na wodzie na serwerach 1, 2 i 3 potrzebujesz licencji na łódź.
+1. To use boats & amphibious vehicles on the water on non RP servers you need a boat license.
 2. Co najmniej 24 godziny muszą upłynąć, jeśli chcesz ubiegać się o licencję na łódź, od kiedy dołączyłeś do strony internetowej.
 3. Twoja łódź nie może przekraczać `40 metrów` długości -> `160 bloków`, aby zredukować lag.
 4. Potrzebujesz licencji na łódź, aby używać na wodzie pojazdu ziemnowodnego.
@@ -24,7 +24,7 @@ Musisz tylko włączyć światła nawigacyjne podczas nocy i/lub przy niskiej wi
 :::  
 :::caution
 
-Nie możesz używać migających niebieskich lub czerwonych świateł, ponieważ są one używane przez personel.
+You cannot use flashing blue lights as you would be impersonating staff.
 
 :::
 
@@ -78,8 +78,8 @@ Obowiązkowe światła nawigacyjne dla łodzi o długości od 8 do 40 metrów
 - **Białe** światło wysoko upozycjonowane, widoczne z obydwu stron i z przodu
 
 
-  </div>
-  </div>
+</div>
+</div>
 
 ## Umiejscowienie Licencji Łodzi
 
