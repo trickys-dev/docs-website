@@ -48,7 +48,7 @@ description: RP Jobs information
       <img src="/img/rp/jobs/rppackage.png" width="350px"/>
     </div>
     <p>
-       - These are Packages and 3-10 will spawn in a job.
+    - These are Packages and 3-10 will spawn in a job.
     </p>
 </div>
 <div class="flex-vcenter">
@@ -56,7 +56,7 @@ description: RP Jobs information
     <img src="/img/rp/jobs/holttownno.png" width="350px"/>
   </div>
   <p>
-     - These are the house numbers where you will drop off the packages in Holt Town.
+  - These are the house numbers where you will drop off the packages in Holt Town.
   </p>
 </div>
 
