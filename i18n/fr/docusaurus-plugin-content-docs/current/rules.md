@@ -53,14 +53,13 @@ export default function ControlledAccordions() { const [expanded, setExpanded] =
           7. Pas d'ateliers de structure utilisés.<br/>
           8. <a href="https://trickys.gg/staffteam">Staff</a> ont le dernier mot.<br/>
           9. L'utilisation malveillante ou exploitation de comptes discord alternatifs sera punie correctement.<br/>
-          10. Vous avez besoin d'une licence de bateau <a href="/stormworks/boats"></a> pour utiliser des bateaux sur des serveurs 1,2,3.<br/>
+          10. You need a <a href="/stormworks/boats">Boat License</a> to use boats on non RP servers.<br/>
           11. Ne tirez pas à l'intérieur de la <a href="/stormworks/no-fire-zone">NFZ</a>, c'est une zone sûre. L'utilisation d'armes dans les serveurs sans armes est interdite.<br/>
           12. L'utilisation d'armes nucléaires est interdite.<br/>
           13. Ne spammez pas le chat ou la voix. (la musique n'est pas autorisée à moins de 1 km d'apparition)<br/>
-          14. Ne chagrinez pas intentionnellement le plaisir du jeu pour les autres utilisateurs.<br/><br/>
-          Lois de Roleplay pour les serveurs 3,4,5<br/>
-          1. <a href="/hrplaws">Loi sur le jeu</a><br/>
-          2. <a href="https://trickys.gg/staffteam">Charte RP</a>
+          14. Do not grief/intentionally ruin the fun of gameplay for other players.<br/>
+          15. Do not impersonate staff.<br/><br/>
+          You can read the <a href="/stormworks/hrp/rprules">Roleplay Rules</a> here.<br/>
         </Typography>
         </AccordionDetails>
       </Accordion>

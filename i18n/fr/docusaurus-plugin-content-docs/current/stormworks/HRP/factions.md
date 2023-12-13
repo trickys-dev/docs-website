@@ -1,9 +1,15 @@
 ---
-sidebar_position: 1
+sidebar_position: 3
 description: Informations sur les factions HRP
 ---
 
 # Factions
+
+:::caution Not Active
+
+Factions are on hold while Project Eclipse/HRP is in [Beta v0.1.0](/updates/0.9.1).
+
+:::
 
 ## Créer une Faction
 

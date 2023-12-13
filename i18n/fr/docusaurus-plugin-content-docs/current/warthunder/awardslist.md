@@ -1,10 +1,15 @@
 ---
 sidebar_position: 0
-description: Liste des Récompenses de War Thunder
+description: War Thunder Awards List
 ---
 
 # Liste des Récompenses
-Récompenses pour les joueurs qui les ont gagnés en participant à des événements de warthunder
+
+<div class="flex-vcenter mb-1">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/236390/header.jpg" width="450px"/>
+</div>
+
+A list of awards that can be earned when participating in warthunder events.
 
 | Récompenses   | Descriptions                                                                                                                           |
 | ------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
@@ -15,3 +20,6 @@ Récompenses pour les joueurs qui les ont gagnés en participant à des événem
 | Fly Swatter   | La plupart des avions ont tué <span class="text-muted">(avion c. avion ou antiaérien).</span>                                          |
 | Steel Shower  | Plusieurs kills, 2 ou plus en une seule frappe.                                                                                        |
 
+
+
+<iframe width="1000" height="600" src="https://lookerstudio.google.com/embed/reporting/643331b7-7730-4fc8-8f0f-5a41550fc124/page/vbkkD" frameborder="0" style={{border:0}} allowfullscreen></iframe>

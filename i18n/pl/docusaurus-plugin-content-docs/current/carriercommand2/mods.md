@@ -1,9 +1,14 @@
 ---
 sidebar_position: 0
-description: Modyfikacje Carrier Command 2
+description: Carrier Command 2 Mods
 ---
 
 # Modyfikacje
+
+<div class="flex-vcenter mb-1">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1489630/header_alt_assets_4.jpg" width="450px"/>
+</div>
+
 Below is a list of mods we use on our CC2 servers, to suggest a mod for the server contact the <a href="https://trickys.gg/staffteam">CC2 Game Manager</a>.
 
 :::note Automatic Download
@@ -12,12 +17,12 @@ You do not need to download these mods as they will automatically download when 
 
 :::
 
-| Nazwa modyfikacji                       | ID Pliku   | Added To Server | Odnośnik                                                                      |
-| --------------------------------------- | ---------- | --------------- | ----------------------------------------------------------------------------- |
-| Repair Bay Terminals + Captain Controls | 2827559599 | 11/10/2023      | [Wyświetl](https://steamcommunity.com/sharedfiles/filedetails/?id=2827559599) |
-| Turbo Barges                            | 2769055606 | 10/12/2022      | [Wyświetl](https://steamcommunity.com/sharedfiles/filedetails/?id=2769055606) |
-| Gentle Missile Speed Buff               | 2937532682 | 10/12/2022      | [Wyświetl](https://steamcommunity.com/sharedfiles/filedetails/?id=2937532682) |
-| Albatross AWACS with UI enhancer        | 2892401880 | 10/12/2022      | [Wyświetl](https://steamcommunity.com/sharedfiles/filedetails/?id=2892401880) |
-| 2x Vehicle Water Speed                  | 2824714936 | 27/09/2023      | [Wyświetl](https://steamcommunity.com/sharedfiles/filedetails/?id=2824714936) |
+| Nazwa modyfikacji                       | ID Pliku   | Added To Server |
+| --------------------------------------- | ---------- | --------------- |
+| Repair Bay Terminals + Captain Controls | 2827559599 | 11/10/2023      |
+| Turbo Barges                            | 2769055606 | 10/12/2022      |
+| Gentle Missile Speed Buff               | 2937532682 | 10/12/2022      |
+| Albatross AWACS with UI enhancer        | 2892401880 | 10/12/2022      |
+| 2x Vehicle Water Speed                  | 2824714936 | 27/09/2023      |
 
 Last Updated: 11/10/2023

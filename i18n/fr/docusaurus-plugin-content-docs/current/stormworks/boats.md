@@ -5,7 +5,7 @@ description: Information de licence
 
 # Bateaux
 
-1. Pour utiliser des bateaux & véhicules amphibiens sur l'eau sur des serveurs 1, 2 & 3, vous avez besoin d'un permis de bateau.
+1. To use boats & amphibious vehicles on the water on non RP servers you need a boat license.
 2. Un minimum de 24 heures doit être passé si vous voulez demander un permis de bateau à partir de votre entrée sur le site Web.
 3. Votre bateau ne doit pas dépasser `40 mètres` de longueur -> `160 blocs`, pour réduire la latence.
 4. Vous avez besoin d'un permis de bateau pour utiliser un véhicule amphibien sur l'eau.
@@ -24,8 +24,7 @@ Vous devez seulement allumer les lumières de navigations pendant la nuit et/ou 
 :::
 :::caution
 
-:::
-:::caution Vous ne pouvez pas utiliser des lumières clignotant en bleu et rouge car, ils sont utilisé par le personnel.
+You cannot use flashing blue lights as you would be impersonating staff.
 
 :::
 

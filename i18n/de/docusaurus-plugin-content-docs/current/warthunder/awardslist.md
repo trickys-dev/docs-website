@@ -4,7 +4,12 @@ description: War Thunder Awards List
 ---
 
 # Awards List
-Awards for players who have earned them by participating in warthunder events
+
+<div class="flex-vcenter mb-1">
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/236390/header.jpg" width="450px"/>
+</div>
+
+A list of awards that can be earned when participating in warthunder events.
 
 | Award         | Description                                                                                                        |
 | ------------- | ------------------------------------------------------------------------------------------------------------------ |
@@ -15,3 +20,6 @@ Awards for players who have earned them by participating in warthunder events
 | Fly Swatter   | Most aircraft killed <span class="text-muted">(plane v. plane or Anti air).</span>                                 |
 | Steel Shower  | Artilery multikill, 2 or more in one strike.                                                                       |
 
+
+
+<iframe width="1000" height="600" src="https://lookerstudio.google.com/embed/reporting/643331b7-7730-4fc8-8f0f-5a41550fc124/page/vbkkD" frameborder="0" style={{border:0}} allowfullscreen></iframe>
