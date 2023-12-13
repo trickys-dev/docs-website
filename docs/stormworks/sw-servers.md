@@ -13,6 +13,13 @@ export const Icon = ({children, type}) => {
   if (type=="cross") return (<i class="fas fa-times-circle text-danger" title="No"></i>);
 }
 
+:::warning Out Of Date
+
+This information is out of date since the release of the spaceDLC.
+
+:::
+
+
 <table>
 <thead>
     <tr>

@@ -128,11 +128,6 @@ const config = {
             label: 'Docs',
           },
           {
-            href: '/hrplaws',
-            label: 'HRP Laws',
-            position: 'left',
-          },
-          {
             href: '/updates',
             label: 'Updates',
             position: 'left',

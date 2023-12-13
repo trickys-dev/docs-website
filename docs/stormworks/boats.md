@@ -5,7 +5,7 @@ description: Boat License Information
 
 # Boats
 
-1. To use boats & amphibious vehicles on the water on servers 1, 2 & 3 you need a boat license.
+1. To use boats & amphibious vehicles on the water on non RP servers you need a boat license.
 2. Minimum of 24 hours must have passed if you want to apply for a boat license from when you joined the website.
 3. Your boat must not exceed `40 meters` in length -> `160 Blocks`, to reduce lag.
 4. You need a boat license to use an amphibious vehicle on water.
@@ -24,7 +24,7 @@ You only need to have nav lights on during the night and/or low visibility.
 :::
 :::caution
 
-You cannot use flashing blue or red lights as these are used by staff.
+You cannot use flashing blue lights as you would be impersonating staff.
 
 :::
 
@@ -79,8 +79,8 @@ Mandatory navigation lights for boats between 8-40 meters
 - **White** light placed high up, visible from both sides and the front
 
 
-  </div>
-  </div>
+</div>
+</div>
 
 ## Boat License Placement
 

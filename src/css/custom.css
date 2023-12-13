@@ -143,3 +143,17 @@ html {
 .update-bug {
   color: #0f807e;
 }
+.spreadsheet-embed-wrapper iframe {
+  width: 100%;
+  height: calc(100vh - 160px);
+  border: none;
+}
+
+.update-website {
+  color: #cd7f32;
+  margin-right: 4.5px;
+}
+.update-stormworks{
+  color:#7f8081;
+  margin-right: 1.9px;
+}

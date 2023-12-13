@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+sidebar_position: 3
 description: HRP Factions information
 ---
 
@@ -7,7 +7,7 @@ description: HRP Factions information
 
 :::caution Not Active
 
-These are no longer in use since [v0.9.0](/updates/0.9.0)
+Factions are on hold while Project Eclipse/HRP is in [Beta v0.1.0](/updates/0.9.1).
 
 :::
 

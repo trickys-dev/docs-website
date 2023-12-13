@@ -1,0 +1,8 @@
+{
+  "label": "TruckSim",
+  "position": 7,
+  "link": {
+    "type": "generated-index",
+    "description": "Truck Sim Docs"
+  }
+}
