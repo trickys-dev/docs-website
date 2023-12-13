@@ -9,7 +9,7 @@ Dostosuj profile osobiste i frakcji
 
 :::note Profile Frakcji
 
-[Kliknij Tutaj](/stormworks/HRP/factions.md#faction-profiles) jeżeli szukasz [Profili Frakcji](/stormworks/HRP/factions.md#faction-profiles)
+[Click Here](/stormworks/hrp/factions.md#faction-profiles) if you are looking for [Faction Profiles](/stormworks/hrp/factions.md#faction-profiles)
 
 :::
 
@@ -26,11 +26,11 @@ Profile osobiste odnoszą się do profili publicznych, które mają wszyscy czł
 
 <div class="flex-vcenter mb-1">
     <img src="/img/customprofiles/profileavatardisplay.png"/>
-    <p>
+<p>
     Możesz wybrać, który awatar chcesz pokazać na swoim profilu, to:<br/>
 - Awatar Steam. (Domyślny)<br/>
 - Awatar Discord.
-    </p>
+</p>
  </div>
 
 Wybrany awatar pokaże się również w osadzonej wiadomości Discord podczas publikowania adresu URL swojego profilu, więcej na ten temat poniżej.
