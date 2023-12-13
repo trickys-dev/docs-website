@@ -1,41 +1,28 @@
 ---
-sidebar_position: 3
+sidebar_position: 4
 description: Polecenia w Stormworks
 ---
 
 
 # Polecenia Gry
 
-| Polecenie         | Skrót  | Opis                                                                            | &nbsp;Przykład |
-| ----------------- | ------ | ------------------------------------------------------------------------------- | -------------- |
-| ?help [command]   | &nbsp; | Pokaż wszystkie polecenia lub uzyskaj więcej szczegółów na temat polecenia      | ?help auth     |
-| ?auth             | &nbsp; | Sprawdza status autoryzacji                                                     | ?auth          |
-| ?staff            | &nbsp; | Pokazuje dostępny personel                                                      | ?staff         |
-| ?pos              | &nbsp; | Pokazuje aktualną pozycję                                                       | ?pos           |
-| ?die              | &nbsp; | Odgadnij                                                                        | ?die           |
-| ?dm {id} {msg}    | &nbsp; | Bezpośrednia wiadomość do innego użytkownika                                    | ?dm 1 hi       |
-| ?reply {msg}      | ?r     | Odpowiedz na bezpośrednią wiadomość                                             | ?reply hi      |
-| ?user             | ?u     | Podaje informacje o użytkowniku                                                 | ?user          |
-| ?clean            | ?c     | Usuwa wszystkie pojazdy stworzone przez Ciebie                                  | ?clean         |
-| ?despawn {vid}    | ?d     | Odrzuca pojedynczy pojazd                                                       | ?despawn 1     |
-| ?give {id}        | &nbsp; | Dodaj przedmiot                                                                 | ?give 1        |
-| ?outfit {id}      | &nbsp; | Ustaw strój                                                                     | ?outfit 1      |
-| ?travel {id}      | &nbsp; | Podróż do celu                                                                  | ?travel 1      |
-| ?home {name}      | &nbsp; | Teleportacja do domu                                                            | ?home mp       |
-| ?homes            | &nbsp; | Lista domów                                                                     | ?homes         |
-| ?sethome {name}   | &nbsp; | Ustaw dom                                                                       | ?sethome mp    |
-| ?delhome {name}   | &nbsp; | Usuń dom                                                                        | ?delhome mp    |
-| ?topup or ?refill | &nbsp; | Uzupełnij kompatybilne surowce lub paliwo w pojeździe w strefie uzupełniającej. | ?topup         |
-
-## HRP Cargo Commands
-
- | Polecenie        | Opis                                                                    | Przykład   |
- | ---------------- | ----------------------------------------------------------------------- | ---------- |
- | ?help            | Pokazuje polecenia                                                      | ?help      |
- | ?claim           | Tworzy kontener, jeśli nie istnieje                                     | ?claim     |
- | ?claimto {dstID} | Złóż wniosek z terminalu, który udaje się do określonej lokalizacji.    | ?claimto 1 |
- | ?claim [ID]      | Deklaruje kontener jako twój                                            | ?claim 1   |
- | ?unclaim {ID}    | Usuwa deklaracje z kontenera                                            | ?unclaim 1 |
- | ?listdst         | Pokazuje wszystkie miejsca docelowe kontenera z obecnego terminalu      | ?listdst   |
- | ?deliver {ID}    | Użyj tego, gdy znajdujesz się w miejscu dostawy, aby dostarczyć ładunek | ?deliver 1 |
- | ?myclaims        | Pokazuje ci twój zadeklarowany ładunek                                  | ?myclaims  |
+| Command           | Short  | Description                                          | &nbsp;Example |
+| ----------------- | ------ | ---------------------------------------------------- | ------------- |
+| ?help command     | &nbsp; | Show all commands or get more detail about a command | ?help auth    |
+| ?auth             | &nbsp; | Checks your auth status                              | ?auth         |
+| ?staff            | &nbsp; | Show online staff                                    | ?staff        |
+| ?pos              | &nbsp; | Shows current position                               | ?pos          |
+| ?die              | &nbsp; | Have a guess                                         | ?die          |
+| ?dm id msg        | &nbsp; | Direct message another user                          | ?dm 1 hi      |
+| ?reply msg        | ?r     | Reply to a DM                                        | ?reply hi     |
+| ?user             | ?u     | Gives you your own user information                  | ?user         |
+| ?clean            | ?c     | Removes all vehicles spawned by you                  | ?clean        |
+| ?despawn vid      | ?d     | Despawns a single vehicle                            | ?despawn 1    |
+| ?give id          | &nbsp; | Give an item                                         | ?give 1       |
+| ?outfit id        | &nbsp; | Set a outfit                                         | ?outfit 1     |
+| ?travel id        | &nbsp; | Travel to destination                                | ?travel 1     |
+| ?home name        | &nbsp; | Goto a home                                          | ?home mp      |
+| ?homes            | &nbsp; | Lists homes                                          | ?homes        |
+| ?sethome name     | &nbsp; | Set a home                                           | ?sethome mp   |
+| ?delhome name     | &nbsp; | Delete a home                                        | ?delhome mp   |
+| ?topup or ?refill | &nbsp; | Refill a topup compatibles vehicle in a topup zone.  | ?topup        |
