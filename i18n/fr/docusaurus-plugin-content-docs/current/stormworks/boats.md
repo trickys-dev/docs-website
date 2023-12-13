@@ -21,7 +21,7 @@ description: Information de licence
 
 Vous devez seulement allumer les lumières de navigations pendant la nuit et/ou la faible visibilité.
 
-:::
+:::  
 :::caution
 
 You cannot use flashing blue lights as you would be impersonating staff.
@@ -68,24 +68,25 @@ Lumière de navigation obligatoires pour les bateaux de moins de 8 mètres
 ### Bateaux entre 8 et 40 mètres
 Lumière de navigation obligatoires pour les bateaux de moins de 8 mètres
 
-<div class="flex-vcenter">
+  <div class="flex-vcenter">
     <img src="/img/boats/tsboatnav1.png" width="200px"/>
-<div>
+    <div>
 
 - <span style={{color: "#3dd800"}}>lumière verte</span> placée sur le côté droit, visible depuis l'avant et la droite seulement
 - <span style={{color: "#ff0400"}}>Lampe rouge</span> placée sur le côté gauche, visible depuis l'avant et la gauche seulement
 - **Blanc** placé sur l'arrière, visible de derrière seulement
 - lumière **blanche** placée haut en haut, visible des deux côtés et de l'avant
 
+
 </div>
 </div>
 
 ## Placement de licence de bateau
 
-<div class="flex-vcenter">
+  <div class="flex-vcenter">
     <img src="/img/boats/tsboatid1.png" width="200px"/>
     Votre permis de bateau devrait être peint à l'extérieur de votre bateau pour une inspection facile, Les signes et indicateurs peints sont autorisés tant qu'ils sont facilement visibles. Vous ne pouvez pas avoir l'imatriculation sur un moniteur ou en tant que nom de composant.
-</div>
+  </div>
 
 ## Trouver votre ID de licence de bateau
 Vous trouverez votre licence dans la zone [du compte](https://trickys.gg/account).
