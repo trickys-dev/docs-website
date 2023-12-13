@@ -9,7 +9,7 @@ Customise personal & faction profiles
 
 :::note Faction Profiles
 
-[Click Here](/stormworks/hrp/factions.md#faction-profiles) if you are looking for [Faction Profiles](/stormworks/hrp/factions.md#faction-profiles)
+[Click Here](/stormworks/hrp/factions#faction-profiles) if you are looking for [Faction Profiles](/stormworks/hrp/factions#faction-profiles)
 
 :::
 
