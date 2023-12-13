@@ -24,10 +24,7 @@ description: RP Jobs information
 
 ### ISO Containers (crates)
 
-<p>
-
 - These are ISO Containers and only 1-2 random containers will spawn in a job.
-
 
   <div class="flex-vcenter">
     <div>
@@ -46,26 +43,22 @@ description: RP Jobs information
 
 ### Packages
 
-  <div class="flex-vcenter">
+<div class="flex-vcenter">
     <div>
       <img src="/img/rp/jobs/rppackage.png" width="350px"/>
     </div>
-<p>
-
-- These are Packages and 3-10 will spawn in a job.
-
-
-  
-  <div class="flex-vcenter">
-    <div>
-      <img src="/img/rp/jobs/holttownno.png" width="350px"/>
-    </div>
-<p>
-
-- These are the house numbers where you will drop off the packages in Holt Town.
-
-
-  
+    <p>
+    - These are Packages and 3-10 will spawn in a job.
+    </p>
+</div>
+<div class="flex-vcenter">
+  <div>
+    <img src="/img/rp/jobs/holttownno.png" width="350px"/>
+  </div>
+  <p>
+  - These are the house numbers where you will drop off the packages in Holt Town.
+  </p>
+</div>
 
 #### How To Complete A Package Job?
 

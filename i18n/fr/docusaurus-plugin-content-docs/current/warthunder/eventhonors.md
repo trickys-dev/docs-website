@@ -16,7 +16,7 @@ Récompenses pour les joueurs qui les ont gagnés en participant à des événem
 | [Flyswattter](./awardslist)         | [ChromeKhaos](https://trickys.gg/profile/76561199011752423)      | 25/11/23    | 15th            |
 | [Landlord](./awardslist)            | [SukkaPlays](https://trickys.gg/profile/76561198859514415)       | 25/11/23    | 15th            |
 | [Flyswattter](./awardslist)         | [FRA597NT13](https://trickys.gg/profile/76561198364218327)       | 04/11/23    | 14th            |
-| [Lord of steel](./awardslist)       | [Tricky](https://trickys.gg/profile/76561198200976490)           | 04/11/23    | 14th            |
+| [Lord Of Steel](./awardslist)       | [Tricky](https://trickys.gg/profile/76561198200976490)           | 04/11/23    | 14th            |
 | [Landlord](./awardslist)            | [finiks](https://trickys.gg/profile/76561199121711204)           | 11/10/23    | 14th            |
 | [Lord Of Steel Award](./awardslist) | [Tanko-aaaaa](https://trickys.gg/profile/76561198296311977)      | 11/10/23    | 13th            |
 | [Landlord Award](./awardslist)      | [Tanko-aaaaa](https://trickys.gg/profile/76561198296311977)      | 11/10/23    | 13th            |
