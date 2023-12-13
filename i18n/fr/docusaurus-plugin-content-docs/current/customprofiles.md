@@ -9,7 +9,7 @@ Personnaliser les profils personnels & de faction
 
 :::note Profils de Faction
 
-[Cliquez ici](/stormworks/HRP/factions.md#faction-profiles) si vous recherchez [Profils de faction](/stormworks/HRP/factions.md#faction-profiles)
+[Click Here](/stormworks/hrp/factions.md#faction-profiles) if you are looking for [Faction Profiles](/stormworks/hrp/factions.md#faction-profiles)
 
 :::
 
@@ -26,11 +26,11 @@ Les profils personnels se réfèrent aux profils publics que tous les membres po
 
 <div class="flex-vcenter mb-1">
     <img src="/img/customprofiles/profileavatardisplay.png"/>
-    <p>
+<p>
     Vous pouvez choisir quel avatar vous voulez afficher sur votre profil, ils sont:<br/>
 - Steam Avatar. (par défaut)<br/>
 - Avatar Discord.
-    </p>
+</p>
  </div>
 
 L'avatar sélectionné sera également affiché dans un intégration Discord lorsque vous publierez votre URL de profil, plus à ce sujet est ci-dessous.
