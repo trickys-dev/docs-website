@@ -24,10 +24,7 @@ description: RP Jobs information
 
 ### ISO Containers (crates)
 
-<p>
-
 - These are ISO Containers and only 1-2 random containers will spawn in a job.
-
 
   <div class="flex-vcenter">
     <div>
