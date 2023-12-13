@@ -1,5 +1,5 @@
 ---
-sidebar_position: 3
+sidebar_position: 4
 description: Stormworks In-Game Commands
 ---
 
@@ -8,34 +8,21 @@ description: Stormworks In-Game Commands
 
 | Command           | Short        | Description                                          | &nbsp;Example |
 |-------------------|--------------|------------------------------------------------------|---------------|
-| ?help [command]   | &nbsp;       | Show all commands or get more detail about a command | ?help auth    |
+| ?help command  | &nbsp;       | Show all commands or get more detail about a command | ?help auth    |
 | ?auth             | &nbsp;       | Checks your auth status                              | ?auth         |
 | ?staff            | &nbsp;       | Show online staff                                    | ?staff        |
 | ?pos              | &nbsp;       | Shows current position                               | ?pos          |
 | ?die              | &nbsp;       | Have a guess                                         | ?die          |
-| ?dm {id} {msg}    | &nbsp;       | Direct message another user                          | ?dm 1 hi      |
-| ?reply {msg}      | ?r           | Reply to a DM                                        | ?reply hi     |
+| ?dm id msg    | &nbsp;       | Direct message another user                          | ?dm 1 hi      |
+| ?reply msg      | ?r           | Reply to a DM                                        | ?reply hi     |
 | ?user             | ?u           | Gives you your own user information                  | ?user         |
 | ?clean            | ?c           | Removes all vehicles spawned by you                  | ?clean        |
-| ?despawn {vid}    | ?d           | Despawns a single vehicle                            | ?despawn 1    |
-| ?give {id}        | &nbsp;       | Give an item                                         | ?give 1       |
-| ?outfit {id}      | &nbsp;       | Set a outfit                                         | ?outfit 1     |
-| ?travel {id}      | &nbsp;       | Travel to destination                                | ?travel 1     |
-| ?home {name}      | &nbsp;       | Goto a home                                          | ?home mp      |
+| ?despawn vid    | ?d           | Despawns a single vehicle                            | ?despawn 1    |
+| ?give id        | &nbsp;       | Give an item                                         | ?give 1       |
+| ?outfit id      | &nbsp;       | Set a outfit                                         | ?outfit 1     |
+| ?travel id      | &nbsp;       | Travel to destination                                | ?travel 1     |
+| ?home name      | &nbsp;       | Goto a home                                          | ?home mp      |
 | ?homes            | &nbsp;       | Lists homes                                          | ?homes        |
-| ?sethome {name}   | &nbsp;       | Set a home                                           | ?sethome mp   |
-| ?delhome {name}   | &nbsp;       | Delete a home                                        | ?delhome mp   |
+| ?sethome name   | &nbsp;       | Set a home                                           | ?sethome mp   |
+| ?delhome name   | &nbsp;       | Delete a home                                        | ?delhome mp   |
 | ?topup or ?refill | &nbsp;       | Refill a topup compatibles vehicle in a topup zone.  | ?topup        |
-
-## HRP Cargo Commands
-
- Command          | Description                                            | Example
-------------------|--------------------------------------------------------|------------
- ?help            | Shows you commands                                     | ?help
- ?claim           | Spawns a container if one does not exist               | ?claim
- ?claimto {dstID} | Claim from a terminal that goes to a specify location. | ?claimto 1
- ?claim [ID]      | Claims a container                                     | ?claim 1
- ?unclaim {ID}    | Unclaims a container                                   | ?unclaim 1
- ?listdst         | Shows all crate destinations from currect terminal     | ?listdst
- ?deliver {ID}    | Use this when at a delivery area to turn in your cargo | ?deliver 1
- ?myclaims        | Show you your claimed cargo                            | ?myclaims

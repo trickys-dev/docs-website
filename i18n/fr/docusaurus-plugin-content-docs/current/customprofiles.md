@@ -9,7 +9,7 @@ Personnaliser les profils personnels & de faction
 
 :::note Profils de Faction
 
-[Cliquez ici](/stormworks/HRP/factions.md#faction-profiles) si vous recherchez [Profils de faction](/stormworks/HRP/factions.md#faction-profiles)
+[Cliquez ici](/stormworks/hrp/factions#faction-profiles) si vous recherchez [Profils de faction](/stormworks/hrp/factions#faction-profiles)
 
 :::
 
@@ -26,11 +26,11 @@ Les profils personnels se réfèrent aux profils publics que tous les membres po
 
 <div class="flex-vcenter mb-1">
     <img src="/img/customprofiles/profileavatardisplay.png"/>
-    <p>
+<p>
     Vous pouvez choisir quel avatar vous voulez afficher sur votre profil, ils sont:<br/>
 - Steam Avatar. (par défaut)<br/>
 - Avatar Discord.
-    </p>
+</p>
  </div>
 
 L'avatar sélectionné sera également affiché dans un intégration Discord lorsque vous publierez votre URL de profil, plus à ce sujet est ci-dessous.
@@ -39,10 +39,10 @@ L'avatar sélectionné sera également affiché dans un intégration Discord lor
 
 <div class="flex-vcenter mb-1">
   <img src="/img/customprofiles/editavatarcolour.png"/>
-  <p>
+<p>
   Vous pouvez choisir la couleur du contour qui est autour de votre avatar.
   La couleur sélectionnée apparaîtra également dans une intégration de Discord lorsque vous publierez votre URL de profil, exemple ci-dessous.
-  </p>
+</p>
 </div>
 
 ## Exemple
@@ -53,15 +53,15 @@ Ci-dessous nous avons une aperçue de ce à quoi ressemblerait le résultat si v
 
 <div class="flex-vcenter mb-1">
     <img src="/img/customprofiles/profilecolorwebsite.png"/>
-    <p>
+<p>
     <b>Couleur du contour de l'avatar</b><br/>
     Visualisation du profil avec la couleur sélectionnée sur le site Web.
-    </p>
+</p>
   </div>
     <div class="flex-vcenter mb-1">
     <img src="/img/customprofiles/profilediscordemebed.png"/>
-    <p>
+<p>
     <b>Lien de profil de partage</b><br/>
     Partage un lien sur discord montrera un intégration de votre profil, y compris la couleur personnalisée et l'avatar que vous avez défini.
-    </p>
+</p>
   </div>

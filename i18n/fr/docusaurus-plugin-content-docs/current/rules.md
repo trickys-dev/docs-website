@@ -2,7 +2,7 @@
 sidebar_position: 1
 description: Règlements
 ---
-
+import React from 'react';
 import Accordion from '@mui/material/Accordion';
 import AccordionSummary from '@mui/material/AccordionSummary';
 import AccordionDetails from '@mui/material/AccordionDetails';
@@ -103,7 +103,7 @@ export default function ControlledAccordions() { const [expanded, setExpanded] =
           4. Astuce - le fait de laisser des sacs ou des palettes autour de la carte entraînera une amende par article de la banque.<br/>
           4. Laisser des véhicules ou de l'équipement dans ou autour de la boutique se traduira par une amende.<br/>
           4.3 Vrac de vidage (paille, grains, copeaux de bois, etc) sur la route.<br/>
-          
+
  4.4 Bloquer les routes, vendre des points ou d'autres champs de peuples avec des objets.<br/>
           4. La banque peut infliger des amendes à n'importe quelle ferme quand elle se voit assise, même pour quelque chose qui n'est pas stipulé dans ces règles.<br/>
            <span class="tricky-color">dettes</span><br/>
