@@ -1,9 +1,9 @@
 ---
 sidebar_position: 3
-description: HRP Fraktionsinformationen
+description: HRP Factions information
 ---
 
-# Fraktionen
+# Factions
 
 :::caution Not Active
 
@@ -11,166 +11,170 @@ Factions are on hold while Project Eclipse/HRP is in [Beta v0.1.0](/updates/0.9.
 
 :::
 
-## Fraktion erstellen
+## Create A Faction
 
-Wir arbeiten noch daran, eine Anwendung zu erstellen, die Ihre Fraktion automatisch erstellt, bis dahin können Sie ein Ticket auf Discord erstellen.
+We are still working on creating an application that automatically creates your faction, until then you can create a ticket on discord.
 
-- Sie können nur eine Fraktion besitzen.
-- Das Ändern des Namens einer Fraktion (einschließlich des TAG) oder die Übertragung des Eigentums kostet `500⎈`
+- You can only own one faction.
+- Changing the name of a faction (including the TAG) or to transfer ownership will cost `500⎈`
 
-Informationen, die Sie zur Erstellung einer Fraktion benötigen:
-1. Fraktionstyp:
-    - Klein - `max. Rollen: 5, max Benutzer: 10, Kosten zum Erstellen: 200⎈`
-    - Mittel - `max. Rollen: 10, max. Benutzer: 25, Kosten zum Erstellen: 400⎈`
-    - Groß - `max. Rollen: 15, max. Benutzer: 50, Kosten zum Erstellen: 1000⎈`
-    - Enterprise - `max. Rollen: 15, max. Benutzer: 100, Kosten zum Erstellen: 2500⎈`
-2. Name Ihrer Fraktion.
-3. Beschreibung der Fraktion.
-4. Fraktionsabkürzung, muss mindestens 2 oder mehr Zeichen haben (Beispiel: Regierung ist GOV).
-5. Rollennamen `Sie können folgende Rollen nicht benennen: Admin, Staff, Coastguard`.
-6. Bieten Sie Discord an (dies ist nicht erforderlich) Sie brauchen kein Discord, um eine Fraktion zu bilden.
+Information you need to provide to create a faction:
 
-:::caution Einen Discord Server haben?
+1. Type of faction:
+   - Small - `max roles: 5, max users: 10, cost to create: 200⎈`
+   - Medium - `max roles: 10, max users: 25, cost to create: 400⎈`
+   - Large - `max roles: 15, max users: 50, cost to create: 1000⎈`
+   - Enterprise - `max roles: 15, max users: 100, cost to create: 2500⎈`
+2. Name of your faction.
+3. Faction description.
+4. Faction abbreviation, has to be at least 2 or more characters (example: Government is GOV).
+5. Roles names `You cannot have roles named: admin, staff, coastguard`.
+6. Provide discord (this is not requried) You dont have to have a discord to create a faction.
 
-- Besitzer, die einen Discord Server für die Fraktion, die sie betreiben, haben, müssen mindestens einen Administrator vom Hauptserver auf dem Server mit der Administrator-Berechtigung haben.
-- Der Besitzer der Fraktion muss der Besitzer des Discord Servers sein.
-- Server müssen 2FA aktiviert haben `(Server-Einstellungen -> Sicherheitseinrichtung -> Berechtigungen -> 2FA)`.
+:::caution Have A Discord Server?
 
-:::
-
-:::note Aktuelle Fraktionen
-
-Sie können alle aktuellen Fraktionen sehen, indem Sie [hier klicken](https://trickys.gg/factions)
+- Owners that have a Discord server for the faction they are running are required to have at least one admin from the main server in the server with the administrator permission.
+- The owner of the faction must be the owner of the Discord server.
+- Servers must have 2FA enabled `(Server Settings -> Safety Setup -> Permissions -> Enable 2FA)`.
 
 :::
 
-## Fraktionsprofile
+:::note Current Factions
 
-- Avatar-Bild.
-- Titelbild.
-- Beschreibung und Biografie.
-- Fraktions-Discord-Server Einladungslink.
-- Fraktionsavatar Umrissfarbe.
+You can view all the current factions by [Clicking Here](https://trickys.gg/factions)
+
+:::
+
+## Faction Profiles
+
+- Avatar image.
+- Cover image.
+- Bio/description.
+- Faction Discrd server invite link.
+- Faction avatar outline colour.
 
 <div class="flex-vcenter mb-1">
     <img src="/img/customprofiles/factions/factionbuttons.png"/>
  </div>
 
-### Fraktionsavatar
+### Faction Avatar
 
   <div class="flex-vcenter mb-1">
     <img src="/img/customprofiles/factions/factionavatar.png"/>
     <p>
-    Laden Sie einen Avatar für Ihre Fraktion hoch.
-    Das Avatar-Bild wird auch in einer Discord-Einbettung angezeigt, wenn Sie Ihre Fraktions-URL posten, Beispiel unten.
+    Upload a avatar for your faction.
+    The avatar image will also show in a Discord embed when you post your faction URL, example below.
     </p>
  </div>
 
-### Fraktionstitelbild
+### Faction Cover Image
 
   <div class="flex-vcenter mb-1">
     <img src="/img/customprofiles/factions/factioncover.png"/>
     <p>
-    Laden Sie ein Titelbild für Ihre Fraktion hoch.
-    Das ausgewählte Bild wird auf der Profilseite der Fraktion angezeigt, Beispiel unten.
+    Upload a cover for your faction.
+    The selected cover will show on the faction website profile page, example below.
     </p>
  </div>
 
-### Fraktionsbiografie
+### Faction Bio
 
   <div class="flex-vcenter mb-1">
     <img src="/img/customprofiles/factions/factionbio.png"/>
     <p>
-    Schreiben Sie eine Biografie für Ihre Fraktion, dies auf der Seite des Profils der Fraktion zu sehen ist.
+    Write a bio for your faction, this will be seen on the faction website profile page.
     </p>
  </div>
 
-Sie können BBCode in ihrer Fraktionsbiografie verwenden, hier finden Sie, was erlaubt ist:
+You are able to use BBCode in your factions bio, heres whats allowed:
 
-- [b] - <code>[b]Hallo Welt[/b]</code> - <b>Fett</b>
-- [i] - <code>[i]Hallo Welt[/i]</code> - <i>Kursiv</i>
-- [s] - <code>[s]Hallo Welt[/s]</code> - <s>Durchgestrichen</s>
-- [u] - <code>[u]Hallo Welt[/u]</code> - <u>Unterstrichen</u>
+- \[b] - <code>\[b]Hello World\[/b]</code> - <b>Bold</b>
+- \[i] - <code>\[i]Hello World\[/i]</code> - <i>Italic</i>
+- \[s] - <code>\[s]Hello World\[/s]</code> - <s>Struck Through</s>
+- \[u] - <code>\[u]Hello World\[/u]</code> - <u>Underlined</u>
 
-### Fraktionsavatar Farbe
+### Faction Avatar Colour
 
 <div class="flex-vcenter mb-1">
     <img src="/img/customprofiles/factions/factionavatarcolour.png"/>
     <p>
-    Sie können die Umrandungsfarbe Ihres Avatars auswählen.
-    Die ausgewählte Farbe wird auch in einer Discord-Einbettung angezeigt, wenn Sie ihre Profil-URL veröffentlichen, Beispiel unten.
+    You can choose the outline colour that is around your faction avatar.
+    The selected colour will also show in a Discord embed when you post your profile URL, example below.
     </p>
  </div>
 
-### Fraktion Discordeinladung
+### Faction Discord Invite
 
 <div class="flex-vcenter mb-1">
     <img src="/img/customprofiles/factions/factiondiscordinvite.png"/>
     <p>
-    Sie können einen Discord Server Einladungslink festlegen.
-    Der Link muss mit <code>https://discord.com/invite/</code> <br/>
-    Beispiel <code>https://discord.com/invite/&#60;invite-code&#62;</code> beginnen
-  </p>
+    You can set a faction Discord server invite link.
+    The link must start with <code>https://discord.com/invite/</code> <br/>
+    Example <code>https://discord.com/invite/(invite-code)</code>  
+</p>
  </div>
 
-## Rollenverwaltung
+## Role Management
 
-Um Rollen zu verwalten, gehen Sie auf die `Rollen` Registerkarte auf Ihrer Fraktion.
+To manage roles head to the `Roles` tab on a faction your own.
 
-<img src="/img/hrp/factions/factionrolestab.png" />
+<img src="/img/hrp/factions/factionrolestab.png"/>
 
-  Wenn Sie auf Rollen klicken, können Sie folgendes tun:
-- Neue Rolle erstellen
-- Rollen neu ordnen
-- Rollenberechtigungen bearbeiten
-- Rollen umbenennen
-- Rollen löschen
+One you click on roles you will be able to do the following:
 
-<img src="/img/hrp/factions/factionsroleviewpage.png" />
+- Create a new role
+- Reorder the roles
+- Edit the role permissions
+- Rename roles
+- Delete roles
+
+<img src="/img/hrp/factions/factionsroleviewpage.png"/>
 
 :::tip
 
-Unabhängig von Berechtigungsrollen können Rollen ihre eigene Rolle oder Rollen über ihnen nicht bearbeiten.
+Regardless of permissions roles cannot edit their own role or roles above them.
 
 :::
 
-:::note Besitzerrolle
+:::note Owner Role
 
-Die Besitzerrolle einer Fraktion kann ihre eigene Rollenanordnung oder Berechtigung nicht bearbeiten.
+The owner role of a faction cannot edit their own role order or permissions.
 
 :::
 
-## Fraktion löschen
+## Faction Deletion
 
-Um einen Antrag auf Löschung einer Fraktion einzuleiten, müssen Sie folgende Kriterien erfüllen:
-1. Sie müssen berechtigte Besitzer der Fraktion sein.
-2. Sie müssen der Besitzer des mit der Fraktion verknüpften Discord Servers sein.
+To initiate a faction deletion request, you must meet the following criteria:
 
-Wenn die oben genannten Anforderungen erfüllt sind, können Sie auf Discord ein Ticket einreichen und Ihre Fraktion entfernen. Nachdem Sie zugestimmt haben, die Fraktion zu entfernen, wird Folgendes gelöscht.
-- Fraktionsname, Fraktionsabkürzung, Fraktionsrollen, Fraktionsmitglieder, Fraktionseinstellungen (Bio, Avatar, Banner).
-- Alle verbleibenden Credits, die zum Zeitpunkt der Löschung in der Fraktion übrig sind, werden an das Finanzministerium überwiesen.
+1. Be the designated owner of the faction.
+2. Possess ownership of the Discord server associated with the faction.
 
-Bevor der Löschprozess beginnt, müssen Personen, die einen Discord-Server beaufsichtigen, dessen Entfernung sicherstellen.
+If the above requirements are meet then you can submit a ticket on discord and request to have your faction removed. After you have confirmed you wish to delete the faction the following will be permanently deleted.
 
-Eine Fraktion, die wieder freigelassen wird, behält ihren aktiven Status mit dem Fraktionseigentümer die Verantwortung für die Aufrechterhaltung und Einhaltung bestehender und zukünftiger Fraktionsregeln behalten bis zu seiner Löschung, unabhängig von anderen Erwägungen.
+- Faction Name, Faction Abbrv, Faction Roles, Faction Members, Faction Settings (Bio, Avatar, Banners).
+- Any remaining credits left in the faction at the time of deletion will be transferred to the Treasury.
 
-## Beispiel
+Prior to commencing the deletion process, individuals overseeing a Faction Discord server must ensure its removal.
 
-Unten haben wir ein Beispiel dafür, wie das Ergebnis aussehen würde, wenn Sie alles anpassen.
+A faction that remains undeleted retains its active status, with the faction owner retaining responsibility for both the faction's upkeep and adherence to existing and future faction rules and requirements, until its deletion, irrespective of any other considerations.
 
-### Eigene Fraktion Beispiel
+## Example
+
+Below we have an example of what the outcome would look like if you customize everything.
+
+### Custom Faction Example
 
 <div class="flex-vcenter mb-1">
     <img src="/img/customprofiles/factions/factionexamplediscord.png"/>
    <p>
-    <b>Fraktionslink Teilen</b><br/>
-    Das Teilen eines Links auf Discord zeigt die Einbettung Ihrer Fraktion, einschließlich der benutzerdefinierten Farbe und des Avatars, den Sie gesetzt haben.
+    <b>Sharing Faction Link</b><br/>
+    Sharing a link on discord will show a embed of your faction including the custom colour & the avatar that you set.
     </p>
 </div>
    <div class="flex-vcenter mb-1">
     <img src="/img/customprofiles/factions/factionexampleavatar.png"/>
    <p>
-     <b>Avatar Umrandungsfarbe</b><br/>
-    Profil mit ausgewählter Farbe auf der Webseite anzeigen.
+     <b>Avatar Outline Colour</b><br/>
+    Viewing profile with selected colour on website.
     </p>
 </div>

@@ -19,6 +19,3 @@ A list of awards that can be earned when participating in warthunder events.
 | Invincible | No deaths in the entire event <span class="text-muted">(hard reward).</span>|
 | Fly Swatter | Most aircraft killed <span class="text-muted">(plane v. plane or Anti air).</span>|
 | Steel Shower | Artilery multikill, 2 or more in one strike.|
-
-
-<iframe width="1000" height="600" src="https://lookerstudio.google.com/embed/reporting/643331b7-7730-4fc8-8f0f-5a41550fc124/page/vbkkD" frameborder="0" style={{border:0}} allowfullscreen></iframe>
