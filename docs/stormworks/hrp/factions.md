@@ -109,7 +109,7 @@ You are able to use BBCode in your factions bio, heres whats allowed:
     <p>
     You can set a faction Discord server invite link.
     The link must start with <code>https://discord.com/invite/</code> <br/>
-    Example <code>https://discord.com/invite/&#60;invite-code&#62;</code>
+    Example <code>https://discord.com/invite/(invite-code)</code>
   </p>
  </div>
 
