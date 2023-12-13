@@ -3,6 +3,7 @@ sidebar_position: 1
 description: Rules
 ---
 
+import React from 'react';
 import Accordion from '@mui/material/Accordion';
 import AccordionSummary from '@mui/material/AccordionSummary';
 import AccordionDetails from '@mui/material/AccordionDetails';
@@ -54,14 +55,13 @@ export default function ControlledAccordions() { const [expanded, setExpanded] =
           7. No using structure workbenches.<br/>
           8. <a href="https://trickys.gg/staffteam">Staff</a> have final say.<br/>
           9. Malicious or exploitative use of alternate steam accounts is strictly prohibited.<br/>
-          10. You need a <a href="/stormworks/boats">Boat License</a> to use boats on servers 1,2,3.<br/>
+          10. You need a <a href="/stormworks/boats">Boat License</a> to use boats on non RP servers.<br/>
           11. Do not fire inside the <a href="/stormworks/no-fire-zone">NFZ</a>, this is a safe zone. Using weapons in non weapons servers is prohibited.<br/>
           12. The usage of nuclear weapons is prohibited.<br/>
           13. Do not spam chat or voice. (music is not allowed within 1km of spawn)<br/>
-          14. Do not grief/intentionally ruin the fun of gameplay for other users.<br/><br/>
-          Roleplay Laws For Servers 3,4,5<br/>
-          1. <a href="/hrplaws">Game Laws</a><br/>
-          2. <a href="https://trickys.gg/staffteam">RP Charter</a>
+          14. Do not grief/intentionally ruin the fun of gameplay for other players.<br/>
+          15. Do not impersonate staff.<br/><br/>
+          You can read the <a href="/stormworks/hrp/rprules">Roleplay Rules</a> here.<br/>
         </Typography>
         </AccordionDetails>
       </Accordion>
