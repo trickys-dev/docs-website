@@ -212,13 +212,9 @@ export default function ControlledAccordions() { const [expanded, setExpanded] =
           <Typography><i class="fas fa-car"></i> Règles du serveur MotorTown</Typography>
         </AccordionSummary>
         <AccordionDetails>
-        <Typography>
-          1. Les travaux de police sont en liste blanche, pour être mis en liste blanche, appliquer <a href="https://trickys.gg/applications/new">ici</a>.<br/>
-          2. Respectez les joueurs et leurs emplois.<br/>
-          3. Pas de modding, de triche ou de causant intentionnellement du ralentissement.<br/>
-          4. <a href="https://trickys.gg/staffteam">Staff</a> ont le dernier mot.<br/><br/>
-          <Alert variant="outlined" severity="info"> Si vous trouvez un joueur qui abuse de ses avantages en liste blanche, vous pouvez <a href="discord://discord.com/channels/710922135580835950/846373509470748722" class="discord-text">#soumettre un ticket</a> sur Discord pour le signaler.</Alert><br/>
-        </Typography>
+         <Typography>
+         <a href="./motortown/rules">Click Here</a> to view the MT Rules.
+         </Typography>
         </AccordionDetails>
       </Accordion>
     {/* #endregion */}
