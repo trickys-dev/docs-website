@@ -211,13 +211,9 @@ export default function ControlledAccordions() { const [expanded, setExpanded] =
           <Typography><i class="fas fa-car"></i> MotorTown Server Rules</Typography>
         </AccordionSummary>
         <AccordionDetails>
-        <Typography>
-          1. Police jobs are whitelisted, to be whitelisted apply <a href="https://trickys.gg/applications/new">here</a>.<br/>
-          2. Respect players and their jobs.<br/>
-          3. No modding, cheating or causing lag intentionally.<br/>
-          4. <a href="https://trickys.gg/staffteam">Staff</a> have final say.<br/><br/>
-          <Alert variant="outlined" severity="info"> If you find a player abusing his whitelisted perks, you can <a href="discord://discord.com/channels/710922135580835950/846373509470748722" class="discord-text">#submit a ticket</a> on Discord to report them.</Alert><br/>
-        </Typography>
+         <Typography>
+         <a href="./motortown/rules">Click Here</a> to view the MT Rules.
+         </Typography>
         </AccordionDetails>
       </Accordion>
     {/* #endregion */}
