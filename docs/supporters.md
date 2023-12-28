@@ -3,7 +3,7 @@ sidebar_position: 3
 description: Patreon & Server boosters information
 ---
 
-# Supporters
+# Supporters & VIPs
 
 - This guide explains what you get for being a Patreon member.
 - By becoming a patreon you are supporting the community.
@@ -15,7 +15,7 @@ We have added some new tiers, some of the information below is not up to date.
 :::
 
 
-## Patreon Tiers
+## Patreon Tiers (VIPs)
 
 | Tier               | Discord Roles      |
 |--------------------|--------------------|

@@ -1,0 +1,8 @@
+{
+  "label": "MotorTown",
+  "position": 7,
+  "link": {
+    "type": "doc",
+    "id": "motortown/index"
+  }
+}

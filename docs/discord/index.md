@@ -4,7 +4,7 @@ description: Discord Information
 
 # Discord Information
 
-oh no its working...
+Discord information
 
 import DocCardList from '@theme/DocCardList';
 
