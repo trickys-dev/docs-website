@@ -3,7 +3,7 @@ sidebar_position: 3
 description: Informations sur les boosters Patreon & Serveur
 ---
 
-# Contributeurs
+# Supporters & VIPs
 
 - Ce guide explique ce que vous obtenez pour être un membre de Patreon.
 - En devenant patreon, vous soutenez la communauté.
@@ -15,7 +15,7 @@ Nous avons ajouté de nouveaux niveaux, certaines des informations ci-dessous ne
 :::
 
 
-## Paliers Patreon
+## Patreon Tiers (VIPs)
 
 | Niveaux              | Rôles Discord                                        |
 | -------------------- | ---------------------------------------------------- |
