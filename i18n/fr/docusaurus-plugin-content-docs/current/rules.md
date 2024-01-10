@@ -213,7 +213,7 @@ export default function ControlledAccordions() { const [expanded, setExpanded] =
         </AccordionSummary>
         <AccordionDetails>
          <Typography>
-         <a href="./motortown/rules">Click Here</a> to view the MT Rules.
+         <a href="/motortown/rules">Click Here</a> to view the MT Rules.
          </Typography>
         </AccordionDetails>
       </Accordion>
@@ -225,17 +225,13 @@ export default function ControlledAccordions() { const [expanded, setExpanded] =
         </AccordionSummary>
         <AccordionDetails>
         <Typography>
-          <span class="tricky-color">Règles générales</span><br/>
-          1. Pas d'apparition du camp d'apparition <span class="text-muted">(3 règle de frappe, si les équipes ennemies utilisent les trois frappes, alors elles perdent le round).</span><br/>
-          2. Aucun teamkill <span class="text-muted">(un incident non résolu doit être ignoré mais les tueurs d'équipe persistants se traduiront par une punition à la discrétion du gestionnaire de jeu).</span><br/>
-          3. L'utilisation de "Véhicules Fortifier" est interdite <span class="text-muted">(les véhicules qui sont retirés de l'arbre technologique pour des raisons d'équilibrage ou sont exclusifs à l'événement, une brève exemption peut être accordée si le véhicule a été mis à disposition pour une courte période de temps à la date de l'événement à venir).</span>
+        <a href="/warthunder/rules">Click Here</a> to view the War Thunder Rules.
         </Typography>
         </AccordionDetails>
       </Accordion>
     {/* #endregion */}
     </div>
   ); }
-
 
 
 
