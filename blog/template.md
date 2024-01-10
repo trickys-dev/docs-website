@@ -23,10 +23,3 @@ export const Icon = ({children, type}) => {
 Version x.x.x Updates
 
 <!--truncate-->
-
-## Website & Discord Updates
-
-## Discord Updates
-
-## Stormworks Server Updates
-
