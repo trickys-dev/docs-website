@@ -3,7 +3,7 @@ sidebar_position: 3
 description: Informacje o Patreon i Boosterach serwera
 ---
 
-# Patroni
+# Supporters & VIPs
 
 - Ten poradnik wyjaśni Ci, co dostaniesz jako nasz Patron.
 - Bycie Patronem wspiera naszą społeczność.
@@ -15,7 +15,7 @@ We have added some new tiers, some of the information below is not up to date.
 :::
 
 
-## Rangi Patronów
+## Patreon Tiers (VIPs)
 
 | Ranga              | Rola na Discordzie                                   |
 | ------------------ | ---------------------------------------------------- |

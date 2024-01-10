@@ -3,7 +3,7 @@ sidebar_position: 3
 description: Patreon & Server-Booster Informationen
 ---
 
-# Unterstützer
+# Supporters & VIPs
 
 - Dieses Handbuch erklärt, was Sie bekommen, wenn Sie Patreon-Mitglied sind.
 - Indem Sie Patreon-Mitglied werden, unterstützen Sie die Community.
@@ -15,7 +15,7 @@ Wir haben einige neue Stufen hinzugefügt, einige Informationen unten sind nicht
 :::
 
 
-## Patreon Stufen
+## Patreon Tiers (VIPs)
 
 | Stufe                 | Discord Rollen                                       |
 | --------------------- | ---------------------------------------------------- |
