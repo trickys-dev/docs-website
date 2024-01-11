@@ -8,6 +8,6 @@ description: Informations sur MotorTown
 <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1369670/header.jpg" width="450px"/>
 </div>
 
-import DocCardList from '@theme/DocCardList';
+importer DocCardList depuis '@theme/DocCardList';
 
 <DocCardList />
