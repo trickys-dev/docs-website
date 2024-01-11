@@ -1,11 +1,11 @@
 ---
-description: Discord Information
+description: Information Discord
 ---
 
-# Discord Information
+# Information Discord
 
-Discord information
+Informations sur le discord
 
-import DocCardList from '@theme/DocCardList';
+importer DocCardList depuis '@theme/DocCardList';
 
 <DocCardList />
