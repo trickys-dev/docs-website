@@ -1,39 +1,39 @@
 ---
 sidebar_position: 0
-description: Joining VTC
+description: Rejoindre VTC
 ---
 
-# Virutal Trucking Company
+# Compagnie de Transport Virtuel
 
 <div class="flex-vcenter mb-1">
 <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/227300/header.jpg" width="450px"/>
 <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/270880/header.jpg" width="450px"/>
 </div>
 
-The VTC is for anyone who plays ETS2 & ATS.
+Le VTC est destiné à toute personne jouant à ETS2 & ATS.
 
-To join our Virutal Trucking Company head over to [Trucksbook](https://trucksbook.eu/company/125046).
+Pour rejoindre notre compagnie de camionnage virtuel, rendez-vous à [Trucksbook](https://trucksbook.eu/company/125046).
 
-1. Create a account (using steam) on Trucksbook.
-2. Request to join the [VTC](https://trucksbook.eu/company/125046), by using the "Application Form" button in the top right.
-3. Download the Trucksbook client, [Download Link](https://cdn.trucksbook.eu/data/client/TB_Client_1_4_3.zip) (v1.4.3).
-4. Once accepted you can start driving and everything will be logged once a job has been completed.
+1. Créez un compte (en utilisant Steam) sur Trucksbook.
+2. Demandez à rejoindre le [VTC](https://trucksbook.eu/company/125046), en utilisant le bouton "Formulaire d'application" en haut à droite.
+3. Téléchargez le client Trucksbook, [Download Link](https://cdn.trucksbook.eu/data/client/TB_Client_1_4_3.zip) (v1.4.3).
+4. Une fois accepté, vous pouvez commencer à conduire et tout sera enregistré une fois qu'une tâche a été accomplie.
 
-The VTC rules can be viewed [here](https://trucksbook.eu/company/125046).
+Les règles du VTC peuvent être consultées [here](https://trucksbook.eu/company/125046).
 
-## Completed Jobs
+## Livraison terminées
 
-Once a job is completed you can view the stats on the trucksbook website, you can also view the job in the [<a class="discord-text">#🪵︱truck-logs</a>](discord://discord.com/channels/710922135580835950/1099229160209133609) channel on discord.
+Une fois qu'une tâche est terminée, vous pouvez voir les statistiques sur le site Web du livre de camions vous pouvez également voir le travail dans le [<a class="discord-text">#🪵—truck-logs</a>](discord://discord. om/channels/710922135580835950/1099229160209133609) sur discord.
 
-## Statistics
+## Statistiques
 
-- ETS - [Click here](https://trucksbook.eu/player_stats/company) for monthly stats.
-- ETS - [Click here](https://trucksbook.eu/player_stats/company/all/2023/0/1) for yearly stats.
-- ETS - [Click here](https://trucksbook.eu/player_stats/company/all/0/0/1) for all time stats.
-- ATS - [Click here](https://trucksbook.eu/player_stats/company/all/2023/12/2/1) for monthly stats.
-- ATS - [Click here](https://trucksbook.eu/player_stats/company/all/2023/0/2) for yearly stats.
-- ATS - [Click here](https://trucksbook.eu/player_stats/company/all/0/0/2) for all time stats.
+- ETS - [Cliquez ici](https://trucksbook.eu/player_stats/company) pour obtenir des statistiques mensuelles.
+- ETS - [Cliquez ici](https://trucksbook.eu/player_stats/company/all/2023/0/1) pour les statistiques annuelles.
+- ETS - [Cliquez ici](https://trucksbook.eu/player_stats/company/all/0/0/1) pour obtenir des statistiques mensuelles.
+- ETS - [Cliquez ici](https://trucksbook.eu/player_stats/company/all/2023/12/2/1) pour obtenir des statistiques mensuelles.
+- ETS - [Cliquez ici](https://trucksbook.eu/player_stats/company/all/2023/0/2) pour les statistiques annuelles.
+- ETS - [Cliquez ici](https://trucksbook.eu/player_stats/company/all/0/0/2) pour obtenir des statistiques mensuelles.
 
 ## TruckersMP VTC
 
-- You can also join our TruckersMP VTC [Click Here](https://truckersmp.com/vtc/44872).
+- Vous pouvez également rejoindre notre VTC TruckersMP [Cliquez ici](https://truckersmp.com/vtc/44872).
