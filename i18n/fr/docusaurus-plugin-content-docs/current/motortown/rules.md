@@ -3,8 +3,8 @@ sidebar_position: 1
 description: Règles du serveur MotorTown
 ---
 
-importer Alerte depuis '@mui/material/Alert';
-importer AlertTitle depuis '@mui/material/AlertTitle';
+import Alert from '@mui/material/Alert';
+import AlertTitle from '@mui/material/AlertTitle';
 
 # Règlements
 
