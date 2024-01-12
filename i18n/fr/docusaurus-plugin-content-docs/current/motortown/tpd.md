@@ -33,4 +33,4 @@ Vous pouvez voir tous les joueurs dans le canal <a href="discord://discord.com/c
 
 ## Signaler un joueur TPD
 
-<Alert variant="outlined" severity="info"> If you find a player abusing his whitelisted perks, you can <a href="discord://discord.com/channels/710922135580835950/846373509470748722" class="discord-text">#submit a ticket</a> on discord to report them.</Alert><br/>
+<Alert variant="outlined" severity="info"> Si vous trouvez un joueur qui abuse de ses permissions de liste blanche vous pouvez, <a href="discord://discord.com/channels/710922135580835950/846373509470748722" class="discord-text">#submit a ticket</a> Sur discord pour les reporters.</Alert><br/>
