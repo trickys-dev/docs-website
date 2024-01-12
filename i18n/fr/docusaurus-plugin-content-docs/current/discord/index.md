@@ -6,6 +6,6 @@ description: Information Discord
 
 Informations sur le discord
 
-importer DocCardList depuis '@theme/DocCardList';
+import DocCardList from '@theme/DocCardList';
 
 <DocCardList />
