@@ -1,19 +1,19 @@
 ---
 sidebar_position: 0
-description: RP Rules
+description: Règles RP
 ---
 
-# RP Rules
+# Règles RP
 
-:::note Percentage Fine
+:::note Pourcentage d'amende
 
-The percentage(%) is yet to be decided!
+Le pourcentage(%) n'est pas encore décidé!
 
 :::
 
-These rules only apply to RP servers.
+Ces règles ne s'appliquent qu'aux serveurs RP.
 
-- Main [server rules](/rules) apply to all RP servers.
-- Infinite generators are prohibited, If you are using infinite generators you will be issued a % fine and/or a temp ban.
-- You must not use flashing blue lights as this will be impersonating staff and will result in a % fine and or a temp ban.
-- You can only take one job at a time.
+- Les [règles du serveur](/rules) principales s'appliquent à tous les serveurs RP.
+- Les générateurs infinis sont interdits, si vous utilisez des générateurs infinis, vous recevrez une amende en % et/ou une interdiction temporaire.
+- Vous ne devez pas utiliser de lumières bleues clignotantes car cela équivaudra au personnel d'usurpation et entraînera une amende de % ou une interdiction temporaire.
+- Vous ne pouvez avoir qu'un seul appel à la fois.
