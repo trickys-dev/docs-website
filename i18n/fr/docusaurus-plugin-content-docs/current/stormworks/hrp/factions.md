@@ -81,9 +81,9 @@ Vous pouvez voir toutes les factions actuelles en [cliquant ici](https://trickys
 
   <div class="flex-vcenter mb-1">
     <img src="/img/customprofiles/factions/factionbio.png"/>
-  <p>
-  Écrivez une biographie pour votre faction, celle-ci sera visible sur la page de profil du site de la faction.
-  </p>
+    <p>
+Écrivez une biographie pour votre faction, celle-ci sera visible sur la page de profil du site de la faction.    
+    </p>
  </div>
 
 Vous pouvez utiliser le BBCode dans votre bio de factions, ici ce qui est autorisé :
@@ -110,7 +110,7 @@ Vous pouvez utiliser le BBCode dans votre bio de factions, ici ce qui est autori
     <p>
     Vous pouvez définir un lien d'invitation de serveur Discord de faction.
     Le lien doit commencer par <code>https://discord.com/invite/</code> <br/>
-    Exemple <code>https://discord.com/invite/code d'invitation</code>
+    Exemple <code>https://discord.com/invite/code d'invitation</code>  
 </p>
  </div>
 
