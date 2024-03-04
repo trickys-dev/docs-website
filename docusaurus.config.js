@@ -30,7 +30,7 @@ const config = {
   // to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
-    locales: ['en','fr','de','pl'],
+    locales: ['en'],
     path: 'i18n',
     localeConfigs: {
       en: {
@@ -39,27 +39,6 @@ const config = {
         htmlLang: 'en',
         calendar: 'gregory',
         path: 'en',
-      },
-      fr: {
-        label: 'French (Français)',
-        direction: 'ltr',
-        htmlLang: 'dr',
-        calendar: 'gregory',
-        path: 'fr',
-      },
-      de: {
-        label: 'German (Deutsch)',
-        direction: 'ltr',
-        htmlLang: 'de',
-        calendar: 'gregory',
-        path: 'de',
-      },
-      pl: {
-        label: 'Polish (Polski)',
-        direction: 'ltr',
-        htmlLang: 'pl',
-        calendar: 'gregory',
-        path: 'pl',
       },
   },
 },
