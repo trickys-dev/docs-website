@@ -85,35 +85,7 @@ export default function ControlledAccordions() { const [expanded, setExpanded] =
         </AccordionSummary>
         <AccordionDetails>
         <Typography>
-          <span class="tricky-color">Règles générales</span><br/>
-          1. Ne sabotez pas le travail des autres joueurs.<br/>
-          1.2 Faites toujours preuve de respect pour les équipements, les cultures et le bétail des autres joueurs.<br/>
-          1. Écoutez toujours le gestionnaire de la ferme lorsque vous travaillez en tant que travailleur ou entrepreneur.<br/>
-          1. Ne pas créer des paysages qui gâcheront la carte pour tout le monde (e. une grande montagne contre nature sur votre champ).<br/>
-          1.5 Utilisez le bon sens.<br/>
-           <span class="tricky-color">Arbres</span><br/>
-          2. Ne coupez que des arbres sur votre propriété ou sur laquelle vous êtes contacté.<br/>
-          2. Les arbres doivent être entreposés comme il se doit, les arbres dispersés laissés sur les champs ou les routes se solderont par une amende.<br/>
-           <span class="tricky-color">Conduite</span><br/>
-          3. Si vous portez une charge ou implantez des balises doivent être activées.<br/>
-          3. Les conducteurs doivent respecter le bon côté de la route en fonction de la carte.<br/>
-          3.3 Crashing dans un autre véhicule(joueur), une compensation peut être demandée.<br/>
-           <span class="tricky-color">punitions et amendes</span><br/>
-          Celles-ci entraîneront une alerte ou une amende;<br/>
-          4. Astuce - le fait de laisser des sacs ou des palettes autour de la carte entraînera une amende par article de la banque.<br/>
-          4. Laisser des véhicules ou de l'équipement dans ou autour de la boutique se traduira par une amende.<br/>
-          4.3 Vrac de vidage (paille, grains, copeaux de bois, etc) sur la route.<br/>
-          
- 4.4 Bloquer les routes, vendre des points ou d'autres champs de peuples avec des objets.<br/>
-          4. La banque peut infliger des amendes à n'importe quelle ferme quand elle se voit assise, même pour quelque chose qui n'est pas stipulé dans ces règles.<br/>
-           <span class="tricky-color">dettes</span><br/>
-          vert (0 - 25 £, 00), Jaune (£-25,001 - £-40,000), Rouge (£-40,001 - £-50,000+)<br/>
-          5. Atteindre le jaune vous donnera un avertissement, en atteignant le rouge, vous recevrez un dernier avertissement, quand vous dépassez le rouge, la banque s'implique.<br/>
-           <span class="tricky-color">Générateurs FS22</span><br/>
-          6. Les petites fermes* sont autorisées à utiliser un générateur qui produit jusqu'à 14k par mois.<br/>
-          *Une petite ferme est une ferme qui possède jusqu'à 2 parcelles de terre.<br/>
-          6. Toutes les autres fermes sont considérées comme grandes et doivent être indépendantes (n'ont pas de générateurs).<br/>
-          La rupture de l'un d'eux entraînera la suppression de la ferme.<br/>
+        <a href="/fs22/rules">Click Here</a> to view the FS22 Rules.
         </Typography>
         </AccordionDetails>
       </Accordion>
