@@ -88,10 +88,10 @@ You can view all the current factions by [Clicking Here](https://trickys.gg/fact
 
 You are able to use BBCode in your factions bio, heres whats allowed:
 
-- \[b] - <code>\[b]Hello World\[/b]</code> - <b>Bold</b>
-- \[i] - <code>\[i]Hello World\[/i]</code> - <i>Italic</i>
-- \[s] - <code>\[s]Hello World\[/s]</code> - <s>Struck Through</s>
-- \[u] - <code>\[u]Hello World\[/u]</code> - <u>Underlined</u>
+- [b] - <code>[b]Hello World[/b]</code> - <b>Bold</b>
+- [i] - <code>[i]Hello World[/i]</code> - <i>Italic</i>
+- [s] - <code>[s]Hello World[/s]</code> - <s>Struck Through</s>
+- [u] - <code>[u]Hello World[/u]</code> - <u>Underlined</u>
 
 ### Faction Avatar Colour
 
