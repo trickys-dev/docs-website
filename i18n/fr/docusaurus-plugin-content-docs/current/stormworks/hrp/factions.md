@@ -168,11 +168,13 @@ Ci-dessous nous avons une aperçue de ce à quoi ressemblerait le résultat si v
     <img src="/img/customprofiles/factions/factionexamplediscord.png"/>
    <p>
 <b>Lien de profil de partage</b><br/>
-    Partage un lien sur discord montrera un intégration de votre profil, y compris la couleur personnalisée et l'avatar que vous avez défini.    </p>
+    Partage un lien sur discord montrera un intégration de votre profil, y compris la couleur personnalisée et l'avatar que vous avez défini.
+    </p>
 </div>
    <div class="flex-vcenter mb-1">
     <img src="/img/customprofiles/factions/factionexampleavatar.png"/>
    <p>
 <b>Couleur du contour de l'avatar</b><br/>
-    Visualisation du profil avec la couleur sélectionnée sur le site Web.    </p>
+    Visualisation du profil avec la couleur sélectionnée sur le site Web.
+    </p>
 </div>
