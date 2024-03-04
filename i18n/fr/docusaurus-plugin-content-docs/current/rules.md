@@ -55,13 +55,13 @@ export default function ControlledAccordions() { const [expanded, setExpanded] =
           7. Pas d'ateliers de structure utilisés.<br/>
           8. <a href="https://trickys.gg/staffteam">Staff</a> ont le dernier mot.<br/>
           9. L'utilisation malveillante ou exploitation de comptes discord alternatifs sera punie correctement.<br/>
-          10. You need a <a href="/stormworks/boats">Boat License</a> to use boats on non RP servers.<br/>
+          10. Vous avez besoin d'une licence de bateau <a href="/stormworks/boats"></a> pour utiliser des bateaux sur des serveurs 1,2,3.<br/>
           11. Ne tirez pas à l'intérieur de la <a href="/stormworks/no-fire-zone">NFZ</a>, c'est une zone sûre. L'utilisation d'armes dans les serveurs sans armes est interdite.<br/>
           12. L'utilisation d'armes nucléaires est interdite.<br/>
           13. Ne spammez pas le chat ou la voix. (la musique n'est pas autorisée à moins de 1 km d'apparition)<br/>
-          14. Do not grief/intentionally ruin the fun of gameplay for other players.<br/>
-          15. Do not impersonate staff.<br/><br/>
-          You can read the <a href="/stormworks/hrp/rprules">Roleplay Rules</a> here.<br/>
+          14. Ne chagrinez pas intentionnellement le plaisir du jeu pour les autres joueurs.<br/>
+          15. N'usurpez pas l'identité du personnel.<br/><br/>
+          Vous pouvez lire les Règles <a href="/stormworks/hrp/rprules">du jeu de rôle</a> ici.<br/>
         </Typography>
         </AccordionDetails>
       </Accordion>
@@ -213,7 +213,7 @@ export default function ControlledAccordions() { const [expanded, setExpanded] =
         </AccordionSummary>
         <AccordionDetails>
          <Typography>
-         <a href="./motortown/rules">Click Here</a> to view the MT Rules.
+         <a href="/motortown/rules">Cliquez ici</a> pour voir les règles du MT.
          </Typography>
         </AccordionDetails>
       </Accordion>
@@ -225,17 +225,13 @@ export default function ControlledAccordions() { const [expanded, setExpanded] =
         </AccordionSummary>
         <AccordionDetails>
         <Typography>
-          <span class="tricky-color">Règles générales</span><br/>
-          1. Pas d'apparition du camp d'apparition <span class="text-muted">(3 règle de frappe, si les équipes ennemies utilisent les trois frappes, alors elles perdent le round).</span><br/>
-          2. Aucun teamkill <span class="text-muted">(un incident non résolu doit être ignoré mais les tueurs d'équipe persistants se traduiront par une punition à la discrétion du gestionnaire de jeu).</span><br/>
-          3. L'utilisation de "Véhicules Fortifier" est interdite <span class="text-muted">(les véhicules qui sont retirés de l'arbre technologique pour des raisons d'équilibrage ou sont exclusifs à l'événement, une brève exemption peut être accordée si le véhicule a été mis à disposition pour une courte période de temps à la date de l'événement à venir).</span>
+        <a href="/warthunder/rules">Cliquez ici</a> pour voir les règles de War Thunder.
         </Typography>
         </AccordionDetails>
       </Accordion>
     {/* #endregion */}
     </div>
   ); }
-
 
 
 

@@ -15,7 +15,7 @@ Nous avons ajouté de nouveaux niveaux, certaines des informations ci-dessous ne
 :::
 
 
-## Patreon Tiers (VIPs)
+## Paliers de Patreon (VIPs)
 
 | Niveaux              | Rôles Discord                                        |
 | -------------------- | ---------------------------------------------------- |

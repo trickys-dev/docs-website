@@ -12,25 +12,25 @@ import AlertTitle from '@mui/material/AlertTitle';
 <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1369670/header.jpg" width="450px"/>
 </div>
 
-(<b>T</b>ricky's <b>P</b>olice <b>D</b>epartment)
+(<b>T</b>Ricky's <b>P</b>olice <b>D</b>epartment)
 
-All police jobs are whitelisted and you have to apply to do police jobs on the servers.
+Tous les emplois de police sont en liste blanche et vous devez postuler pour être policier sur les serveurs.
 
 ## Application
 
-To join the TPD there are a few requirments:
+Pour rejoindre le TPD, il y a quelques demandes :
 
-- You have joined the Discord server.
-- You are in good standing within the Community.
-- You Have 48 Hours of playtime.
-- You Have 100 Driver level.
+- Vous avez rejoint le serveur Discord.
+- Vous êtes en règle au sein de la Communauté.
+- Vous avez 48 heures de temps de jeu.
+- Vous avez 100 niveaux de conducteur.
 
-To apply to TPD click <a href="https://trickys.gg/applications/new">here</a> and select MT TPD within the applications page.<br/>
+Pour appliquer à TPD, cliquez sur <a href="https://trickys.gg/applications/new">ici</a> et sélectionnez MT TPD dans la page des applications.<br/>
 
-## Current Officers
+## Officiers Actuels
 
-You can view all whitelisted players in the <a href="discord://discord.com/channels/710922135580835950/1112747506292510720" class="discord-text">#🚨︱mt-tpd-info</a> channel on discord.
+Vous pouvez voir tous les joueurs dans le canal <a href="discord://discord.com/channels/710922135580835950/1112747506292510720" class="discord-text">#🚨—mt-tpd-info</a> sur discord.
 
-## Report TPD Player
+## Signaler un joueur TPD
 
-<Alert variant="outlined" severity="info"> If you find a player abusing his whitelisted perks, you can <a href="discord://discord.com/channels/710922135580835950/846373509470748722" class="discord-text">#submit a ticket</a> on discord to report them.</Alert><br/>
+<Alert variant="outlined" severity="info"> Si vous trouvez un joueur qui abuse de ses permissions de liste blanche vous pouvez, <a href="discord://discord.com/channels/710922135580835950/846373509470748722" class="discord-text">#submit a ticket</a> Sur discord pour les reporters.</Alert><br/>
