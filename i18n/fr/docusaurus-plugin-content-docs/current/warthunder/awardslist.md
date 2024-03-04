@@ -1,6 +1,6 @@
 ---
-sidebar_position: 0
-description: War Thunder Awards List
+sidebar_position: 1
+description: Liste des Récompenses de War Thunder
 ---
 
 # Liste des Récompenses
@@ -9,7 +9,7 @@ description: War Thunder Awards List
 <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/236390/header.jpg" width="450px"/>
 </div>
 
-A list of awards that can be earned when participating in warthunder events.
+Une liste de récompenses qui peuvent être gagnées en participant à des événements de War Thunder.
 
 | Récompenses   | Descriptions                                                                                                                           |
 | ------------- | -------------------------------------------------------------------------------------------------------------------------------------- |

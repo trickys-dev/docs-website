@@ -5,26 +5,26 @@ description: RP Jobs information
 
 # Jobs
 
-:::info Beta
+:::info Bêta
 
-- All Jobs are in [Beta v0.1.0](/updates/0.9.1).
-- Money will be reset once beta is complete.
-- The feedback forum will be closed once beta is complete.
+- Tous les Jobs sont en [Beta v0.1.0](/updates/0.9.1).
+- L'argent sera réinitialisé une fois que la bêta sera terminée.
+- Le forum de commentaires sera fermé une fois la version bêta terminée.
 
 :::
 
-## How To Claim Jobs?
+## Comment réclamer des emplois?
 
-1. Find a job you want to take on the [jobs page](https://trickys.gg/cargo).
-2. Using the ID on the job run the `?job claim <id>` command on the server.
-3. The job will now be spawned on the server.<br/>
+1. Trouvez un emploi que vous voulez prendre sur la [page des Jobs](https://trickys.gg/cargo).
+2. En utilisant l'ID de la tâche, exécutez la commande `?job claim <id>` sur le serveur.
+3. La tâche va maintenant être créée sur le serveur.<br/>
    <img src="/img/rp/jobs/joblist.png" width="550px"/>
 
-## Cargo Types
+## Types de Fret
 
-### ISO Containers (crates)
+### Conteneurs ISO (conteneur)
 
-- These are ISO Containers and only 1-2 random containers will spawn in a job.
+- Ce sont des conteneurs ISO et seuls 1-2 conteneurs aléatoires apparaîtront dans une tâche.
 
   <div class="flex-vcenter">
     <div>
@@ -34,21 +34,21 @@ description: RP Jobs information
     </div>
   </div>
 
-#### How To Complete A Crate Job?
+#### Comment compléter une livraison avec un conteneur?
 
-1. Claim a job, read [How To Claim Jobs](#how-to-claim-jobs) above.
-2. Find your crate(s) at the spawn point (source), you can also view the crate(s) on the map.
-3. Transport your crate(s) to the drop-off point (destination).
-4. Use `?job deliver <id>` command to complete the job.
+1. Réclamez un emploi, lisez [How to Claim Jobs](#how-to-claim-jobs) ci-dessus.
+2. Trouvez votre ou vos conteneurs au point d'apparition (source), vous pouvez également voir la ou les conteneurs sur la carte.
+3. Transportez votre ou vos conteneurs au point de dépôt (destination).
+4. Utilisez la commande `?job deliver <id>` pour terminer la tâche.
 
-### Packages
+### Paquets
 
 <div class="flex-vcenter">
     <div>
       <img src="/img/rp/jobs/rppackage.png" width="350px"/>
     </div>
     <p>
-    - These are Packages and 3-10 will spawn in a job.
+- Cela sont les paquets et 3-10 vont apparaître dans une livraison. 
     </p>
 </div>
 <div class="flex-vcenter">
@@ -56,39 +56,39 @@ description: RP Jobs information
     <img src="/img/rp/jobs/holttownno.png" width="350px"/>
   </div>
   <p>
-  - These are the house numbers where you will drop off the packages in Holt Town.
+- Ceci sont les numéros de maisons ou vous pouvez déposer les paquets à Holt Town.
   </p>
 </div>
 
-#### How To Complete A Package Job?
+#### Comment compléter une livraison avec un conteneur?
 
-1. Claim a job, read [How To Claim Jobs](#how-to-claim-jobs) above.
-2. Find your packages at the spawn point (source), you can also view the packages on the map.
-3. Transport your packages to the drop-off point (destination).
-4. Deliver each package inside the correct house, the address will be displayed in the tool-tip. Once all packages are delivered the job will automatically be completed.
+1. Réclamez un emploi, lisez [How to Claim Jobs](#how-to-claim-jobs) ci-dessus.
+2. Trouvez votre ou vos conteneurs au point d'apparition (source), vous pouvez également voir la ou les conteneurs sur la carte.
+3. Transportez votre ou vos conteneurs au point de dépôt (destination).
+4. Livrez chaque colis à l'intérieur de la maison correcte, l'adresse sera affichée dans l'infobulle de l'outil. Une fois que tous les colis sont livrés, le travail sera automatiquement terminé.
 
-## How To Cancel A Claimed Job?
+## Comment annuler un emploi réclamé ?
 
-:::caution Cancelling Job
+:::caution Annulation de la tâche
 
-Cancelling a job will result in the job no longer being able to be claimed.
+L'annulation d'un emploi entraînera que l'emploie ne pourra plus être revendiqué.
 
 :::
 
-- Use the `?job end <id> confirm` command.
+- Utilisez la commande `?job end <id> confirm`.
 
-## Sizes
+## Tailles
 
-ISO Containers:
+Conteneurs ISO :
 
-- Height: 11 Blocks - 2.75 meters.
-- Width: 11 Blocks - 2.74 meters.
-- Length: 29 Blocks - 7.25 meters.
-- Weight: 2.5 Metric Tonnes.
+- Hauteur : 11 Blocs - 2,75 mètres.
+- Hauteur : 11 Blocs - 2,75 mètres.
+- Hauteur : 29 Blocs - 2,75 mètres.
+- Poids : 2.5 Tonnes métriques.
 
-Packages:
+Paquets:
 
-- Height: 2-3 Blocks - 0.5-0.75 meters.
-- Width: 2-3 Blocks - 0.5-0.75 meters.
-- Length: 1-2 Blocks - 0.25- 0.5 meters.
-- Weight: 6-12 Kg.
+- Hauteur : 2 Blocs - 2,75 mètres.
+- Largeur : 2-3 Blocs - 0.5-0.75 mètres.
+- Longueur : 1-2 Blocs - 0.25- 0.5 mètres.
+- Poids : 318 kg.
