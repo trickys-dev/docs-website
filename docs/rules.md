@@ -89,34 +89,7 @@ export default function ControlledAccordions() {
         </AccordionSummary>
         <AccordionDetails>
         <Typography>
-          <span class="tricky-color">General Rules</span><br/>
-          1.1 Do not sabotage other peoples work.<br/>
-          1.2 Always show respect for other peoples equipment, crops and livestock.<br/>
-          1.3 Always listen to the farm manager when working as a farm worker or contractor.<br/>
-          1.4 Do not create landscapes that will spoil the map for everyone (e.g a large unnatural mountain on your field).<br/>
-          1.5 Use common sense.<br/>
-           <span class="tricky-color">Trees</span><br/>
-          2.1 Only cut down trees on your property or property that you are contacted on.<br/>
-          2.2 Trees must be properly stored, scattered trees left on fields or roads will result in a fine.<br/>
-           <span class="tricky-color">Driving</span><br/>
-          3.1 If you are carrying a load or implement beacons must be on.<br/>
-          3.2 Drivers must adhere to the correct side of the road depending on the map.<br/>
-          3.3 Crashing into another vehicle(player), compensation may be asked for.<br/>
-           <span class="tricky-color">Punishment & Fines</span><br/>
-          These will result in a warning or a fine;<br/>
-          4.1 Fly-tipping - leaving bags or pallets around the map will result in a fine per item from the bank.<br/>
-          4.2 Leaving vehicles or equipment in or around the shop will result in a fine.<br/>
-          4.3 Dumping bulk (straw, grains, wood chippings etc) on the road.<br/>
-          4.4 Blocking roads, sell points or other peoples fields with objects.<br/>
-          4.5 The bank can issue fines to any farm when they see sit, even for something that is not stated in these rules.<br/>
-           <span class="tricky-color">Debt</span><br/>
-          Green (£0 - £-25,000), Yellow (£-25,001 - £-40,000), Red (£-40,001 - £-50,000+)<br/>
-          5.1 Reaching yellow will get you a warning, when reaching red you will get one last warning, when you go over red the bank gets involved.<br/>
-           <span class="tricky-color">FS22 Generators</span><br/>
-          6.1 Small farms* are allowed to use a generator that produces upto 14k a month.<br/>
-          *A small farm is a farm that owns upto or less then 2 land tiles.<br/>
-          6.2 All other farms are considered big and should be independant (have no generators).<br/>
-          Breaking either of these will result in farm deleation.<br/>
+        <a href="/fs22/rules">Click Here</a> to view the FS22 Rules.
         </Typography>
         </AccordionDetails>
       </Accordion>

@@ -6,7 +6,7 @@ import Translate from '@docusaurus/Translate';
 
 const FeatureList = [
   {
-    title: <Translate>Game Docs</Translate>,
+    title: <Translate>Gaming Docs</Translate>,
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <Translate>
@@ -15,11 +15,11 @@ const FeatureList = [
     ),
   },
   {
-    title: <Translate>Wolf says hi</Translate>,
+    title: <Translate>Discord Docs</Translate>,
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <Translate>
-      Say hello back to wolf
+      Find some documentation for our Discord server
       </Translate>
     ),
   },
