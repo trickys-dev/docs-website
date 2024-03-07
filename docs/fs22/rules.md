@@ -40,3 +40,6 @@ You are allowed to leave a one (1) vehicle on the shop property, but we ask that
 <a class="tricky-color">2.0</a> Road lines will not be considered an imposed regulation. The exception to this is when you need to pass someone either travelling in the same direction or oncoming traffic. When this is the case, the direction of travel will be drive on the right side, pass on the left when safe.
 
 <a class="tricky-color">2.1</a> When moving a large load, semi-trailer, or if you are about to take up the road to perform a maneuver that will block the road in both directions you are expected to turn on your hazard lights and warning lights (amber lights) to inform any other drivers to give you space, so they don’t crash into you. If someone is behind you, it is best to let them pass before you continue so as to not impede them.
+
+
+You will find the server password in the Discord FS22 channel.

@@ -14,6 +14,7 @@ We have added some new tiers, some of the information below is not up to date.
 
 :::
 
+Want to become a supporter <a href="https://www.patreon.com/join/trickysserver">Click Here</a>
 
 ## Patreon Tiers (VIPs)
 

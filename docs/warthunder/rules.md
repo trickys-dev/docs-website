@@ -20,6 +20,9 @@ Example list of “Vaulted Vehicles” within the current 6.7 BR maximum range;
 - https://wiki.warthunder.com/Panther_II
 - https://wiki.warthunder.com/SAV_20.12.48
 
-4. On certain game modes and maps, teams are to not progress past the capture point; the only exception is within or next to the capture point itself, <span class="text-muted">(every map has different capture point sizes, the examples shown below is to provide a general idea of what is accepted and is NOT EXACT)</span> this is to provide a fair chance for teams and to reduce the likelihood of a choke point on the capture point this is to give the teams a fair chance to regain a footing on the battlefield and to give them a chance to leave spawn.
+4. (due to popular demand) Teams are not permitted to go past the corresponding grid lines near the capture point, maps like abandoned factory where the capture points are laid out vertically, the lines will be on the grid line next to the capture point, below are examples.
+This is to allow teams more flexibility when fighting to capture a point and gives players the opportunity to make actual flanks but also makes an attempt to stop them from going into the spawn.
 
-<img src="/img/games/wt/ruleexample.jpg" width="400px"/>
+
+<img src="/img/games/wt/ruleexample1.png" width="400px"/>
+<img src="/img/games/wt/ruleexample2.png" width="400px"/>
