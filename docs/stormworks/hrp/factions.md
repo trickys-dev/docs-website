@@ -2,6 +2,8 @@
 sidebar_position: 3
 description: HRP Factions information
 ---
+import Alert from '@mui/material/Alert';
+import AlertTitle from '@mui/material/AlertTitle';
 
 # Factions
 
@@ -174,3 +176,13 @@ Below we have an example of what the outcome would look like if you customize ev
     Viewing profile with selected colour on website.
     </p>
 </div>
+
+## Faction Global Rules
+
+1. Faction owners bear responsibility for their faction and may be contacted by an administrator regarding an issue and/or a complaint filed by a player.
+2. Faction owners have the option to utilize forms (e.g, Google Forms) for applications, but they are not allowed to request personal information (e.g., name, email, age) anywhere, including within Discord.
+3. Intentionally violating any global rules may lead to the closure of the faction without prior notice.
+4. Faction Discord servers must consistently adhere to Discord's Guidelines and Terms of Service.
+5. Servers must have 2FA enabled as stated when [creating a faction](#create-a-faction). This is to help secure accounts on [Discord](/safety/discordsafety.md).
+
+<Alert variant="outlined" severity="info"> If you believe that a faction is violating any Faction Global Rules, please inform us by <a href="discord://discord.com/channels/710922135580835950/846373509470748722" class="discord-text">#submit a ticket</a> on Discord to report the faction for investigation. Your identity will remain confidential in the report.</Alert><br/>

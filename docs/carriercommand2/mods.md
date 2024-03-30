@@ -21,10 +21,11 @@ You do not need to download these mods as they will automatically download when 
 |-----------------------------------------|--------------|-----------------|---------------------|
 | Repair Bay Terminals + Captain Controls | 2827559599   | 11/10/2023      | -                  |
 | Turbo Barges                            | 2769055606   | 10/12/2022      | -          |
-| Gentle Missile Speed Buff               | 2937532682   | 10/12/2022      | -          |
-| Albatross AWACS with UI enhancer        | 2892401880   | 10/12/2022      | -          |
+| Gentle Missile Speed Buff               | 2937532682   | 10/12/2022      | -           |
+| ~~Albatross AWACS with UI enhancer~~    | ~~2892401880~~   | -               | 01/01/2004         |
 | 2x Vehicle Water Speed                  | 2824714936   | 27/09/2023      | -          |
+| Revolution                              | 3098073689   | 01/01/2004      | -          |
 
-Last Updated: 25/01/2024
+Last Updated: 27/03/2024
 
 You can find the Official Mod list on steam <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3116548031">here</a>.
