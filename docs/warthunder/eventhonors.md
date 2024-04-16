@@ -13,6 +13,10 @@ Awards for players who have earned them by participating in warthunder events
 
 | Award                                  | Username                                                         | Date Given | Event No. |
 |----------------------------------------|------------------------------------------------------------------|------------|-----------|
+|  Waiting For GM          |        | 00/00/24   | 22nd |
+|  Waiting For GM            |        | 00/00/24   | 21st |
+|  Waiting For GM            |        | 00/00/24   | 20th |
+| [Flyswattter](./awardslist)            | [LeSillyCat](https://trickys.gg/profile/76561199010155180)       | 01/04/24   | 19th |
 | [Flyswattter](./awardslist)            | [Tanko-131-](https://trickys.gg/profile/76561198296311977)       | 00/00/24   | 18th |
 | [Landlord](./awardslist)               | [Flames_901](https://trickys.gg/profile/76561198332014309)       | 00/00/24   | 18th |
 | [Landlord](./awardslist)               | [FRA597NT13](https://trickys.gg/profile/76561198364218327)       | 00/00/24   | 17th |
@@ -38,4 +42,5 @@ Awards for players who have earned them by participating in warthunder events
 | [TheOrangeTrucker](https://trickys.gg/profile/76561199226438120) | 1   |
 | [Tricky](https://trickys.gg/profile/76561198200976490)           | 1   |
 | [finiks](https://trickys.gg/profile/76561199121711204)           | 1   |
+| [LeSillyCat](https://trickys.gg/profile/76561199010155180)       | 1   |
 
