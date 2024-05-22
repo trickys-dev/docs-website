@@ -148,7 +148,6 @@ html {
   height: calc(100vh - 160px);
   border: none;
 }
-
 .update-website {
   color: #cd7f32;
   margin-right: 4.5px;
@@ -157,11 +156,9 @@ html {
   color:#7f8081;
   margin-right: 1.9px;
 }
-
 .beammp{
   color: #f56b03;
 }
-
 .wtimg {
   width: 100px;
   height: 50;

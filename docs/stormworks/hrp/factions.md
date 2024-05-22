@@ -183,6 +183,7 @@ Below we have an example of what the outcome would look like if you customize ev
 2. Faction owners have the option to utilize forms (e.g, Google Forms) for applications, but they are not allowed to request personal information (e.g., name, email, age) anywhere, including within Discord.
 3. Intentionally violating any global rules may lead to the closure of the faction without prior notice.
 4. Faction Discord servers must consistently adhere to Discord's Guidelines and Terms of Service.
-5. Servers must have 2FA enabled as stated when [creating a faction](#create-a-faction). This is to help secure accounts on [Discord](/safety/discordsafety.md).
+5. A banned player is prohibited from joining our servers or any faction, including the faction's Discord server. If a player is already part of a faction, they will be banned.
+6. Servers must have 2FA enabled as stated when [creating a faction](#create-a-faction). This is to help secure accounts on [Discord](/safety/discordsafety.md).
 
 <Alert variant="outlined" severity="info"> If you believe that a faction is violating any Faction Global Rules, please inform us by <a href="discord://discord.com/channels/710922135580835950/846373509470748722" class="discord-text">#submit a ticket</a> on Discord to report the faction for investigation. Your identity will remain confidential in the report.</Alert><br/>
