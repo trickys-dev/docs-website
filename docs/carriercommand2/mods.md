@@ -26,6 +26,6 @@ You do not need to download these mods as they will automatically download when 
 | 2x Vehicle Water Speed                  | 2824714936   | 27/09/2023      | -          |
 | Revolution                              | 3098073689   | 01/01/2004      | -          |
 
-Last Updated: 27/03/2024
+Last Updated: 30/06/2024
 
 You can find the Official Mod list on steam <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3116548031">here</a>.
