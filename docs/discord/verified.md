@@ -23,7 +23,7 @@ Being <span class="verified-text">@Verified</span> allows you to do the followin
 - and much more....
 
 :::info Automatic
-Once you are verified you will automatically be given the <span class="verified-text">@Verified</span> role & any "get-verified" channels will be hidden on <i class="fa-brands fa-discord"></i> Discord.
+Once you are verified you will automatically be given the <span class="verified-text">@Verified</span> role.
 :::
 
 ## How Do I Get Verified
@@ -41,7 +41,7 @@ You won't be able to login with <i class="fa-brands fa-discord"></i> Discord if 
 There are a few ways to check to see if you are Verified.
 
 - Via Website, go to My Account and check if you have discord connected. If you have Discord connected then you will be verified.
-- Via Discord 1, go to <span class="discord-text">🤖︱bot-commands</span> and use the `/account` command. If the bot replies with account account info then you are verified.
+- Via Discord 1, go to <span class="discord-text">🤖︱bot-commands</span> and use the `/account` command. If the bot replies with account info then you are verified.
 - Via Discord 2, look at your roles if you have the Verified role then you are verified.
 
 ## Manual Approval

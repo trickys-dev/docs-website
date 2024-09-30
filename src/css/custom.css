@@ -5,7 +5,13 @@
  */
 
 /* You can override the default Infima variables here. */
+/* manual edit to override landing page background color */
+.hero--primary {
+  --ifm-hero-background-color: #375a7f;
+}
+
 :root {
+
   --ifm-color-primary: #2e8555;
   --ifm-color-primary-dark: #29784c;
   --ifm-color-primary-darker: #277148;
@@ -27,6 +33,7 @@
   --ifm-color-primary-lighter: #32d8b4;
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+
 }
 html {
   --ifm-table-cell-padding: 0.3rem !important;
@@ -116,7 +123,7 @@ html {
   font-size: 20px;
 }
 .request-get {
-  background-color: #25c2a0;
+  background-color: #4725c2;
 }
 .request-post {
   background-color: #f39c12;
