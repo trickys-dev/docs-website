@@ -2,7 +2,7 @@
 slug: x.x.x
 title: Updates vx.x.x
 date: 0000-00-00
-authors: [tricky,shark]
+authors: [tricky]
 tags: [updates,stormworks]
 description: Updates - Vx.x.x
 ---

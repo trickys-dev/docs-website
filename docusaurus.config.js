@@ -126,11 +126,11 @@ const config = {
             items: [
               {
                 label: 'Stormworks',
-                to: '/category/stormworks',
+                to: '/stormworks',
               },
               {
                 label: 'API',
-                to: '/category/API',
+                to: '/API',
               },
             ],
           },

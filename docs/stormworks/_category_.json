@@ -2,7 +2,7 @@
   "label": "Stormworks",
   "position": 4,
   "link": {
-    "type": "generated-index",
-    "description": "Stormworks Server Docs"
+    "type": "doc",
+    "id": "stormworks/index"
   }
 }
