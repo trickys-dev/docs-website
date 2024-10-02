@@ -19,7 +19,7 @@ Coming Soon
 - Whitelist vehicles to party.
 
 
-## Create a Party
+## Create A Party
 
 <!-- css for flex -->
   <div class="flex-vcenter">

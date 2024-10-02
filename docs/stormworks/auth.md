@@ -42,7 +42,7 @@ When you join the server, the system will check the following things from our we
 - Checks if you are authorized on the server you joined, if not then you will be AutoAuthed.
 - Checks if you are authorized and have a valid boat license. This is only needed if you have a boat license.
 
-## I have Auth But can't Spawn Boats?
+## I have Auth But Can't Spawn Boats?
 
 You need a boat license for the AutoAuth System to authorize you to spawn boats.
 

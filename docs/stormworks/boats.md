@@ -28,7 +28,7 @@ You cannot use flashing blue lights as you would be impersonating staff.
 
 :::
 
-## Applying For a Boat License
+## Applying For A Boat License
 
 1. Make sure your boat meets the requirments.
 2. Head over to [applications](https://trickys.gg/applications/new) and select Boat License.
@@ -89,7 +89,7 @@ Mandatory navigation lights for boats between 8-40 meters
     Your boat license should be painted on the outside of your boat for easy inspection, paintable signs & indicators are allowed as long as they are easily visible. You cannot have the ID on a monitor or as a component's name.
   </div>
 
-## Finding your Boat License ID
+## Finding Your Boat License ID
 You will find your license in the [account](https://trickys.gg/account) area.
 
 <img src="/img/boats/tslicensesview.png" width="500"/>
