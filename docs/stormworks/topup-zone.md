@@ -21,7 +21,7 @@ Once you are in the Top-Up Zone use one of the following commands to refill:
 <!-- css for flex -->
   <div class="flex-vcenter">
     <div class="img-mg">
-      <img src="/img/topup/topupzone.png" width="300px"/>
+      <img src="/img/topup/topupzone.png" width="100%"/>
     </div>
 <p>
 
