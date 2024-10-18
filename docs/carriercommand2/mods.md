@@ -1,6 +1,6 @@
 ---
 sidebar_position: 0
-description: Carrier Command 2 Mods
+description: Carrier Command 2 Server Mods
 ---
 
 # Mods

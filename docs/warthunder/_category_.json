@@ -2,7 +2,7 @@
   "label": "War Thunder",
   "position": 7,
   "link": {
-    "type": "generated-index",
-    "description": "War Thunder Docs"
+    "type": "doc",
+    "id": "warthunder/index"
   }
 }

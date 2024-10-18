@@ -106,11 +106,11 @@ const config = {
             position: 'left',
             label: 'Docs',
           },
-          {
-            href: '/updates',
-            label: 'Updates',
-            position: 'left',
-          },
+          // {
+          //   href: '/updates',
+          //   label: 'Updates',
+          //   position: 'left',
+          // },
           {
             href: 'https://trickys.gg',
             label: 'Main Site',

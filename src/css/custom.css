@@ -115,6 +115,13 @@ html {
 .verified-text {
   color: #7289da;
 }
+.wt-prem {
+  border-radius: 20px;
+  color: #000000;
+  padding: 6px;
+  font-size: 9px;
+  background-color: #e9af67;
+}
 
 .request-bubble {
   border-radius: 20px;
@@ -165,8 +172,4 @@ html {
 }
 .beammp{
   color: #f56b03;
-}
-.wtimg {
-  width: 100px;
-  height: 50;
 }
