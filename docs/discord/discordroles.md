@@ -38,29 +38,24 @@ We have all sorts of roles on our discord server, below you can view the main ro
 <td>Server developers help with the development of the servers</td>
 </tr>
 <tr>
-<th scope="row"><span style={{color: "#1aac93"}}>@Server Builder</span></th>
-<td>Given to users who build environment mods for the server</td>
-</tr>
-<tr>
-<th scope="row"><span style={{color: "#c5a138"}}>@Event Team</span></th>
-<td>Given to users that are part of the events team</td>
-</tr>
-<tr>
 <th scope="row"><span style={{color: "#ff8e01"}}>@Partner</span></th>
 <td>Given to our partners</td>
 </tr>
-
+<tr>
+<th scope="row"><span style={{color: "#1aac93"}}>@Community Helper</span></th>
+<td>Given to trusted users who help the community</td>
+</tr>
 <tr>
 <th scope="row"><span style={{color: "#7289da"}}>@Verified</span></th>
 <td>Given when you connect your discord account to the website</td>
 </tr>
 <tr>
 <th scope="row"><span style={{color: "#7ac2e9"}}>@Boat License</span></th>
-<td>This role allows users to spawn & use boats</td>
+<td>This role allows users to spawn & use boats on sw</td>
 </tr>
 <tr>
-<th scope="row"><span style={{color: "#99aab5"}}>@Player</span></th>
-<td>This role is given to all players</td>
+<th scope="row">@Ping Pong</th>
+<td>News, updates, announcements & events ping role</td>
 </tr>
 </tbody>
 </table>

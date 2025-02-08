@@ -16,7 +16,7 @@ To join our Virutal Trucking Company head over to [Trucksbook](https://trucksboo
 
 1. Create a account (using steam) on Trucksbook.
 2. Request to join the [VTC](https://trucksbook.eu/company/125046), by using the "Application Form" button in the top right.
-3. Download the Trucksbook client, [Download Link](https://cdn.trucksbook.eu/data/client/TB_Client_1_4_3.zip) (v1.4.3).
+3. Download the Trucksbook client, [Download Link](https://cdn.trucksbook.eu/data/client/TB_Client_1_5_0_57.zip) (v1.5.0.57).
 4. Once accepted you can start driving and everything will be logged once a job has been completed.
 
 The VTC rules can be viewed [here](https://trucksbook.eu/company/125046).
