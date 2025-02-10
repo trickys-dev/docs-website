@@ -178,6 +178,16 @@ html {
 .game-ksp {
   color: #BADA55;
 }
+.game-mc{
+  color: #82ba5b;
+}
 .wtflag-header{
   width: 45px;
+}
+/* command params */
+.req-para {
+  color: rgb(241, 64, 64)
+}
+.opt-para {
+  color: rgb(34, 161, 77)
 }

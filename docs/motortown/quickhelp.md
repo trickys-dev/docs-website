@@ -65,10 +65,14 @@ SEOGUIPO DOWNTOWN
 - Corporations are saved on the server.
 
 ## Find The Bank
+:::tip Location
 
+GANGJUNG
+
+:::
 <div class="flex-vcenter mb-1">
     <img src="/img/games/mt/mtfindbank.png"/>
-<p>Location: **GANGJUNG**</p>
+<p></p>
  </div>
  <div class="flex-vcenter mb-1">
     <img src="/img/games/mt/mtfindbank2.jpg"/>
@@ -184,6 +188,39 @@ GU-JWA
 <p></p>
  </div>
 
+## Flipped Trailer
+ <div class="flex-vcenter mb-1">
+    <img src="/img/games/mt/mtroadsideservice.png"/>
+<p>Interact with the control panel and use the roadside service from the control panel</p>
+ </div>
+
+## Company Share & Vehicle Access
+
+ <div class="flex-vcenter mb-1">
+    <img src="/img/games/mt/mtcompanyaccess.png"/>
+<p> To set the company share and who can drive your vehicle, press `TAB` and click on `Company`</p>
+ </div>
+
+ <div class="flex-vcenter mb-1">
+    <img src="/img/games/mt/mtcompanyaccess1.png"/>
+<p><b>Owner Profit Share</b> - How much the owner will earn<br/><b>Drivable Player</b> - Who can access your vehicle</p>
+ </div>
+
+## Vehicle Assist
+ <div class="flex-vcenter mb-1">
+    <img src="/img/games/mt/mtvehicleassist.png"/>
+<p>In the options under `Assist` you can change your steering input and much more</p>
+ </div>
+
+## Internet Radio
+Tired of standard sound track? Dont worry we have internet radio
+ <div class="flex-vcenter mb-1">
+    <img src="/img/games/mt/mtradio.png"/>
+<p>Use `ESC` and `Radio` to access</p>
+ </div>
+
+## Homes & Campy
+
 ## Event Locations
 - These events are only added to the game for a limited time.
 ### Santas Cabin
@@ -200,22 +237,28 @@ GU-JWA
 
 ## Prices
 
-Flashlight <Icon type="money"></Icon> 100<br/>
-Tire Repair Kit <Icon type="money"></Icon> 100<br/>
-Coolant <Icon type="money"></Icon> 300<br/>
-Jerrycan <Icon type="money"></Icon> 500<br/>
-Cargo Strap <Icon type="money"></Icon> 500<br/>
-Light <Icon type="money"></Icon> 1,000<br/>
-Thermometer <Icon type="money"></Icon> 1,000<br/>
-Super Flashlight <Icon type="money"></Icon> 1,000<br/>
-Portable Light SX1 <Icon type="money"></Icon> 1,000<br/>
+| Item               | Cost      |
+|--------------------|--------------------|
+| Flashlight         | <Icon type="money"></Icon> 100<br/>   |
+| Tire Repair Kit    | <Icon type="money"></Icon> 100<br/>   |
+| Coolant            | <Icon type="money"></Icon> 300<br/>     |
+| Jerrycan           | <Icon type="money"></Icon> 500<br/> |
+| Cargo Strap        | <Icon type="money"></Icon> 500<br/> |
+| Light              | <Icon type="money"></Icon> 1,000<br/> |
+| Thermometer        | <Icon type="money"></Icon> 1,000<br/>   |
+| Super Flashlight   | <Icon type="money"></Icon> 1,000<br/>   |
+| Portable Light SX1 | <Icon type="money"></Icon> 1,000<br/>   |
+| Halogen lights     | <Icon type="money"></Icon> 1,000<br/>    |
+| Small Color LED lights  | <Icon type="money"></Icon> 1,000<br/>   |
+| Large Color LED lights  | <Icon type="money"></Icon> 1,000<br/>   |
+| Large White LED light   | <Icon type="money"></Icon> 1,000<br/>   |
+| Small White LED light  | <Icon type="money"></Icon> 2,000<br/>   |
+| LED light  | <Icon type="money"></Icon> 3,000<br/>   |
+| Beacon  | <Icon type="money"></Icon> 5,000<br/>   |
 
-Halogen lights <Icon type="money"></Icon> 1,000<br/>
-Small Color LED lights <Icon type="money"></Icon> 1,000<br/>
-Large Color LED lights <Icon type="money"></Icon> 1,000<br/>
-Large White LED light <Icon type="money"></Icon> 1,000<br/>
-Small White LED light <Icon type="money"></Icon> 2,000<br/>
-LED light <Icon type="money"></Icon> 3,000<br/>
-Beacon <Icon type="money"></Icon> 5,000<br/>
 
-*Guide Created by Community, want to help? let us know in discord*
+
+
+
+*Guide Created by Community, want to help? let us know in discord*<br/>
+Contributors: <a claass="" href="https://trickys.gg/profile/76561197979716189">Raccooni</a>

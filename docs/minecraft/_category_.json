@@ -2,7 +2,7 @@
   "label": "Minecraft",
   "position": 7,
   "link": {
-    "type": "generated-index",
-    "description": "Minecraft Docs"
+    "type": "doc",
+    "id": "minecraft/index"
   }
 }
