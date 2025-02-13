@@ -117,26 +117,6 @@ Our Patreon will be used to fund
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
 </tr>
 <tr>
-    <th scope="row">Custom Profile URL</th>
-    <td></td>
-    <td></td>
-    <td class="text-center"><i class="fas fa-fw fa-pause-circle text-danger"></i></td>
-    <td class="text-center"><i class="fas fa-fw fa-pause-circle text-danger"></i></td>
-    <td class="text-center"><i class="fas fa-fw fa-pause-circle text-danger"></i></td>
-    <td class="text-center"><i class="fas fa-fw fa-pause-circle text-danger"></i></td>
-    <td class="text-center"><i class="fas fa-fw fa-pause-circle text-danger"></i></td>
-</tr>
-<tr>
-    <th scope="row">Profile Gallery</th>
-    <td></td>
-    <td></td>
-    <td class="text-center"><i class="fas fa-fw fa-pause-circle text-danger"></i></td>
-    <td class="text-center"><i class="fas fa-fw fa-pause-circle text-danger"></i></td>
-    <td class="text-center"><i class="fas fa-fw fa-pause-circle text-danger"></i></td>
-    <td class="text-center"><i class="fas fa-fw fa-pause-circle text-danger"></i></td>
-    <td class="text-center"><i class="fas fa-fw fa-pause-circle text-danger"></i></td>
-</tr>
-<tr>
     <th scope="row">Priority <a href="https://support.trickys.gg">Support Tickets</a></th>
     <td></td>
     <td></td>
@@ -161,8 +141,8 @@ Our Patreon will be used to fund
     <td></td>
     <td></td>
     <td></td>
-    <td class="text-center"><i class="fas fa-fw fa-pause-circle text-warning"></i></td>
-    <td class="text-center"><i class="fas fa-fw fa-pause-circle text-warning"></i></td>
+    <td></td>
+    <td></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
 </tr>
@@ -215,7 +195,7 @@ Our Patreon will be used to fund
     <td></td>
     <td></td>
     <td></td>
-    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
+    <td></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
     <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
@@ -301,8 +281,8 @@ Our Patreon will be used to fund
     <td class="text-center"><i class="fa-fw text-success">45</i></td>
     <td class="text-center"><i class="fa-fw text-success">50</i></td>
     <td class="text-center"><i class="fa-fw text-success">60</i></td>
-    <td class="text-center"><i class="fa-fw text-success">TBD</i></td>
-    <td class="text-center"><i class="fa-fw text-success">TBD</i></td>
+    <td class="text-center"><i class="fa-fw text-success">70</i></td>
+    <td class="text-center"><i class="fa-fw text-success">80</i></td>
 </tr>
 <tr>
     <th scope="row">Home Points (default: 3)</th>
@@ -311,8 +291,8 @@ Our Patreon will be used to fund
     <td class="text-center"><i class="fa-fw text-success">6</i></td>
     <td class="text-center"><i class="fa-fw text-success">8</i></td>
     <td class="text-center"><i class="fa-fw text-success">10</i></td>
-    <td class="text-center"><i class="fa-fw text-success">TBD</i></td>
-    <td class="text-center"><i class="fa-fw text-success">TBD</i></td>
+    <td class="text-center"><i class="fa-fw text-success">15</i></td>
+    <td class="text-center"><i class="fa-fw text-success">20</i></td>
 </tr>
 <tr>
     <th scope="row">Back-pack Size (default: 1 row)</th>
@@ -321,61 +301,8 @@ Our Patreon will be used to fund
     <td class="text-center"><i class="fa-fw text-success">4</i></td>
     <td class="text-center"><i class="fa-fw text-success">5</i></td>
     <td class="text-center"><i class="fa-fw text-success">6</i></td>
-    <td class="text-center"><i class="fa-fw text-success">TBD</i></td>
-    <td class="text-center"><i class="fa-fw text-success">TBD</i></td>
-</tr>
-<tr>
-    <th colspan="8" class="tricky-color">Minecraft (Modded)</th>
-</tr>
-<tr>
-    <th scope="row">Portable Enderchest</th>
-    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
-    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
-    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
-    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
-    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
-    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
-    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
-</tr>
-<tr>
-    <th scope="row">No TP Cooldown</th>
-    <td class="text-center">-</td>
-    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
-    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
-    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
-    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
-    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
-    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
-</tr>
-<tr>
-    <th scope="row">Offline Forceloading</th>
-    <td class="text-center">-</td>
-    <td class="text-center">-</td>
-    <td class="text-center">-</td>
-    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
-    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
-    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
-    <td class="text-center"><i class="fas fa-fw fa-check-circle text-success"></i></td>
-</tr>
-<tr>
-    <th scope="row">Homes (3)</th>
-    <td class="text-center"><i class="fa-fw text-success">4</i></td>
-    <td class="text-center"><i class="fa-fw text-success">5</i></td>
-    <td class="text-center"><i class="fa-fw text-success">6</i></td>
+    <td class="text-center"><i class="fa-fw text-success">7</i></td>
     <td class="text-center"><i class="fa-fw text-success">8</i></td>
-    <td class="text-center"><i class="fa-fw text-success">10</i></td>
-    <td class="text-center"><i class="fa-fw text-success">12</i></td>
-    <td class="text-center"><i class="fa-fw text-success">14</i></td>
-</tr>
-<tr>
-    <th scope="row">Forceloaded Chunks (25)</th>
-    <td class="text-center">25</td>
-    <td class="text-center"><i class="fa-fw text-success">30</i></td>
-    <td class="text-center"><i class="fa-fw text-success">35</i></td>
-    <td class="text-center"><i class="fa-fw text-success">40</i></td>
-    <td class="text-center"><i class="fa-fw text-success">50</i></td>
-    <td class="text-center"><i class="fa-fw text-success">55</i></td>
-    <td class="text-center"><i class="fa-fw text-success">60</i></td>
 </tr>
 </tbody>
 </table>
