@@ -32,15 +32,6 @@ const config = {
     defaultLocale: 'en',
     locales: ['en'],
     path: 'i18n',
-    localeConfigs: {
-      en: {
-        label: 'English',
-        direction: 'ltr',
-        htmlLang: 'en',
-        calendar: 'gregory',
-        path: 'en',
-      },
-  },
 },
   presets: [
     [
