@@ -16,7 +16,7 @@ You can find the Official Mod list on steam <a href="https://steamcommunity.com/
 :::note Automatic Download
 
 You do not need to download these mods as they will automatically download when you join our servers.
-
+https://steamcommunity.com/sharedfiles/filedetails/?id=
 :::
 
 | Mod Name                                    | File ID        | Added To Server | Removed From Server |
@@ -29,6 +29,7 @@ You do not need to download these mods as they will automatically download when 
 | Revolution                                  | 3098073689     | 01/01/2024      | -          |
 | Gentle Missile Speed Buff                   | 2937532682     | 10/12/2022      | -          |
 | Imperial Death Star Alarm                   |                | 10/12/2022      | - |
+| Tactical Operations Centre                  | 3280370621     | 10/12/2022      | - |
 | ~~2x Vehicle Water Speed~~                  | ~~2824714936~~ | ~~27/09/2023~~  | 17/02/2025 |
 | ~~Repair Bay Terminals + Captain Controls~~ | ~~2827559599~~ | ~~11/10/2023~~  | 15/07/2024 |
 | ~~Turbo Barges~~                            | ~~2769055606~~ | ~~10/12/2022~~  | 17/02/2025 |
