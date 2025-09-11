@@ -65,7 +65,6 @@ export default function ControlledAccordions() {
           13. Do not spam chat or voice. (music is not allowed within 1km of spawn)<br/>
           14. Do not grief/intentionally ruin the fun of gameplay for other players.<br/>
           15. Do not impersonate staff.<br/><br/>
-          You can read the <a href="/stormworks/hrp/rprules">Roleplay Rules</a> here.<br/>
         </Typography>
         </AccordionDetails>
       </Accordion>
@@ -141,7 +140,7 @@ export default function ControlledAccordions() {
         </AccordionSummary>
         <AccordionDetails>
         <Typography>
-          1. Do not grief/intentionally ruin the fun of gameplay for other users.<br/>
+         <a href="/carriercommand2">Click Here</a> to view the CC2 Rules.<br/>
         </Typography>
         </AccordionDetails>
       </Accordion>
@@ -159,7 +158,7 @@ export default function ControlledAccordions() {
       </Accordion>
     {/* #endregion */}
     {/* #region Project Zomboid Rules */}
-      <Accordion  disabled  expanded={expanded === 'pzpanel'} onChange={handleChange('pzpanel')}>
+      """<Accordion  disabled  expanded={expanded === 'pzpanel'} onChange={handleChange('pzpanel')}>
         <AccordionSummary expandIcon={<ExpandMoreIcon />}>
           <Typography><i class="fa-solid fa-biohazard"></i> Project Zomboid Server Rules</Typography>
         </AccordionSummary>

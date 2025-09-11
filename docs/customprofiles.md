@@ -5,13 +5,7 @@ description: Website Custom Profiles
 
 # Custom Profiles
 
-Customise personal & faction profiles
-
-:::note Faction Profiles
-
-[Click Here](/stormworks/hrp/factions#faction-profiles) if you are looking for [Faction Profiles](/stormworks/hrp/factions#faction-profiles)
-
-:::
+Customise personal profiles
 
 
 ## Personal Profiles

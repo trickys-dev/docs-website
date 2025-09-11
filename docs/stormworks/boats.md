@@ -5,6 +5,13 @@ description: Boat License Information
 
 # Boats
 
+:::warning
+
+Boat license are not currently required.
+
+:::
+
+
 1. To use boats & amphibious vehicles on the water on non RP servers you need a boat license.
 2. Minimum of 24 hours must have passed if you want to apply for a boat license from when you joined the website.
 3. Your boat must not exceed `40 meters` in length -> `160 Blocks`, to reduce lag.

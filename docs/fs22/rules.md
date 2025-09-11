@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-description: FS25 Server Rules
+description: FS22 Server Rules
 ---
 import Alert from '@mui/material/Alert';
 import AlertTitle from '@mui/material/AlertTitle';
@@ -8,9 +8,9 @@ import AlertTitle from '@mui/material/AlertTitle';
 # Rules
 
 <div class="flex-vcenter mb-1">
-<img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2300320/header.jpg" width="450px"/>
+<img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1248130/header.jpg" width="450px"/>
 </div>
-These rules apply to our FS25 Server.
+These rules apply to our FS22 Server.
 
 ## Section 1
 

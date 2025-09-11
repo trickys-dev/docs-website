@@ -13,13 +13,6 @@ export const Icon = ({children, type}) => {
   if (type=="cross") return (<i class="fas fa-times-circle text-danger" title="No"></i>);
 }
 
-:::warning Out Of Date
-
-This information is out of date since the release of the spaceDLC.
-
-:::
-
-
 <table>
 <thead>
     <tr>
@@ -28,10 +21,10 @@ This information is out of date since the release of the spaceDLC.
         <th scope="col">Server 2</th>
         <th scope="col">Server 3</th>
         <th scope="col">Server 4</th>
-        <th scope="col">Server 5</th>
+        <!-- <th scope="col">Server 5</th>
         <th scope="col">Server 6</th>
         <th scope="col">Server NA1</th>
-        <th scope="col">Server NA2</th>
+        <th scope="col">Server NA2</th> -->
     </tr>
 </thead>
 <tbody>
@@ -39,12 +32,8 @@ This information is out of date since the release of the spaceDLC.
     <th scope="row">Type</th>
     <td class="text-center">Normal</td>
     <td class="text-center">Normal</td>
-    <td class="text-center"><a href="/category/hrp">RP</a></td>
-    <td class="text-center"><a href="/category/hrp">RP</a></td>
-    <td class="text-center"><a href="/category/hrp">RP</a></td>
-    <td class="text-center"><a href="/stormworks/trainserver">Trains</a></td>
     <td class="text-center">Normal</td>
-    <td class="text-center"><a href="/category/hrp">RP</a></td>
+    <td class="text-center">Normal</td>
 </tr>
 <tr>
     <th scope="row">Vehicle Limit</th>
@@ -52,21 +41,13 @@ This information is out of date since the release of the spaceDLC.
     <td class="text-center">2</td>
     <td class="text-center">2</td>
     <td class="text-center">2</td>
-    <td class="text-center">3</td>
-    <td class="text-center">3</td>
-    <td class="text-center">2</td>
-    <td class="text-center">3</td>
 </tr>
 <tr>
     <th scope="row">DLCs</th>
     <td class="text-center"></td>
     <td class="text-center"><Icon type="dlcG"></Icon> <Icon type="dlcI"></Icon></td>
-    <td class="text-center"><Icon type="dlcG"></Icon></td>
     <td class="text-center"></td>
     <td class="text-center"></td>
-    <td class="text-center"></td>
-    <td class="text-center"></td>
-    <td class="text-center"><Icon type="dlcG"></Icon></td>
 </tr>
 <tr>
     <th scope="row">Fast Travel</th>
@@ -74,17 +55,9 @@ This information is out of date since the release of the spaceDLC.
     <td class="text-center"><Icon type="tick"></Icon></td>
     <td class="text-center"><Icon type="cross"></Icon></td>
     <td class="text-center"><Icon type="cross"></Icon></td>
-    <td class="text-center"><Icon type="cross"></Icon></td>
-    <td class="text-center"><Icon type="cross"></Icon></td>
-    <td class="text-center"><Icon type="tick"></Icon></td>
-    <td class="text-center"><Icon type="cross"></Icon></td>
 </tr>
 <tr>
     <th scope="row">Player Damage</th>
-    <td class="text-center"><Icon type="tick"></Icon></td>
-    <td class="text-center"><Icon type="tick"></Icon></td>
-    <td class="text-center"><Icon type="tick"></Icon></td>
-    <td class="text-center"><Icon type="tick"></Icon></td>
     <td class="text-center"><Icon type="tick"></Icon></td>
     <td class="text-center"><Icon type="tick"></Icon></td>
     <td class="text-center"><Icon type="tick"></Icon></td>
@@ -96,20 +69,12 @@ This information is out of date since the release of the spaceDLC.
     <td class="text-center"><Icon type="tick"></Icon></td>
     <td class="text-center"><Icon type="tick"></Icon></td>
     <td class="text-center"><Icon type="tick"></Icon></td>
-    <td class="text-center"><Icon type="tick"></Icon></td>
-    <td class="text-center"><Icon type="tick"></Icon></td>
-    <td class="text-center"><Icon type="cross"></Icon></td>
-    <td class="text-center"><Icon type="tick"></Icon></td>
 </tr>
 <tr>
     <th scope="row"><a href="/stormworks/topup-zone">Topup Zones</a></th>
     <td class="text-center"><Icon type="tick"></Icon></td>
     <td class="text-center"><Icon type="tick"></Icon></td>
     <td class="text-center"><Icon type="cross"></Icon></td>
-    <td class="text-center"><Icon type="cross"></Icon></td>
-    <td class="text-center"><Icon type="cross"></Icon></td>
-    <td class="text-center"><Icon type="cross"></Icon></td>
-    <td class="text-center"><Icon type="tick"></Icon></td>
     <td class="text-center"><Icon type="cross"></Icon></td>
 </tr>
 <tr>
@@ -118,10 +83,6 @@ This information is out of date since the release of the spaceDLC.
     <td class="text-center"><Icon type="tick"></Icon></td>
     <td class="text-center"><Icon type="tick"></Icon></td>
     <td class="text-center"><Icon type="cross"></Icon></td>
-    <td class="text-center"><Icon type="cross"></Icon></td>
-    <td class="text-center"><Icon type="cross"></Icon></td>
-    <td class="text-center"><Icon type="cross"></Icon></td>
-    <td class="text-center"><Icon type="tick"></Icon></td>
 </tr>
 <tr>
     <th scope="row"><a href="/stormworks/boats">Boat License</a></th>
@@ -129,28 +90,9 @@ This information is out of date since the release of the spaceDLC.
     <td class="text-center"><Icon type="tick"></Icon></td>
     <td class="text-center"><Icon type="tick"></Icon></td>
     <td class="text-center"><Icon type="cross"></Icon></td>
-    <td class="text-center"><Icon type="cross"></Icon></td>
-    <td class="text-center"><Icon type="cross"></Icon></td>
-    <td class="text-center"><Icon type="tick"></Icon></td>
-    <td class="text-center"><Icon type="tick"></Icon></td>
-</tr>
-<tr>
-    <th scope="row"><a href="/stormworks/HRP/cargo-oil">Cargo</a></th>
-    <td class="text-center"><Icon type="cross"></Icon></td>
-    <td class="text-center"><Icon type="cross"></Icon></td>
-    <td class="text-center"><Icon type="tick"></Icon></td>
-    <td class="text-center"><Icon type="tick"></Icon></td>
-    <td class="text-center"><Icon type="tick"></Icon></td>
-    <td class="text-center"><Icon type="cross"></Icon></td>
-    <td class="text-center"><Icon type="cross"></Icon></td>
-    <td class="text-center"><Icon type="tick"></Icon></td>
 </tr>
 <tr>
     <th scope="row">Islands Unlocked</th>
-    <td class="text-center"><Icon type="tick"></Icon></td>
-    <td class="text-center"><Icon type="tick"></Icon></td>
-    <td class="text-center"><Icon type="tick"></Icon></td>
-    <td class="text-center"><Icon type="tick"></Icon></td>
     <td class="text-center"><Icon type="tick"></Icon></td>
     <td class="text-center"><Icon type="tick"></Icon></td>
     <td class="text-center"><Icon type="tick"></Icon></td>
@@ -162,10 +104,6 @@ This information is out of date since the release of the spaceDLC.
     <td class="text-center"><Icon type="tick"></Icon></td>
     <td class="text-center"><Icon type="tick"></Icon></td>
     <td class="text-center"><Icon type="tick"></Icon></td>
-    <td class="text-center"><Icon type="tick"></Icon></td>
-    <td class="text-center"><Icon type="tick"></Icon></td>
-    <td class="text-center"><Icon type="tick"></Icon></td>
-    <td class="text-center"><Icon type="tick"></Icon></td>
 </tr>
 <tr>
     <th scope="row">Anti-Steal</th>
@@ -173,17 +111,9 @@ This information is out of date since the release of the spaceDLC.
     <td class="text-center"><Icon type="tick"></Icon></td>
     <td class="text-center"><Icon type="tick"></Icon></td>
     <td class="text-center"><Icon type="tick"></Icon></td>
-    <td class="text-center"><Icon type="tick"></Icon></td>
-    <td class="text-center"><Icon type="tick"></Icon></td>
-    <td class="text-center"><Icon type="tick"></Icon></td>
-    <td class="text-center"><Icon type="tick"></Icon></td>
 </tr>
 <tr>
     <th scope="row">Anti-Lag</th>
-    <td class="text-center"><Icon type="tick"></Icon></td>
-    <td class="text-center"><Icon type="tick"></Icon></td>
-    <td class="text-center"><Icon type="tick"></Icon></td>
-    <td class="text-center"><Icon type="tick"></Icon></td>
     <td class="text-center"><Icon type="tick"></Icon></td>
     <td class="text-center"><Icon type="tick"></Icon></td>
     <td class="text-center"><Icon type="tick"></Icon></td>
