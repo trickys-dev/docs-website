@@ -1,4 +1,5 @@
 # Website
+https://docs.trickys.gg
 
 Tricky's Server - Docs
 
